@@ -1,0 +1,34 @@
+<header class="site-header">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">{{ site.title | escape }}</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+          {% for my_link in site.top_links %}
+            <li><a href="{{ my_link.url }}">{{ my_link.title }}</a></li>
+          {% endfor %}
+          {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+          <li>
+            <form action="http://www.google.com/cse" id="cse-search-box" class="searchform">
+              <input type="hidden" name="cx" value="015291346489371011935:ibw1sgqcayw" />
+              <input type="hidden" name="ie" value="UTF-8" />
+              <input type="search" value placeholder="Site search" name="q" />
+            </form>
+          </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+</header>

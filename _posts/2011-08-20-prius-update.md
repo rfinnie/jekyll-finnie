@@ -1,0 +1,22 @@
+---
+id: 1884
+title: Prius update
+date: 2011-08-20T18:40:45+00:00
+author: Ryan Finnie
+layout: post
+guid: http://www.finnie.org/?p=1884
+permalink: /2011/08/20/prius-update/
+openid_comments:
+  - 'a:1:{i:0;s:6:"153762";}'
+categories:
+  - Uncategorized
+---
+A few weeks after [I installed a tow hitch](http://www.finnie.org/2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/) on my 2009 Toyota Prius earlier this year, I went down to southern California to go camping in the Mojave desert and the tow hitch became handy. Close to our site, I got stuck in a sand dune. Thankfully a truck was nearby (our camp was mostly comprised of Burners, and we treat the outing as a mini Burning Man in the spring, but the area is also frequented by motocross bike and quad riders due to the trails), and they looped a tow chain around my tow bar and easily pulled me back to stable ground.
+
+Earlier this month I replaced my tires. The OEM tires on the GenII Prius (Goodyear Integrity) were better than the GenI (Bridgestone Potenza RE92, which would pop if you looked at them funny), but I was disappointed at only getting 25,000 miles out of them. I replaced them with Yokohama Avid Touring-S tires, and I'm very pleased with them so far. Handling is noticeably improved, the tires don't squeal as bad on coated paint (Reno covers its road paint with a protective coating to increase life, much like the paint you would use to cover a garage floor), and gas mileage is about the same as before.
+
+<span style="float: right; margin-left: 1em;"><a href="http://www.flickr.com/photos/fo0bar/6071897158/" title="Prius trailer wiring by Ryan Finnie, on Flickr"><img src="http://farm7.static.flickr.com/6185/6071897158_3c9d301b3f_m.jpg" width="240" height="180" alt="Prius trailer wiring" /></a></span>Today I added the trailer wiring harness to my car (T-One 118505). I bought it shortly after I got the trailer hitch, but it's been sitting uninstalled in the back of my car until today. Installation was easy, and required a socket wrench set, a thin flathead screwdriver, some velcro to mount the wiring box, and some electrical tape to attach the wire runs to existing wire runs. I routed the trailer wiring plug under the spare tire, through a rubber grommet at the bottom of the well, and zip tied it [above the hitch](http://www.flickr.com/photos/fo0bar/6071352785/) with a little slack.  [You can't even see it](http://www.flickr.com/photos/fo0bar/6071896788/) unless you take it out.
+
+One word of advice: Do not follow the instruction provided by the wiring kit and try to disconnect the negative terminal of the (12v accessory) battery. On the GenII Prius, it's not meant to be done this way. Instead, there are two snap-out harness locks that connect the car's components to the battery. Undo those instead. Then continue to follow the instructions: ground the white wire of the wiring harness kit to the appropriate ground screw, take the red plastic cover off the top of the positive terminal of the 12v battery, unscrew the accessory terminal mount, remove the fuse from the wiring harness kit, attach the yellow wire to the accessory terminal mount, and re-insert the fuse. Then you may reattach the snap-out harnesses to the battery.
+
+Again, I don't plan on actually towing with the Prius, but having the wiring mount is nice to have, just in case. I also bought a trailer wiring test plug (a small device that plugs into the wiring mount and has several LEDs corresponding to left turn, right turn and brake) to make sure installation was done correctly.

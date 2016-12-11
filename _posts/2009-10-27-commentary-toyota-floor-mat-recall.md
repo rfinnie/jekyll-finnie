@@ -1,0 +1,34 @@
+---
+id: 1177
+title: 'Commentary: Toyota floor mat recall'
+date: 2009-10-27T00:52:38+00:00
+author: Ryan Finnie
+layout: post
+guid: http://www.finnie.org/?p=1177
+permalink: /2009/10/27/commentary-toyota-floor-mat-recall/
+categories:
+  - Uncategorized
+tags:
+  - floor mats
+  - prius
+  - toyota
+---
+[<img src="http://farm4.static.flickr.com/3465/3967548751_66648fe8c1_m.jpg" width="240" height="180" alt="Toyota OEM all-weather floor mat installation" style="float: left; margin: 1em;" />](http://www.flickr.com/photos/fo0bar/3967548751/ "Toyota OEM all-weather floor mat installation by Ryan Finnie, on Flickr")Late last month, Toyota announced they would [recall 3.8 million Toyota and Lexus cars due to floor mat safety](http://www.huffingtonpost.com/2009/09/29/toyota-lexus-mat-recall-3_n_303584.html), the largest ever US recall. Action details have not been released yet, but it is known that the recall was prompted by a high-speed crash of a Lexus ES 350 in California because of the accelerator pedal getting stuck full-throttle against the floor mat, killing all four people in the car. It was later determined this occurred because of improper installation of the all-weather floor mats, but how this will relate to the recall is uncertain.
+
+Shortly after the announcement, I decided to do some tests with my own car, a 2009 Toyota Prius with OEM all-weather floor mats. I determined that, when properly installed, the floor mats have almost no chance of budging, leaving plenty of room between the lip of the floor mat and the fully depressed accelerator pedal. The driver side mat is held in place by two hooks embedded into holes in the floor. If the hooks were not installed (they come with floor mat kit, not the car), the mats include rubber spikes that dig into the floor carpet. These spikes will keep the mats in place during sudden jolts, but would tend to drift forward over time (which would happen on many cars before the introduction of hook anchors). However, the Prius has a raised left foot rest that, in its normal position, the mat butts up against, restricting movement. I'm not sure all recalled cars include this root rest, though.
+
+[<img src="http://farm4.static.flickr.com/3461/3968327324_a72a609006_m.jpg" width="240" height="180" alt="Toyota OEM all-weather floor mat installation" style="float: right; margin: 1em;" />](http://www.flickr.com/photos/fo0bar/3968327324/ "Toyota OEM all-weather floor mat installation by Ryan Finnie, on Flickr")I was able to get the floor mat in a position where the accelerator was stuck full, but the floor mat was uncomfortably forward. The mat was 4 inches in front of the hooks, and was covering over half of the foot rest.
+
+It's important to note that in the California crash, it has not yet been revealed if the all-weather floor mats were OEM or not, just that they were improperly installed by the dealership. At this point, I'm not sure what could be done to improve the floor mat installation from an engineering perspective, as the hooks seem extremely durable and are unlikely to break off. But remember, NHTSA recalls are not always about fixing engineering problems. It's possible the NHTSA and Toyota just want to get cars back into the dealership to verify that floor mats are properly installed with the retention hooks present. Again, very few details of the recall have been announced yet.
+
+The mats include a warning that you should take very seriously: do NOT install any third party floor mats on top of the existing floor mats. They are designed to stay firmly in place when properly installed, but anything laid on top of it has a much greater risk of slipping.
+
+So that's my thoughts on the floor mats themselves. When properly installed, the floor mats should be safe. However, the California crash brings up another safety aspect: how to recover from an out of control vehicle.
+
+[<img src="http://farm2.static.flickr.com/1026/539533733_5791c33122_m.jpg" width="240" height="180" alt="DSCN0462" style="float: left; margin: 1em;" />](http://www.flickr.com/photos/fo0bar/539533733/ "DSCN0462 by Ryan Finnie, on Flickr")First, let me explain how the Prius works. You get in, hold down the brake pedal, and press the Start button to start the car. The shifter is relatively normal, a multi-directional shifter that allows you to select Reverse, Neutral, Drive, and Engine Brake (uses engine power to help brake down large hills easier). The Prius includes a separate dedicated button for the Brake function, though on other vehicles this is usually integrated into the shifter. To shut down the car, stop movement, and while holding down the brake pedal, press the Power button. You can even do this while in Drive or Neutral, hitting Power while not in motion will automatically engage the brake before shutting down. In addition, if you try to shit to Reverse or Brake while in forward motion (even while accelerating), the vehicle will instead change to Neutral.
+
+As you can see, the driver in the California crash had several options for stopping acceleration. Of course I'm not criticizing his judgment (you can never know how you'll react in an emergency situation), but the first thing you should do in an out of control car is shift to Neutral while braking. This is universal, and should work for any vehicle. In the Prius (and presumably some other Toyota vehicles), you have several other options, but shifting to Neutral while braking should be the first choice. Inexperience with the particular car's shifter may have been a factor in the crash, as it was a loaner car.
+
+And then there's the Start button. I took my Prius out to test and started accelerating. In an emergency, I could see looking at the dash, seeing the Start button and attempting to press that as a first choice. So I did so and... nothing happened. Even in a controlled situation, this actually surprised me. I expected, at the very least, the car would shift to Neutral if the Start button were pressed while accelerating. You can hold the Power button down for a full 5 seconds while the vehicle is on to kill power, but 5 seconds is a lot in an emergency.
+
+If there's one engineer safety change to come out of this, it should be that. At the very least, pressing the Start button while in motion should shift to Neutral. Otherwise, short of more details emerging, I believe this recall is mostly about proper floor mat installation, and not necessarily a defect
