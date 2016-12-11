@@ -1,0 +1,31 @@
+---
+layout: default
+is_index: true
+---
+
+<div class="home">
+
+  <h1 class="page-heading hidden">{{ site.title }}</h1>
+
+    {% for post in site.posts limit:5 %}
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
+      </header>
+
+      <div class="post-content" itemprop="articleBody">
+        {{ post.content }}
+      </div>
+
+    </article>
+    {% endfor %}
+
+  <h2>Blog links</h2>
+  <ul>
+  <li><a href="{{ "/posts.html" | prepend: site.baseurl }}">All posts</a></li>
+  <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe via RSS</a></li>
+  </ul>
+
+</div>

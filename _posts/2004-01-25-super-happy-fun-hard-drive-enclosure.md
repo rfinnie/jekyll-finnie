@@ -1,0 +1,26 @@
+---
+id: 236
+title: Super happy fun hard drive enclosure!
+date: 2004-01-25T18:06:00+00:00
+author: Ryan Finnie
+layout: post
+guid: http://www.finnie.org/testblog/wordpress/2004/01/25/super-happy-fun-hard-drive-enclosure/
+permalink: /2004/01/25/super-happy-fun-hard-drive-enclosure/
+lj_itemid:
+  - "60274"
+lj_import_url:
+  - http://fo0bar.livejournal.com/60274.html
+categories:
+  - Uncategorized
+---
+I bought a 160GB HD from compusa (only $60 after about 20 mail-in rebates!), and a 3.5" USB2 enclosure. The real gem is an instruction sheet for the enclosure, written in the best Engrish I have ever seen. I'll need to find a scanner, but here is the text:
+
+HDD Assembles Elucidation
+
+1. Make an effort to press in the direction that arrowhead point the plastics lock button up, such as picture A
+
+2. Heading up the upper cover to turn over to rise, such as picture B
+
+3. Cover up and down to separate then and completely, such as picture C
+
+Is good with machine plank according to the right method conjunction the hard dish, lock the tight and HDD, cover the upper cover, can immediately trust the usage.

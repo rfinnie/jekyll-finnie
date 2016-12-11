@@ -1,0 +1,13 @@
+# Site settings
+title: Ryan Finnie
+description: Personal blog for Ryan Finnie
+baseurl: ""
+url: "http://www.finnie.org"
+top_links:
+  - {title: "Finnix", url: "http://www.finnix.org/"}
+  - {title: "Debian", url: "http://qa.debian.org/developer.php?login=ryan@finnie.org"}
+  - {title: "Launchpad", url: "https://launchpad.net/~fo0bar"}
+  - {title: "OpenPGP", url: "http://pgp.mit.edu:11371/pks/lookup?search=0x86AE8D98"}
+
+# Build settings
+markdown: kramdown
