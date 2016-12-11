@@ -7,8 +7,6 @@ excerpt: dsari is a lightweight continuous integration (CI) system. It provides 
 layout: post
 guid: http://www.finnie.org/?p=2469
 permalink: /2015/07/23/dsari-do-something-and-record-it/
-videourl:
-  - ""
 categories:
   - Uncategorized
 ---

@@ -6,8 +6,6 @@ author: Ryan Finnie
 layout: post
 guid: http://www.finnie.org/?p=2450
 permalink: /2015/02/21/raspberry-pi-2-ubuntu-raspbian-benchmarks/
-videourl:
-  - ""
 categories:
   - Uncategorized
 tags:
