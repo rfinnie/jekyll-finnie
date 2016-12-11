@@ -6,8 +6,6 @@ author: Ryan Finnie
 layout: post
 guid: http://www.finnie.org/?p=2420
 permalink: /2015/02/14/ubuntu-14-04-trusty-tahr-on-the-raspberry-pi-2/
-videourl:
-  - ""
 categories:
   - Uncategorized
 tags:

@@ -6,8 +6,6 @@ author: Ryan Finnie
 layout: post
 guid: http://www.finnie.org/?p=2411
 permalink: /2015/02/05/review-some-cheap-laptop-from-best-buy/
-videourl:
-  - ""
 categories:
   - Uncategorized
 ---
