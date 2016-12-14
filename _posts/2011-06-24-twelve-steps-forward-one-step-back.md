@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-06-24 12:09:13
 guid: http://www.finnie.org/2011/06/24/twelve-steps-forward-one-step-back/
 id: 1834

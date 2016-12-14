@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-10-25 23:51:20
 guid: http://www.finnie.org/2012/10/25/it-all-falls-apart/
 id: 2168

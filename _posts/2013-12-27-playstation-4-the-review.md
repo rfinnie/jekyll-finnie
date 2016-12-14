@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2013-12-27 19:18:16
 guid: http://www.finnie.org/2013/12/27/playstation-4-the-review/
 id: 2345

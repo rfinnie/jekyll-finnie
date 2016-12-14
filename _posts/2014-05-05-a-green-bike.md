@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2014-05-05 00:55:50
 excerpt: Six years ago, I bought a $360 entry-level "hybrid" bike from a local bike
   shop. This weekend, I decided to step up to the next level... by buying a $200 big-box

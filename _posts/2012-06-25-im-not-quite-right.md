@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-06-25 01:45:38
 guid: http://www.finnie.org/2012/06/25/im-not-quite-right/
 id: 2117

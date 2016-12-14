@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-02-19 15:43:00
 guid: http://www.finnie.org/2007/02/19/consumer-thy-name-is-fo0bar/
 id: 652
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/170499.html
-lj_itemid:
-- '170499'
+lj_import_url: http://fo0bar.livejournal.com/170499.html
+lj_itemid: 170499
 permalink: /2007/02/19/consumer-thy-name-is-fo0bar/
 title: Consumer, thy name is fo0bar
 ---

@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-04-17 09:04:42
 guid: http://www.finnie.org/2009/04/17/reno-aces-home-opener/
 id: 851

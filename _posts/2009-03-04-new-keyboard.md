@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-03-04 20:19:00
 guid: http://www.finnie.org/2009/03/04/new-keyboard/
 id: 759
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/199517.html
-lj_itemid:
-- '199517'
+lj_import_url: http://fo0bar.livejournal.com/199517.html
+lj_itemid: 199517
 permalink: /2009/03/04/new-keyboard/
 title: New keyboard
 ---

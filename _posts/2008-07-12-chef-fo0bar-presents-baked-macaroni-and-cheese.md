@@ -8,10 +8,8 @@ id: 728
 layout: post
 lj_current_mood:
 - full
-lj_import_url:
-- http://fo0bar.livejournal.com/190986.html
-lj_itemid:
-- '190986'
+lj_import_url: http://fo0bar.livejournal.com/190986.html
+lj_itemid: 190986
 permalink: /2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
 title: 'Chef fo0bar presents: Baked Macaroni and Cheese'
 ---

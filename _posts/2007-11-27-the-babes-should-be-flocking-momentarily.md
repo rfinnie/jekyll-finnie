@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-11-27 02:16:00
 guid: http://www.finnie.org/2007/11/27/the-babes-should-be-flocking-momentarily/
 id: 703
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/184683.html
-lj_itemid:
-- '184683'
+lj_import_url: http://fo0bar.livejournal.com/184683.html
+lj_itemid: 184683
 permalink: /2007/11/27/the-babes-should-be-flocking-momentarily/
 tags:
 - debian

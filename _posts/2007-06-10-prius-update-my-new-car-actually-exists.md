@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-06-10 02:15:00
 guid: http://www.finnie.org/2007/06/10/prius-update-my-new-car-actually-exists/
 id: 673
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/175978.html
-lj_itemid:
-- '175978'
+lj_import_url: http://fo0bar.livejournal.com/175978.html
+lj_itemid: 175978
 permalink: /2007/06/10/prius-update-my-new-car-actually-exists/
 title: 'Prius update: my new car actually exists'
 ---

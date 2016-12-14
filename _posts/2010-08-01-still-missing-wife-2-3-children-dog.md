@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-08-01 15:09:20
 guid: http://www.finnie.org/2010/08/01/still-missing-wife-2-3-children-dog/
 id: 1449

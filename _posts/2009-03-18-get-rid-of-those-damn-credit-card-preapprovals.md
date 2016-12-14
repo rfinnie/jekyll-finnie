@@ -6,10 +6,8 @@ date: 2009-03-18 00:52:00
 guid: http://www.finnie.org/2009/03/18/get-rid-of-those-damn-credit-card-preapprovals/
 id: 766
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/201428.html
-lj_itemid:
-- '201428'
+lj_import_url: http://fo0bar.livejournal.com/201428.html
+lj_itemid: 201428
 permalink: /2009/03/18/get-rid-of-those-damn-credit-card-preapprovals/
 title: Get rid of those damn credit card preapprovals
 ---

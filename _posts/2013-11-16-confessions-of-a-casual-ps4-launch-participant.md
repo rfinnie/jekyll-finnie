@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2013-11-16 19:18:43
 guid: http://www.finnie.org/2013/11/16/confessions-of-a-casual-ps4-launch-participant/
 id: 2331

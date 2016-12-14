@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-05-01 22:50:10
 guid: http://www.finnie.org/2009/05/01/state-of-the-blog/
 id: 858

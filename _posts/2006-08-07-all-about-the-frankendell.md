@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2006-08-07 19:58:00
 guid: http://www.finnie.org/2006/08/07/all-about-the-frankendell/
 id: 606
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/157641.html
-lj_itemid:
-- '157641'
+lj_import_url: http://fo0bar.livejournal.com/157641.html
+lj_itemid: 157641
 permalink: /2006/08/07/all-about-the-frankendell/
 title: All about the FrankenDell
 ---

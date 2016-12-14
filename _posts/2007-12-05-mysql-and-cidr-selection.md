@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-12-05 22:44:00
 guid: http://www.finnie.org/2007/12/05/mysql-and-cidr-selection/
 id: 705
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/185275.html
-lj_itemid:
-- '185275'
+lj_import_url: http://fo0bar.livejournal.com/185275.html
+lj_itemid: 185275
 permalink: /2007/12/05/mysql-and-cidr-selection/
 title: MySQL and CIDR selection
 ---

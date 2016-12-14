@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2014-02-13 22:14:27
 guid: http://www.finnie.org/2014/02/13/compiling-busybox-with-uclibc/
 id: 2363

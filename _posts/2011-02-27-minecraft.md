@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-02-27 15:20:12
 guid: http://www.finnie.org/2011/02/27/minecraft/
 id: 1769
@@ -9,7 +7,7 @@ layout: post
 permalink: /2011/02/27/minecraft/
 tags:
 - minecraft
-- planet:canonical
+- planetcanonical
 title: Minecraft
 ---
 Minecraft minecraft minecraft minecraft [Minecraft](http://www.minecraft.net/) minecraft.

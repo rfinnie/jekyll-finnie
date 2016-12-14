@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-11-07 01:24:13
 guid: http://www.finnie.org/2009/11/07/a-traceroute-down-memory-lane/
 id: 1189

@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-01-16 16:17:54
 guid: http://www.finnie.org/2010/01/16/oui-an-ieee-oui-database-search-utility/
 id: 1240

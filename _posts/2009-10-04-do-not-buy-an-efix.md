@@ -1,13 +1,9 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-10-04 12:51:37
 guid: http://www.finnie.org/2009/10/04/do-not-buy-an-efix/
 id: 1024
 layout: post
-openid_comments:
-- a:1:{i:0;s:5:"41514";}
 permalink: /2009/10/04/do-not-buy-an-efix/
 tags:
 - efi-x

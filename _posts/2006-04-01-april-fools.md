@@ -6,10 +6,8 @@ date: 2006-04-01 15:38:00
 guid: http://www.finnie.org/2006/04/01/april-fools/
 id: 572
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/148025.html
-lj_itemid:
-- '148025'
+lj_import_url: http://fo0bar.livejournal.com/148025.html
+lj_itemid: 148025
 permalink: /2006/04/01/april-fools/
 title: April Fools!
 ---

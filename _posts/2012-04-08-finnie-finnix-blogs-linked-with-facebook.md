@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-04-08 21:50:00
 guid: http://www.finnie.org/2012/04/08/finnie-finnix-blogs-linked-with-facebook/
 id: 2057

@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-10-26 00:00:27
 guid: http://www.finnie.org/2009/10/26/schrodingers-xbox/
 id: 1171

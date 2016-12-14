@@ -6,8 +6,6 @@ date: 2010-08-13 01:32:37
 guid: http://www.finnie.org/2010/08/13/lenovo-thinkpad-x200s/
 id: 1474
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"218622";}
 permalink: /2010/08/13/lenovo-thinkpad-x200s/
 title: Lenovo ThinkPad X200s
 ---

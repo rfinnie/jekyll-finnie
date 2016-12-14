@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-06-05 06:12:00
 guid: http://www.finnie.org/2007/06/05/i-got-a-new-car-in-theory/
 id: 672
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/175792.html
-lj_itemid:
-- '175792'
+lj_import_url: http://fo0bar.livejournal.com/175792.html
+lj_itemid: 175792
 permalink: /2007/06/05/i-got-a-new-car-in-theory/
 title: I got a new car.  In theory.
 ---

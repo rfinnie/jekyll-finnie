@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2008-10-30 11:22:00
 guid: http://www.finnie.org/2008/10/30/hooray-for-not-destroying-my-prius/
 id: 748
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/196834.html
-lj_itemid:
-- '196834'
+lj_import_url: http://fo0bar.livejournal.com/196834.html
+lj_itemid: 196834
 permalink: /2008/10/30/hooray-for-not-destroying-my-prius/
 title: Hooray for not destroying my Prius!
 ---

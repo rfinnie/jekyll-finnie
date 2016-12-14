@@ -6,10 +6,8 @@ date: 2008-12-23 00:14:00
 guid: http://www.finnie.org/2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
 id: 751
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/197746.html
-lj_itemid:
-- '197746'
+lj_import_url: http://fo0bar.livejournal.com/197746.html
+lj_itemid: 197746
 permalink: /2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
 title: 'Chef fo0bar presents: Combo cheeseburger, Kroll''s style'
 ---

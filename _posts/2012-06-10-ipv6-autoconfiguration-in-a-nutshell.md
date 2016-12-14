@@ -1,14 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-06-10 02:39:25
 guid: http://www.finnie.org/2012/06/10/ipv6-autoconfiguration-in-a-nutshell/
 id: 2108
 layout: post
 permalink: /2012/06/10/ipv6-autoconfiguration-in-a-nutshell/
 tags:
-- planet:canonical
+- planetcanonical
 title: IPv6 autoconfiguration in a nutshell
 ---
 [ This was written at 2AM, and I tended to ramble. Hopefully I'll come back tomorrow and clean it up, add links to RFCs and Wikipedia entries where relevant, etc. ]

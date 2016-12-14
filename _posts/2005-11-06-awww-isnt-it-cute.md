@@ -6,10 +6,8 @@ date: 2005-11-06 20:25:00
 guid: http://www.finnie.org/2005/11/06/awww-isnt-it-cute/
 id: 514
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/132939.html
-lj_itemid:
-- '132939'
+lj_import_url: http://fo0bar.livejournal.com/132939.html
+lj_itemid: 132939
 permalink: /2005/11/06/awww-isnt-it-cute/
 title: Awww, isn't it cute...
 ---

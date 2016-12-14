@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-05-08 19:37:00
 guid: http://www.finnie.org/2007/05/08/i-can-walk-in-my-office-again/
 id: 668
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/174630.html
-lj_itemid:
-- '174630'
+lj_import_url: http://fo0bar.livejournal.com/174630.html
+lj_itemid: 174630
 permalink: /2007/05/08/i-can-walk-in-my-office-again/
 title: I can walk in my office again!
 ---

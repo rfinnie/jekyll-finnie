@@ -6,10 +6,8 @@ date: 2007-04-28 20:31:00
 guid: http://www.finnie.org/2007/04/28/no-bake-chocolate-oatmeal-cookies/
 id: 661
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/172852.html
-lj_itemid:
-- '172852'
+lj_import_url: http://fo0bar.livejournal.com/172852.html
+lj_itemid: 172852
 permalink: /2007/04/28/no-bake-chocolate-oatmeal-cookies/
 tags:
 - recipes

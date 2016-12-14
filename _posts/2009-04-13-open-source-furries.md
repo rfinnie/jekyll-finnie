@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-04-13 17:08:24
 guid: http://www.finnie.org/2009/04/13/open-source-furries/
 id: 825

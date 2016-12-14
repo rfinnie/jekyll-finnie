@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2008-01-23 16:05:00
 guid: http://www.finnie.org/2008/01/23/all-hail-the-t60/
 id: 710
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/186574.html
-lj_itemid:
-- '186574'
+lj_import_url: http://fo0bar.livejournal.com/186574.html
+lj_itemid: 186574
 permalink: /2008/01/23/all-hail-the-t60/
 title: All hail the T60
 ---

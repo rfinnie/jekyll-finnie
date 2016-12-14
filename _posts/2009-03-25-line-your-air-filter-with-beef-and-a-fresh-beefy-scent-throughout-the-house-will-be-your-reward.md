@@ -6,10 +6,8 @@ date: 2009-03-25 21:31:00
 guid: http://www.finnie.org/2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
 id: 769
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/202235.html
-lj_itemid:
-- '202235'
+lj_import_url: http://fo0bar.livejournal.com/202235.html
+lj_itemid: 202235
 permalink: /2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
 tags:
 - jerky

@@ -1,14 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-03-09 22:46:42
 guid: http://www.finnie.org/2012/03/09/new-home-server/
 id: 2032
 layout: post
 permalink: /2012/03/09/new-home-server/
 tags:
-- planet:canonical
+- planetcanonical
 title: New home server
 ---
 <span style="float: right; margin-left: 1em;"><a href="http://www.flickr.com/photos/fo0bar/6822160034/" title="New home server (nibbler) by Ryan Finnie, on Flickr"><img src="http://farm8.staticflickr.com/7065/6822160034_71ed5d14cc_m.jpg" width="180" height="240" alt="New home server (nibbler)" /></a></span>It's been a long time since I've built a computer from scratch, and even longer since I've been excited about it. For the last few years, my home office network has been mostly kitbashed together from other computers, and when I've needed to buy new parts, it's usually been begrudgingly.

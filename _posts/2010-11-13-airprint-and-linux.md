@@ -1,16 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-11-13 00:58:58
 guid: http://www.finnie.org/2010/11/13/airprint-and-linux/
 id: 1634
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"198357";}
 permalink: /2010/11/13/airprint-and-linux/
 tags:
-- planet:canonical
+- planetcanonical
 title: AirPrint and Linux
 ---
 [<img src="/blog-media/2010/11/airprint-linux-1-200x300.png" alt="" title="airprint-linux-1" width="200" height="300" class="size-medium wp-image-1639" srcset="/blog-media/2010/11/airprint-linux-1-200x300.png 200w, /blog-media/2010/11/airprint-linux-1.png 640w" sizes="(max-width: 200px) 100vw, 200px" />](/blog-media/2010/11/airprint-linux-1.png) [<img src="/blog-media/2010/11/airprint-linux-2-200x300.png" alt="" title="airprint-linux-2" width="200" height="300" class="size-medium wp-image-1640" srcset="/blog-media/2010/11/airprint-linux-2-200x300.png 200w, /blog-media/2010/11/airprint-linux-2.png 640w" sizes="(max-width: 200px) 100vw, 200px" />](/blog-media/2010/11/airprint-linux-2.png)

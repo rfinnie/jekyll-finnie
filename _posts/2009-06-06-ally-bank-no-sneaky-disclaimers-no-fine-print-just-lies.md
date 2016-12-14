@@ -6,8 +6,6 @@ date: 2009-06-06 18:32:46
 guid: http://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/
 id: 915
 layout: post
-openid_comments:
-- a:1:{i:0;s:4:"1268";}
 permalink: /2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/
 title: '[RESOLVED] Ally Bank: No sneaky disclaimers, no fine print, just lies.'
 ---

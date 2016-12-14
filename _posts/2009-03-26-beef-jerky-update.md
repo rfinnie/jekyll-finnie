@@ -6,10 +6,8 @@ date: 2009-03-26 19:53:00
 guid: http://www.finnie.org/2009/03/26/beef-jerky-update/
 id: 770
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/202394.html
-lj_itemid:
-- '202394'
+lj_import_url: http://fo0bar.livejournal.com/202394.html
+lj_itemid: 202394
 permalink: /2009/03/26/beef-jerky-update/
 tags:
 - jerky

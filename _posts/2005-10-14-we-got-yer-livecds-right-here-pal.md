@@ -6,10 +6,8 @@ date: 2005-10-14 15:26:00
 guid: http://www.finnie.org/2005/10/14/we-got-yer-livecds-right-here-pal/
 id: 499
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/129283.html
-lj_itemid:
-- '129283'
+lj_import_url: http://fo0bar.livejournal.com/129283.html
+lj_itemid: 129283
 permalink: /2005/10/14/we-got-yer-livecds-right-here-pal/
 title: We got yer livecds right here, pal.
 ---

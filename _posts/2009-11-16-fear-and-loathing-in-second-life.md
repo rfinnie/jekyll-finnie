@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-11-16 21:40:11
 guid: http://www.finnie.org/2009/11/16/fear-and-loathing-in-second-life/
 id: 1201

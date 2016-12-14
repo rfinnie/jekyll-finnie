@@ -6,10 +6,8 @@ date: 2006-01-06 19:38:00
 guid: http://www.finnie.org/2006/01/06/blawgs-we-have-blawgs/
 id: 537
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/138897.html
-lj_itemid:
-- '138897'
+lj_import_url: http://fo0bar.livejournal.com/138897.html
+lj_itemid: 138897
 permalink: /2006/01/06/blawgs-we-have-blawgs/
 title: BLAWGS!  WE HAVE BLAWGS!
 ---

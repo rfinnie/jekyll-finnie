@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-06-13 01:37:00
 guid: http://www.finnie.org/2007/06/13/ive-owned-many-cars-well-four/
 id: 679
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/177463.html
-lj_itemid:
-- '177463'
+lj_import_url: http://fo0bar.livejournal.com/177463.html
+lj_itemid: 177463
 permalink: /2007/06/13/ive-owned-many-cars-well-four/
 title: I've owned many cars.  Well, four.
 ---

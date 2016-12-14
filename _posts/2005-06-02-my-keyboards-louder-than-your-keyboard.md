@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2005-06-02 21:19:00
 guid: http://www.finnie.org/2005/06/02/my-keyboards-louder-than-your-keyboard/
 id: 412
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/106763.html
-lj_itemid:
-- '106763'
+lj_import_url: http://fo0bar.livejournal.com/106763.html
+lj_itemid: 106763
 permalink: /2005/06/02/my-keyboards-louder-than-your-keyboard/
 title: My keyboard's louder than your keyboard
 ---

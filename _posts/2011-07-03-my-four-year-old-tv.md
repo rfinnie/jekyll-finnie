@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-07-03 19:49:38
 guid: http://www.finnie.org/2011/07/03/my-four-year-old-tv/
 id: 1850

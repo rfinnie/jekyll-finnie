@@ -1,14 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-08-14 23:15:59
 guid: http://www.finnie.org/2012/08/14/twuewand-2-0-released/
 id: 2122
 layout: post
 permalink: /2012/08/14/twuewand-2-0-released/
 tags:
-- planet:canonical
+- planetcanonical
 - twuewand
 title: twuewand 2.0 released
 ---

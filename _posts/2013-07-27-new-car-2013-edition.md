@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2013-07-27 16:52:58
 guid: http://www.finnie.org/2013/07/27/new-car-2013-edition/
 id: 2280

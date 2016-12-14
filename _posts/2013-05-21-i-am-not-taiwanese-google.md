@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2013-05-21 21:24:40
 guid: http://www.finnie.org/2013/05/21/i-am-not-taiwanese-google/
 id: 2261

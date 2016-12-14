@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-01-07 00:59:29
 guid: http://www.finnie.org/2012/01/07/when-exactly-did-i-become-an-adult/
 id: 1942

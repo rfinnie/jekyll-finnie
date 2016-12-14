@@ -6,10 +6,8 @@ date: 2005-10-13 12:07:00
 guid: http://www.finnie.org/2005/10/13/thank-god-for-vmware/
 id: 498
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/129096.html
-lj_itemid:
-- '129096'
+lj_import_url: http://fo0bar.livejournal.com/129096.html
+lj_itemid: 129096
 permalink: /2005/10/13/thank-god-for-vmware/
 title: Thank god for vmware
 ---

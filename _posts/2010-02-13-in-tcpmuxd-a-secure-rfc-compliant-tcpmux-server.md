@@ -1,13 +1,9 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-02-13 03:41:49
 guid: http://www.finnie.org/2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/
 id: 1254
 layout: post
-openid_comments:
-- a:1:{i:0;s:5:"18778";}
 permalink: /2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/
 title: 'in.tcpmuxd: A secure, RFC compliant TCPMUX server'
 ---

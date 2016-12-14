@@ -6,8 +6,6 @@ date: 2009-10-11 19:55:12
 guid: http://www.finnie.org/2009/10/11/wells-fargo-atms/
 id: 1067
 layout: post
-openid_comments:
-- a:1:{i:0;s:4:"3324";}
 permalink: /2009/10/11/wells-fargo-atms/
 title: Wells Fargo ATMs
 ---

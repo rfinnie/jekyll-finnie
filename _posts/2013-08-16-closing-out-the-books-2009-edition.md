@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2013-08-16 22:52:35
 guid: http://www.finnie.org/2013/08/16/closing-out-the-books-2009-edition/
 id: 2290

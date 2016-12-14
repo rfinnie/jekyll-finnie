@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2005-06-12 20:07:00
 guid: http://www.finnie.org/2005/06/12/disinformation-is-my-co-pilot/
 id: 419
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/108720.html
-lj_itemid:
-- '108720'
+lj_import_url: http://fo0bar.livejournal.com/108720.html
+lj_itemid: 108720
 permalink: /2005/06/12/disinformation-is-my-co-pilot/
 title: Disinformation is my co-pilot.
 ---

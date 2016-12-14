@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-08-09 21:37:35
 guid: http://www.finnie.org/2010/08/09/flickr-mail-bounce/
 id: 1465

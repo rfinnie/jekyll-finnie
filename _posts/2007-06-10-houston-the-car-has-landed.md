@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-06-10 20:57:00
 guid: http://www.finnie.org/2007/06/10/houston-the-car-has-landed/
 id: 675
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/176633.html
-lj_itemid:
-- '176633'
+lj_import_url: http://fo0bar.livejournal.com/176633.html
+lj_itemid: 176633
 permalink: /2007/06/10/houston-the-car-has-landed/
 title: Houston, the car has landed.
 ---

@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2006-04-16 14:40:00
 guid: http://www.finnie.org/2006/04/16/thoughts-on-my-new-cellphone/
 id: 580
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/150754.html
-lj_itemid:
-- '150754'
+lj_import_url: http://fo0bar.livejournal.com/150754.html
+lj_itemid: 150754
 permalink: /2006/04/16/thoughts-on-my-new-cellphone/
 title: Thoughts on my new cellphone
 ---

@@ -1,13 +1,9 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-12-27 00:04:55
 guid: http://www.finnie.org/2010/12/27/postal-system-abuse-for-fun-and-profit/
 id: 1671
 layout: post
-openid_comments:
-- a:2:{i:0;s:5:"70318";i:1;s:5:"85730";}
 permalink: /2010/12/27/postal-system-abuse-for-fun-and-profit/
 title: Postal system abuse for fun and profit!
 ---

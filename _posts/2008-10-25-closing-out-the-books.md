@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2008-10-25 16:37:00
 guid: http://www.finnie.org/2008/10/25/closing-out-the-books/
 id: 745
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/195880.html
-lj_itemid:
-- '195880'
+lj_import_url: http://fo0bar.livejournal.com/195880.html
+lj_itemid: 195880
 permalink: /2008/10/25/closing-out-the-books/
 title: Closing out the books
 ---

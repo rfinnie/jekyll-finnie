@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-02-10 22:56:58
 guid: http://www.finnie.org/2011/02/10/fedex-delivery-guarantee/
 id: 1747

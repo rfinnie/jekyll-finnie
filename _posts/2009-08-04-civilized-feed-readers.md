@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-08-04 11:23:19
 guid: http://www.finnie.org/2009/08/04/civilized-feed-readers/
 id: 994

@@ -6,10 +6,8 @@ date: 2006-01-08 02:38:00
 guid: http://www.finnie.org/2006/01/08/finnix-862-released/
 id: 538
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/139146.html
-lj_itemid:
-- '139146'
+lj_import_url: http://fo0bar.livejournal.com/139146.html
+lj_itemid: 139146
 permalink: /2006/01/08/finnix-862-released/
 title: Finnix 86.2 Released
 ---

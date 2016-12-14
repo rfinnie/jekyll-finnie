@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-07-09 13:34:00
 guid: http://www.finnie.org/2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
 id: 688
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/180930.html
-lj_itemid:
-- '180930'
+lj_import_url: http://fo0bar.livejournal.com/180930.html
+lj_itemid: 180930
 permalink: /2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
 title: If you can't take the heat, get out of the NOC.
 ---
