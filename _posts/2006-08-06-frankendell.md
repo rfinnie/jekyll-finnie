@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2006-08-06 16:51:00
-guid: http://www.finnie.org/2006/08/06/frankendell/
-id: 604
+date: 2006-08-06 16:51:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/157032.html
 lj_itemid: 157032
-permalink: /2006/08/06/frankendell/
 title: FrankenDell
+wp_id: 604
 ---
 <div class="flickr-frame">
   <a href="http://www.flickr.com/photos/fo0bar/208260148/" title="photo sharing"><img src="http://static.flickr.com/92/208260148_db13ea47f8.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="http://www.flickr.com/photos/fo0bar/208260148/">FrankenDell</a>, originally uploaded by <a href="http://www.flickr.com/people/fo0bar/">fo0bar</a>.</span>

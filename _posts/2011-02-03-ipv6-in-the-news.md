@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2011-02-03 22:44:21
-guid: http://www.finnie.org/2011/02/03/ipv6-in-the-news/
-id: 1709
+date: 2011-02-03 22:44:21-08:00
 layout: post
-permalink: /2011/02/03/ipv6-in-the-news/
 tags:
 - planetcanonical
 title: IPv6 in the news
+wp_id: 1709
 ---
 "Zero day" arrived today, with [the IANA delegating the last /8s to the RIRs](http://www.nro.net/news/ipv4-free-pool-depleted). Now, this doesn't spell the immediate end of the Internet, but it does bring some more public light to the fact that, while the problem has been know for at least a decade, there has been almost no effort to do anything about it at a populace level. Unlike Y2K, there wasn't a race to a certain date that would spell disaster if work was not done. Instead, from this day on, things will get incrementally harder.
 

@@ -1,14 +1,11 @@
 ---
-author: Ryan Finnie
-date: 2010-10-08 15:24:59
-guid: http://www.finnie.org/2010/10/08/im-on-a-boat-in-an-iana-document/
-id: 1576
+date: 2010-10-08 15:24:59-07:00
 layout: post
-permalink: /2010/10/08/im-on-a-boat-in-an-iana-document/
 tags:
 - 2ping
 - planetcanonical
 title: I'm on a boat^H^H^H^H^H^H^H^H^H in an IANA document.
+wp_id: 1576
 ---
 In the spirit of [jwz's RFC announcement](http://jwz.livejournal.com/1305521.html), the IANA [assigned a registered port to 2ping](http://www.iana.org/assignments/port-numbers) this week! Starting with the next release, 2ping will officially be operating on port 15998/udp.
 

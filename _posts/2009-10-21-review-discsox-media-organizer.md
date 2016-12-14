@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Reviews
-date: 2009-10-21 00:42:54
-guid: http://www.finnie.org/2009/10/21/review-discsox-media-organizer/
-id: 1156
+date: 2009-10-21 00:42:54-07:00
 layout: post
-permalink: /2009/10/21/review-discsox-media-organizer/
 title: 'Review: DiscSox media organizer'
+wp_id: 1156
 ---
 I long ago gave up on keeping DVD packaging around, instead keeping everything in CD binders. However, I've been starting to amass a decent number of Blu-ray, HD-DVD, Xbox 360 and Wii games in full [DVD keep cases](http://en.wikipedia.org/wiki/Keep_case). (Well, the HD-DVD collection is no longer growing.) I didn't really want to go to CD binders on those, but recently I came across [DiscSox media sleeves](http://www.discsox.com/). They're disc sleeves, but they also allow you to keep everything but the keep case: multiple discs, covers, manuals and note cards. They lay nearly flat, and take up between 1/4 and 1/3 the height of a normal DVD keep case.
 

@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2012-06-25 01:45:38
-guid: http://www.finnie.org/2012/06/25/im-not-quite-right/
-id: 2117
+date: 2012-06-25 01:45:38-07:00
 layout: post
-permalink: /2012/06/25/im-not-quite-right/
 title: I'm not quite right
+wp_id: 2117
 ---
 I know everyone is different in their own special way, but...
 

@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2007-06-05 06:12:00
-guid: http://www.finnie.org/2007/06/05/i-got-a-new-car-in-theory/
-id: 672
+date: 2007-06-05 06:12:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/175792.html
 lj_itemid: 175792
-permalink: /2007/06/05/i-got-a-new-car-in-theory/
 title: I got a new car.  In theory.
+wp_id: 672
 ---
 It's 6AM, and I've been up for about an hour. This is because Sunday night I only got about an hour of sleep, and after I got home from Carson City Toyota last night, I collapsed right away and slept. Here's the story so far:
 

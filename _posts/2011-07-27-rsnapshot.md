@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2011-07-27 21:59:27
-guid: http://www.finnie.org/2011/07/27/rsnapshot/
-id: 1859
+date: 2011-07-27 21:59:27-07:00
 layout: post
-permalink: /2011/07/27/rsnapshot/
 tags:
 - planetcanonical
 title: rsnapshot
+wp_id: 1859
 ---
 At my former employer, we had an in-house backup system for backing up Unix servers. It was called **speede**, and it offered a much better way of maintaining disaster recovery backups than other methods such as tape. Multiple snapshots were taken, by taking the old snapshot, coping it to the new snapshot using hardlinks, and running rsync from the backed up host to the new snapshot. Since rsync works (by default) by copying changed files to a temp file, deleting the old destination file and moving the temp file into place, it cleanly breaks the hardlink without affecting the data in the old inode. The net result is you have multiple snapshot directories that look like completely independent directory trees, but are space efficient since the majority of the files share the same inodes between snapshots. If you have 200MB of data in snapshot 1 and 5MB of files change between snapshot 1 and snapshot 2, only 205MB is stored on disk.
 

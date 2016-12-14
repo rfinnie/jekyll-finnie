@@ -1,6 +1,5 @@
 ---
-author: Ryan Finnie
-date: 2009-11-27 23:36:06
+date: 2009-11-27 23:36:06-08:00
 enclosure:
 - '/blog-media/uploads/2009/11/outside-line.wav
 
@@ -9,11 +8,9 @@ enclosure:
   audio/x-wav
 
   '
-guid: http://www.finnie.org/2009/11/27/outside-dial-tones-on-spa500-series-phones/
-id: 1214
 layout: post
-permalink: /2009/11/27/outside-dial-tones-on-spa500-series-phones/
 title: Outside dial tones on SPA500 series phones
+wp_id: 1214
 ---
 [<img src="/blog-media/2009/11/photo-225x300.jpg" alt="Cisco SPA504G" title="Cisco SPA504G" width="225" height="300" style="float: right; margin: 1em;" />](/blog-media/2009/11/photo.jpg)I'm currently in the process of upgrading our phone systems at work. In the Reno and Salt Lake City offices, we had a [Cisco Unified Communications](http://www.cisco.com/en/US/netsol/ns151/networking_solutions_unified_communications_home.html) VoIP system going back to 2001, with [Cisco 7900 series](http://www.cisco.com/en/US/products/hw/phones/ps379/index.html) phones. The 7900s used SCCP, a proprietary but decently understood protocol to talk with the call managers. Earlier this year, the call managers died. We had been preparing for this possibility, and had an [Asterisk](http://www.asterisk.org/) system ready that was able to talk SCCP to the 7900 phones. Unfortunately, the SCCP driver is graciously described as "beta" (remember, it's a proprietary protocol). Everything mostly worked, but we lost the ability to do 3-way conferencing via the phones. So now we're replacing them with [Cisco SPA504G phones](http://blog.voipsupply.com/first-look-cisco-spa504g-ip-phone), which use the industry standard SIP protocol.
 

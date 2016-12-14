@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2008-05-19 00:58:00
-guid: http://www.finnie.org/2008/05/19/new-bike-also-riding-of-said-bike/
-id: 724
+date: 2008-05-19 00:58:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/190188.html
 lj_itemid: 190188
-permalink: /2008/05/19/new-bike-also-riding-of-said-bike/
 title: New bike.  Also, riding of said bike.
+wp_id: 724
 ---
 [<img src="http://farm3.static.flickr.com/2305/2504212189_b30522287a.jpg" width="500" height="375" alt="New bike" />](http://www.flickr.com/photos/fo0bar/2504212189/ "New bike by fo0bar, on Flickr")
   

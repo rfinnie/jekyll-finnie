@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-04-13 17:08:24
-guid: http://www.finnie.org/2009/04/13/open-source-furries/
-id: 825
+date: 2009-04-13 17:08:24-07:00
 layout: post
-permalink: /2009/04/13/open-source-furries/
 title: Open source furries.
+wp_id: 825
 ---
 If you caught my [Finnix in Second Life](http://blog.finnix.org/2009/01/13/finnix-in-second-life/) post on the [Finnix blog](http://blog.finnix.org/), you know I've been dabbling in Second Life as a whole. I've had an account for almost 3 years now, but before the beginning of this year, I rarely logged into it because, frankly, it was boring. But after I bought land and started building the Finnix Information Center, I found my hook: the exciting part isn't _being_ in Second Life, it was _building_ in Second Life. Making things. Creating.
 

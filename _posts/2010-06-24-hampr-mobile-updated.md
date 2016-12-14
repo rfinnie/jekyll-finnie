@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Hampr
-date: 2010-06-24 20:03:04
-guid: http://www.finnie.org/2010/06/24/hampr-mobile-updated/
-id: 1380
+date: 2010-06-24 20:03:04-07:00
 layout: post
-permalink: /2010/06/24/hampr-mobile-updated/
 title: Hampr Mobile updated
+wp_id: 1380
 ---
 [Hampr Mobile](https://www.hampr.com/mobile/webkit), the [Hampr](https://www.hampr.com/) interface designed for WebKit-based mobile phone browsers (iPhone, Android, WebOS) has received a facelift today. Text has been updated to look better on the higher resolution of the new iPhone 4 released today (while looking just as well as it did before on other phones' browsers), and the theme has been prettied up, with a new brushed metal theme. Some new iPhone-specific options have been added. If you add Hampr Mobile to your home screen (press the "+" sign at the bottom, then select "Add to Home Screen"), a new, high-resolution icon is added that is iPhone 4 compatible. [Give it a try!](https://www.hampr.com/mobile/webkit)
 

@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Chef Fo0bar Presents
-date: 2013-02-03 00:40:27
-guid: http://www.finnie.org/2013/02/03/chef-fo0bar-presents-lazy-chili/
-id: 2226
+date: 2013-02-03 00:40:27-08:00
 layout: post
-permalink: /2013/02/03/chef-fo0bar-presents-lazy-chili/
 title: 'Chef Fo0bar Presents: Lazy Chili'
+wp_id: 2226
 ---
 (No pictures because #1, I'm lazy, and #2, it looks like chili.)
 

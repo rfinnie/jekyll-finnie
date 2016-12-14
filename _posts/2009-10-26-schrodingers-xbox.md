@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-10-26 00:00:27
-guid: http://www.finnie.org/2009/10/26/schrodingers-xbox/
-id: 1171
+date: 2009-10-26 00:00:27-07:00
 layout: post
-permalink: /2009/10/26/schrodingers-xbox/
 title: "Schr\xF6dinger's Xbox"
+wp_id: 1171
 ---
 Two years ago, I bought an Xbox 360. I specifically looked for one with the Falcon motherboard, partially because it was the first to come with HDMI standard, but mostly because it was believed it would be immune to the famous Red Ring of Death. That turned out not to be true, but it did slightly reduce the occurrences.
 

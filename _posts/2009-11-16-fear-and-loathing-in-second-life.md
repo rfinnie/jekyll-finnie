@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-11-16 21:40:11
-guid: http://www.finnie.org/2009/11/16/fear-and-loathing-in-second-life/
-id: 1201
+date: 2009-11-16 21:40:11-08:00
 layout: post
-permalink: /2009/11/16/fear-and-loathing-in-second-life/
 title: Fear and Loathing in Second Life
+wp_id: 1201
 ---
 I signed up for a Second Life account a few years ago, but I rarely used it. It really wasn't that fun for me. Later, I learned that simply being in Second Life wasn't the fun part; it was creating and building that was interesting. However, building anything lasting required a premium account ($9.95 per month), which "entitles" you to buy 512m<sup>2</sup> of land via the in-world economy. So last December, I bought some land.
 

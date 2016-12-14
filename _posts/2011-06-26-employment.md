@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2011-06-26 01:51:44
-guid: http://www.finnie.org/2011/06/26/employment/
-id: 1841
+date: 2011-06-26 01:51:44-07:00
 layout: post
-permalink: /2011/06/26/employment/
 title: Employment
+wp_id: 1841
 ---
 Yes, I'm now employed. I've accepted a position with [Viddler](http://www.viddler.com/) as a Systems/Network Administrator. I'm very excited about the company and my position, and I'm looking forward to starting. My manager is a fellow Debian developer, and everyone else I've met so far has been very friendly. The company looks good, and the infrastructure looks decent. (They even have a pseudo whitepaper of the infrastructure up for the public at [highscalability.com](http://highscalability.com/blog/2011/5/10/viddler-architecture-7-million-embeds-a-day-and-1500-reqsec.html)). And in a pleasant coincidence, it turns out my former employer did business and socialized with Viddler, so some of my old coworkers knew people within Viddler and had good things to say.
 

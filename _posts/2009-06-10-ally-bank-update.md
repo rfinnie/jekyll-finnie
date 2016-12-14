@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2009-06-10 12:15:21
-guid: http://www.finnie.org/2009/06/10/ally-bank-update/
-id: 935
+date: 2009-06-10 12:15:21-07:00
 layout: post
-permalink: /2009/06/10/ally-bank-update/
 title: Ally Bank update
+wp_id: 935
 ---
 Following up on [Saturday's post](http://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/): On Sunday morning, I received a call on my cellphone from an 800 number. "I'm not answering that on a weekend," I thought, and went back to bed. When I got up later, I found [a comment waiting for approval on my blog](http://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/#comment-1106), and it was from Al de Molina. (I did a little checking, and it seemed authentic, either from him himself, or something like a PR firm on his behalf.)
 

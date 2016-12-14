@@ -1,15 +1,12 @@
 ---
-author: Ryan Finnie
 categories:
 - Finnix
-date: 2005-11-06 20:25:00
-guid: http://www.finnie.org/2005/11/06/awww-isnt-it-cute/
-id: 514
+date: 2005-11-06 19:25:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/132939.html
 lj_itemid: 132939
-permalink: /2005/11/06/awww-isnt-it-cute/
 title: Awww, isn't it cute...
+wp_id: 514
 ---
 I now own a 1.25GHz/256MB Mac Mini. Got a sweet deal too. That now makes 4 mac machines I own, technically:
 

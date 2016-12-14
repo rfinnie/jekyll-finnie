@@ -1,14 +1,11 @@
 ---
-author: Ryan Finnie
-date: 2011-12-24 01:32:50
-guid: http://www.finnie.org/2011/12/24/2ping-1-2-released/
-id: 1925
+date: 2011-12-24 01:32:50-08:00
 layout: post
-permalink: /2011/12/24/2ping-1-2-released/
 tags:
 - 2ping
 - planetcanonical
 title: 2ping 1.2 released
+wp_id: 1925
 ---
 [2ping 1.2](http://www.finnie.org/software/2ping/) has been released, adding ping-style mdev/ewma statistics:
 

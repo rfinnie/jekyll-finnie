@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2010-02-18 19:12:42
-guid: http://www.finnie.org/2010/02/18/cisco-pix-dns-fixup-in-linux/
-id: 1259
+date: 2010-02-18 19:12:42-08:00
 layout: post
-permalink: /2010/02/18/cisco-pix-dns-fixup-in-linux/
 title: Cisco PIX DNS fixup in Linux?
+wp_id: 1259
 ---
 At work we have a Cisco PIX firewall for the office. It's decent (if a bit eccentric; that is, hard to configure), but occasionally I go through a thought exercise to see how this firewall could be replaced with a Linux firewall. Most of the functionality is easy in Linux (NAT, ACLs, VPNs, etc), but one thing I get hung up on is DNS fixup. Fixup is a monitoring service much like nf\_conntrack/nf\_nat in Linux, and in DNS fixup's case can rewrite responses depending on the context. Here's an explanation:
 

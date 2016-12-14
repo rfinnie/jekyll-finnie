@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2009-10-16 00:21:12
-guid: http://www.finnie.org/2009/10/16/mission-accomplished/
-id: 1070
+date: 2009-10-16 00:21:12-07:00
 layout: post
-permalink: /2009/10/16/mission-accomplished/
 title: Mission accomplished
+wp_id: 1070
 ---
 [<img src="http://farm4.static.flickr.com/3533/4015374963_1fa1941d75.jpg" width="500" height="355" alt="CC Debt vs. Savings (10/16/2009)" />](http://www.flickr.com/photos/fo0bar/4015374963/ "CC Debt vs. Savings (10/16/2009) by Ryan Finnie, on Flickr")
 

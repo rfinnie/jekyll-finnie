@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2010-07-12 00:07:38
-guid: http://www.finnie.org/2010/07/12/kindle-reading-list/
-id: 1347
+date: 2010-07-12 00:07:38-07:00
 layout: post
-permalink: /2010/07/12/kindle-reading-list/
 title: Kindle reading list
+wp_id: 1347
 ---
 In early January, I bought a Kindle 2 "International Edition" (previous editions used Sprint EVDO for wireless transfer; Amazon moved to GSM late last year). I had been considering an e-reader before then, and was mostly leaning toward a B&N Nook.
 

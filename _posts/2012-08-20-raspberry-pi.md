@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2012-08-20 15:34:44
-guid: http://www.finnie.org/2012/08/20/raspberry-pi/
-id: 2140
+date: 2012-08-20 15:34:44-07:00
 layout: post
-permalink: /2012/08/20/raspberry-pi/
 tags:
 - planetcanonical
 title: Raspberry Pi
+wp_id: 2140
 ---
 <div style="float: right; margin-left: 1em; margin-bottom: 1em;">
   <a href="http://www.flickr.com/photos/fo0bar/7811978806/" title="Raspberry Pi by Ryan Finnie, on Flickr"><img src="http://farm9.staticflickr.com/8432/7811978806_9ded4ec38b_m.jpg" width="240" height="180" alt="Raspberry Pi" /></a>

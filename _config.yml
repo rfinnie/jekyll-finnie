@@ -3,6 +3,7 @@ title: Ryan Finnie
 description: Personal blog for Ryan Finnie
 baseurl: ""
 url: "http://www.finnie.org"
+permalink: /:year/:month/:day/:title/
 top_links:
   - {title: "Finnix", url: "http://www.finnix.org/"}
   - {title: "Debian", url: "http://qa.debian.org/developer.php?login=ryan@finnie.org"}

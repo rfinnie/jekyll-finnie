@@ -1,14 +1,11 @@
 ---
-author: Ryan Finnie
-date: 2010-08-29 18:28:27
-guid: http://www.finnie.org/2010/08/29/introducing-2ping/
-id: 1489
+date: 2010-08-29 18:28:27-07:00
 layout: post
-permalink: /2010/08/29/introducing-2ping/
 tags:
 - 2ping
 - planetcanonical
 title: Introducing 2ping
+wp_id: 1489
 ---
 [2ping](http://www.finnie.org/software/2ping/) is a bi-directional ping utility. It uses 3-way pings (akin to TCP SYN, SYN/ACK, ACK) and after-the-fact state comparison between a 2ping listener and a 2ping client to determine which direction packet loss occurs.
 

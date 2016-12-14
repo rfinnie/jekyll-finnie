@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-12-23 18:14:56
-guid: http://www.finnie.org/2009/12/23/i-forgot-about-christmas/
-id: 1222
+date: 2009-12-23 18:14:56-08:00
 layout: post
-permalink: /2009/12/23/i-forgot-about-christmas/
 title: I forgot about Christmas.
+wp_id: 1222
 ---
 Literally.
 

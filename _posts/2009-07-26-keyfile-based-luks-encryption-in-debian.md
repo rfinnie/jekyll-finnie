@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-07-26 15:14:09
-guid: http://www.finnie.org/2009/07/26/keyfile-based-luks-encryption-in-debian/
-id: 982
+date: 2009-07-26 15:14:09-07:00
 layout: post
-permalink: /2009/07/26/keyfile-based-luks-encryption-in-debian/
 title: Keyfile-based LUKS encryption in Debian
+wp_id: 982
 ---
 As a follow-up to [yesterday's post](http://www.finnie.org/2009/07/26/howto-encrypt-an-existing-debian-installation/), here is the "Debian way" to do multiple LUKS-encrypted partitions on a system. In my case, I wanted to add a second drive, a backup storage drive, to my router. LUKS allows for multiple passwords or keyfiles to unlock a partition, which can be used to automate mounting. First, create a LUKS partition as normal (<tt>/dev/sdb1</tt> assumed here):
 

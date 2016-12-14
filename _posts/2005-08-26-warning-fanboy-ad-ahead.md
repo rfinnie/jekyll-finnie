@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2005-08-26 23:16:00
-guid: http://www.finnie.org/2005/08/26/warning-fanboy-ad-ahead/
-id: 467
+date: 2005-08-26 23:16:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/121240.html
 lj_itemid: 121240
-permalink: /2005/08/26/warning-fanboy-ad-ahead/
 title: 'Warning: fanboy ad ahead'
+wp_id: 467
 ---
 I have to admit it: I love eMachines. The name used to synonymous with "utter crap", but a couple years ago, they brought in a new CEO who said "OK, we make shit, let's change that". Since then, they've made decent computers using off-the-shelf components at prices that are much lower than anything you could get from another manufacturer (and sometimes, lower than it would cost to build yourself). Over the years, I have bought these boxes from eMachines (I'm too lazy to look up the model numbers):
 

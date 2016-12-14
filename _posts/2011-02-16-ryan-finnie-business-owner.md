@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2011-02-16 19:39:25
-guid: http://www.finnie.org/2011/02/16/ryan-finnie-business-owner/
-id: 1752
+date: 2011-02-16 19:39:25-08:00
 layout: post
-permalink: /2011/02/16/ryan-finnie-business-owner/
 title: Ryan Finnie, business owner
+wp_id: 1752
 ---
 Last year, I accidentally became a small business owner. I just found that out this week.
 

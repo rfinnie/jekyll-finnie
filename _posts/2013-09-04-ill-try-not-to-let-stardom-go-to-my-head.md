@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2013-09-04 19:22:16
-guid: http://www.finnie.org/2013/09/04/ill-try-not-to-let-stardom-go-to-my-head/
-id: 2325
+date: 2013-09-04 19:22:16-07:00
 layout: post
-permalink: /2013/09/04/ill-try-not-to-let-stardom-go-to-my-head/
 title: I'll try not to let stardom go to my head
+wp_id: 2325
 ---
 [I'm now in IMDB](http://www.imdb.com/name/nm5897184/), and officially have a Bacon number of 3.
 

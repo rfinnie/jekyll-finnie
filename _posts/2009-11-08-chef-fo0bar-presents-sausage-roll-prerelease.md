@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Chef Fo0bar Presents
-date: 2009-11-08 20:29:52
-guid: http://www.finnie.org/2009/11/08/chef-fo0bar-presents-sausage-roll-prerelease/
-id: 1196
+date: 2009-11-08 20:29:52-08:00
 layout: post
-permalink: /2009/11/08/chef-fo0bar-presents-sausage-roll-prerelease/
 title: 'Chef Fo0bar presents: Sausage Roll Prerelease'
+wp_id: 1196
 ---
 [<img src="http://farm3.static.flickr.com/2506/4087845507_84d04e74d7.jpg" width="500" height="375" alt="Sausage roll" />](http://www.flickr.com/photos/fo0bar/4087845507/ "Sausage roll by Ryan Finnie, on Flickr")
 

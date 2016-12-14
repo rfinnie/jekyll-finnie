@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Hampr
-date: 2009-06-01 02:01:58
-guid: http://www.finnie.org/2009/06/01/hampr-firefox-extension-200-released/
-id: 878
+date: 2009-06-01 02:01:58-07:00
 layout: post
-permalink: /2009/06/01/hampr-firefox-extension-200-released/
 title: Hampr Firefox extension 2.0.0 released
+wp_id: 878
 ---
 [Hampr](https://www.hampr.com/) is a free, centralized, personal bookmark manager. Hampr is designed for users who want access to their bookmarks from several locations, such as home, work and school. Hampr is similar in concept to del.icio.us, but is not public in nature.
 

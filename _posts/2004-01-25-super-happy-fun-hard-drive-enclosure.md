@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2004-01-25 18:06:00
-guid: http://www.finnie.org/2004/01/25/super-happy-fun-hard-drive-enclosure/
-id: 236
+date: 2004-01-25 17:06:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/60274.html
 lj_itemid: 60274
-permalink: /2004/01/25/super-happy-fun-hard-drive-enclosure/
 title: Super happy fun hard drive enclosure!
+wp_id: 236
 ---
 I bought a 160GB HD from compusa (only $60 after about 20 mail-in rebates!), and a 3.5" USB2 enclosure. The real gem is an instruction sheet for the enclosure, written in the best Engrish I have ever seen. I'll need to find a scanner, but here is the text:
 

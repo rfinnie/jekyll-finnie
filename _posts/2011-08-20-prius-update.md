@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2011-08-20 18:40:45
-guid: http://www.finnie.org/2011/08/20/prius-update/
-id: 1884
+date: 2011-08-20 18:40:45-07:00
 layout: post
-permalink: /2011/08/20/prius-update/
 title: Prius update
+wp_id: 1884
 ---
 A few weeks after [I installed a tow hitch](http://www.finnie.org/2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/) on my 2009 Toyota Prius earlier this year, I went down to southern California to go camping in the Mojave desert and the tow hitch became handy. Close to our site, I got stuck in a sand dune. Thankfully a truck was nearby (our camp was mostly comprised of Burners, and we treat the outing as a mini Burning Man in the spring, but the area is also frequented by motocross bike and quad riders due to the trails), and they looped a tow chain around my tow bar and easily pulled me back to stable ground.
 

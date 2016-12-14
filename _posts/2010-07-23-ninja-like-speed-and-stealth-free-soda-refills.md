@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2010-07-23 18:24:35
-guid: http://www.finnie.org/2010/07/23/ninja-like-speed-and-stealth-free-soda-refills/
-id: 1433
+date: 2010-07-23 18:24:35-07:00
 layout: post
-permalink: /2010/07/23/ninja-like-speed-and-stealth-free-soda-refills/
 title: Ninja-like speed and stealth. Free soda refills.
+wp_id: 1433
 ---
 Panda Express is a well-oiled machine, designed to make sure you always get what you didn't want.
 

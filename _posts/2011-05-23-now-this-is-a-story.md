@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2011-05-23 17:47:57
-guid: http://www.finnie.org/2011/05/23/now-this-is-a-story/
-id: 1819
+date: 2011-05-23 17:47:57-07:00
 layout: post
-permalink: /2011/05/23/now-this-is-a-story/
 title: Now this is a story all about how my life...
+wp_id: 1819
 ---
 ... got twisted upside down.
 

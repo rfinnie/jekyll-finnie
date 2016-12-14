@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2011-02-04 02:20:24
-guid: http://www.finnie.org/2011/02/04/more-ipv6-musings/
-id: 1725
+date: 2011-02-04 02:20:24-08:00
 layout: post
-permalink: /2011/02/04/more-ipv6-musings/
 tags:
 - planetcanonical
 title: More IPv6 musings
+wp_id: 1725
 ---
 A local ISP, Great Basin Internet Services, was allocated a /32, [2607:f1a8::/32](http://whois.arin.net/rest/net/NET6-2607-F1A8-1), an inconceivable number of IPs. My first thought was, "gee, the IANA is already over-allocating and not learning from history". However, doing the math starts to put things back in perspective:
 

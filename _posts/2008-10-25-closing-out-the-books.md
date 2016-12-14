@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2008-10-25 16:37:00
-guid: http://www.finnie.org/2008/10/25/closing-out-the-books/
-id: 745
+date: 2008-10-25 16:37:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/195880.html
 lj_itemid: 195880
-permalink: /2008/10/25/closing-out-the-books/
 title: Closing out the books
+wp_id: 745
 ---
 [<img src="http://farm2.static.flickr.com/1347/539416206_c00ccf50e1_m.jpg" width="240" height="180" alt="DSCN0449" style="float: left; margin-right: 1em;" />](http://www.flickr.com/photos/fo0bar/539416206/ "DSCN0449 by fo0bar, on Flickr") Every time I filled up the 2007 Prius (and it was a fill-up every time; I'm not one of those people who put a few dollars in here and there), I wrote down the mileage on the receipt and kept the receipt in the glove box. At first it was basically for legal reasons. As I mentioned before, California has this craziness where if you buy from a California dealership and live outside the state, you 1) cannot bring the car back into the state for 90 days, and 2) must prove that the car was operated primarily outside of the state for the first 6 months, if questioned. Traditionally this is done with gas receipts. After the first 6 months, I just continued out of habit.
 

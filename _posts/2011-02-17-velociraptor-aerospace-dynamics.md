@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2011-02-17 12:26:44
-guid: http://www.finnie.org/2011/02/17/velociraptor-aerospace-dynamics/
-id: 1763
+date: 2011-02-17 12:26:44-08:00
 layout: post
-permalink: /2011/02/17/velociraptor-aerospace-dynamics/
 title: Velociraptor Aerospace Dynamics
+wp_id: 1763
 ---
 After [yesterday's post](http://www.finnie.org/2011/02/16/ryan-finnie-business-owner/), I went back to my finances, talked with some friends, and did some research on the implications of running a business. And I determined that it does make a lot of sense to manage my various online ventures as a full-fledged (sole proprietor) business. So yay, I've made the leap from accidental business owner to willing business owner.
 

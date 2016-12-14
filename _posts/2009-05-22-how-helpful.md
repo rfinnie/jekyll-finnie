@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2009-05-22 21:23:29
-guid: http://www.finnie.org/2009/05/22/how-helpful/
-id: 863
+date: 2009-05-22 21:23:29-07:00
 layout: post
-permalink: /2009/05/22/how-helpful/
 title: How helpful.
+wp_id: 863
 ---
 I really like Quicken 2007, but the automatically-generated pie charts aren't that helpful.
 

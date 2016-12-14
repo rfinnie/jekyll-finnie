@@ -1,14 +1,11 @@
 ---
-author: Ryan Finnie
-date: 2012-04-22 20:14:45
-guid: http://www.finnie.org/2012/04/22/2ping-2-0-released/
-id: 2072
+date: 2012-04-22 20:14:45-07:00
 layout: post
-permalink: /2012/04/22/2ping-2-0-released/
 tags:
 - 2ping
 - planetcanonical
 title: 2ping 2.0 released
+wp_id: 2072
 ---
 [2ping 2.0](http://www.finnie.org/software/2ping/) has been released today. User-visible changes are minor, but behind the scenes, a major update to the protocol specification has been implemented, justifying the major version bump:
 

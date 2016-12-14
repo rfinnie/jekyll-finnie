@@ -1,14 +1,11 @@
 ---
-author: Ryan Finnie
-date: 2011-02-27 15:20:12
-guid: http://www.finnie.org/2011/02/27/minecraft/
-id: 1769
+date: 2011-02-27 15:20:12-08:00
 layout: post
-permalink: /2011/02/27/minecraft/
 tags:
 - minecraft
 - planetcanonical
 title: Minecraft
+wp_id: 1769
 ---
 Minecraft minecraft minecraft minecraft [Minecraft](http://www.minecraft.net/) minecraft.
 

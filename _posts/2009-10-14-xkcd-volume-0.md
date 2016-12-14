@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-10-14 12:18:23
-guid: http://www.finnie.org/2009/10/14/xkcd-volume-0/
-id: 1046
+date: 2009-10-14 12:18:23-07:00
 layout: post
-permalink: /2009/10/14/xkcd-volume-0/
 title: 'xkcd: volume 0'
+wp_id: 1046
 ---
 [<img src="http://farm3.static.flickr.com/2519/4009801890_bf9c108e39.jpg" width="500" height="375" alt="xkcd: volume 0" />](http://www.flickr.com/photos/fo0bar/4009801890/ "xkcd: volume 0 by Ryan Finnie, on Flickr")
 

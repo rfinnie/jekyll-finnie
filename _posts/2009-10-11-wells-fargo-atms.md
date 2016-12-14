@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2009-10-11 19:55:12
-guid: http://www.finnie.org/2009/10/11/wells-fargo-atms/
-id: 1067
+date: 2009-10-11 19:55:12-07:00
 layout: post
-permalink: /2009/10/11/wells-fargo-atms/
 title: Wells Fargo ATMs
+wp_id: 1067
 ---
 Earlier this year, Wells Fargo rolled out a new generation of ATMs. Previously, to make cash or check deposits, you put the bills and checks into a supplied envelope, told the ATM how much you were depositing, then inserted the envelope. These new ATMs will accept loose stacks of bills and checks.
 

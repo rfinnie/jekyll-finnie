@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2012-10-25 23:51:20
-guid: http://www.finnie.org/2012/10/25/it-all-falls-apart/
-id: 2168
+date: 2012-10-25 23:51:20-07:00
 layout: post
-permalink: /2012/10/25/it-all-falls-apart/
 title: It all falls apart
+wp_id: 2168
 ---
 The last few months had been going great. I had gone on a diet and exercise, and had lost over 30 pounds. I was feeling very good with myself.
 

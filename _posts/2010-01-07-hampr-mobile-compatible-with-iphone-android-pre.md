@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Hampr
-date: 2010-01-07 00:42:51
-guid: http://www.finnie.org/2010/01/07/hampr-mobile-compatible-with-iphone-android-pre/
-id: 1230
+date: 2010-01-07 00:42:51-08:00
 layout: post
-permalink: /2010/01/07/hampr-mobile-compatible-with-iphone-android-pre/
 title: Hampr Mobile compatible with iPhone, Android, Pre
+wp_id: 1230
 ---
 [<img src="http://www.hampr.com/images/hampr-ss-mobile-webkit-sm.png" alt="Hampr Mobile screenshot" style="float: right; margin: 1em;" />](http://www.hampr.com/images/hampr-ss-mobile-webkit.png)Two years ago, an "iPhone" version of the Hampr web interface was released, optimized for the iPhone web browser. Well, here we are in The Future, and the same interface works equally well on many WebKit-based mobile browsers. The Hampr Mobile interface has been tested on:
 

@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2010-08-23 00:39:54
-guid: http://www.finnie.org/2010/08/23/dns-ttls-and-web-spiders/
-id: 1495
+date: 2010-08-23 00:39:54-07:00
 layout: post
-permalink: /2010/08/23/dns-ttls-and-web-spiders/
 title: DNS TTLs and web spiders
+wp_id: 1495
 ---
 I've moved a few servers at work to our new datacenter, using the "normal" method: adjust TTLs from 3600 to 120, wait an hour, sync servers, change DNS to new IP, all traffic should be going to new server within 2 minutes, bump TTLs back up to 3600.
 

@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2010-08-09 21:37:35
-guid: http://www.finnie.org/2010/08/09/flickr-mail-bounce/
-id: 1465
+date: 2010-08-09 21:37:35-07:00
 layout: post
-permalink: /2010/08/09/flickr-mail-bounce/
 title: Flickr mail bounce
+wp_id: 1465
 ---
 One of those rare glimpses into the workings of a large public service. Today I sent [a photo](http://www.flickr.com/photos/fo0bar/4878293154/) from my phone to Flickr using their email gateway, and the first time it bounced back:
 
