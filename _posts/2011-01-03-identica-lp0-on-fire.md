@@ -11,6 +11,8 @@ categories:
 tags:
   - planet:canonical
 ---
+<iframe width="640" height="360" src="https://www.youtube.com/embed/niAme_z9vxI" frameborder="0" allowfullscreen></iframe>
+
 Behold, the Panasonic KX-P2023. Introduced in the early 90s and [still in production today](http://www.officedepot.com/a/products/543371/KX-P2023-24-PIN-240-CPS/), the KX-P2023 is a 24-pin parallel dot-matrix printer, capable of handling sheet-fed copier paper or perforated computer paper.
 
 This particular KX-P2023 is 18 years old, bought by my family as part of a computer bundle in 1993, along with a Packard Bell 486SX computer and monitor. When I turned 18 and moved into my own apartment, I took the printer with me, as inkjets were still somewhat expensive, but I eventually bought a replacement printer. Still, over the next decade or so, the dot matrix printer traveled with me as I moved to the west coast, but wasn't powered on for more than a decade. Last year, I dug it out of storage, and tried to think of a purpose for it.
