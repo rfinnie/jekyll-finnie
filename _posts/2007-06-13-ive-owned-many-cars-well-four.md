@@ -1,17 +1,17 @@
 ---
-id: 679
-title: "I've owned many cars.  Well, four."
-date: 2007-06-13T01:37:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/06/13/ive-owned-many-cars-well-four/
-permalink: /2007/06/13/ive-owned-many-cars-well-four/
-lj_itemid:
-  - "177463"
-lj_import_url:
-  - http://fo0bar.livejournal.com/177463.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2007-06-13 01:37:00
+guid: http://www.finnie.org/2007/06/13/ive-owned-many-cars-well-four/
+id: 679
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/177463.html
+lj_itemid:
+- '177463'
+permalink: /2007/06/13/ive-owned-many-cars-well-four/
+title: I've owned many cars.  Well, four.
 ---
 I've pulled together, and imported into Flickr, pics of the cars I have owned. Each photo links to its gallery.
 

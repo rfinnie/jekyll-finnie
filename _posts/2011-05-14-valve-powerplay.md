@@ -1,13 +1,13 @@
 ---
-id: 1814
-title: Valve PowerPlay
-date: 2011-05-14T00:13:02+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/05/14/valve-powerplay/
-permalink: /2011/05/14/valve-powerplay/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-05-14 00:13:02
+guid: http://www.finnie.org/2011/05/14/valve-powerplay/
+id: 1814
+layout: post
+permalink: /2011/05/14/valve-powerplay/
+title: Valve PowerPlay
 ---
 I've worked in the digital marketing industry for nearly a decade. Not that I'd consider myself a marketer; my job qualifications can be applied to any industry, but it just so happened I worked for digital marketing companies for 9 years in two of my last three employers.
 

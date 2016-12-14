@@ -1,20 +1,20 @@
 ---
-id: 576
-title: 'Chef fo0bar Returns -- A Jerry Bruckheimer film'
-date: 2006-04-07T22:42:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
-permalink: /2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
-lj_itemid:
-  - "149407"
-lj_import_url:
-  - http://fo0bar.livejournal.com/149407.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2006-04-07 22:42:00
+guid: http://www.finnie.org/2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
+id: 576
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/149407.html
+lj_itemid:
+- '149407'
+permalink: /2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
 tags:
-  - chili
-  - recipes
+- chili
+- recipes
+title: Chef fo0bar Returns -- A Jerry Bruckheimer film
 ---
 <div class="flickr-frame">
   <a href="http://www.flickr.com/photos/25307084@N00/124999147/" title="photo sharing"><img src="http://static.flickr.com/1/124999147_e6c1581571.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="http://www.flickr.com/photos/25307084@N00/124999147/">Faux Chili John's</a>, originally uploaded by <a href="http://www.flickr.com/people/25307084@N00/">fo0bar</a>.</span>

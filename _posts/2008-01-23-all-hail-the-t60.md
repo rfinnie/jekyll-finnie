@@ -1,17 +1,17 @@
 ---
-id: 710
-title: All hail the T60
-date: 2008-01-23T16:05:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2008/01/23/all-hail-the-t60/
-permalink: /2008/01/23/all-hail-the-t60/
-lj_itemid:
-  - "186574"
-lj_import_url:
-  - http://fo0bar.livejournal.com/186574.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-01-23 16:05:00
+guid: http://www.finnie.org/2008/01/23/all-hail-the-t60/
+id: 710
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/186574.html
+lj_itemid:
+- '186574'
+permalink: /2008/01/23/all-hail-the-t60/
+title: All hail the T60
 ---
 It's been just over a year [since I bought a ThinkPad T60](http://fo0bar.livejournal.com/169112.html), and it's still great. Normally a laptop will not last more than a year for me, so the fact that it still looks like it did when I bought it is a testament to its strength. It's survived several falls, and has even been sat on (twice, don't ask). The keys all still have their paint on them, and no paint has worn off (indeed, except for the key lettering, none of the plastic is painted). Even the Little Rubber Feet are still all attached.
 

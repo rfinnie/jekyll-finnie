@@ -1,15 +1,15 @@
 ---
-id: 1264
-title: External temperature monitoring with Linux
-date: 2010-03-07T15:36:23+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/03/07/external-temperature-monitoring-with-linux/
-permalink: /2010/03/07/external-temperature-monitoring-with-linux/
-openid_comments:
-  - 'a:1:{i:0;s:5:"33137";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-03-07 15:36:23
+guid: http://www.finnie.org/2010/03/07/external-temperature-monitoring-with-linux/
+id: 1264
+layout: post
+openid_comments:
+- a:1:{i:0;s:5:"33137";}
+permalink: /2010/03/07/external-temperature-monitoring-with-linux/
+title: External temperature monitoring with Linux
 ---
 [<img src="/blog-media/2010/03/renooffice_servercloset_temp0-day3.png" alt="MRTG Temperature" title="MRTG Temperature" width="500" height="135" style="border-style: none;" />](/blog-media/2010/03/renooffice_servercloset_temp0-day3.png)
 

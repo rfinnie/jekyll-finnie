@@ -1,17 +1,17 @@
 ---
-id: 688
-title: "If you can't take the heat, get out of the NOC."
-date: 2007-07-09T13:34:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
-permalink: /2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
-lj_itemid:
-  - "180930"
-lj_import_url:
-  - http://fo0bar.livejournal.com/180930.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2007-07-09 13:34:00
+guid: http://www.finnie.org/2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
+id: 688
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/180930.html
+lj_itemid:
+- '180930'
+permalink: /2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
+title: If you can't take the heat, get out of the NOC.
 ---
 _(I wrote this story to submit to The Daily WTF, so it's simplified in some places. Keep this in mind if you know details about the company and want to go "THAT'S NOT EXACTLY HOW IT HAPPENED!")_
 

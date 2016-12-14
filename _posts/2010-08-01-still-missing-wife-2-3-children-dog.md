@@ -1,13 +1,13 @@
 ---
-id: 1449
-title: 'Still missing: wife, 2.3 children, dog'
-date: 2010-08-01T15:09:20+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/08/01/still-missing-wife-2-3-children-dog/
-permalink: /2010/08/01/still-missing-wife-2-3-children-dog/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-08-01 15:09:20
+guid: http://www.finnie.org/2010/08/01/still-missing-wife-2-3-children-dog/
+id: 1449
+layout: post
+permalink: /2010/08/01/still-missing-wife-2-3-children-dog/
+title: 'Still missing: wife, 2.3 children, dog'
 ---
 [<img src="http://farm5.static.flickr.com/4137/4850509973_a3ced98e2a.jpg" width="500" height="375" alt="New dining room table" />](http://www.flickr.com/photos/fo0bar/4850509973/ "New dining room table by Ryan Finnie, on Flickr")
 

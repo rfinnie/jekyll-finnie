@@ -1,17 +1,17 @@
 ---
-id: 749
-title: Some people collect baseball cards.
-date: 2008-11-02T22:24:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2008/11/02/some-people-collect-baseball-cards/
-permalink: /2008/11/02/some-people-collect-baseball-cards/
-lj_itemid:
-  - "197093"
-lj_import_url:
-  - http://fo0bar.livejournal.com/197093.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2008-11-02 22:24:00
+guid: http://www.finnie.org/2008/11/02/some-people-collect-baseball-cards/
+id: 749
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/197093.html
+lj_itemid:
+- '197093'
+permalink: /2008/11/02/some-people-collect-baseball-cards/
+title: Some people collect baseball cards.
 ---
 [<img src="http://farm4.static.flickr.com/3185/2997883815_6977cd3a65.jpg" width="500" height="375" alt="Sun Blade 100" />](http://www.flickr.com/photos/fo0bar/2997883815/ "Sun Blade 100 by fo0bar, on Flickr")
   

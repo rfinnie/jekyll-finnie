@@ -1,13 +1,13 @@
 ---
-id: 2331
-title: Confessions of a casual PS4 launch participant
-date: 2013-11-16T19:18:43+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2013/11/16/confessions-of-a-casual-ps4-launch-participant/
-permalink: /2013/11/16/confessions-of-a-casual-ps4-launch-participant/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2013-11-16 19:18:43
+guid: http://www.finnie.org/2013/11/16/confessions-of-a-casual-ps4-launch-participant/
+id: 2331
+layout: post
+permalink: /2013/11/16/confessions-of-a-casual-ps4-launch-participant/
+title: Confessions of a casual PS4 launch participant
 ---
 On Friday at 12:01 AM, I became a PlayStation 4 owner. I was first in line at the Carson Valley Best Buy to get one. No, I didn't camp out for a week or anything. In fact, it was mostly accidental.
 

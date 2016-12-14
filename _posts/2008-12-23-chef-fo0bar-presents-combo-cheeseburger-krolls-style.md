@@ -1,17 +1,17 @@
 ---
-id: 751
-title: "Chef fo0bar presents: Combo cheeseburger, Kroll's style"
-date: 2008-12-23T00:14:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
-permalink: /2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
-lj_itemid:
-  - "197746"
-lj_import_url:
-  - http://fo0bar.livejournal.com/197746.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2008-12-23 00:14:00
+guid: http://www.finnie.org/2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
+id: 751
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/197746.html
+lj_itemid:
+- '197746'
+permalink: /2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
+title: 'Chef fo0bar presents: Combo cheeseburger, Kroll''s style'
 ---
 [<img src="http://farm4.static.flickr.com/3198/3130540182_9a6da1ae93.jpg" width="500" height="375" alt="Combo cheeseburger - Kroll's style" />](http://www.flickr.com/photos/fo0bar/3130540182/ "Combo cheeseburger - Kroll's style by fo0bar, on Flickr")
 

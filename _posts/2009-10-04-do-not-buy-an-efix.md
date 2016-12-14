@@ -1,17 +1,17 @@
 ---
-id: 1024
-title: Do not buy an EFiX
-date: 2009-10-04T12:51:37+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/10/04/do-not-buy-an-efix/
-permalink: /2009/10/04/do-not-buy-an-efix/
-openid_comments:
-  - 'a:1:{i:0;s:5:"41514";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-10-04 12:51:37
+guid: http://www.finnie.org/2009/10/04/do-not-buy-an-efix/
+id: 1024
+layout: post
+openid_comments:
+- a:1:{i:0;s:5:"41514";}
+permalink: /2009/10/04/do-not-buy-an-efix/
 tags:
-  - efi-x
+- efi-x
+title: Do not buy an EFiX
 ---
 I had been meaning to post about this, but it happened right before I left for Burning Man and I let it slip. Nevertheless, do NOT buy an EFiX. Art Studios is a horribly managed company that has screwed me, all early adopters (most of their userbase), and they will eventually screw you too.
 

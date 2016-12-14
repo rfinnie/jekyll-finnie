@@ -1,15 +1,15 @@
 ---
-id: 1803
-title: Trailer hitch on a Toyota Prius (2nd generation)
-date: 2011-04-30T14:11:59+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/
-permalink: /2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/
-openid_comments:
-  - 'a:1:{i:0;s:6:"112452";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-04-30 14:11:59
+guid: http://www.finnie.org/2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/
+id: 1803
+layout: post
+openid_comments:
+- a:1:{i:0;s:6:"112452";}
+permalink: /2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/
+title: Trailer hitch on a Toyota Prius (2nd generation)
 ---
 <a href="http://www.flickr.com/photos/fo0bar/5673572604/" title="Trailer hitch, 2009 Toyota Prius by Ryan Finnie, on Flickr" style="float: right; margin: 1em;"><img src="http://farm6.static.flickr.com/5268/5673572604_d6180e939e_m.jpg" width="240" height="180" alt="Trailer hitch, 2009 Toyota Prius" /></a>This week I bought and installed a Curt 1 1/4" trailer hitch on my 2009 Toyota Prius. U-Haul sells them for $135, model 24743 (which covers all Gen 2 Priuses, 2004-2009). It is a Class I hitch, which allows for 2000 lbs towing weight or 200 lbs tongue weight (that is, the downward force upon the hitch, when a bike rack is installed for example). Officially Toyota does not recommend any sort of towing with the Prius, but unofficially you should be able to tow up to the Class I limit of 2000 lbs without a problem. However, the main reason I installed one was for a bike rack.
 

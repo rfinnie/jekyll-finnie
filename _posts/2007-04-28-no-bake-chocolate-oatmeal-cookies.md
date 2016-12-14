@@ -1,19 +1,19 @@
 ---
-id: 661
-title: No-Bake Chocolate Oatmeal Cookies
-date: 2007-04-28T20:31:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/04/28/no-bake-chocolate-oatmeal-cookies/
-permalink: /2007/04/28/no-bake-chocolate-oatmeal-cookies/
-lj_itemid:
-  - "172852"
-lj_import_url:
-  - http://fo0bar.livejournal.com/172852.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2007-04-28 20:31:00
+guid: http://www.finnie.org/2007/04/28/no-bake-chocolate-oatmeal-cookies/
+id: 661
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/172852.html
+lj_itemid:
+- '172852'
+permalink: /2007/04/28/no-bake-chocolate-oatmeal-cookies/
 tags:
-  - recipes
+- recipes
+title: No-Bake Chocolate Oatmeal Cookies
 ---
 <div class="flickr-frame">
   <a href="http://www.flickr.com/photos/fo0bar/476287469/" title="photo sharing"><img src="http://farm1.static.flickr.com/224/476287469_989f096db5.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="http://www.flickr.com/photos/fo0bar/476287469/">No-Bake Chocolate Oatmeal Cookies</a>, originally uploaded by <a href="http://www.flickr.com/people/fo0bar/">fo0bar</a>.</span>

@@ -1,15 +1,15 @@
 ---
-id: 2450
-title: Raspberry Pi 2 Ubuntu / Raspbian benchmarks
-date: 2015-02-21T17:04:11+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2015/02/21/raspberry-pi-2-ubuntu-raspbian-benchmarks/
-permalink: /2015/02/21/raspberry-pi-2-ubuntu-raspbian-benchmarks/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2015-02-21 17:04:11
+guid: http://www.finnie.org/2015/02/21/raspberry-pi-2-ubuntu-raspbian-benchmarks/
+id: 2450
+layout: post
+permalink: /2015/02/21/raspberry-pi-2-ubuntu-raspbian-benchmarks/
 tags:
-  - planet:canonical
+- planet:canonical
+title: Raspberry Pi 2 Ubuntu / Raspbian benchmarks
 ---
 One of the nice things about the Raspberry Pi 2 is it has a Cortex-A7-based ARMv7 CPU, as opposed to the original Pi's ARMv6 CPU. This not only allows many more distributions to run on it (as most armhf distributions are compiled to ARMv7 minimum), but also brings with it the performance benefits associated with userland ARMv7 code. [After releasing an Ubuntu 14.04 (trusty) image for the Raspberry Pi 2](http://www.finnie.org/2015/02/16/raspberry-pi-2-update-ubuntu-14-04-image-available/), I decided to pit Raspbian (which uses an ARMv6 userland for compatibility between the original Pi and the Pi 2) against Ubuntu (which is only compiled to ARMv7). I also benchmarked a [Utilite Pro](http://www.compulab.co.il/utilite-computer/web/utilite-models), an ARM system with a faster CPU and built-in SSD, and a modern Intel server.
 

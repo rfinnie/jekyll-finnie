@@ -1,15 +1,15 @@
 ---
-id: 2099
-title: IPv6 in Apple iOS
-date: 2012-06-08T17:15:58+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/06/08/ipv6-in-apple-ios/
-permalink: /2012/06/08/ipv6-in-apple-ios/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-06-08 17:15:58
+guid: http://www.finnie.org/2012/06/08/ipv6-in-apple-ios/
+id: 2099
+layout: post
+permalink: /2012/06/08/ipv6-in-apple-ios/
 tags:
-  - planet:canonical
+- planet:canonical
+title: IPv6 in Apple iOS
 ---
 I solved [my problem from a few months ago](http://www.finnie.org/2012/03/22/ios-devices-not-getting-ipv6/) with my iPhone and iPad not being able to get IPv6 info. It was actually a combination of two problems.
 

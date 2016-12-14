@@ -1,13 +1,13 @@
 ---
-id: 2345
-title: 'PlayStation 4: The Review'
-date: 2013-12-27T19:18:16+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2013/12/27/playstation-4-the-review/
-permalink: /2013/12/27/playstation-4-the-review/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2013-12-27 19:18:16
+guid: http://www.finnie.org/2013/12/27/playstation-4-the-review/
+id: 2345
+layout: post
+permalink: /2013/12/27/playstation-4-the-review/
+title: 'PlayStation 4: The Review'
 ---
 OK, a month ago I said I'd make a review of the PS4, and tonight I finally sat down and started writing. And my god was it boring. I was a thousand words in and had only mentioned the physical console and the controller so far. So I deleted it all and started over.
 

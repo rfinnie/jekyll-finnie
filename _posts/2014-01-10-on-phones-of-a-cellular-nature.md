@@ -1,13 +1,13 @@
 ---
-id: 2353
-title: On phones of a cellular nature
-date: 2014-01-10T22:30:04+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2014/01/10/on-phones-of-a-cellular-nature/
-permalink: /2014/01/10/on-phones-of-a-cellular-nature/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-01-10 22:30:04
+guid: http://www.finnie.org/2014/01/10/on-phones-of-a-cellular-nature/
+id: 2353
+layout: post
+permalink: /2014/01/10/on-phones-of-a-cellular-nature/
+title: On phones of a cellular nature
 ---
 In 2000, I walked into a Pacific Bell Wireless store on Market St. in San Francisco and signed up for service. For the next twelve years, I stayed with them through six different names:
 

@@ -1,17 +1,17 @@
 ---
-id: 508
-title: Finnix 86.0 Released
-date: 2005-10-24T01:03:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2005/10/24/finnix-860-released/
-permalink: /2005/10/24/finnix-860-released/
-lj_itemid:
-  - "131443"
-lj_import_url:
-  - http://fo0bar.livejournal.com/131443.html
 categories:
-  - Finnix
+- Finnix
+date: 2005-10-24 01:03:00
+guid: http://www.finnie.org/2005/10/24/finnix-860-released/
+id: 508
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/131443.html
+lj_itemid:
+- '131443'
+permalink: /2005/10/24/finnix-860-released/
+title: Finnix 86.0 Released
 ---
 <http://sourceforge.net/forum/forum.php?forum_id=505408> (Ain't I good at writin'?)
 

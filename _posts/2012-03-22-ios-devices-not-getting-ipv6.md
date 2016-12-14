@@ -1,15 +1,15 @@
 ---
-id: 2045
-title: '[Resolved] iOS devices not getting IPv6'
-date: 2012-03-22T21:17:54+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/03/22/ios-devices-not-getting-ipv6/
-permalink: /2012/03/22/ios-devices-not-getting-ipv6/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-03-22 21:17:54
+guid: http://www.finnie.org/2012/03/22/ios-devices-not-getting-ipv6/
+id: 2045
+layout: post
+permalink: /2012/03/22/ios-devices-not-getting-ipv6/
 tags:
-  - planet:canonical
+- planet:canonical
+title: '[Resolved] iOS devices not getting IPv6'
 ---
 Dear Lazyweb,
 

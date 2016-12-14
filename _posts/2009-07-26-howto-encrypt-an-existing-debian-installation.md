@@ -1,19 +1,19 @@
 ---
-id: 965
-title: 'HOWTO: Encrypt an existing Debian installation'
-date: 2009-07-26T02:00:17+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/07/26/howto-encrypt-an-existing-debian-installation/
-permalink: /2009/07/26/howto-encrypt-an-existing-debian-installation/
-openid_comments:
-  - 'a:2:{i:0;s:4:"2720";i:1;i:368301;}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-07-26 02:00:17
+guid: http://www.finnie.org/2009/07/26/howto-encrypt-an-existing-debian-installation/
+id: 965
+layout: post
+openid_comments:
+- a:2:{i:0;s:4:"2720";i:1;i:368301;}
+permalink: /2009/07/26/howto-encrypt-an-existing-debian-installation/
 tags:
-  - encryption
-  - Finnix
-  - linux
+- encryption
+- Finnix
+- linux
+title: 'HOWTO: Encrypt an existing Debian installation'
 ---
 The last few days have been a snowball of encryption, so to speak. For years, I've done [full disk encryption](http://en.wikipedia.org/wiki/Full_disk_encryption) on my Debian laptop. But this week I decided to look into TrueCrypt's full disk encryption for my Windows desktop. It works surprisingly well ("where's the catch", I've basically been saying to myself), but that started making me follow the data trail.
 

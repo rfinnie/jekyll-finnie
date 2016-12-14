@@ -1,13 +1,13 @@
 ---
-id: 1850
-title: My four year old TV
-date: 2011-07-03T19:49:38+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/07/03/my-four-year-old-tv/
-permalink: /2011/07/03/my-four-year-old-tv/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-07-03 19:49:38
+guid: http://www.finnie.org/2011/07/03/my-four-year-old-tv/
+id: 1850
+layout: post
+permalink: /2011/07/03/my-four-year-old-tv/
+title: My four year old TV
 ---
 [<img src="http://farm3.static.flickr.com/2169/2375892865_47e5164379_m.jpg" width="240" height="180" alt="Finnix on the TV" />](http://www.flickr.com/photos/fo0bar/2375892865/ "Finnix on the TV by Ryan Finnie, on Flickr")
 

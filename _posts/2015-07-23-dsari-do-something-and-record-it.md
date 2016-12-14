@@ -1,14 +1,17 @@
 ---
-id: 2469
-title: 'dsari - Do Something and Record It'
-date: 2015-07-23T20:53:41+00:00
 author: Ryan Finnie
-excerpt: dsari is a lightweight continuous integration (CI) system. It provides scheduling, concurrency management and trigger capabilities, and is easy to configure. Job scheduling is handled via dsari-daemon, while dsari-render may be used to format job run information as HTML.
-layout: post
-guid: http://www.finnie.org/2015/07/23/dsari-do-something-and-record-it/
-permalink: /2015/07/23/dsari-do-something-and-record-it/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2015-07-23 20:53:41
+excerpt: dsari is a lightweight continuous integration (CI) system. It provides scheduling,
+  concurrency management and trigger capabilities, and is easy to configure. Job scheduling
+  is handled via dsari-daemon, while dsari-render may be used to format job run information
+  as HTML.
+guid: http://www.finnie.org/2015/07/23/dsari-do-something-and-record-it/
+id: 2469
+layout: post
+permalink: /2015/07/23/dsari-do-something-and-record-it/
+title: dsari - Do Something and Record It
 ---
 When [Finnix](http://www.finnix.org/) first started transitioning to [Project NEALE](http://www.finnix.org/Project_NEALE), the ability to produce Finnix builds from scratch in a normalized fashion, I began making NEALE builds on a nightly schedule using cron. This was fine in the beginning, but as things got more complex (there are currently [16 different variants](http://ci.finnix.org/dsari/) of Finnix being built nightly), I started looking at alternatives.
 

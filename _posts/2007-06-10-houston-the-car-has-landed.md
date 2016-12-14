@@ -1,17 +1,17 @@
 ---
-id: 675
-title: Houston, the car has landed.
-date: 2007-06-10T20:57:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/06/10/houston-the-car-has-landed/
-permalink: /2007/06/10/houston-the-car-has-landed/
-lj_itemid:
-  - "176633"
-lj_import_url:
-  - http://fo0bar.livejournal.com/176633.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2007-06-10 20:57:00
+guid: http://www.finnie.org/2007/06/10/houston-the-car-has-landed/
+id: 675
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/176633.html
+lj_itemid:
+- '176633'
+permalink: /2007/06/10/houston-the-car-has-landed/
+title: Houston, the car has landed.
 ---
 Well, it didn't work out exactly as expected, but I now have a new 2007 Prius, and got an awesome deal on it.
 

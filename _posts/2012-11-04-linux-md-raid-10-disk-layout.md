@@ -1,17 +1,17 @@
 ---
-id: 2175
-title: Linux md RAID 10 disk layout
-date: 2012-11-04T19:23:55+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/11/04/linux-md-raid-10-disk-layout/
-permalink: /2012/11/04/linux-md-raid-10-disk-layout/
-openid_comments:
-  - 'a:1:{i:0;i:397049;}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-11-04 19:23:55
+guid: http://www.finnie.org/2012/11/04/linux-md-raid-10-disk-layout/
+id: 2175
+layout: post
+openid_comments:
+- a:1:{i:0;i:397049;}
+permalink: /2012/11/04/linux-md-raid-10-disk-layout/
 tags:
-  - planet:canonical
+- planet:canonical
+title: Linux md RAID 10 disk layout
 ---
 I'm working on re-doing my home router / VM server to provide better IO. The goal is to have an SSD as the boot drive, and 4 2TB disks in RAID 10 (4TB usable total) for the VMs. I'll be using md RAID for building it, however I want to be particular about where the drives are physically, for a few reasons:
 

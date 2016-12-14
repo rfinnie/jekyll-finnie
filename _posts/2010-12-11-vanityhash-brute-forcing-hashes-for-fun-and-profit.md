@@ -1,15 +1,15 @@
 ---
-id: 1656
-title: 'vanityhash: Brute forcing hashes for fun and profit'
-date: 2010-12-11T21:12:42+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/12/11/vanityhash-brute-forcing-hashes-for-fun-and-profit/
-permalink: /2010/12/11/vanityhash-brute-forcing-hashes-for-fun-and-profit/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-12-11 21:12:42
+guid: http://www.finnie.org/2010/12/11/vanityhash-brute-forcing-hashes-for-fun-and-profit/
+id: 1656
+layout: post
+permalink: /2010/12/11/vanityhash-brute-forcing-hashes-for-fun-and-profit/
 tags:
-  - planet:canonical
+- planet:canonical
+title: 'vanityhash: Brute forcing hashes for fun and profit'
 ---
 <pre><strong>0cbbc</strong>83f4f9dc19f55b9e15287a8a7f4  bbc-2.1.iso
 <strong>f100ff</strong>a1d470b7d119979c58f18bb6b1  finnix-100.iso</pre>

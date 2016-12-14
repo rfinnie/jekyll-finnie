@@ -1,15 +1,15 @@
 ---
-id: 1046
-title: 'xkcd: volume 0'
-date: 2009-10-14T12:18:23+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/10/14/xkcd-volume-0/
-permalink: /2009/10/14/xkcd-volume-0/
-openid_comments:
-  - 'a:1:{i:0;s:4:"3152";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-10-14 12:18:23
+guid: http://www.finnie.org/2009/10/14/xkcd-volume-0/
+id: 1046
+layout: post
+openid_comments:
+- a:1:{i:0;s:4:"3152";}
+permalink: /2009/10/14/xkcd-volume-0/
+title: 'xkcd: volume 0'
 ---
 [<img src="http://farm3.static.flickr.com/2519/4009801890_bf9c108e39.jpg" width="500" height="375" alt="xkcd: volume 0" />](http://www.flickr.com/photos/fo0bar/4009801890/ "xkcd: volume 0 by Ryan Finnie, on Flickr")
 

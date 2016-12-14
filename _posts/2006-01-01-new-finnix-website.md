@@ -1,17 +1,17 @@
 ---
-id: 536
-title: New Finnix website
-date: 2006-01-01T18:40:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2006/01/01/new-finnix-website/
-permalink: /2006/01/01/new-finnix-website/
-lj_itemid:
-  - "138724"
-lj_import_url:
-  - http://fo0bar.livejournal.com/138724.html
 categories:
-  - Finnix
+- Finnix
+date: 2006-01-01 18:40:00
+guid: http://www.finnie.org/2006/01/01/new-finnix-website/
+id: 536
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/138724.html
+lj_itemid:
+- '138724'
+permalink: /2006/01/01/new-finnix-website/
+title: New Finnix website
 ---
 [We got a nice new wiki](http://www.finnix.org/) (ain't she a beautiful sight?)
 

@@ -1,13 +1,13 @@
 ---
-id: 1339
-title: 'IPv6: Living in the future, etc, etc'
-date: 2010-04-30T19:48:07+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/04/30/ipv6-living-in-the-future-etc-etc/
-permalink: /2010/04/30/ipv6-living-in-the-future-etc-etc/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-04-30 19:48:07
+guid: http://www.finnie.org/2010/04/30/ipv6-living-in-the-future-etc-etc/
+id: 1339
+layout: post
+permalink: /2010/04/30/ipv6-living-in-the-future-etc-etc/
+title: 'IPv6: Living in the future, etc, etc'
 ---
 Well, it's 2010, and I'm finally living in The Future. I now have an ISP that is offering native IPv6, [my colo provider](http://vr.org/). I switched over my irssi connections to make sure all IPv6-capable IRC networks are connecting via IPv6. (OFTC, Foonetic, Coldfront, Freenode -- sadly, Slashnet is the only one without an IPv6 server.) I have also added AAAA records to many of my hosted domains, such as [finnie.org](http://www.finnie.org/), [finnix.org](http://www.finnix.org/), [x11r5.com](http://www.x11r5.com/), [velociraptors.info](http://www.velociraptors.info/) and [hampr.com](http://www.hampr.com/). Also, I can reasonably assume I am running the world's only IPv6 [TCPMUX server](http://www.finnie.org/2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/).
 

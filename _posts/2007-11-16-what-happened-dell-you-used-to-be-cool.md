@@ -1,21 +1,21 @@
 ---
-id: 701
-title: 'What happened, Dell?  You used to be cool.'
-date: 2007-11-16T01:57:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/11/16/what-happened-dell-you-used-to-be-cool/
-permalink: /2007/11/16/what-happened-dell-you-used-to-be-cool/
-lj_itemid:
-  - "184305"
-lj_import_url:
-  - http://fo0bar.livejournal.com/184305.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2007-11-16 01:57:00
+guid: http://www.finnie.org/2007/11/16/what-happened-dell-you-used-to-be-cool/
+id: 701
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/184305.html
+lj_itemid:
+- '184305'
+permalink: /2007/11/16/what-happened-dell-you-used-to-be-cool/
 tags:
-  - computers
-  - consumer whore
-  - electronics
+- computers
+- consumer whore
+- electronics
+title: What happened, Dell?  You used to be cool.
 ---
 A few years ago I bought the [Dell 2005FPW](http://reviews.cnet.com/lcd-monitors/dell-2005fpw/4505-3174_7-31232082.html) 20" widescreen LCD, the monitor famously known for having the exact same panel as the 20" Apple Cinema display, but for $600 instead of $1400. I even got an awesome deal on it, roughly $400. (Dell used to be heavily into coupon codes back then. Not so much now.)
 

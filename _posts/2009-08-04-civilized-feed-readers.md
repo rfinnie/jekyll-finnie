@@ -1,13 +1,13 @@
 ---
-id: 994
-title: Civilized feed readers
-date: 2009-08-04T11:23:19+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/08/04/civilized-feed-readers/
-permalink: /2009/08/04/civilized-feed-readers/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-08-04 11:23:19
+guid: http://www.finnie.org/2009/08/04/civilized-feed-readers/
+id: 994
+layout: post
+permalink: /2009/08/04/civilized-feed-readers/
+title: Civilized feed readers
 ---
 I happened to be tailing the logs for finnie.org, and noticed this:
 

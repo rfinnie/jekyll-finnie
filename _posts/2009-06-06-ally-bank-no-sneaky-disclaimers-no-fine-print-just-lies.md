@@ -1,15 +1,15 @@
 ---
-id: 915
-title: '[RESOLVED] Ally Bank: No sneaky disclaimers, no fine print, just lies.'
-date: 2009-06-06T18:32:46+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/
-permalink: /2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/
-openid_comments:
-  - 'a:1:{i:0;s:4:"1268";}'
 categories:
-  - Finances
+- Finances
+date: 2009-06-06 18:32:46
+guid: http://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/
+id: 915
+layout: post
+openid_comments:
+- a:1:{i:0;s:4:"1268";}
+permalink: /2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/
+title: '[RESOLVED] Ally Bank: No sneaky disclaimers, no fine print, just lies.'
 ---
 **UPDATE:** The situation has been resolved to my satisfaction. Al de Molina did follow through with his comment to get the situation fixed (see comment below), and I am impressed that this was taken care of before I even had a chance to drop the letter off in the mail.
 

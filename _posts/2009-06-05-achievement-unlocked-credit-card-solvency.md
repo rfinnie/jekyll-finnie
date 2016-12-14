@@ -1,13 +1,13 @@
 ---
-id: 907
-title: 'Achievement Unlocked: Credit Card Solvency'
-date: 2009-06-05T15:06:29+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/06/05/achievement-unlocked-credit-card-solvency/
-permalink: /2009/06/05/achievement-unlocked-credit-card-solvency/
 categories:
-  - Finances
+- Finances
+date: 2009-06-05 15:06:29
+guid: http://www.finnie.org/2009/06/05/achievement-unlocked-credit-card-solvency/
+id: 907
+layout: post
+permalink: /2009/06/05/achievement-unlocked-credit-card-solvency/
+title: 'Achievement Unlocked: Credit Card Solvency'
 ---
 [<img src="http://farm4.static.flickr.com/3394/3596859185_7c2417f710.jpg" width="500" height="355" alt="CC Debt vs. Savings (6/5/2009)" />](http://www.flickr.com/photos/fo0bar/3596859185/ "CC Debt vs. Savings (6/5/2009) by fo0bar, on Flickr")
   

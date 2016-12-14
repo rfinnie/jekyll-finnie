@@ -1,19 +1,19 @@
 ---
-id: 774
-title: 'Review: Dell 2209WA 22" E-IPS LCD'
-date: 2009-04-07T13:36:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/04/07/review-dell-2209wa-22-e-ips-lcd/
-permalink: /2009/04/07/review-dell-2209wa-22-e-ips-lcd/
-lj_itemid:
-  - "203363"
-lj_import_url:
-  - http://fo0bar.livejournal.com/203363.html
-openid_comments:
-  - 'a:1:{i:0;s:4:"1048";}'
 categories:
-  - Reviews
+- Reviews
+date: 2009-04-07 13:36:00
+guid: http://www.finnie.org/2009/04/07/review-dell-2209wa-22-e-ips-lcd/
+id: 774
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/203363.html
+lj_itemid:
+- '203363'
+openid_comments:
+- a:1:{i:0;s:4:"1048";}
+permalink: /2009/04/07/review-dell-2209wa-22-e-ips-lcd/
+title: 'Review: Dell 2209WA 22" E-IPS LCD'
 ---
 [<img src="http://farm4.static.flickr.com/3589/3421413597_a8790079aa.jpg" width="500" height="375" alt="Dell 2209WA" />](http://www.flickr.com/photos/fo0bar/3421413597/ "Dell 2209WA by fo0bar, on Flickr")
   
