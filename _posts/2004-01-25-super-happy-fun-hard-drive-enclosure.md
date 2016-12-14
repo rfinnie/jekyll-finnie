@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2004-01-25 18:06:00
 guid: http://www.finnie.org/2004/01/25/super-happy-fun-hard-drive-enclosure/
 id: 236
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/60274.html
-lj_itemid:
-- '60274'
+lj_import_url: http://fo0bar.livejournal.com/60274.html
+lj_itemid: 60274
 permalink: /2004/01/25/super-happy-fun-hard-drive-enclosure/
 title: Super happy fun hard drive enclosure!
 ---

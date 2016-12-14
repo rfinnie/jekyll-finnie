@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-04-14 12:03:08
 guid: http://www.finnie.org/2009/04/14/welcome-to-the-show/
 id: 830

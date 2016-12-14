@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-02-18 19:12:42
 guid: http://www.finnie.org/2010/02/18/cisco-pix-dns-fixup-in-linux/
 id: 1259

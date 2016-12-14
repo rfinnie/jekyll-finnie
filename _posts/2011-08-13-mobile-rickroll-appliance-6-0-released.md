@@ -1,16 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-08-13 13:56:27
 guid: http://www.finnie.org/2011/08/13/mobile-rickroll-appliance-6-0-released/
 id: 1873
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"145926";}
 permalink: /2011/08/13/mobile-rickroll-appliance-6-0-released/
 tags:
-- planet:canonical
+- planetcanonical
 title: Mobile Rickroll Appliance 6.0 released
 ---
 <div style="float: right; margin-left: 1em;">

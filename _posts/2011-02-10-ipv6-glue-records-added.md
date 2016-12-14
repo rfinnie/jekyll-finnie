@@ -1,14 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-02-10 00:20:53
 guid: http://www.finnie.org/2011/02/10/ipv6-glue-records-added/
 id: 1739
 layout: post
 permalink: /2011/02/10/ipv6-glue-records-added/
 tags:
-- planet:canonical
+- planetcanonical
 title: IPv6 glue records added
 ---
 My [domain transfer from Dotster to Gandi](http://www.finnie.org/2011/02/03/ipv6-in-the-finnie/) completed today, giving me the ability to add IPv6 glue records for my nameservers. With that in place, end-to-end IPv6 is now possible for my colo services:

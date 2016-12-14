@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2006-03-08 22:18:00
 guid: http://www.finnie.org/2006/03/08/apt-get-purge-remove-gentoo/
 id: 559
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/144593.html
-lj_itemid:
-- '144593'
+lj_import_url: http://fo0bar.livejournal.com/144593.html
+lj_itemid: 144593
 permalink: /2006/03/08/apt-get-purge-remove-gentoo/
 title: apt-get --purge remove gentoo
 ---

@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2008-06-09 01:33:00
 guid: http://www.finnie.org/2008/06/09/theyre-baaaaack/
 id: 725
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/190315.html
-lj_itemid:
-- '190315'
+lj_import_url: http://fo0bar.livejournal.com/190315.html
+lj_itemid: 190315
 permalink: /2008/06/09/theyre-baaaaack/
 title: They're baaaaack...
 ---

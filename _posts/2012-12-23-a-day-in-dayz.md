@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-12-23 18:02:23
 guid: http://www.finnie.org/2012/12/23/a-day-in-dayz/
 id: 2203

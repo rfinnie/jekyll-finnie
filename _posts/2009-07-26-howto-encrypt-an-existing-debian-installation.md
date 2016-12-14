@@ -1,13 +1,9 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-07-26 02:00:17
 guid: http://www.finnie.org/2009/07/26/howto-encrypt-an-existing-debian-installation/
 id: 965
 layout: post
-openid_comments:
-- a:2:{i:0;s:4:"2720";i:1;i:368301;}
 permalink: /2009/07/26/howto-encrypt-an-existing-debian-installation/
 tags:
 - encryption

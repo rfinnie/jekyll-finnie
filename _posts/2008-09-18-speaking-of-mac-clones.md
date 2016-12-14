@@ -6,10 +6,8 @@ date: 2008-09-18 14:06:00
 guid: http://www.finnie.org/2008/09/18/speaking-of-mac-clones/
 id: 734
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/192973.html
-lj_itemid:
-- '192973'
+lj_import_url: http://fo0bar.livejournal.com/192973.html
+lj_itemid: 192973
 permalink: /2008/09/18/speaking-of-mac-clones/
 tags:
 - hackintosh

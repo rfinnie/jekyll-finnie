@@ -1,14 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-04-11 10:53:39
 guid: http://www.finnie.org/2012/04/11/openpgp-key-transition/
 id: 2061
 layout: post
 permalink: /2012/04/11/openpgp-key-transition/
 tags:
-- planet:canonical
+- planetcanonical
 title: OpenPGP key transition
 ---
 A copy of this announcement is available at <http://www.finnie.org/rfinnie-openpgp-2012-transition.txt>, in case the text is mangled here and the signature cannot be verified.

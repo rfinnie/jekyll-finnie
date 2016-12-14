@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-11-24 20:51:24
 guid: http://www.finnie.org/2011/11/24/reno-charter-qam-channels/
 id: 1917

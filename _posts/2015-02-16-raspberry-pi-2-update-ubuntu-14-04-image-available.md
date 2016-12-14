@@ -1,16 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2015-02-16 22:41:02
 guid: http://www.finnie.org/2015/02/16/raspberry-pi-2-update-ubuntu-14-04-image-available/
 id: 2426
 layout: post
-openid_comments:
-- a:8:{i:0;i:669892;i:1;i:669920;i:2;i:669947;i:3;i:669949;i:4;i:670000;i:5;i:670166;i:6;i:670235;i:7;i:670238;}
 permalink: /2015/02/16/raspberry-pi-2-update-ubuntu-14-04-image-available/
 tags:
-- planet:canonical
+- planetcanonical
 title: Raspberry Pi 2 update - (unofficial) Ubuntu 14.04 image available
 ---
 [Download the lastest Ubuntu 14.04 Raspberry Pi 2 image](https://wiki.ubuntu.com/ARM/RaspberryPi)

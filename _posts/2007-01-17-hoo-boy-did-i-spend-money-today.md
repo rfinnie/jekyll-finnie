@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-01-17 17:15:00
 guid: http://www.finnie.org/2007/01/17/hoo-boy-did-i-spend-money-today/
 id: 646
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/169112.html
-lj_itemid:
-- '169112'
+lj_import_url: http://fo0bar.livejournal.com/169112.html
+lj_itemid: 169112
 permalink: /2007/01/17/hoo-boy-did-i-spend-money-today/
 title: Hoo boy, did I spend money today.
 ---

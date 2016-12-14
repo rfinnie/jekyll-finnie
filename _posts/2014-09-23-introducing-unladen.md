@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2014-09-23 22:01:50
 excerpt: 'Unladen is designed to be a cheap, easily scalable object storage system.  "Cheap"
   in the sense that you can easily use your infrastructure''s existing servers'' spare

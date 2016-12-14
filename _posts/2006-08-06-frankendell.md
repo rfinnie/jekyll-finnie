@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2006-08-06 16:51:00
 guid: http://www.finnie.org/2006/08/06/frankendell/
 id: 604
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/157032.html
-lj_itemid:
-- '157032'
+lj_import_url: http://fo0bar.livejournal.com/157032.html
+lj_itemid: 157032
 permalink: /2006/08/06/frankendell/
 title: FrankenDell
 ---

@@ -6,10 +6,8 @@ date: 2005-10-24 01:03:00
 guid: http://www.finnie.org/2005/10/24/finnix-860-released/
 id: 508
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/131443.html
-lj_itemid:
-- '131443'
+lj_import_url: http://fo0bar.livejournal.com/131443.html
+lj_itemid: 131443
 permalink: /2005/10/24/finnix-860-released/
 title: Finnix 86.0 Released
 ---

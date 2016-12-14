@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-06-15 19:36:00
 guid: http://www.finnie.org/2007/06/15/sirius-satellite-radio-on-the-prius/
 id: 682
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/178249.html
-lj_itemid:
-- '178249'
+lj_import_url: http://fo0bar.livejournal.com/178249.html
+lj_itemid: 178249
 permalink: /2007/06/15/sirius-satellite-radio-on-the-prius/
 title: Sirius satellite radio on the Prius
 ---

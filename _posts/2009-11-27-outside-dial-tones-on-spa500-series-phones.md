@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-11-27 23:36:06
 enclosure:
 - '/blog-media/uploads/2009/11/outside-line.wav

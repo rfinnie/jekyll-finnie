@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2013-09-04 19:22:16
 guid: http://www.finnie.org/2013/09/04/ill-try-not-to-let-stardom-go-to-my-head/
 id: 2325

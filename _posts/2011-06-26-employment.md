@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-06-26 01:51:44
 guid: http://www.finnie.org/2011/06/26/employment/
 id: 1841

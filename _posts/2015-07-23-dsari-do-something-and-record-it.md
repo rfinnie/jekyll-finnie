@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2015-07-23 20:53:41
 excerpt: dsari is a lightweight continuous integration (CI) system. It provides scheduling,
   concurrency management and trigger capabilities, and is easy to configure. Job scheduling

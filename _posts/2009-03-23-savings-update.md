@@ -6,10 +6,8 @@ date: 2009-03-23 00:38:00
 guid: http://www.finnie.org/2009/03/23/savings-update/
 id: 768
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/201945.html
-lj_itemid:
-- '201945'
+lj_import_url: http://fo0bar.livejournal.com/201945.html
+lj_itemid: 201945
 permalink: /2009/03/23/savings-update/
 title: Savings update
 ---

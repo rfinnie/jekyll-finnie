@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2008-12-12 11:36:00
 guid: http://www.finnie.org/2008/12/12/video-cards-freak-me-out/
 id: 750
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/197509.html
-lj_itemid:
-- '197509'
+lj_import_url: http://fo0bar.livejournal.com/197509.html
+lj_itemid: 197509
 permalink: /2008/12/12/video-cards-freak-me-out/
 title: Video cards freak me out.
 ---

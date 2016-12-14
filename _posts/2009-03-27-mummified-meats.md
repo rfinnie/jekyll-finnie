@@ -6,10 +6,8 @@ date: 2009-03-27 17:45:00
 guid: http://www.finnie.org/2009/03/27/mummified-meats/
 id: 772
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/202808.html
-lj_itemid:
-- '202808'
+lj_import_url: http://fo0bar.livejournal.com/202808.html
+lj_itemid: 202808
 permalink: /2009/03/27/mummified-meats/
 tags:
 - jerky

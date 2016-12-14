@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2008-11-02 22:24:00
 guid: http://www.finnie.org/2008/11/02/some-people-collect-baseball-cards/
 id: 749
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/197093.html
-lj_itemid:
-- '197093'
+lj_import_url: http://fo0bar.livejournal.com/197093.html
+lj_itemid: 197093
 permalink: /2008/11/02/some-people-collect-baseball-cards/
 title: Some people collect baseball cards.
 ---

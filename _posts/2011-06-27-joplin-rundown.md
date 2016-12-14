@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-06-27 16:53:13
 guid: http://www.finnie.org/2011/06/27/joplin-rundown/
 id: 1827

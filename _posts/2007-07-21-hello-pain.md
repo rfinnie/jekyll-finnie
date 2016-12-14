@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-07-21 23:30:00
 guid: http://www.finnie.org/2007/07/21/hello-pain/
 id: 690
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/181463.html
-lj_itemid:
-- '181463'
+lj_import_url: http://fo0bar.livejournal.com/181463.html
+lj_itemid: 181463
 permalink: /2007/07/21/hello-pain/
 title: Hello, pain.
 ---

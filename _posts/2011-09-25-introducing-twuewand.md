@@ -1,14 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-09-25 15:26:13
 guid: http://www.finnie.org/2011/09/25/introducing-twuewand/
 id: 1908
 layout: post
 permalink: /2011/09/25/introducing-twuewand/
 tags:
-- planet:canonical
+- planetcanonical
 title: Introducing twuewand
 ---
 [twuewand](http://www.finnie.org/software/twuewand/) is a true [hardware random number generator](http://en.wikipedia.org/wiki/Hardware_random_number_generator), written in about a hundred lines of Perl.

@@ -8,10 +8,8 @@ id: 763
 layout: post
 lj_current_mood:
 - full
-lj_import_url:
-- http://fo0bar.livejournal.com/200697.html
-lj_itemid:
-- '200697'
+lj_import_url: http://fo0bar.livejournal.com/200697.html
+lj_itemid: 200697
 permalink: /2009/03/14/chef-fo0bar-presents-pad-see-ew/
 title: 'Chef fo0bar presents: Pad See Ew'
 ---

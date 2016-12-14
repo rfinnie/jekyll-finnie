@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2005-06-26 12:11:00
 guid: http://www.finnie.org/2005/06/26/earthquake/
 id: 429
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/111348.html
-lj_itemid:
-- '111348'
+lj_import_url: http://fo0bar.livejournal.com/111348.html
+lj_itemid: 111348
 permalink: /2005/06/26/earthquake/
 title: Earthquake
 ---

@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2005-08-26 23:16:00
 guid: http://www.finnie.org/2005/08/26/warning-fanboy-ad-ahead/
 id: 467
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/121240.html
-lj_itemid:
-- '121240'
+lj_import_url: http://fo0bar.livejournal.com/121240.html
+lj_itemid: 121240
 permalink: /2005/08/26/warning-fanboy-ad-ahead/
 title: 'Warning: fanboy ad ahead'
 ---

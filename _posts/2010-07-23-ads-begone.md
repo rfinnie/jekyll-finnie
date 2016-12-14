@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-07-23 22:43:28
 guid: http://www.finnie.org/2010/07/23/ads-begone/
 id: 1441

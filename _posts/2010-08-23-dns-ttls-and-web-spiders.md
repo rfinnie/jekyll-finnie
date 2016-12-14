@@ -1,13 +1,9 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-08-23 00:39:54
 guid: http://www.finnie.org/2010/08/23/dns-ttls-and-web-spiders/
 id: 1495
 layout: post
-openid_comments:
-- a:1:{i:0;s:5:"37274";}
 permalink: /2010/08/23/dns-ttls-and-web-spiders/
 title: DNS TTLs and web spiders
 ---

@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-06-07 13:51:18
 guid: http://www.finnie.org/2010/06/07/howto-delete-a-3ware-dcb/
 id: 1356

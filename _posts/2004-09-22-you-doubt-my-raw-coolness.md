@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2004-09-22 11:07:00
 guid: http://www.finnie.org/2004/09/22/you-doubt-my-raw-coolness/
 id: 301
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/77844.html
-lj_itemid:
-- '77844'
+lj_import_url: http://fo0bar.livejournal.com/77844.html
+lj_itemid: 77844
 permalink: /2004/09/22/you-doubt-my-raw-coolness/
 title: You doubt my raw coolness?
 ---

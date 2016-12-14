@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-12-23 18:14:56
 guid: http://www.finnie.org/2009/12/23/i-forgot-about-christmas/
 id: 1222

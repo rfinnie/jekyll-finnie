@@ -6,10 +6,8 @@ date: 2005-07-17 17:42:00
 guid: http://www.finnie.org/2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
 id: 445
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/115236.html
-lj_itemid:
-- '115236'
+lj_import_url: http://fo0bar.livejournal.com/115236.html
+lj_itemid: 115236
 permalink: /2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
 tags:
 - pizza

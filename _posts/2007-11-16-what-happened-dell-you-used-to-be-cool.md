@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-11-16 01:57:00
 guid: http://www.finnie.org/2007/11/16/what-happened-dell-you-used-to-be-cool/
 id: 701
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/184305.html
-lj_itemid:
-- '184305'
+lj_import_url: http://fo0bar.livejournal.com/184305.html
+lj_itemid: 184305
 permalink: /2007/11/16/what-happened-dell-you-used-to-be-cool/
 tags:
 - computers

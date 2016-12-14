@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-11-07 22:11:33
 guid: http://www.finnie.org/2010/11/07/2010-apple-tv-mediocrity-to-the-extreme/
 id: 1595

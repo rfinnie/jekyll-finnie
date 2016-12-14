@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-05-14 00:13:02
 guid: http://www.finnie.org/2011/05/14/valve-powerplay/
 id: 1814

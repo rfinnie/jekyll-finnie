@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-07-23 18:24:35
 guid: http://www.finnie.org/2010/07/23/ninja-like-speed-and-stealth-free-soda-refills/
 id: 1433

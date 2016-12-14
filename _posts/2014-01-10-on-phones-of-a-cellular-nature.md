@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2014-01-10 22:30:04
 guid: http://www.finnie.org/2014/01/10/on-phones-of-a-cellular-nature/
 id: 2353

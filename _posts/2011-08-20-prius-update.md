@@ -1,13 +1,9 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-08-20 18:40:45
 guid: http://www.finnie.org/2011/08/20/prius-update/
 id: 1884
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"153762";}
 permalink: /2011/08/20/prius-update/
 title: Prius update
 ---

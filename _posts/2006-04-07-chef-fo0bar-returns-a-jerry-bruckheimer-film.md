@@ -6,10 +6,8 @@ date: 2006-04-07 22:42:00
 guid: http://www.finnie.org/2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
 id: 576
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/149407.html
-lj_itemid:
-- '149407'
+lj_import_url: http://fo0bar.livejournal.com/149407.html
+lj_itemid: 149407
 permalink: /2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
 tags:
 - chili

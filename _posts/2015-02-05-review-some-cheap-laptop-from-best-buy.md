@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2015-02-05 17:02:14
 guid: http://www.finnie.org/2015/02/05/review-some-cheap-laptop-from-best-buy/
 id: 2411

@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-05-29 15:02:46
 guid: http://www.finnie.org/2011/05/29/joplin-tornado-update/
 id: 1824

@@ -1,13 +1,9 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-04-30 14:11:59
 guid: http://www.finnie.org/2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/
 id: 1803
 layout: post
-openid_comments:
-- a:1:{i:0;s:6:"112452";}
 permalink: /2011/04/30/trailer-hitch-on-a-toyota-prius-2nd-generation/
 title: Trailer hitch on a Toyota Prius (2nd generation)
 ---

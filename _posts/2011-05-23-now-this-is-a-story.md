@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-05-23 17:47:57
 guid: http://www.finnie.org/2011/05/23/now-this-is-a-story/
 id: 1819

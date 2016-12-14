@@ -6,10 +6,8 @@ date: 2007-10-23 11:01:00
 guid: http://www.finnie.org/2007/10/23/finnix-900-released/
 id: 697
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/183063.html
-lj_itemid:
-- '183063'
+lj_import_url: http://fo0bar.livejournal.com/183063.html
+lj_itemid: 183063
 permalink: /2007/10/23/finnix-900-released/
 title: Finnix 90.0 Released
 ---

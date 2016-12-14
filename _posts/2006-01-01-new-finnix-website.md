@@ -6,10 +6,8 @@ date: 2006-01-01 18:40:00
 guid: http://www.finnie.org/2006/01/01/new-finnix-website/
 id: 536
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/138724.html
-lj_itemid:
-- '138724'
+lj_import_url: http://fo0bar.livejournal.com/138724.html
+lj_itemid: 138724
 permalink: /2006/01/01/new-finnix-website/
 title: New Finnix website
 ---

@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-06-20 20:48:00
 guid: http://www.finnie.org/2007/06/20/more-prius-news-you-can-ignore/
 id: 684
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/179714.html
-lj_itemid:
-- '179714'
+lj_import_url: http://fo0bar.livejournal.com/179714.html
+lj_itemid: 179714
 permalink: /2007/06/20/more-prius-news-you-can-ignore/
 title: More Prius news you can ignore.
 ---

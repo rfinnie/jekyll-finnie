@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-04-30 19:48:07
 guid: http://www.finnie.org/2010/04/30/ipv6-living-in-the-future-etc-etc/
 id: 1339

@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2010-08-28 17:52:19
 guid: http://www.finnie.org/2010/08/28/model-m-keyboard-restoration-project/
 id: 1501

@@ -8,10 +8,8 @@ id: 736
 layout: post
 lj_current_mood:
 - full
-lj_import_url:
-- http://fo0bar.livejournal.com/193752.html
-lj_itemid:
-- '193752'
+lj_import_url: http://fo0bar.livejournal.com/193752.html
+lj_itemid: 193752
 permalink: /2008/10/05/chef-fo0bar-presents-chotchkies-nachos/
 title: 'Chef fo0bar presents: Chotchkie''s Nachos'
 ---

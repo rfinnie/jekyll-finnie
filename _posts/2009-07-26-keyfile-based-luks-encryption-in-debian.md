@@ -1,7 +1,5 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-07-26 15:14:09
 guid: http://www.finnie.org/2009/07/26/keyfile-based-luks-encryption-in-debian/
 id: 982

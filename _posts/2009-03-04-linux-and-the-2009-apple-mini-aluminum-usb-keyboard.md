@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2009-03-04 23:25:00
 guid: http://www.finnie.org/2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
 id: 760
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/199913.html
-lj_itemid:
-- '199913'
+lj_import_url: http://fo0bar.livejournal.com/199913.html
+lj_itemid: 199913
 permalink: /2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
 title: Linux and the 2009 Apple "mini" aluminum USB keyboard
 ---

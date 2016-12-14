@@ -1,16 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2011-08-22 00:05:49
 guid: http://www.finnie.org/2011/08/22/thinkpad-x200s-one-year-follow-up/
 id: 1895
 layout: post
-openid_comments:
-- a:2:{i:0;s:6:"236745";i:1;s:6:"315324";}
 permalink: /2011/08/22/thinkpad-x200s-one-year-follow-up/
 tags:
-- planet:canonical
+- planetcanonical
 title: ThinkPad X200s, one year follow-up
 ---
 <span style="float: right; margin-left: 1em;"><a href="http://www.flickr.com/photos/fo0bar/6068206599/" title="ThinkPad X200s after one year by Ryan Finnie, on Flickr"><img src="http://farm7.static.flickr.com/6070/6068206599_748de80737_m.jpg" width="240" height="180" alt="ThinkPad X200s after one year" /></a></span>[A year ago](http://www.finnie.org/2010/08/13/lenovo-thinkpad-x200s/), I bought a Lenovo ThinkPad X200s. I boldly proclaimed that it's the best laptop I've ever used, much better than the X61, and combining all the features of a T60 and an X-series subnotebook.

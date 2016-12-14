@@ -1,14 +1,12 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2012-08-20 15:34:44
 guid: http://www.finnie.org/2012/08/20/raspberry-pi/
 id: 2140
 layout: post
 permalink: /2012/08/20/raspberry-pi/
 tags:
-- planet:canonical
+- planetcanonical
 title: Raspberry Pi
 ---
 <div style="float: right; margin-left: 1em; margin-bottom: 1em;">

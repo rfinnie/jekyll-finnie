@@ -1,15 +1,11 @@
 ---
 author: Ryan Finnie
-categories:
-- Uncategorized
 date: 2007-10-27 21:20:00
 guid: http://www.finnie.org/2007/10/27/more-consumer-entertainment/
 id: 698
 layout: post
-lj_import_url:
-- http://fo0bar.livejournal.com/183432.html
-lj_itemid:
-- '183432'
+lj_import_url: http://fo0bar.livejournal.com/183432.html
+lj_itemid: 183432
 permalink: /2007/10/27/more-consumer-entertainment/
 tags:
 - consumer whore
