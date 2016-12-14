@@ -4,7 +4,7 @@ title: Keyfile-based LUKS encryption in Debian
 date: 2009-07-26T15:14:09+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=982
+guid: http://www.finnie.org/2009/07/26/keyfile-based-luks-encryption-in-debian/
 permalink: /2009/07/26/keyfile-based-luks-encryption-in-debian/
 categories:
   - Uncategorized

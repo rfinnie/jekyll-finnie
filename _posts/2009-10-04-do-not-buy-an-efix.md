@@ -4,7 +4,7 @@ title: Do not buy an EFiX
 date: 2009-10-04T12:51:37+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1024
+guid: http://www.finnie.org/2009/10/04/do-not-buy-an-efix/
 permalink: /2009/10/04/do-not-buy-an-efix/
 openid_comments:
   - 'a:1:{i:0;s:5:"41514";}'

@@ -4,7 +4,7 @@ title: 'Review: SpaceNavigator 3D mouse'
 date: 2009-04-15T10:10:32+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=839
+guid: http://www.finnie.org/2009/04/15/review-spacenavigator-3d-mouse/
 permalink: /2009/04/15/review-spacenavigator-3d-mouse/
 categories:
   - Reviews

@@ -4,7 +4,7 @@ title: 'What happened, Dell?  You used to be cool.'
 date: 2007-11-16T01:57:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/11/16/what-happened-dell-you-used-to-be-cool/
+guid: http://www.finnie.org/2007/11/16/what-happened-dell-you-used-to-be-cool/
 permalink: /2007/11/16/what-happened-dell-you-used-to-be-cool/
 lj_itemid:
   - "184305"

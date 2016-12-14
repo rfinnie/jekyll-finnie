@@ -4,7 +4,7 @@ title: Raspberry Pi
 date: 2012-08-20T15:34:44+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2140
+guid: http://www.finnie.org/2012/08/20/raspberry-pi/
 permalink: /2012/08/20/raspberry-pi/
 categories:
   - Uncategorized

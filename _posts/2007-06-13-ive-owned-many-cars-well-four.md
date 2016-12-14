@@ -4,7 +4,7 @@ title: "I've owned many cars.  Well, four."
 date: 2007-06-13T01:37:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/06/13/ive-owned-many-cars-well-four/
+guid: http://www.finnie.org/2007/06/13/ive-owned-many-cars-well-four/
 permalink: /2007/06/13/ive-owned-many-cars-well-four/
 lj_itemid:
   - "177463"

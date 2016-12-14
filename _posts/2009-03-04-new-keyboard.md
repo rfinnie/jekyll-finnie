@@ -4,7 +4,7 @@ title: New keyboard
 date: 2009-03-04T20:19:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/04/new-keyboard/
+guid: http://www.finnie.org/2009/03/04/new-keyboard/
 permalink: /2009/03/04/new-keyboard/
 lj_itemid:
   - "199517"

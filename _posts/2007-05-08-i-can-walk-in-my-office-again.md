@@ -4,7 +4,7 @@ title: I can walk in my office again!
 date: 2007-05-08T19:37:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/05/08/i-can-walk-in-my-office-again/
+guid: http://www.finnie.org/2007/05/08/i-can-walk-in-my-office-again/
 permalink: /2007/05/08/i-can-walk-in-my-office-again/
 lj_itemid:
   - "174630"

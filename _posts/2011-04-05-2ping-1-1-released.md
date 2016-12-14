@@ -4,7 +4,7 @@ title: 2ping 1.1 released
 date: 2011-04-05T14:05:07+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1785
+guid: http://www.finnie.org/2011/04/05/2ping-1-1-released/
 permalink: /2011/04/05/2ping-1-1-released/
 categories:
   - Uncategorized

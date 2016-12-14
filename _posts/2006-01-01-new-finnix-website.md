@@ -4,7 +4,7 @@ title: New Finnix website
 date: 2006-01-01T18:40:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/01/01/new-finnix-website/
+guid: http://www.finnie.org/2006/01/01/new-finnix-website/
 permalink: /2006/01/01/new-finnix-website/
 lj_itemid:
   - "138724"

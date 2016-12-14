@@ -4,7 +4,7 @@ title: 'Chef fo0bar presents: Baked stuffed shrimp'
 date: 2009-10-10T23:55:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1043
+guid: http://www.finnie.org/2009/10/10/chef-fo0bar-presents-baked-stuffed-shrimp/
 permalink: /2009/10/10/chef-fo0bar-presents-baked-stuffed-shrimp/
 categories:
   - Chef Fo0bar Presents

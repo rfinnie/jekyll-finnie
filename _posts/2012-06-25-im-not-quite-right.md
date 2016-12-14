@@ -4,7 +4,7 @@ title: "I'm not quite right"
 date: 2012-06-25T01:45:38+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2117
+guid: http://www.finnie.org/2012/06/25/im-not-quite-right/
 permalink: /2012/06/25/im-not-quite-right/
 categories:
   - Uncategorized

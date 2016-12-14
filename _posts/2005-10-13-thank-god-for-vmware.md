@@ -4,7 +4,7 @@ title: Thank god for vmware
 date: 2005-10-13T12:07:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/10/13/thank-god-for-vmware/
+guid: http://www.finnie.org/2005/10/13/thank-god-for-vmware/
 permalink: /2005/10/13/thank-god-for-vmware/
 lj_itemid:
   - "129096"

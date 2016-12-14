@@ -4,7 +4,7 @@ title: Linux md RAID 10 disk layout
 date: 2012-11-04T19:23:55+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2175
+guid: http://www.finnie.org/2012/11/04/linux-md-raid-10-disk-layout/
 permalink: /2012/11/04/linux-md-raid-10-disk-layout/
 openid_comments:
   - 'a:1:{i:0;i:397049;}'

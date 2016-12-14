@@ -4,7 +4,7 @@ title: IPv6 in the Finnie
 date: 2011-02-03T23:24:14+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1718
+guid: http://www.finnie.org/2011/02/03/ipv6-in-the-finnie/
 permalink: /2011/02/03/ipv6-in-the-finnie/
 categories:
   - Uncategorized

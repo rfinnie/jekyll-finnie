@@ -4,7 +4,7 @@ title: 'Blu-ray: Star Trek: The Next Generation Motion Picture Collection'
 date: 2009-09-25T01:20:31+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1016
+guid: http://www.finnie.org/2009/09/25/blu-ray-star-trek-the-next-generation-motion-picture-collection/
 permalink: /2009/09/25/blu-ray-star-trek-the-next-generation-motion-picture-collection/
 openid_comments:
   - 'a:2:{i:0;s:4:"2794";i:1;s:4:"2810";}'

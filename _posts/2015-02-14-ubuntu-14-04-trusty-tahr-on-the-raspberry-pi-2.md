@@ -4,7 +4,7 @@ title: Ubuntu 14.04 (Trusty Tahr) on the Raspberry Pi 2
 date: 2015-02-14T00:32:51+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2420
+guid: http://www.finnie.org/2015/02/14/ubuntu-14-04-trusty-tahr-on-the-raspberry-pi-2/
 permalink: /2015/02/14/ubuntu-14-04-trusty-tahr-on-the-raspberry-pi-2/
 categories:
   - Uncategorized

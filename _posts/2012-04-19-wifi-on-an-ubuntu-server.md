@@ -4,7 +4,7 @@ title: WiFi on an Ubuntu server
 date: 2012-04-19T19:25:26+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2065
+guid: http://www.finnie.org/2012/04/19/wifi-on-an-ubuntu-server/
 permalink: /2012/04/19/wifi-on-an-ubuntu-server/
 categories:
   - Uncategorized

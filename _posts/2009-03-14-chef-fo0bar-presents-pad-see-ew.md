@@ -4,7 +4,7 @@ title: 'Chef fo0bar presents: Pad See Ew'
 date: 2009-03-14T18:13:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/14/chef-fo0bar-presents-pad-see-ew/
+guid: http://www.finnie.org/2009/03/14/chef-fo0bar-presents-pad-see-ew/
 permalink: /2009/03/14/chef-fo0bar-presents-pad-see-ew/
 lj_current_mood:
   - full

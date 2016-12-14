@@ -4,7 +4,7 @@ title: Finnix 88.0 Released!
 date: 2006-08-02T14:14:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/08/02/finnix-880-released/
+guid: http://www.finnie.org/2006/08/02/finnix-880-released/
 permalink: /2006/08/02/finnix-880-released/
 lj_itemid:
   - "156927"

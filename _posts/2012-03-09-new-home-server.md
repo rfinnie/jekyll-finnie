@@ -4,7 +4,7 @@ title: New home server
 date: 2012-03-09T22:46:42+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2032
+guid: http://www.finnie.org/2012/03/09/new-home-server/
 permalink: /2012/03/09/new-home-server/
 categories:
   - Uncategorized

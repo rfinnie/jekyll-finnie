@@ -4,7 +4,7 @@ title: "Chef fo0bar presents: Chotchkie's Nachos"
 date: 2008-10-05T00:49:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/10/05/chef-fo0bar-presents-chotchkies-nachos/
+guid: http://www.finnie.org/2008/10/05/chef-fo0bar-presents-chotchkies-nachos/
 permalink: /2008/10/05/chef-fo0bar-presents-chotchkies-nachos/
 lj_current_mood:
   - full

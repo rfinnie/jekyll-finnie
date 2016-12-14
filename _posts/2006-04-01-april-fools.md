@@ -4,7 +4,7 @@ title: April Fools!
 date: 2006-04-01T15:38:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/04/01/april-fools/
+guid: http://www.finnie.org/2006/04/01/april-fools/
 permalink: /2006/04/01/april-fools/
 lj_itemid:
   - "148025"

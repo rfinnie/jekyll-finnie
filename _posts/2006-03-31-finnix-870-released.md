@@ -4,7 +4,7 @@ title: Finnix 87.0 Released
 date: 2006-03-31T10:24:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/03/31/finnix-870-released/
+guid: http://www.finnie.org/2006/03/31/finnix-870-released/
 permalink: /2006/03/31/finnix-870-released/
 lj_itemid:
   - "147787"

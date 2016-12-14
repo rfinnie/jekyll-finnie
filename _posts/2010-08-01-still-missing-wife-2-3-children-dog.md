@@ -4,7 +4,7 @@ title: 'Still missing: wife, 2.3 children, dog'
 date: 2010-08-01T15:09:20+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1449
+guid: http://www.finnie.org/2010/08/01/still-missing-wife-2-3-children-dog/
 permalink: /2010/08/01/still-missing-wife-2-3-children-dog/
 categories:
   - Uncategorized

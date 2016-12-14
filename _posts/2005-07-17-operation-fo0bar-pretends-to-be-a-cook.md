@@ -4,7 +4,7 @@ title: 'Operation: fo0bar Pretends to be a Cook'
 date: 2005-07-17T17:42:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
+guid: http://www.finnie.org/2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
 permalink: /2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
 lj_itemid:
   - "115236"

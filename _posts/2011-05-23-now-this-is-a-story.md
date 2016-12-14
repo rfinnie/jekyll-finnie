@@ -4,7 +4,7 @@ title: Now this is a story all about how my life...
 date: 2011-05-23T17:47:57+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1819
+guid: http://www.finnie.org/2011/05/23/now-this-is-a-story/
 permalink: /2011/05/23/now-this-is-a-story/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Ads begone
 date: 2010-07-23T22:43:28+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1441
+guid: http://www.finnie.org/2010/07/23/ads-begone/
 permalink: /2010/07/23/ads-begone/
 categories:
   - Uncategorized

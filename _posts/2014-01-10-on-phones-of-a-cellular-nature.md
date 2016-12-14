@@ -4,7 +4,7 @@ title: On phones of a cellular nature
 date: 2014-01-10T22:30:04+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2353
+guid: http://www.finnie.org/2014/01/10/on-phones-of-a-cellular-nature/
 permalink: /2014/01/10/on-phones-of-a-cellular-nature/
 categories:
   - Uncategorized

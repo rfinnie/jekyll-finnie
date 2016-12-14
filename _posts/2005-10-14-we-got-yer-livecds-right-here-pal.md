@@ -4,7 +4,7 @@ title: We got yer livecds right here, pal.
 date: 2005-10-14T15:26:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/10/14/we-got-yer-livecds-right-here-pal/
+guid: http://www.finnie.org/2005/10/14/we-got-yer-livecds-right-here-pal/
 permalink: /2005/10/14/we-got-yer-livecds-right-here-pal/
 lj_itemid:
   - "129283"

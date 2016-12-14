@@ -4,7 +4,7 @@ title: More Prius news you can ignore.
 date: 2007-06-20T20:48:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/06/20/more-prius-news-you-can-ignore/
+guid: http://www.finnie.org/2007/06/20/more-prius-news-you-can-ignore/
 permalink: /2007/06/20/more-prius-news-you-can-ignore/
 lj_itemid:
   - "179714"

@@ -5,7 +5,7 @@ date: 2014-05-05T00:55:50+00:00
 author: Ryan Finnie
 excerpt: Six years ago, I bought a $360 entry-level "hybrid" bike from a local bike shop. This weekend, I decided to step up to the next level... by buying a $200 big-box bike from Target. Wait, what?
 layout: post
-guid: http://www.finnie.org/?p=2369
+guid: http://www.finnie.org/2014/05/05/a-green-bike/
 permalink: /2014/05/05/a-green-bike/
 categories:
   - Uncategorized

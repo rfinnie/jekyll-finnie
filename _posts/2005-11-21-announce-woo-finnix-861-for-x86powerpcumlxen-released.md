@@ -4,7 +4,7 @@ title: 'Announce (Woo!): Finnix 86.1 for x86/PowerPC/UML/Xen Released'
 date: 2005-11-21T22:33:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/11/21/announce-woo-finnix-861-for-x86powerpcumlxen-released/
+guid: http://www.finnie.org/2005/11/21/announce-woo-finnix-861-for-x86powerpcumlxen-released/
 permalink: /2005/11/21/announce-woo-finnix-861-for-x86powerpcumlxen-released/
 lj_itemid:
   - "134323"

@@ -4,7 +4,7 @@ title: Hampr Firefox extension 2.1 released
 date: 2009-10-10T18:57:35+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1038
+guid: http://www.finnie.org/2009/10/10/hampr-firefox-extension-2-1-released/
 permalink: /2009/10/10/hampr-firefox-extension-2-1-released/
 categories:
   - Hampr

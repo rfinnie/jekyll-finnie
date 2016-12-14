@@ -4,7 +4,7 @@ title: 'HOWTO: Encrypt an existing Debian installation'
 date: 2009-07-26T02:00:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=965
+guid: http://www.finnie.org/2009/07/26/howto-encrypt-an-existing-debian-installation/
 permalink: /2009/07/26/howto-encrypt-an-existing-debian-installation/
 openid_comments:
   - 'a:2:{i:0;s:4:"2720";i:1;i:368301;}'

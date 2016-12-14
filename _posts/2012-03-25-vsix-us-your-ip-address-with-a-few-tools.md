@@ -4,7 +4,7 @@ title: 'vsix.us - Your IP address, with a few tools'
 date: 2012-03-25T23:17:08+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2050
+guid: http://www.finnie.org/2012/03/25/vsix-us-your-ip-address-with-a-few-tools/
 permalink: /2012/03/25/vsix-us-your-ip-address-with-a-few-tools/
 categories:
   - Uncategorized

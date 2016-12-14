@@ -4,7 +4,7 @@ title: Open source furries.
 date: 2009-04-13T17:08:24+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=825
+guid: http://www.finnie.org/2009/04/13/open-source-furries/
 permalink: /2009/04/13/open-source-furries/
 categories:
   - Uncategorized

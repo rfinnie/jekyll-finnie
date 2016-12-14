@@ -4,7 +4,7 @@ title: A Day in DayZ
 date: 2012-12-23T18:02:23+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2203
+guid: http://www.finnie.org/2012/12/23/a-day-in-dayz/
 permalink: /2012/12/23/a-day-in-dayz/
 categories:
   - Uncategorized

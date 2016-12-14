@@ -4,7 +4,7 @@ title: More IPv6 musings
 date: 2011-02-04T02:20:24+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1725
+guid: http://www.finnie.org/2011/02/04/more-ipv6-musings/
 permalink: /2011/02/04/more-ipv6-musings/
 openid_comments:
   - 'a:1:{i:0;i:330095;}'

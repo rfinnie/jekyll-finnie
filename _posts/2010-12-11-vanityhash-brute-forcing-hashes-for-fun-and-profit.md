@@ -4,7 +4,7 @@ title: 'vanityhash: Brute forcing hashes for fun and profit'
 date: 2010-12-11T21:12:42+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1656
+guid: http://www.finnie.org/2010/12/11/vanityhash-brute-forcing-hashes-for-fun-and-profit/
 permalink: /2010/12/11/vanityhash-brute-forcing-hashes-for-fun-and-profit/
 categories:
   - Uncategorized

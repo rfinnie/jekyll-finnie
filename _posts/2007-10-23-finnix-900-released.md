@@ -4,7 +4,7 @@ title: Finnix 90.0 Released
 date: 2007-10-23T11:01:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/10/23/finnix-900-released/
+guid: http://www.finnie.org/2007/10/23/finnix-900-released/
 permalink: /2007/10/23/finnix-900-released/
 lj_itemid:
   - "183063"

@@ -4,7 +4,7 @@ title: Compiling BusyBox with uClibc
 date: 2014-02-13T22:14:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2363
+guid: http://www.finnie.org/2014/02/13/compiling-busybox-with-uclibc/
 permalink: /2014/02/13/compiling-busybox-with-uclibc/
 categories:
   - Uncategorized

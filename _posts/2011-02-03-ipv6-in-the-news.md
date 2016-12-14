@@ -4,7 +4,7 @@ title: IPv6 in the news
 date: 2011-02-03T22:44:21+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1709
+guid: http://www.finnie.org/2011/02/03/ipv6-in-the-news/
 permalink: /2011/02/03/ipv6-in-the-news/
 categories:
   - Uncategorized

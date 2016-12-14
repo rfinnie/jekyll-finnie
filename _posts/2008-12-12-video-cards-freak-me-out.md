@@ -4,7 +4,7 @@ title: Video cards freak me out.
 date: 2008-12-12T11:36:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/12/12/video-cards-freak-me-out/
+guid: http://www.finnie.org/2008/12/12/video-cards-freak-me-out/
 permalink: /2008/12/12/video-cards-freak-me-out/
 lj_itemid:
   - "197509"

@@ -4,7 +4,7 @@ title: 'PlayStation 4: The Review'
 date: 2013-12-27T19:18:16+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2345
+guid: http://www.finnie.org/2013/12/27/playstation-4-the-review/
 permalink: /2013/12/27/playstation-4-the-review/
 categories:
   - Uncategorized

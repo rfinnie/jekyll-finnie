@@ -4,7 +4,7 @@ title: Confessions of a casual PS4 launch participant
 date: 2013-11-16T19:18:43+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2331
+guid: http://www.finnie.org/2013/11/16/confessions-of-a-casual-ps4-launch-participant/
 permalink: /2013/11/16/confessions-of-a-casual-ps4-launch-participant/
 categories:
   - Uncategorized

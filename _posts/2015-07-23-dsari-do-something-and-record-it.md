@@ -5,7 +5,7 @@ date: 2015-07-23T20:53:41+00:00
 author: Ryan Finnie
 excerpt: dsari is a lightweight continuous integration (CI) system. It provides scheduling, concurrency management and trigger capabilities, and is easy to configure. Job scheduling is handled via dsari-daemon, while dsari-render may be used to format job run information as HTML.
 layout: post
-guid: http://www.finnie.org/?p=2469
+guid: http://www.finnie.org/2015/07/23/dsari-do-something-and-record-it/
 permalink: /2015/07/23/dsari-do-something-and-record-it/
 categories:
   - Uncategorized

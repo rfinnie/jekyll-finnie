@@ -4,7 +4,7 @@ title: Beef Jerky update
 date: 2009-03-26T19:53:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/26/beef-jerky-update/
+guid: http://www.finnie.org/2009/03/26/beef-jerky-update/
 permalink: /2009/03/26/beef-jerky-update/
 lj_itemid:
   - "202394"

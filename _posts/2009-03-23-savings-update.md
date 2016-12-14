@@ -4,7 +4,7 @@ title: Savings update
 date: 2009-03-23T00:38:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/23/savings-update/
+guid: http://www.finnie.org/2009/03/23/savings-update/
 permalink: /2009/03/23/savings-update/
 lj_itemid:
   - "201945"

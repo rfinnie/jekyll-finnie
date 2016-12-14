@@ -4,7 +4,7 @@ title: Finnix 86.2 Released
 date: 2006-01-08T02:38:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/01/08/finnix-862-released/
+guid: http://www.finnie.org/2006/01/08/finnix-862-released/
 permalink: /2006/01/08/finnix-862-released/
 lj_itemid:
   - "139146"

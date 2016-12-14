@@ -4,7 +4,7 @@ title: Velociraptor Aerospace Dynamics
 date: 2011-02-17T12:26:44+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1763
+guid: http://www.finnie.org/2011/02/17/velociraptor-aerospace-dynamics/
 permalink: /2011/02/17/velociraptor-aerospace-dynamics/
 categories:
   - Finances

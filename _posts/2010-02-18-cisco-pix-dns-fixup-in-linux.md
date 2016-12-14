@@ -4,7 +4,7 @@ title: Cisco PIX DNS fixup in Linux?
 date: 2010-02-18T19:12:42+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1259
+guid: http://www.finnie.org/2010/02/18/cisco-pix-dns-fixup-in-linux/
 permalink: /2010/02/18/cisco-pix-dns-fixup-in-linux/
 categories:
   - Uncategorized

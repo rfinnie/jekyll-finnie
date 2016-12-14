@@ -4,7 +4,7 @@ title: 'Warning: fanboy ad ahead'
 date: 2005-08-26T23:16:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/08/26/warning-fanboy-ad-ahead/
+guid: http://www.finnie.org/2005/08/26/warning-fanboy-ad-ahead/
 permalink: /2005/08/26/warning-fanboy-ad-ahead/
 lj_itemid:
   - "121240"

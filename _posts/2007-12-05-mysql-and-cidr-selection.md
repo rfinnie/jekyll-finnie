@@ -4,7 +4,7 @@ title: MySQL and CIDR selection
 date: 2007-12-05T22:44:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/12/05/mysql-and-cidr-selection/
+guid: http://www.finnie.org/2007/12/05/mysql-and-cidr-selection/
 permalink: /2007/12/05/mysql-and-cidr-selection/
 lj_itemid:
   - "185275"

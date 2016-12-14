@@ -4,7 +4,7 @@ title: Joplin rundown
 date: 2011-06-27T16:53:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1827
+guid: http://www.finnie.org/2011/06/27/joplin-rundown/
 permalink: /2011/06/27/joplin-rundown/
 categories:
   - Uncategorized

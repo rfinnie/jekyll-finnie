@@ -4,7 +4,7 @@ title: 'Achievement Unlocked: Credit Card Solvency'
 date: 2009-06-05T15:06:29+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=907
+guid: http://www.finnie.org/2009/06/05/achievement-unlocked-credit-card-solvency/
 permalink: /2009/06/05/achievement-unlocked-credit-card-solvency/
 categories:
   - Finances

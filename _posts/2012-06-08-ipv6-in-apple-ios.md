@@ -4,7 +4,7 @@ title: IPv6 in Apple iOS
 date: 2012-06-08T17:15:58+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2099
+guid: http://www.finnie.org/2012/06/08/ipv6-in-apple-ios/
 permalink: /2012/06/08/ipv6-in-apple-ios/
 categories:
   - Uncategorized

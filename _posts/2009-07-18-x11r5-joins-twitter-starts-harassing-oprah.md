@@ -4,7 +4,7 @@ title: X11R5 Joins Twitter, Starts Harassing Oprah
 date: 2009-07-18T15:00:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=952
+guid: http://www.finnie.org/2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/
 permalink: /2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/
 openid_comments:
   - 'a:1:{i:0;s:4:"1394";}'

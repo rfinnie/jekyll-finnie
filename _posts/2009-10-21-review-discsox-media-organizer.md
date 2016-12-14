@@ -4,7 +4,7 @@ title: 'Review: DiscSox media organizer'
 date: 2009-10-21T00:42:54+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1156
+guid: http://www.finnie.org/2009/10/21/review-discsox-media-organizer/
 permalink: /2009/10/21/review-discsox-media-organizer/
 categories:
   - Reviews

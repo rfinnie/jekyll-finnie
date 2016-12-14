@@ -4,7 +4,7 @@ title: Houston, the car has landed.
 date: 2007-06-10T20:57:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/06/10/houston-the-car-has-landed/
+guid: http://www.finnie.org/2007/06/10/houston-the-car-has-landed/
 permalink: /2007/06/10/houston-the-car-has-landed/
 lj_itemid:
   - "176633"

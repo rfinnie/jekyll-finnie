@@ -4,7 +4,7 @@ title: 'I got a new car.  In theory.'
 date: 2007-06-05T06:12:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/06/05/i-got-a-new-car-in-theory/
+guid: http://www.finnie.org/2007/06/05/i-got-a-new-car-in-theory/
 permalink: /2007/06/05/i-got-a-new-car-in-theory/
 lj_itemid:
   - "175792"

@@ -4,7 +4,7 @@ title: 2ping 2.0 released
 date: 2012-04-22T20:14:45+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2072
+guid: http://www.finnie.org/2012/04/22/2ping-2-0-released/
 permalink: /2012/04/22/2ping-2-0-released/
 categories:
   - Uncategorized

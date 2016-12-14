@@ -4,7 +4,7 @@ title: Ninja-like speed and stealth. Free soda refills.
 date: 2010-07-23T18:24:35+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1433
+guid: http://www.finnie.org/2010/07/23/ninja-like-speed-and-stealth-free-soda-refills/
 permalink: /2010/07/23/ninja-like-speed-and-stealth-free-soda-refills/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Joplin tornado update
 date: 2011-05-29T15:02:46+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1824
+guid: http://www.finnie.org/2011/05/29/joplin-tornado-update/
 permalink: /2011/05/29/joplin-tornado-update/
 categories:
   - Uncategorized

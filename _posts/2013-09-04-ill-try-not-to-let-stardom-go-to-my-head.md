@@ -4,7 +4,7 @@ title: "I'll try not to let stardom go to my head"
 date: 2013-09-04T19:22:16+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2325
+guid: http://www.finnie.org/2013/09/04/ill-try-not-to-let-stardom-go-to-my-head/
 permalink: /2013/09/04/ill-try-not-to-let-stardom-go-to-my-head/
 categories:
   - Uncategorized

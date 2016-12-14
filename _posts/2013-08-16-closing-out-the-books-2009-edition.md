@@ -4,7 +4,7 @@ title: Closing out the books, 2009 edition
 date: 2013-08-16T22:52:35+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2290
+guid: http://www.finnie.org/2013/08/16/closing-out-the-books-2009-edition/
 permalink: /2013/08/16/closing-out-the-books-2009-edition/
 categories:
   - Uncategorized

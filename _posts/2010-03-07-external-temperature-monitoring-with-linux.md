@@ -4,7 +4,7 @@ title: External temperature monitoring with Linux
 date: 2010-03-07T15:36:23+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1264
+guid: http://www.finnie.org/2010/03/07/external-temperature-monitoring-with-linux/
 permalink: /2010/03/07/external-temperature-monitoring-with-linux/
 openid_comments:
   - 'a:1:{i:0;s:5:"33137";}'

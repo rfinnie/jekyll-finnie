@@ -4,7 +4,7 @@ title: Raspberry Pi 2 Ubuntu / Raspbian benchmarks
 date: 2015-02-21T17:04:11+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2450
+guid: http://www.finnie.org/2015/02/21/raspberry-pi-2-ubuntu-raspbian-benchmarks/
 permalink: /2015/02/21/raspberry-pi-2-ubuntu-raspbian-benchmarks/
 categories:
   - Uncategorized

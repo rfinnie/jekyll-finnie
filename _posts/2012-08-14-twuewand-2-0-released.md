@@ -4,7 +4,7 @@ title: twuewand 2.0 released
 date: 2012-08-14T23:15:59+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2122
+guid: http://www.finnie.org/2012/08/14/twuewand-2-0-released/
 permalink: /2012/08/14/twuewand-2-0-released/
 categories:
   - Uncategorized

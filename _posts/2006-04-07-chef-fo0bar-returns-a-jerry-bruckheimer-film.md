@@ -4,7 +4,7 @@ title: 'Chef fo0bar Returns -- A Jerry Bruckheimer film'
 date: 2006-04-07T22:42:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
+guid: http://www.finnie.org/2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
 permalink: /2006/04/07/chef-fo0bar-returns-a-jerry-bruckheimer-film/
 lj_itemid:
   - "149407"

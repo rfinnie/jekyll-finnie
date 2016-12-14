@@ -4,7 +4,7 @@ title: Flickr mail bounce
 date: 2010-08-09T21:37:35+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1465
+guid: http://www.finnie.org/2010/08/09/flickr-mail-bounce/
 permalink: /2010/08/09/flickr-mail-bounce/
 categories:
   - Uncategorized

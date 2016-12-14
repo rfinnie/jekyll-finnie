@@ -4,7 +4,7 @@ title: Speaking of Mac clones...
 date: 2008-09-18T14:06:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/09/18/speaking-of-mac-clones/
+guid: http://www.finnie.org/2008/09/18/speaking-of-mac-clones/
 permalink: /2008/09/18/speaking-of-mac-clones/
 lj_itemid:
   - "192973"

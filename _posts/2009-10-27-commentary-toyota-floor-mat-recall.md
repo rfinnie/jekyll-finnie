@@ -4,7 +4,7 @@ title: 'Commentary: Toyota floor mat recall'
 date: 2009-10-27T00:52:38+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1177
+guid: http://www.finnie.org/2009/10/27/commentary-toyota-floor-mat-recall/
 permalink: /2009/10/27/commentary-toyota-floor-mat-recall/
 categories:
   - Uncategorized

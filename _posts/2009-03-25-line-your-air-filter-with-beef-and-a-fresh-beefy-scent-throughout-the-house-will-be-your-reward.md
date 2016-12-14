@@ -4,7 +4,7 @@ title: Line your air filter with beef, and a fresh, beefy scent throughout the h
 date: 2009-03-25T21:31:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
+guid: http://www.finnie.org/2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
 permalink: /2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
 lj_itemid:
   - "202235"

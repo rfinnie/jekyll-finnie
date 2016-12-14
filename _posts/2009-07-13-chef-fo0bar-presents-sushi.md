@@ -4,7 +4,7 @@ title: 'Chef fo0bar presents: Sushi'
 date: 2009-07-13T23:53:19+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=949
+guid: http://www.finnie.org/2009/07/13/chef-fo0bar-presents-sushi/
 permalink: /2009/07/13/chef-fo0bar-presents-sushi/
 categories:
   - Chef Fo0bar Presents

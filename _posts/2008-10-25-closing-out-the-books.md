@@ -4,7 +4,7 @@ title: Closing out the books
 date: 2008-10-25T16:37:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/10/25/closing-out-the-books/
+guid: http://www.finnie.org/2008/10/25/closing-out-the-books/
 permalink: /2008/10/25/closing-out-the-books/
 lj_itemid:
   - "195880"

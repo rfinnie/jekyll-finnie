@@ -4,7 +4,7 @@ title: 'Identi.ca: lp0 on fire'
 date: 2011-01-03T19:20:31+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1691
+guid: http://www.finnie.org/2011/01/03/identica-lp0-on-fire/
 permalink: /2011/01/03/identica-lp0-on-fire/
 categories:
   - Uncategorized

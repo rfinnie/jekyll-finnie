@@ -4,7 +4,7 @@ title: Lenovo ThinkPad X200s
 date: 2010-08-13T01:32:37+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1474
+guid: http://www.finnie.org/2010/08/13/lenovo-thinkpad-x200s/
 permalink: /2010/08/13/lenovo-thinkpad-x200s/
 openid_comments:
   - 'a:1:{i:0;s:6:"218622";}'

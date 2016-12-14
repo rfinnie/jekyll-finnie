@@ -4,7 +4,7 @@ title: Model M keyboard restoration project
 date: 2010-08-28T17:52:19+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1501
+guid: http://www.finnie.org/2010/08/28/model-m-keyboard-restoration-project/
 permalink: /2010/08/28/model-m-keyboard-restoration-project/
 categories:
   - Uncategorized

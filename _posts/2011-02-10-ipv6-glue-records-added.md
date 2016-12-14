@@ -4,7 +4,7 @@ title: IPv6 glue records added
 date: 2011-02-10T00:20:53+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1739
+guid: http://www.finnie.org/2011/02/10/ipv6-glue-records-added/
 permalink: /2011/02/10/ipv6-glue-records-added/
 categories:
   - Uncategorized

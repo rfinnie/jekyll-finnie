@@ -4,7 +4,7 @@ title: 我不是台灣人，谷歌
 date: 2013-05-21T21:24:40+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2261
+guid: http://www.finnie.org/2013/05/21/i-am-not-taiwanese-google/
 permalink: /2013/05/21/i-am-not-taiwanese-google/
 categories:
   - Uncategorized

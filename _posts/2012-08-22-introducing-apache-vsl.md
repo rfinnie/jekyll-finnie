@@ -4,7 +4,7 @@ title: Introducing apache-vsl
 date: 2012-08-22T00:04:01+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2028
+guid: http://www.finnie.org/2012/08/22/introducing-apache-vsl/
 permalink: /2012/08/22/introducing-apache-vsl/
 categories:
   - Uncategorized

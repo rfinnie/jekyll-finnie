@@ -4,7 +4,7 @@ title: The very best 1995 has to offer.
 date: 2009-10-11T15:26:21+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1059
+guid: http://www.finnie.org/2009/10/11/the-very-best-1995-has-to-offer/
 permalink: /2009/10/11/the-very-best-1995-has-to-offer/
 categories:
   - Finances

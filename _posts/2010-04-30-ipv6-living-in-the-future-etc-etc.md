@@ -4,7 +4,7 @@ title: 'IPv6: Living in the future, etc, etc'
 date: 2010-04-30T19:48:07+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1339
+guid: http://www.finnie.org/2010/04/30/ipv6-living-in-the-future-etc-etc/
 permalink: /2010/04/30/ipv6-living-in-the-future-etc-etc/
 categories:
   - Uncategorized

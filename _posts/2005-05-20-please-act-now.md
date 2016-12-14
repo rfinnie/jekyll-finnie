@@ -4,7 +4,7 @@ title: Please, act now.
 date: 2005-05-20T13:14:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/05/20/please-act-now/
+guid: http://www.finnie.org/2005/05/20/please-act-now/
 permalink: /2005/05/20/please-act-now/
 lj_itemid:
   - "104935"

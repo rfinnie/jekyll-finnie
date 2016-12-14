@@ -4,7 +4,7 @@ title: Civilized feed readers
 date: 2009-08-04T11:23:19+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=994
+guid: http://www.finnie.org/2009/08/04/civilized-feed-readers/
 permalink: /2009/08/04/civilized-feed-readers/
 categories:
   - Uncategorized

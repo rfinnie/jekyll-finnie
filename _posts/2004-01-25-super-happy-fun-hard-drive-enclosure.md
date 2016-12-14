@@ -4,7 +4,7 @@ title: Super happy fun hard drive enclosure!
 date: 2004-01-25T18:06:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2004/01/25/super-happy-fun-hard-drive-enclosure/
+guid: http://www.finnie.org/2004/01/25/super-happy-fun-hard-drive-enclosure/
 permalink: /2004/01/25/super-happy-fun-hard-drive-enclosure/
 lj_itemid:
   - "60274"

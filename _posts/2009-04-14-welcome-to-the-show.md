@@ -4,7 +4,7 @@ title: Welcome to the show!
 date: 2009-04-14T12:03:08+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=830
+guid: http://www.finnie.org/2009/04/14/welcome-to-the-show/
 permalink: /2009/04/14/welcome-to-the-show/
 categories:
   - Uncategorized

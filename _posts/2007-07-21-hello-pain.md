@@ -4,7 +4,7 @@ title: Hello, pain.
 date: 2007-07-21T23:30:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/07/21/hello-pain/
+guid: http://www.finnie.org/2007/07/21/hello-pain/
 permalink: /2007/07/21/hello-pain/
 lj_itemid:
   - "181463"

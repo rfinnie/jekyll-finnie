@@ -4,7 +4,7 @@ title: Hampr Mobile compatible with iPhone, Android, Pre
 date: 2010-01-07T00:42:51+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1230
+guid: http://www.finnie.org/2010/01/07/hampr-mobile-compatible-with-iphone-android-pre/
 permalink: /2010/01/07/hampr-mobile-compatible-with-iphone-android-pre/
 categories:
   - Hampr

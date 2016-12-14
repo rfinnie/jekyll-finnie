@@ -4,7 +4,7 @@ title: Earthquake
 date: 2005-06-26T12:11:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/06/26/earthquake/
+guid: http://www.finnie.org/2005/06/26/earthquake/
 permalink: /2005/06/26/earthquake/
 lj_itemid:
   - "111348"

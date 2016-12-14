@@ -4,7 +4,7 @@ title: How helpful.
 date: 2009-05-22T21:23:29+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=863
+guid: http://www.finnie.org/2009/05/22/how-helpful/
 permalink: /2009/05/22/how-helpful/
 openid_comments:
   - 'a:1:{i:0;s:4:"1061";}'
