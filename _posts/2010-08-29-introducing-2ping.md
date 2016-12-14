@@ -4,7 +4,7 @@ title: Introducing 2ping
 date: 2010-08-29T18:28:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1489
+guid: http://www.finnie.org/2010/08/29/introducing-2ping/
 permalink: /2010/08/29/introducing-2ping/
 categories:
   - Uncategorized

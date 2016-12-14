@@ -4,7 +4,7 @@ title: Reno Aces home opener
 date: 2009-04-17T09:04:42+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=851
+guid: http://www.finnie.org/2009/04/17/reno-aces-home-opener/
 permalink: /2009/04/17/reno-aces-home-opener/
 categories:
   - Uncategorized

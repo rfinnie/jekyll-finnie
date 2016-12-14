@@ -4,7 +4,7 @@ title: "Awww, isn't it cute..."
 date: 2005-11-06T20:25:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/11/06/awww-isnt-it-cute/
+guid: http://www.finnie.org/2005/11/06/awww-isnt-it-cute/
 permalink: /2005/11/06/awww-isnt-it-cute/
 lj_itemid:
   - "132939"

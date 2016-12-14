@@ -4,7 +4,7 @@ title: My four year old TV
 date: 2011-07-03T19:49:38+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1850
+guid: http://www.finnie.org/2011/07/03/my-four-year-old-tv/
 permalink: /2011/07/03/my-four-year-old-tv/
 categories:
   - Uncategorized

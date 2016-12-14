@@ -4,7 +4,7 @@ title: "My keyboard's louder than your keyboard"
 date: 2005-06-02T21:19:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/06/02/my-keyboards-louder-than-your-keyboard/
+guid: http://www.finnie.org/2005/06/02/my-keyboards-louder-than-your-keyboard/
 permalink: /2005/06/02/my-keyboards-louder-than-your-keyboard/
 lj_itemid:
   - "106763"

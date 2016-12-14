@@ -4,7 +4,7 @@ title: New car, 2013 edition
 date: 2013-07-27T16:52:58+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2280
+guid: http://www.finnie.org/2013/07/27/new-car-2013-edition/
 permalink: /2013/07/27/new-car-2013-edition/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: A traceroute down memory lane
 date: 2009-11-07T01:24:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1189
+guid: http://www.finnie.org/2009/11/07/a-traceroute-down-memory-lane/
 permalink: /2009/11/07/a-traceroute-down-memory-lane/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Wells Fargo ATMs
 date: 2009-10-11T19:55:12+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1067
+guid: http://www.finnie.org/2009/10/11/wells-fargo-atms/
 permalink: /2009/10/11/wells-fargo-atms/
 openid_comments:
   - 'a:1:{i:0;s:4:"3324";}'

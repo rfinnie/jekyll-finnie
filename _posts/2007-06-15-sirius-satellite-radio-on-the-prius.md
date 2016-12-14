@@ -4,7 +4,7 @@ title: Sirius satellite radio on the Prius
 date: 2007-06-15T19:36:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/06/15/sirius-satellite-radio-on-the-prius/
+guid: http://www.finnie.org/2007/06/15/sirius-satellite-radio-on-the-prius/
 permalink: /2007/06/15/sirius-satellite-radio-on-the-prius/
 lj_itemid:
   - "178249"

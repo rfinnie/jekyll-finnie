@@ -4,7 +4,7 @@ title: Ally Bank update
 date: 2009-06-10T12:15:21+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=935
+guid: http://www.finnie.org/2009/06/10/ally-bank-update/
 permalink: /2009/06/10/ally-bank-update/
 categories:
   - Finances

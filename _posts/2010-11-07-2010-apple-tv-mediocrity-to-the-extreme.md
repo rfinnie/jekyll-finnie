@@ -4,7 +4,7 @@ title: '2010 Apple TV: Mediocrity to the extreme'
 date: 2010-11-07T22:11:33+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1595
+guid: http://www.finnie.org/2010/11/07/2010-apple-tv-mediocrity-to-the-extreme/
 permalink: /2010/11/07/2010-apple-tv-mediocrity-to-the-extreme/
 categories:
   - Uncategorized

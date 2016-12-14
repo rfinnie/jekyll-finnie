@@ -4,7 +4,7 @@ title: Hoo boy, did I spend money today.
 date: 2007-01-17T17:15:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/01/17/hoo-boy-did-i-spend-money-today/
+guid: http://www.finnie.org/2007/01/17/hoo-boy-did-i-spend-money-today/
 permalink: /2007/01/17/hoo-boy-did-i-spend-money-today/
 lj_itemid:
   - "169112"

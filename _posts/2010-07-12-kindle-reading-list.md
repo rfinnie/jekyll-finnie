@@ -4,7 +4,7 @@ title: Kindle reading list
 date: 2010-07-12T00:07:38+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1347
+guid: http://www.finnie.org/2010/07/12/kindle-reading-list/
 permalink: /2010/07/12/kindle-reading-list/
 categories:
   - Uncategorized

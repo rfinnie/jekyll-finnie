@@ -4,7 +4,7 @@ title: 'xkcd: volume 0'
 date: 2009-10-14T12:18:23+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1046
+guid: http://www.finnie.org/2009/10/14/xkcd-volume-0/
 permalink: /2009/10/14/xkcd-volume-0/
 openid_comments:
   - 'a:1:{i:0;s:4:"3152";}'

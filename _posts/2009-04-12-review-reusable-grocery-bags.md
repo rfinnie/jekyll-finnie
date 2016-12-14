@@ -4,7 +4,7 @@ title: 'Review: Reusable grocery bags'
 date: 2009-04-12T22:29:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=814
+guid: http://www.finnie.org/2009/04/12/review-reusable-grocery-bags/
 permalink: /2009/04/12/review-reusable-grocery-bags/
 categories:
   - Reviews

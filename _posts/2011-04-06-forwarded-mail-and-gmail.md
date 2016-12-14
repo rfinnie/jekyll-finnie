@@ -4,7 +4,7 @@ title: Forwarded mail and Gmail
 date: 2011-04-06T17:22:46+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1788
+guid: http://www.finnie.org/2011/04/06/forwarded-mail-and-gmail/
 permalink: /2011/04/06/forwarded-mail-and-gmail/
 categories:
   - Uncategorized

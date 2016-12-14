@@ -4,7 +4,7 @@ title: rsnapshot
 date: 2011-07-27T21:59:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1859
+guid: http://www.finnie.org/2011/07/27/rsnapshot/
 permalink: /2011/07/27/rsnapshot/
 categories:
   - Uncategorized

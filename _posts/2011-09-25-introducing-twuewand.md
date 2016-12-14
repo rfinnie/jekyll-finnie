@@ -4,7 +4,7 @@ title: Introducing twuewand
 date: 2011-09-25T15:26:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1908
+guid: http://www.finnie.org/2011/09/25/introducing-twuewand/
 permalink: /2011/09/25/introducing-twuewand/
 categories:
   - Uncategorized

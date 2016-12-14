@@ -4,7 +4,7 @@ title: Contribution intoxication
 date: 2011-04-20T12:51:07+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1797
+guid: http://www.finnie.org/2011/04/20/contribution-intoxication/
 permalink: /2011/04/20/contribution-intoxication/
 categories:
   - Uncategorized

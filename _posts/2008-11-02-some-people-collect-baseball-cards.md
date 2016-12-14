@@ -4,7 +4,7 @@ title: Some people collect baseball cards.
 date: 2008-11-02T22:24:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/11/02/some-people-collect-baseball-cards/
+guid: http://www.finnie.org/2008/11/02/some-people-collect-baseball-cards/
 permalink: /2008/11/02/some-people-collect-baseball-cards/
 lj_itemid:
   - "197093"

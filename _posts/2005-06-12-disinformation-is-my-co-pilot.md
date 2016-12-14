@@ -4,7 +4,7 @@ title: Disinformation is my co-pilot.
 date: 2005-06-12T20:07:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2005/06/12/disinformation-is-my-co-pilot/
+guid: http://www.finnie.org/2005/06/12/disinformation-is-my-co-pilot/
 permalink: /2005/06/12/disinformation-is-my-co-pilot/
 lj_itemid:
   - "108720"

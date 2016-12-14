@@ -4,7 +4,7 @@ title: Employment
 date: 2011-06-26T01:51:44+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1841
+guid: http://www.finnie.org/2011/06/26/employment/
 permalink: /2011/06/26/employment/
 categories:
   - Uncategorized

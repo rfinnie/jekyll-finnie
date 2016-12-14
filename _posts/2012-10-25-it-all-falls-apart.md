@@ -4,7 +4,7 @@ title: It all falls apart
 date: 2012-10-25T23:51:20+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2168
+guid: http://www.finnie.org/2012/10/25/it-all-falls-apart/
 permalink: /2012/10/25/it-all-falls-apart/
 categories:
   - Uncategorized

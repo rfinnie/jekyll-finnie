@@ -4,7 +4,7 @@ title: AirPrint and Linux
 date: 2010-11-13T00:58:58+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1634
+guid: http://www.finnie.org/2010/11/13/airprint-and-linux/
 permalink: /2010/11/13/airprint-and-linux/
 openid_comments:
   - 'a:1:{i:0;s:6:"198357";}'

@@ -4,7 +4,7 @@ title: "Schrödinger's Xbox"
 date: 2009-10-26T00:00:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1171
+guid: http://www.finnie.org/2009/10/26/schrodingers-xbox/
 permalink: /2009/10/26/schrodingers-xbox/
 categories:
   - Uncategorized

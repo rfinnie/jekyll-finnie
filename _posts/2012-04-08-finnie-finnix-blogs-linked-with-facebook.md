@@ -4,7 +4,7 @@ title: Finnie/Finnix blogs linked with Facebook
 date: 2012-04-08T21:50:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2057
+guid: http://www.finnie.org/2012/04/08/finnie-finnix-blogs-linked-with-facebook/
 permalink: /2012/04/08/finnie-finnix-blogs-linked-with-facebook/
 categories:
   - Uncategorized

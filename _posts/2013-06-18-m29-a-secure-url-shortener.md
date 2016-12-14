@@ -4,7 +4,7 @@ title: M29, a secure URL shortener
 date: 2013-06-18T02:01:54+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2273
+guid: http://www.finnie.org/2013/06/18/m29-a-secure-url-shortener/
 permalink: /2013/06/18/m29-a-secure-url-shortener/
 categories:
   - Uncategorized

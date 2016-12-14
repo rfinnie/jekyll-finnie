@@ -5,7 +5,7 @@ title: |
 date: 2009-10-26T10:48:31+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1175
+guid: http://www.finnie.org/2009/10/26/its-only-slower-if-you-consider-time/
 permalink: /2009/10/26/its-only-slower-if-you-consider-time/
 categories:
   - Uncategorized

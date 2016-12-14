@@ -4,7 +4,7 @@ title: IPv6 autoconfiguration in a nutshell
 date: 2012-06-10T02:39:25+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2108
+guid: http://www.finnie.org/2012/06/10/ipv6-autoconfiguration-in-a-nutshell/
 permalink: /2012/06/10/ipv6-autoconfiguration-in-a-nutshell/
 categories:
   - Uncategorized

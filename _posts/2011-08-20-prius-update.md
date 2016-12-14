@@ -4,7 +4,7 @@ title: Prius update
 date: 2011-08-20T18:40:45+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1884
+guid: http://www.finnie.org/2011/08/20/prius-update/
 permalink: /2011/08/20/prius-update/
 openid_comments:
   - 'a:1:{i:0;s:6:"153762";}'

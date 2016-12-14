@@ -4,7 +4,7 @@ title: Working at Canonical
 date: 2012-02-20T14:14:37+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2022
+guid: http://www.finnie.org/2012/02/20/working-at-canonical/
 permalink: /2012/02/20/working-at-canonical/
 categories:
   - Uncategorized

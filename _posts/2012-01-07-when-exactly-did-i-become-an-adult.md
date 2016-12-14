@@ -4,7 +4,7 @@ title: When exactly did I become an adult?
 date: 2012-01-07T00:59:29+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1942
+guid: http://www.finnie.org/2012/01/07/when-exactly-did-i-become-an-adult/
 permalink: /2012/01/07/when-exactly-did-i-become-an-adult/
 categories:
   - Uncategorized

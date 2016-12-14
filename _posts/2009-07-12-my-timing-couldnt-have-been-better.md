@@ -4,7 +4,7 @@ title: "My timing couldn't have been better"
 date: 2009-07-12T15:50:03+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=946
+guid: http://www.finnie.org/2009/07/12/my-timing-couldnt-have-been-better/
 permalink: /2009/07/12/my-timing-couldnt-have-been-better/
 categories:
   - Finances

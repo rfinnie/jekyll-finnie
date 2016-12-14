@@ -4,7 +4,7 @@ title: ThinkPad X200s, one year follow-up
 date: 2011-08-22T00:05:49+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1895
+guid: http://www.finnie.org/2011/08/22/thinkpad-x200s-one-year-follow-up/
 permalink: /2011/08/22/thinkpad-x200s-one-year-follow-up/
 openid_comments:
   - 'a:2:{i:0;s:6:"236745";i:1;s:6:"315324";}'

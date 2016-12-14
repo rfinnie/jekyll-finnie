@@ -4,7 +4,7 @@ title: No-Bake Chocolate Oatmeal Cookies
 date: 2007-04-28T20:31:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/04/28/no-bake-chocolate-oatmeal-cookies/
+guid: http://www.finnie.org/2007/04/28/no-bake-chocolate-oatmeal-cookies/
 permalink: /2007/04/28/no-bake-chocolate-oatmeal-cookies/
 lj_itemid:
   - "172852"

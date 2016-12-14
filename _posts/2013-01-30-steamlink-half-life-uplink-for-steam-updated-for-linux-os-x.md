@@ -4,7 +4,7 @@ title: 'SteamLink (Half-Life: Uplink for Steam) updated for Linux / OS X'
 date: 2013-01-30T19:10:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2218
+guid: http://www.finnie.org/2013/01/30/steamlink-half-life-uplink-for-steam-updated-for-linux-os-x/
 permalink: /2013/01/30/steamlink-half-life-uplink-for-steam-updated-for-linux-os-x/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: "They're baaaaack..."
 date: 2008-06-09T01:33:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/06/09/theyre-baaaaack/
+guid: http://www.finnie.org/2008/06/09/theyre-baaaaack/
 permalink: /2008/06/09/theyre-baaaaack/
 lj_itemid:
   - "190315"

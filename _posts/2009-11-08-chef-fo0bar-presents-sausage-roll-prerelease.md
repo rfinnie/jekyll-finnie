@@ -4,7 +4,7 @@ title: 'Chef Fo0bar presents: Sausage Roll Prerelease'
 date: 2009-11-08T20:29:52+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1196
+guid: http://www.finnie.org/2009/11/08/chef-fo0bar-presents-sausage-roll-prerelease/
 permalink: /2009/11/08/chef-fo0bar-presents-sausage-roll-prerelease/
 categories:
   - Chef Fo0bar Presents

@@ -4,7 +4,7 @@ title: Get rid of those damn credit card preapprovals
 date: 2009-03-18T00:52:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/18/get-rid-of-those-damn-credit-card-preapprovals/
+guid: http://www.finnie.org/2009/03/18/get-rid-of-those-damn-credit-card-preapprovals/
 permalink: /2009/03/18/get-rid-of-those-damn-credit-card-preapprovals/
 lj_itemid:
   - "201428"

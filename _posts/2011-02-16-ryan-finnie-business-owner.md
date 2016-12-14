@@ -4,7 +4,7 @@ title: Ryan Finnie, business owner
 date: 2011-02-16T19:39:25+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1752
+guid: http://www.finnie.org/2011/02/16/ryan-finnie-business-owner/
 permalink: /2011/02/16/ryan-finnie-business-owner/
 categories:
   - Finances

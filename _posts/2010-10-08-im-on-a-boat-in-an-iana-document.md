@@ -4,7 +4,7 @@ title: "I'm on a boat^H^H^H^H^H^H^H^H^H in an IANA document."
 date: 2010-10-08T15:24:59+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1576
+guid: http://www.finnie.org/2010/10/08/im-on-a-boat-in-an-iana-document/
 permalink: /2010/10/08/im-on-a-boat-in-an-iana-document/
 categories:
   - Uncategorized

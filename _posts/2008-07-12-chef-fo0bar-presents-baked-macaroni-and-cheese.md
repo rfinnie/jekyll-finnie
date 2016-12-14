@@ -4,7 +4,7 @@ title: 'Chef fo0bar presents: Baked Macaroni and Cheese'
 date: 2008-07-12T23:01:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
+guid: http://www.finnie.org/2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
 permalink: /2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
 lj_current_mood:
   - full

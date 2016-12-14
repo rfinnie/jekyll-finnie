@@ -4,7 +4,7 @@ title: Linux and the 2009 Apple "mini" aluminum USB keyboard
 date: 2009-03-04T23:25:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
+guid: http://www.finnie.org/2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
 permalink: /2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
 lj_itemid:
   - "199913"

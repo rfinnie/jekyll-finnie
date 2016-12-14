@@ -4,7 +4,7 @@ title: Mobile Rickroll Appliance 6.0 released
 date: 2011-08-13T13:56:27+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1873
+guid: http://www.finnie.org/2011/08/13/mobile-rickroll-appliance-6-0-released/
 permalink: /2011/08/13/mobile-rickroll-appliance-6-0-released/
 openid_comments:
   - 'a:1:{i:0;s:6:"145926";}'

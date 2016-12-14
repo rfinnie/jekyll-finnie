@@ -4,7 +4,7 @@ title: 'HOWTO: Delete a 3ware DCB'
 date: 2010-06-07T13:51:18+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1356
+guid: http://www.finnie.org/2010/06/07/howto-delete-a-3ware-dcb/
 permalink: /2010/06/07/howto-delete-a-3ware-dcb/
 categories:
   - Uncategorized

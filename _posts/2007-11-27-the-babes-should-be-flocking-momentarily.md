@@ -4,7 +4,7 @@ title: The babes should be flocking momentarily.
 date: 2007-11-27T02:16:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/11/27/the-babes-should-be-flocking-momentarily/
+guid: http://www.finnie.org/2007/11/27/the-babes-should-be-flocking-momentarily/
 permalink: /2007/11/27/the-babes-should-be-flocking-momentarily/
 lj_itemid:
   - "184683"

@@ -4,7 +4,7 @@ title: "Chef fo0bar presents: Combo cheeseburger, Kroll's style"
 date: 2008-12-23T00:14:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
+guid: http://www.finnie.org/2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
 permalink: /2008/12/23/chef-fo0bar-presents-combo-cheeseburger-krolls-style/
 lj_itemid:
   - "197746"

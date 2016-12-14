@@ -4,7 +4,7 @@ title: All about the FrankenDell
 date: 2006-08-07T19:58:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/08/07/all-about-the-frankendell/
+guid: http://www.finnie.org/2006/08/07/all-about-the-frankendell/
 permalink: /2006/08/07/all-about-the-frankendell/
 lj_itemid:
   - "157641"

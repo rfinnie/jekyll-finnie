@@ -4,7 +4,7 @@ title: Mummified meats
 date: 2009-03-27T17:45:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/03/27/mummified-meats/
+guid: http://www.finnie.org/2009/03/27/mummified-meats/
 permalink: /2009/03/27/mummified-meats/
 lj_itemid:
   - "202808"

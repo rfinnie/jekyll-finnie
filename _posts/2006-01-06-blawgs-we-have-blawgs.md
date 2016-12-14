@@ -4,7 +4,7 @@ title: 'BLAWGS!  WE HAVE BLAWGS!'
 date: 2006-01-06T19:38:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/01/06/blawgs-we-have-blawgs/
+guid: http://www.finnie.org/2006/01/06/blawgs-we-have-blawgs/
 permalink: /2006/01/06/blawgs-we-have-blawgs/
 lj_itemid:
   - "138897"

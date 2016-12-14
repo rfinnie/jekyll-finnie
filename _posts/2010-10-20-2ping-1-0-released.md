@@ -4,7 +4,7 @@ title: 2ping 1.0 released
 date: 2010-10-20T15:36:17+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1590
+guid: http://www.finnie.org/2010/10/20/2ping-1-0-released/
 permalink: /2010/10/20/2ping-1-0-released/
 categories:
   - Uncategorized

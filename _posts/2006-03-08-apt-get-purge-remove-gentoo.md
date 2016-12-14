@@ -4,7 +4,7 @@ title: apt-get --purge remove gentoo
 date: 2006-03-08T22:18:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/03/08/apt-get-purge-remove-gentoo/
+guid: http://www.finnie.org/2006/03/08/apt-get-purge-remove-gentoo/
 permalink: /2006/03/08/apt-get-purge-remove-gentoo/
 lj_itemid:
   - "144593"

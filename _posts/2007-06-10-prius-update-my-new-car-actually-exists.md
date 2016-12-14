@@ -4,7 +4,7 @@ title: 'Prius update: my new car actually exists'
 date: 2007-06-10T02:15:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/06/10/prius-update-my-new-car-actually-exists/
+guid: http://www.finnie.org/2007/06/10/prius-update-my-new-car-actually-exists/
 permalink: /2007/06/10/prius-update-my-new-car-actually-exists/
 lj_itemid:
   - "175978"

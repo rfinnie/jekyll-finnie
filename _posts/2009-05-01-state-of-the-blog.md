@@ -4,7 +4,7 @@ title: State of the blog
 date: 2009-05-01T22:50:10+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=858
+guid: http://www.finnie.org/2009/05/01/state-of-the-blog/
 permalink: /2009/05/01/state-of-the-blog/
 categories:
   - Uncategorized

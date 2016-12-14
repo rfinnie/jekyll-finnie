@@ -4,7 +4,7 @@ title: FrankenDell
 date: 2006-08-06T16:51:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/08/06/frankendell/
+guid: http://www.finnie.org/2006/08/06/frankendell/
 permalink: /2006/08/06/frankendell/
 lj_itemid:
   - "157032"

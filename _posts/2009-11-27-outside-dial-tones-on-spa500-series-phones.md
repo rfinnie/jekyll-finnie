@@ -4,7 +4,7 @@ title: Outside dial tones on SPA500 series phones
 date: 2009-11-27T23:36:06+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1214
+guid: http://www.finnie.org/2009/11/27/outside-dial-tones-on-spa500-series-phones/
 permalink: /2009/11/27/outside-dial-tones-on-spa500-series-phones/
 enclosure:
   - |

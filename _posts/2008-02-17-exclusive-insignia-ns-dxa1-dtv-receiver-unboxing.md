@@ -4,7 +4,7 @@ title: EXCLUSIVE! Insignia NS-DXA1 DTV receiver unboxing!
 date: 2008-02-17T19:25:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/02/17/exclusive-insignia-ns-dxa1-dtv-receiver-unboxing/
+guid: http://www.finnie.org/2008/02/17/exclusive-insignia-ns-dxa1-dtv-receiver-unboxing/
 permalink: /2008/02/17/exclusive-insignia-ns-dxa1-dtv-receiver-unboxing/
 lj_itemid:
   - "187408"

@@ -4,7 +4,7 @@ title: Reno Charter QAM channels
 date: 2011-11-24T20:51:24+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1917
+guid: http://www.finnie.org/2011/11/24/reno-charter-qam-channels/
 permalink: /2011/11/24/reno-charter-qam-channels/
 categories:
   - Uncategorized

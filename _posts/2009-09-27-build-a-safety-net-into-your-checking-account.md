@@ -4,7 +4,7 @@ title: Build a safety net into your checking account
 date: 2009-09-27T17:38:31+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1020
+guid: http://www.finnie.org/2009/09/27/build-a-safety-net-into-your-checking-account/
 permalink: /2009/09/27/build-a-safety-net-into-your-checking-account/
 categories:
   - Finances

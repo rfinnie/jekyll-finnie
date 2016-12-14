@@ -4,7 +4,7 @@ title: You doubt my raw coolness?
 date: 2004-09-22T11:07:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2004/09/22/you-doubt-my-raw-coolness/
+guid: http://www.finnie.org/2004/09/22/you-doubt-my-raw-coolness/
 permalink: /2004/09/22/you-doubt-my-raw-coolness/
 lj_itemid:
   - "77844"

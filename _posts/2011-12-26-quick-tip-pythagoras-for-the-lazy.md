@@ -4,7 +4,7 @@ title: 'Quick tip: Pythagoras for the lazy'
 date: 2011-12-26T19:30:46+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1929
+guid: http://www.finnie.org/2011/12/26/quick-tip-pythagoras-for-the-lazy/
 permalink: /2011/12/26/quick-tip-pythagoras-for-the-lazy/
 categories:
   - Uncategorized

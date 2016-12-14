@@ -4,7 +4,7 @@ title: Oh, what a wonderful world we live in
 date: 2009-10-08T23:50:12+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1033
+guid: http://www.finnie.org/2009/10/08/oh-what-a-wonderful-world-we-live-in/
 permalink: /2009/10/08/oh-what-a-wonderful-world-we-live-in/
 categories:
   - Uncategorized

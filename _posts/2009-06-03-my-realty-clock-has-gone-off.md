@@ -4,7 +4,7 @@ title: My realty clock has gone off.
 date: 2009-06-03T01:58:54+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=887
+guid: http://www.finnie.org/2009/06/03/my-realty-clock-has-gone-off/
 permalink: /2009/06/03/my-realty-clock-has-gone-off/
 categories:
   - Finances

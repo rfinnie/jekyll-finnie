@@ -4,7 +4,7 @@ title: Hampr extension and Firefox 4.0
 date: 2011-03-25T16:20:50+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1777
+guid: http://www.finnie.org/2011/03/25/hampr-extension-and-firefox-4-0/
 permalink: /2011/03/25/hampr-extension-and-firefox-4-0/
 categories:
   - Hampr

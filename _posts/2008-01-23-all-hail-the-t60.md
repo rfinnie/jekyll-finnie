@@ -4,7 +4,7 @@ title: All hail the T60
 date: 2008-01-23T16:05:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/01/23/all-hail-the-t60/
+guid: http://www.finnie.org/2008/01/23/all-hail-the-t60/
 permalink: /2008/01/23/all-hail-the-t60/
 lj_itemid:
   - "186574"

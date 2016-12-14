@@ -4,7 +4,7 @@ title: 'Chef fo0bar presents: coffee syrup, etc'
 date: 2009-05-30T18:44:23+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=871
+guid: http://www.finnie.org/2009/05/30/chef-fo0bar-presents-coffee-syrup/
 permalink: /2009/05/30/chef-fo0bar-presents-coffee-syrup/
 categories:
   - Chef Fo0bar Presents

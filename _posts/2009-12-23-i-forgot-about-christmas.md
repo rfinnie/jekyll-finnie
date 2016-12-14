@@ -4,7 +4,7 @@ title: I forgot about Christmas.
 date: 2009-12-23T18:14:56+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1222
+guid: http://www.finnie.org/2009/12/23/i-forgot-about-christmas/
 permalink: /2009/12/23/i-forgot-about-christmas/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: 'Review: Dell 2209WA 22" E-IPS LCD'
 date: 2009-04-07T13:36:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2009/04/07/review-dell-2209wa-22-e-ips-lcd/
+guid: http://www.finnie.org/2009/04/07/review-dell-2209wa-22-e-ips-lcd/
 permalink: /2009/04/07/review-dell-2209wa-22-e-ips-lcd/
 lj_itemid:
   - "203363"

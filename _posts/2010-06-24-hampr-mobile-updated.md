@@ -4,7 +4,7 @@ title: Hampr Mobile updated
 date: 2010-06-24T20:03:04+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1380
+guid: http://www.finnie.org/2010/06/24/hampr-mobile-updated/
 permalink: /2010/06/24/hampr-mobile-updated/
 categories:
   - Hampr

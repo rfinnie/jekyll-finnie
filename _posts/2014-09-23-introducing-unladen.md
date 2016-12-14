@@ -6,7 +6,7 @@ author: Ryan Finnie
 excerpt: |
   Unladen is designed to be a cheap, easily scalable object storage system.  "Cheap" in the sense that you can easily use your infrastructure's existing servers' spare space to create (or add to) an ad-hoc cluster.  Or you could build massive dedicated 500TB storage nodes.  Or a combination of those two extremes.
 layout: post
-guid: http://www.finnie.org/?p=2385
+guid: http://www.finnie.org/2014/09/23/introducing-unladen/
 permalink: /2014/09/23/introducing-unladen/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: OpenPGP key transition
 date: 2012-04-11T10:53:39+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2061
+guid: http://www.finnie.org/2012/04/11/openpgp-key-transition/
 permalink: /2012/04/11/openpgp-key-transition/
 categories:
   - Uncategorized

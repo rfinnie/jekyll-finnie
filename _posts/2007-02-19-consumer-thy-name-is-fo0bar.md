@@ -4,7 +4,7 @@ title: Consumer, thy name is fo0bar
 date: 2007-02-19T15:43:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/02/19/consumer-thy-name-is-fo0bar/
+guid: http://www.finnie.org/2007/02/19/consumer-thy-name-is-fo0bar/
 permalink: /2007/02/19/consumer-thy-name-is-fo0bar/
 lj_itemid:
   - "170499"

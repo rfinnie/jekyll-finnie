@@ -4,7 +4,7 @@ title: 'New bike.  Also, riding of said bike.'
 date: 2008-05-19T00:58:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/05/19/new-bike-also-riding-of-said-bike/
+guid: http://www.finnie.org/2008/05/19/new-bike-also-riding-of-said-bike/
 permalink: /2008/05/19/new-bike-also-riding-of-said-bike/
 lj_itemid:
   - "190188"

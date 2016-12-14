@@ -4,7 +4,7 @@ title: "If you can't take the heat, get out of the NOC."
 date: 2007-07-09T13:34:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
+guid: http://www.finnie.org/2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
 permalink: /2007/07/09/if-you-cant-take-the-heat-get-out-of-the-noc/
 lj_itemid:
   - "180930"

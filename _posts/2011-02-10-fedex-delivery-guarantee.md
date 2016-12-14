@@ -4,7 +4,7 @@ title: FedEx delivery guarantee
 date: 2011-02-10T22:56:58+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1747
+guid: http://www.finnie.org/2011/02/10/fedex-delivery-guarantee/
 permalink: /2011/02/10/fedex-delivery-guarantee/
 categories:
   - Uncategorized

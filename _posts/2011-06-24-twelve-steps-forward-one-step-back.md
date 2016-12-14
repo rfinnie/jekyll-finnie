@@ -4,7 +4,7 @@ title: Twelve steps forward, one step back
 date: 2011-06-24T12:09:13+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1834
+guid: http://www.finnie.org/2011/06/24/twelve-steps-forward-one-step-back/
 permalink: /2011/06/24/twelve-steps-forward-one-step-back/
 categories:
   - Uncategorized

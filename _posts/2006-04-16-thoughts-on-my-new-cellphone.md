@@ -4,7 +4,7 @@ title: Thoughts on my new cellphone
 date: 2006-04-16T14:40:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2006/04/16/thoughts-on-my-new-cellphone/
+guid: http://www.finnie.org/2006/04/16/thoughts-on-my-new-cellphone/
 permalink: /2006/04/16/thoughts-on-my-new-cellphone/
 lj_itemid:
   - "150754"

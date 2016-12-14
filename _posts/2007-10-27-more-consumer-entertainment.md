@@ -4,7 +4,7 @@ title: More consumer entertainment
 date: 2007-10-27T21:20:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2007/10/27/more-consumer-entertainment/
+guid: http://www.finnie.org/2007/10/27/more-consumer-entertainment/
 permalink: /2007/10/27/more-consumer-entertainment/
 lj_itemid:
   - "183432"

@@ -4,7 +4,7 @@ title: apt-get dist-upgrade
 date: 2012-05-30T01:42:15+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=2079
+guid: http://www.finnie.org/2012/05/30/apt-get-dist-upgrade/
 permalink: /2012/05/30/apt-get-dist-upgrade/
 categories:
   - Uncategorized

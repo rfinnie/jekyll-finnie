@@ -4,7 +4,7 @@ title: Mission accomplished
 date: 2009-10-16T00:21:12+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1070
+guid: http://www.finnie.org/2009/10/16/mission-accomplished/
 permalink: /2009/10/16/mission-accomplished/
 categories:
   - Finances

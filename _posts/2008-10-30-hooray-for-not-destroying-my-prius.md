@@ -4,7 +4,7 @@ title: Hooray for not destroying my Prius!
 date: 2008-10-30T11:22:00+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/testblog/wordpress/2008/10/30/hooray-for-not-destroying-my-prius/
+guid: http://www.finnie.org/2008/10/30/hooray-for-not-destroying-my-prius/
 permalink: /2008/10/30/hooray-for-not-destroying-my-prius/
 lj_itemid:
   - "196834"

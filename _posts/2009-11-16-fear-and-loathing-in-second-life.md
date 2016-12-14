@@ -4,7 +4,7 @@ title: Fear and Loathing in Second Life
 date: 2009-11-16T21:40:11+00:00
 author: Ryan Finnie
 layout: post
-guid: http://www.finnie.org/?p=1201
+guid: http://www.finnie.org/2009/11/16/fear-and-loathing-in-second-life/
 permalink: /2009/11/16/fear-and-loathing-in-second-life/
 categories:
   - Uncategorized
