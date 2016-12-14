@@ -1,17 +1,17 @@
 ---
-id: 1873
-title: Mobile Rickroll Appliance 6.0 released
-date: 2011-08-13T13:56:27+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/08/13/mobile-rickroll-appliance-6-0-released/
-permalink: /2011/08/13/mobile-rickroll-appliance-6-0-released/
-openid_comments:
-  - 'a:1:{i:0;s:6:"145926";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-08-13 13:56:27
+guid: http://www.finnie.org/2011/08/13/mobile-rickroll-appliance-6-0-released/
+id: 1873
+layout: post
+openid_comments:
+- a:1:{i:0;s:6:"145926";}
+permalink: /2011/08/13/mobile-rickroll-appliance-6-0-released/
 tags:
-  - planet:canonical
+- planet:canonical
+title: Mobile Rickroll Appliance 6.0 released
 ---
 <div style="float: right; margin-left: 1em;">
   <a href="http://www.flickr.com/photos/fo0bar/2366164074/" title="Mobile Rickroll Appliance 6.0 by Ryan Finnie, on Flickr"><img src="http://farm4.static.flickr.com/3228/2366164074_fce0ee2d3b_m.jpg" width="240" height="180" alt="Mobile Rickroll Appliance 6.0" /></a>

@@ -1,17 +1,17 @@
 ---
-id: 759
-title: New keyboard
-date: 2009-03-04T20:19:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/03/04/new-keyboard/
-permalink: /2009/03/04/new-keyboard/
-lj_itemid:
-  - "199517"
-lj_import_url:
-  - http://fo0bar.livejournal.com/199517.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-03-04 20:19:00
+guid: http://www.finnie.org/2009/03/04/new-keyboard/
+id: 759
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/199517.html
+lj_itemid:
+- '199517'
+permalink: /2009/03/04/new-keyboard/
+title: New keyboard
 ---
 [<img src="http://farm4.static.flickr.com/3580/3329284159_2901fca288.jpg" width="500" height="375" alt="IMG_0349" />](http://www.flickr.com/photos/fo0bar/3329284159/ "IMG_0349 by fo0bar, on Flickr")
   

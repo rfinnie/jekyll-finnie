@@ -1,15 +1,15 @@
 ---
-id: 1671
-title: Postal system abuse for fun and profit!
-date: 2010-12-27T00:04:55+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/12/27/postal-system-abuse-for-fun-and-profit/
-permalink: /2010/12/27/postal-system-abuse-for-fun-and-profit/
-openid_comments:
-  - 'a:2:{i:0;s:5:"70318";i:1;s:5:"85730";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-12-27 00:04:55
+guid: http://www.finnie.org/2010/12/27/postal-system-abuse-for-fun-and-profit/
+id: 1671
+layout: post
+openid_comments:
+- a:2:{i:0;s:5:"70318";i:1;s:5:"85730";}
+permalink: /2010/12/27/postal-system-abuse-for-fun-and-profit/
+title: Postal system abuse for fun and profit!
 ---
 I hang out on a smallish IRC channel which is frequented by people from several countries: the U.K., the Netherlands, Denmark, Australia, New Zealand, Brazil, and probably more countries I do not remember. There are several of us from the US, but we are in the minority. "In my country, we do things _this_ way" conversations happen frequently.
 

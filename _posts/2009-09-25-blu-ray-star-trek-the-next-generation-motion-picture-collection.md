@@ -1,15 +1,15 @@
 ---
-id: 1016
-title: 'Blu-ray: Star Trek: The Next Generation Motion Picture Collection'
-date: 2009-09-25T01:20:31+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/09/25/blu-ray-star-trek-the-next-generation-motion-picture-collection/
-permalink: /2009/09/25/blu-ray-star-trek-the-next-generation-motion-picture-collection/
-openid_comments:
-  - 'a:2:{i:0;s:4:"2794";i:1;s:4:"2810";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-09-25 01:20:31
+guid: http://www.finnie.org/2009/09/25/blu-ray-star-trek-the-next-generation-motion-picture-collection/
+id: 1016
+layout: post
+openid_comments:
+- a:2:{i:0;s:4:"2794";i:1;s:4:"2810";}
+permalink: /2009/09/25/blu-ray-star-trek-the-next-generation-motion-picture-collection/
+title: 'Blu-ray: Star Trek: The Next Generation Motion Picture Collection'
 ---
 On Tuesday, Star Trek: The Next Generation Motion Picture Collection was released on Blu-ray, containing all TNG movies, remastered for Blu-ray. I picked up a copy on Tuesday (for a very good price, too), and this post acts as a 100% biased mini-review.
 

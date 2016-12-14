@@ -1,16 +1,16 @@
 ---
-id: 2122
-title: twuewand 2.0 released
-date: 2012-08-14T23:15:59+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/08/14/twuewand-2-0-released/
-permalink: /2012/08/14/twuewand-2-0-released/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-08-14 23:15:59
+guid: http://www.finnie.org/2012/08/14/twuewand-2-0-released/
+id: 2122
+layout: post
+permalink: /2012/08/14/twuewand-2-0-released/
 tags:
-  - planet:canonical
-  - twuewand
+- planet:canonical
+- twuewand
+title: twuewand 2.0 released
 ---
 You may remember [about a year ago](http://www.finnie.org/2011/09/25/introducing-twuewand/) when I released [twuewand](http://www.finnie.org/software/twuewand/), a TrueRand implementation. TrueRand is a hardware entropy generation technique, implemented in software. In a nutshell, it works by setting an alarm for a few milliseconds in the future, and flipping a bit until the alarm is reached. It works due to the fact that time (your computer's RTC) and work (your computer's CPU) are not linked, so the result when the alarm comes due is unpredictable.
 

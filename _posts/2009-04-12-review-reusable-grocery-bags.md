@@ -1,13 +1,13 @@
 ---
-id: 814
-title: 'Review: Reusable grocery bags'
-date: 2009-04-12T22:29:27+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/04/12/review-reusable-grocery-bags/
-permalink: /2009/04/12/review-reusable-grocery-bags/
 categories:
-  - Reviews
+- Reviews
+date: 2009-04-12 22:29:27
+guid: http://www.finnie.org/2009/04/12/review-reusable-grocery-bags/
+id: 814
+layout: post
+permalink: /2009/04/12/review-reusable-grocery-bags/
+title: 'Review: Reusable grocery bags'
 ---
 [<img src="http://farm4.static.flickr.com/3653/3437320152_613293d543.jpg" width="500" height="375" alt="Reusable grocery bag" />](http://www.flickr.com/photos/fo0bar/3437320152/ "Reusable grocery bag by fo0bar, on Flickr")
 

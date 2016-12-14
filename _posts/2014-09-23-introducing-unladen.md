@@ -1,15 +1,19 @@
 ---
-id: 2385
-title: Introducing Unladen, easily scalable object storage
-date: 2014-09-23T22:01:50+00:00
 author: Ryan Finnie
-excerpt: |
-  Unladen is designed to be a cheap, easily scalable object storage system.  "Cheap" in the sense that you can easily use your infrastructure's existing servers' spare space to create (or add to) an ad-hoc cluster.  Or you could build massive dedicated 500TB storage nodes.  Or a combination of those two extremes.
-layout: post
-guid: http://www.finnie.org/2014/09/23/introducing-unladen/
-permalink: /2014/09/23/introducing-unladen/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-09-23 22:01:50
+excerpt: 'Unladen is designed to be a cheap, easily scalable object storage system.  "Cheap"
+  in the sense that you can easily use your infrastructure''s existing servers'' spare
+  space to create (or add to) an ad-hoc cluster.  Or you could build massive dedicated
+  500TB storage nodes.  Or a combination of those two extremes.
+
+  '
+guid: http://www.finnie.org/2014/09/23/introducing-unladen/
+id: 2385
+layout: post
+permalink: /2014/09/23/introducing-unladen/
+title: Introducing Unladen, easily scalable object storage
 ---
 In 2002, I managed a datacenter's IS infrastructure. We had a few dozen servers, and a terrible backup server which, in theory, backed up servers to tape. In theory, anyway. I've never encountered a commercial backup server which has worked well. Anyway, I thought, "We have these servers, and they all have free space to some extent. I'd like a system which did backups of servers, split them into chunks, encrypted them, and sent multiple copies of them to the other servers." Nothing ever became of that idea at the time.
 

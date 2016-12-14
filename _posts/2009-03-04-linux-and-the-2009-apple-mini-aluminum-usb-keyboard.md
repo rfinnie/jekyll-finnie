@@ -1,17 +1,17 @@
 ---
-id: 760
-title: Linux and the 2009 Apple "mini" aluminum USB keyboard
-date: 2009-03-04T23:25:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
-permalink: /2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
-lj_itemid:
-  - "199913"
-lj_import_url:
-  - http://fo0bar.livejournal.com/199913.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-03-04 23:25:00
+guid: http://www.finnie.org/2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
+id: 760
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/199913.html
+lj_itemid:
+- '199913'
+permalink: /2009/03/04/linux-and-the-2009-apple-mini-aluminum-usb-keyboard/
+title: Linux and the 2009 Apple "mini" aluminum USB keyboard
 ---
 It turns out they changed USB device ids on the new keyboard (not surprising, since it is physically different hardware), and since all Apple keyboards need special code to support the features such as Fn, the Linux kernel has to be updated to realize that the new device ids are Apple keyboards. [Here is the patch I submitted to LKML.](http://article.gmane.org/gmane.linux.kernel/802638)
 

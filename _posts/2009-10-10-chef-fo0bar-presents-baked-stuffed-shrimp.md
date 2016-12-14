@@ -1,13 +1,13 @@
 ---
-id: 1043
-title: 'Chef fo0bar presents: Baked stuffed shrimp'
-date: 2009-10-10T23:55:27+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/10/10/chef-fo0bar-presents-baked-stuffed-shrimp/
-permalink: /2009/10/10/chef-fo0bar-presents-baked-stuffed-shrimp/
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2009-10-10 23:55:27
+guid: http://www.finnie.org/2009/10/10/chef-fo0bar-presents-baked-stuffed-shrimp/
+id: 1043
+layout: post
+permalink: /2009/10/10/chef-fo0bar-presents-baked-stuffed-shrimp/
+title: 'Chef fo0bar presents: Baked stuffed shrimp'
 ---
 [<img src="http://farm4.static.flickr.com/3033/3006894913_239c25fe74.jpg" width="500" height="375" alt="Stuffed Shrimp" />](http://www.flickr.com/photos/fo0bar/3006894913/ "Stuffed Shrimp by Ryan Finnie, on Flickr")
 

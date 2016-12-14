@@ -1,13 +1,13 @@
 ---
-id: 839
-title: 'Review: SpaceNavigator 3D mouse'
-date: 2009-04-15T10:10:32+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/04/15/review-spacenavigator-3d-mouse/
-permalink: /2009/04/15/review-spacenavigator-3d-mouse/
 categories:
-  - Reviews
+- Reviews
+date: 2009-04-15 10:10:32
+guid: http://www.finnie.org/2009/04/15/review-spacenavigator-3d-mouse/
+id: 839
+layout: post
+permalink: /2009/04/15/review-spacenavigator-3d-mouse/
+title: 'Review: SpaceNavigator 3D mouse'
 ---
 As part of my previously-mentioned Second Life-ish semi-addiction, I bought a [3Dconnexion SpaceNavigator](http://www.3dconnexion.com/3dmouse/spacenavigator.php) 3D mouse. It's a $60 USB device about the size of a small fist, with a heavy bottom and a manipulatable knob. It supports three axes of spatial rotation plus movement in three dimensions. That is to say you can pitch, roll, yaw, move up/down, left/right and forward/backward, or any combination of these at the same time. For example, grab the knob and pull up to rise. To lower while barrel rolling to the right, push down on the knob while applying rotational pressure to the right. You basically have six axes to play with. (Yes, I know dimensional movements aren't considered axes, but just drink the Sony kool-aid for a moment.)
 

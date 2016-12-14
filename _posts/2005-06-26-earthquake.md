@@ -1,17 +1,17 @@
 ---
-id: 429
-title: Earthquake
-date: 2005-06-26T12:11:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2005/06/26/earthquake/
-permalink: /2005/06/26/earthquake/
-lj_itemid:
-  - "111348"
-lj_import_url:
-  - http://fo0bar.livejournal.com/111348.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2005-06-26 12:11:00
+guid: http://www.finnie.org/2005/06/26/earthquake/
+id: 429
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/111348.html
+lj_itemid:
+- '111348'
+permalink: /2005/06/26/earthquake/
+title: Earthquake
 ---
 [4.8 close to Truckee](http://quake.wr.usgs.gov/recenteqs/Quakes/nc51161673.htm); I felt it in Reno.
 

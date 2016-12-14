@@ -1,13 +1,13 @@
 ---
-id: 2190
-title: DayZ will consume you
-date: 2012-12-10T22:26:55+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/12/10/dayz-will-consume-you/
-permalink: /2012/12/10/dayz-will-consume-you/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-12-10 22:26:55
+guid: http://www.finnie.org/2012/12/10/dayz-will-consume-you/
+id: 2190
+layout: post
+permalink: /2012/12/10/dayz-will-consume-you/
+title: DayZ will consume you
 ---
 
   

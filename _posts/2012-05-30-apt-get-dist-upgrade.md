@@ -1,15 +1,15 @@
 ---
-id: 2079
-title: apt-get dist-upgrade
-date: 2012-05-30T01:42:15+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/05/30/apt-get-dist-upgrade/
-permalink: /2012/05/30/apt-get-dist-upgrade/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-05-30 01:42:15
+guid: http://www.finnie.org/2012/05/30/apt-get-dist-upgrade/
+id: 2079
+layout: post
+permalink: /2012/05/30/apt-get-dist-upgrade/
 tags:
-  - planet:canonical
+- planet:canonical
+title: apt-get dist-upgrade
 ---
 This weekend, I upgraded the OS on my main colo box, from 32-bit Debian lenny to 64-bit Ubuntu 12.04 precise LTS. This was an installation which I've had for over 8 years. It was originally installed in early 2004, when Debian sarge was in its long beta freeze. It had been dist-upgraded over the years, from sarge to etch to lenny, and was quite well maintained. And over the years, the hardware has been upgraded, from a Pentium 4 with 512MB memory and 80GB usable disk, to a Pentium D with 2GB memory and 160GB disk, to a Core i7 with 9GB memory<sup>[1]</sup> and 320GB disk.
 

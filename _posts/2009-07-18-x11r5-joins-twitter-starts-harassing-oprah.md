@@ -1,15 +1,15 @@
 ---
-id: 952
-title: X11R5 Joins Twitter, Starts Harassing Oprah
-date: 2009-07-18T15:00:27+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/
-permalink: /2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/
-openid_comments:
-  - 'a:1:{i:0;s:4:"1394";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-07-18 15:00:27
+guid: http://www.finnie.org/2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/
+id: 952
+layout: post
+openid_comments:
+- a:1:{i:0;s:4:"1394";}
+permalink: /2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/
+title: X11R5 Joins Twitter, Starts Harassing Oprah
 ---
 <div style="float: right;">
   <a href="http://www.flickr.com/photos/fo0bar/3587751864/" title="X11R5 on the street by Ryan Finnie, on Flickr"><img src="http://farm4.static.flickr.com/3641/3587751864_d926a09af9_m.jpg" width="240" height="180" alt="X11R5 on the street" /></a>

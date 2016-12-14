@@ -1,13 +1,13 @@
 ---
-id: 949
-title: 'Chef fo0bar presents: Sushi'
-date: 2009-07-13T23:53:19+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/07/13/chef-fo0bar-presents-sushi/
-permalink: /2009/07/13/chef-fo0bar-presents-sushi/
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2009-07-13 23:53:19
+guid: http://www.finnie.org/2009/07/13/chef-fo0bar-presents-sushi/
+id: 949
+layout: post
+permalink: /2009/07/13/chef-fo0bar-presents-sushi/
+title: 'Chef fo0bar presents: Sushi'
 ---
 [<img src="http://farm3.static.flickr.com/2503/3719072581_dba7126765.jpg" width="500" height="375" alt="Sushi" />](http://www.flickr.com/photos/fo0bar/3719072581/ "Sushi by Ryan Finnie, on Flickr")
 

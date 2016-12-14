@@ -1,13 +1,13 @@
 ---
-id: 871
-title: 'Chef fo0bar presents: coffee syrup, etc'
-date: 2009-05-30T18:44:23+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/05/30/chef-fo0bar-presents-coffee-syrup/
-permalink: /2009/05/30/chef-fo0bar-presents-coffee-syrup/
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2009-05-30 18:44:23
+guid: http://www.finnie.org/2009/05/30/chef-fo0bar-presents-coffee-syrup/
+id: 871
+layout: post
+permalink: /2009/05/30/chef-fo0bar-presents-coffee-syrup/
+title: 'Chef fo0bar presents: coffee syrup, etc'
 ---
 My New England roots are showing.
 

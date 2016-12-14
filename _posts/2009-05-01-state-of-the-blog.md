@@ -1,13 +1,13 @@
 ---
-id: 858
-title: State of the blog
-date: 2009-05-01T22:50:10+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/05/01/state-of-the-blog/
-permalink: /2009/05/01/state-of-the-blog/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-05-01 22:50:10
+guid: http://www.finnie.org/2009/05/01/state-of-the-blog/
+id: 858
+layout: post
+permalink: /2009/05/01/state-of-the-blog/
+title: State of the blog
 ---
 Did I really say I'd try to do 5 blog posts per week? Yeah, that lasted long.
 

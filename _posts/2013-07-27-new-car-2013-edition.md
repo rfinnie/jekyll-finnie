@@ -1,13 +1,13 @@
 ---
-id: 2280
-title: New car, 2013 edition
-date: 2013-07-27T16:52:58+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2013/07/27/new-car-2013-edition/
-permalink: /2013/07/27/new-car-2013-edition/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2013-07-27 16:52:58
+guid: http://www.finnie.org/2013/07/27/new-car-2013-edition/
+id: 2280
+layout: post
+permalink: /2013/07/27/new-car-2013-edition/
+title: New car, 2013 edition
 ---
 <span style="float: right; margin-left: 1em; margin-bottom: 1em;"><a href="http://www.flickr.com/photos/fo0bar/sets/72157634816638905/" title="2013 Ford C-Max Hybrid by Ryan Finnie, on Flickr"><img src="http://farm8.staticflickr.com/7452/9378585613_8e44af83ed_n.jpg" width="320" height="240" alt="2013 Ford C-Max Hybrid" /></a></span>My friends, I have bought a new car.
 

@@ -1,17 +1,17 @@
 ---
-id: 1177
-title: 'Commentary: Toyota floor mat recall'
-date: 2009-10-27T00:52:38+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/10/27/commentary-toyota-floor-mat-recall/
-permalink: /2009/10/27/commentary-toyota-floor-mat-recall/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-10-27 00:52:38
+guid: http://www.finnie.org/2009/10/27/commentary-toyota-floor-mat-recall/
+id: 1177
+layout: post
+permalink: /2009/10/27/commentary-toyota-floor-mat-recall/
 tags:
-  - floor mats
-  - prius
-  - toyota
+- floor mats
+- prius
+- toyota
+title: 'Commentary: Toyota floor mat recall'
 ---
 [<img src="http://farm4.static.flickr.com/3465/3967548751_66648fe8c1_m.jpg" width="240" height="180" alt="Toyota OEM all-weather floor mat installation" style="float: left; margin: 1em;" />](http://www.flickr.com/photos/fo0bar/3967548751/ "Toyota OEM all-weather floor mat installation by Ryan Finnie, on Flickr")Late last month, Toyota announced they would [recall 3.8 million Toyota and Lexus cars due to floor mat safety](http://www.huffingtonpost.com/2009/09/29/toyota-lexus-mat-recall-3_n_303584.html), the largest ever US recall. Action details have not been released yet, but it is known that the recall was prompted by a high-speed crash of a Lexus ES 350 in California because of the accelerator pedal getting stuck full-throttle against the floor mat, killing all four people in the car. It was later determined this occurred because of improper installation of the all-weather floor mats, but how this will relate to the recall is uncertain.
 

@@ -1,13 +1,13 @@
 ---
-id: 2363
-title: Compiling BusyBox with uClibc
-date: 2014-02-13T22:14:27+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2014/02/13/compiling-busybox-with-uclibc/
-permalink: /2014/02/13/compiling-busybox-with-uclibc/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-02-13 22:14:27
+guid: http://www.finnie.org/2014/02/13/compiling-busybox-with-uclibc/
+id: 2363
+layout: post
+permalink: /2014/02/13/compiling-busybox-with-uclibc/
+title: Compiling BusyBox with uClibc
 ---
 Finnix uses [BusyBox](http://www.busybox.net/) for its initrd, and that BusyBox installation [requires a custom patch](http://bazaar.launchpad.net/~finnix/finnix/neale-initrd-pkg/view/head:/patches/busybox/busybox-1.19.4-sysmodules.patch). In the past I've compiled BusyBox with [uClibc](http://uclibc.org/) to keep the size down: a full static BusyBox binary is about 700 KB when compiled against uClibc, and about 1.8 MB when compiled against glibc. For a LiveCD distribution which prides itself on its balance between size and features, 1.1 MB of unneeded bloat is a lot.
 

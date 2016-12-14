@@ -1,17 +1,17 @@
 ---
-id: 513
-title: Calling all Mac geeks!
-date: 2005-11-04T10:53:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2005/11/04/calling-all-mac-geeks/
-permalink: /2005/11/04/calling-all-mac-geeks/
-lj_itemid:
-  - "132819"
-lj_import_url:
-  - http://fo0bar.livejournal.com/132819.html
 categories:
-  - Finnix
+- Finnix
+date: 2005-11-04 10:53:00
+guid: http://www.finnie.org/2005/11/04/calling-all-mac-geeks/
+id: 513
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/132819.html
+lj_itemid:
+- '132819'
+permalink: /2005/11/04/calling-all-mac-geeks/
+title: Calling all Mac geeks!
 ---
 Finnix-PPC development is coming along nicely. It's "stable", but since I don't have 100 different ppc machines lying around like I do for x86, I'm turning to livejournal for hardware testing before I "publicly" release it. So if you have a NewWorld[0x01] Mac (ESPECIALLY a G5):
 

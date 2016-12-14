@@ -1,17 +1,17 @@
 ---
-id: 690
-title: Hello, pain.
-date: 2007-07-21T23:30:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/07/21/hello-pain/
-permalink: /2007/07/21/hello-pain/
-lj_itemid:
-  - "181463"
-lj_import_url:
-  - http://fo0bar.livejournal.com/181463.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2007-07-21 23:30:00
+guid: http://www.finnie.org/2007/07/21/hello-pain/
+id: 690
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/181463.html
+lj_itemid:
+- '181463'
+permalink: /2007/07/21/hello-pain/
+title: Hello, pain.
 ---
 I figure I'd finally get around to "blogging" this, since I'm telling the story often enough. In March, I had some shoulder pain that wouldn't go away, so I went to urgent care (I didn't have a PCP and hadn't been to a doctor in about 10 years, so I paid the $25 co-pay for urgent care instead of the $15 co-pay for office visits). The doctor gave me a cortisone shot and said to give it a week. A week later I went back with no change, and he said I should try physical therapy. However, the pain wasn't that bad so I put it off for awhile.
 

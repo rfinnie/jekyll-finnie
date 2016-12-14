@@ -1,16 +1,16 @@
 ---
-id: 1769
-title: Minecraft
-date: 2011-02-27T15:20:12+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/02/27/minecraft/
-permalink: /2011/02/27/minecraft/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-02-27 15:20:12
+guid: http://www.finnie.org/2011/02/27/minecraft/
+id: 1769
+layout: post
+permalink: /2011/02/27/minecraft/
 tags:
-  - minecraft
-  - planet:canonical
+- minecraft
+- planet:canonical
+title: Minecraft
 ---
 Minecraft minecraft minecraft minecraft [Minecraft](http://www.minecraft.net/) minecraft.
 

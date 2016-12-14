@@ -1,13 +1,13 @@
 ---
-id: 2117
-title: "I'm not quite right"
-date: 2012-06-25T01:45:38+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/06/25/im-not-quite-right/
-permalink: /2012/06/25/im-not-quite-right/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-06-25 01:45:38
+guid: http://www.finnie.org/2012/06/25/im-not-quite-right/
+id: 2117
+layout: post
+permalink: /2012/06/25/im-not-quite-right/
+title: I'm not quite right
 ---
 I know everyone is different in their own special way, but...
 

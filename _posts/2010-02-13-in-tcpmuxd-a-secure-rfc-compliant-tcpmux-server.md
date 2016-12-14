@@ -1,15 +1,15 @@
 ---
-id: 1254
-title: 'in.tcpmuxd: A secure, RFC compliant TCPMUX server'
-date: 2010-02-13T03:41:49+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/
-permalink: /2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/
-openid_comments:
-  - 'a:1:{i:0;s:5:"18778";}'
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-02-13 03:41:49
+guid: http://www.finnie.org/2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/
+id: 1254
+layout: post
+openid_comments:
+- a:1:{i:0;s:5:"18778";}
+permalink: /2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/
+title: 'in.tcpmuxd: A secure, RFC compliant TCPMUX server'
 ---
 Yesterday, on IRC, [neale](http://woozle.org/~neale/) asked if it was wise to run a TCP service on port 1. [sneakums](http://zork.net/~sneakums/) replied it was not, since it was a registered service, "tcpmux". However, nobody immediately knew what "tcpmux" was; [Wikipedia provided the answer](http://en.wikipedia.org/wiki/TCPMUX).
 

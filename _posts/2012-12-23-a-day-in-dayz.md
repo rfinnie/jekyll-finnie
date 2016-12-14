@@ -1,13 +1,13 @@
 ---
-id: 2203
-title: A Day in DayZ
-date: 2012-12-23T18:02:23+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2012/12/23/a-day-in-dayz/
-permalink: /2012/12/23/a-day-in-dayz/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2012-12-23 18:02:23
+guid: http://www.finnie.org/2012/12/23/a-day-in-dayz/
+id: 2203
+layout: post
+permalink: /2012/12/23/a-day-in-dayz/
+title: A Day in DayZ
 ---
 This is the post I intended to make two weeks ago, as a follow-up to [an introductory post on DayZ](http://www.finnie.org/2012/12/10/dayz-will-consume-you/). It details a rich, full day in the game two Sundays ago. It helps to reference [this map](http://dayzdb.com/map) when understanding the locations in the game. Mind you, until this point, I could have counted the number of times I had been in a vehicle on my hands, but in this exciting day, I was in five.
 

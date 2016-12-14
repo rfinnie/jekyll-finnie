@@ -1,13 +1,13 @@
 ---
-id: 1020
-title: Build a safety net into your checking account
-date: 2009-09-27T17:38:31+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/09/27/build-a-safety-net-into-your-checking-account/
-permalink: /2009/09/27/build-a-safety-net-into-your-checking-account/
 categories:
-  - Finances
+- Finances
+date: 2009-09-27 17:38:31
+guid: http://www.finnie.org/2009/09/27/build-a-safety-net-into-your-checking-account/
+id: 1020
+layout: post
+permalink: /2009/09/27/build-a-safety-net-into-your-checking-account/
+title: Build a safety net into your checking account
 ---
 Now that [my bank allows you to cancel overdraft "protection"](http://www.consumerismcommentary.com/2009/09/24/wells-fargo-joins-bank-of-america-and-chase-with-new-overdraft-policies/), I logged in and did so recently. Having a debit card declined is vastly preferred to overdraft charges for me, but I would just rather not run out of money in the first place. It's been years since it's happened, but I decided to build a safety net into my checking account in Quicken. I went up to the first of the year and put a $300 unreconciled charge in. The net effect is it looks like I have $300 less than I actually have. (I ignore bank/ATM balances, as they almost always don't take into effect charges that haven't hit the bank yet. Always use your financial planning software or checkbook as a reference point for how much usable money you have.)
 

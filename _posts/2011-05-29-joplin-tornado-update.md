@@ -1,13 +1,13 @@
 ---
-id: 1824
-title: Joplin tornado update
-date: 2011-05-29T15:02:46+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/05/29/joplin-tornado-update/
-permalink: /2011/05/29/joplin-tornado-update/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-05-29 15:02:46
+guid: http://www.finnie.org/2011/05/29/joplin-tornado-update/
+id: 1824
+layout: post
+permalink: /2011/05/29/joplin-tornado-update/
+title: Joplin tornado update
 ---
 After two days of driving nearly 1800 miles from Reno, I arrived in Joplin on Thursday evening. It was a long drive, but was fairly easy, with no weather except for some fog around Cheyenne, WY.
 

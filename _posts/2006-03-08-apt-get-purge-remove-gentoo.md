@@ -1,17 +1,17 @@
 ---
-id: 559
-title: apt-get --purge remove gentoo
-date: 2006-03-08T22:18:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2006/03/08/apt-get-purge-remove-gentoo/
-permalink: /2006/03/08/apt-get-purge-remove-gentoo/
-lj_itemid:
-  - "144593"
-lj_import_url:
-  - http://fo0bar.livejournal.com/144593.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2006-03-08 22:18:00
+guid: http://www.finnie.org/2006/03/08/apt-get-purge-remove-gentoo/
+id: 559
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/144593.html
+lj_itemid:
+- '144593'
+permalink: /2006/03/08/apt-get-purge-remove-gentoo/
+title: apt-get --purge remove gentoo
 ---
 Yesterday I blew away Gentoo from the laptop and installed Debian etch. This was done for several reasons:
 

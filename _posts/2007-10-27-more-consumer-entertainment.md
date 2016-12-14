@@ -1,22 +1,22 @@
 ---
-id: 698
-title: More consumer entertainment
-date: 2007-10-27T21:20:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/10/27/more-consumer-entertainment/
-permalink: /2007/10/27/more-consumer-entertainment/
-lj_itemid:
-  - "183432"
-lj_import_url:
-  - http://fo0bar.livejournal.com/183432.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2007-10-27 21:20:00
+guid: http://www.finnie.org/2007/10/27/more-consumer-entertainment/
+id: 698
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/183432.html
+lj_itemid:
+- '183432'
+permalink: /2007/10/27/more-consumer-entertainment/
 tags:
-  - consumer whore
-  - electronics
-  - games
-  - xbox 360
+- consumer whore
+- electronics
+- games
+- xbox 360
+title: More consumer entertainment
 ---
 [The Orange Box](http://en.wikipedia.org/wiki/The_Orange_Box) was fun. Episode 2 was more of the same (which is not a bad thing), TF2 is very fun, especially since the grenade spamming was gone, and of course Portal was all sorts of awesome (even if it was too short). Even Peggle Extreme, a 10-level Orange Box-themed version of [Peggle](http://en.wikipedia.org/wiki/Peggle) that was included with the pre-order without announcement, was addicting enough that I bought the full Peggle Deluxe.
 

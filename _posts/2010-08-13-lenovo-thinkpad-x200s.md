@@ -1,15 +1,15 @@
 ---
-id: 1474
-title: Lenovo ThinkPad X200s
-date: 2010-08-13T01:32:37+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/08/13/lenovo-thinkpad-x200s/
-permalink: /2010/08/13/lenovo-thinkpad-x200s/
-openid_comments:
-  - 'a:1:{i:0;s:6:"218622";}'
 categories:
-  - Reviews
+- Reviews
+date: 2010-08-13 01:32:37
+guid: http://www.finnie.org/2010/08/13/lenovo-thinkpad-x200s/
+id: 1474
+layout: post
+openid_comments:
+- a:1:{i:0;s:6:"218622";}
+permalink: /2010/08/13/lenovo-thinkpad-x200s/
+title: Lenovo ThinkPad X200s
 ---
 <img src="/blog-media/2010/08/ThinkPad-X200s.jpg" alt="" title="ThinkPad X200s" width="600" height="231" class="aligncenter size-full wp-image-1476" srcset="/blog-media/2010/08/ThinkPad-X200s.jpg 600w, /blog-media/2010/08/ThinkPad-X200s-300x115.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
 

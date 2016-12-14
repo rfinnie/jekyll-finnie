@@ -1,13 +1,13 @@
 ---
-id: 851
-title: Reno Aces home opener
-date: 2009-04-17T09:04:42+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/04/17/reno-aces-home-opener/
-permalink: /2009/04/17/reno-aces-home-opener/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2009-04-17 09:04:42
+guid: http://www.finnie.org/2009/04/17/reno-aces-home-opener/
+id: 851
+layout: post
+permalink: /2009/04/17/reno-aces-home-opener/
+title: Reno Aces home opener
 ---
 Tonight, the [Reno Aces](http://www.renoaces.com/) play their home opener against the Salt Lake Bees, at the brand new Aces Ballpark downtown.
 

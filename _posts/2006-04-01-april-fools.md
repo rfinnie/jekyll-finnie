@@ -1,17 +1,17 @@
 ---
-id: 572
-title: April Fools!
-date: 2006-04-01T15:38:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2006/04/01/april-fools/
-permalink: /2006/04/01/april-fools/
-lj_itemid:
-  - "148025"
-lj_import_url:
-  - http://fo0bar.livejournal.com/148025.html
 categories:
-  - Finnix
+- Finnix
+date: 2006-04-01 15:38:00
+guid: http://www.finnie.org/2006/04/01/april-fools/
+id: 572
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/148025.html
+lj_itemid:
+- '148025'
+permalink: /2006/04/01/april-fools/
+title: April Fools!
 ---
 Yes, the iPod port was a joke. See [the iPod page](http://www.finnix.org/Finnix_for_iPod) for more information about the hoax.
 

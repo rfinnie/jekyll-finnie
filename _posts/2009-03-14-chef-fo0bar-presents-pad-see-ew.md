@@ -1,19 +1,19 @@
 ---
-id: 763
-title: 'Chef fo0bar presents: Pad See Ew'
-date: 2009-03-14T18:13:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/03/14/chef-fo0bar-presents-pad-see-ew/
-permalink: /2009/03/14/chef-fo0bar-presents-pad-see-ew/
-lj_current_mood:
-  - full
-lj_itemid:
-  - "200697"
-lj_import_url:
-  - http://fo0bar.livejournal.com/200697.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2009-03-14 18:13:00
+guid: http://www.finnie.org/2009/03/14/chef-fo0bar-presents-pad-see-ew/
+id: 763
+layout: post
+lj_current_mood:
+- full
+lj_import_url:
+- http://fo0bar.livejournal.com/200697.html
+lj_itemid:
+- '200697'
+permalink: /2009/03/14/chef-fo0bar-presents-pad-see-ew/
+title: 'Chef fo0bar presents: Pad See Ew'
 ---
 [<img src="http://farm4.static.flickr.com/3330/3340426554_f86860f565.jpg" width="500" height="375" alt="Pad See Ew" />](http://www.flickr.com/photos/fo0bar/3340426554/ "Pad See Ew by fo0bar, on Flickr")
 

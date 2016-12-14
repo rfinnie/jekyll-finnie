@@ -1,20 +1,20 @@
 ---
-id: 445
-title: 'Operation: fo0bar Pretends to be a Cook'
-date: 2005-07-17T17:42:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
-permalink: /2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
-lj_itemid:
-  - "115236"
-lj_import_url:
-  - http://fo0bar.livejournal.com/115236.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2005-07-17 17:42:00
+guid: http://www.finnie.org/2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
+id: 445
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/115236.html
+lj_itemid:
+- '115236'
+permalink: /2005/07/17/operation-fo0bar-pretends-to-be-a-cook/
 tags:
-  - pizza
-  - recipes
+- pizza
+- recipes
+title: 'Operation: fo0bar Pretends to be a Cook'
 ---
 OK, I love hot sauce, specifically Frank's RedHot Sauce. Despite the name, Frank's isn't the hottest sauce out there (it's not nearly as hot as Tabasco), but makes up for its lack of heat by being very flavorful and tasty. I use it on Subway sandwiches (they used to have a Buffalo Chicken sandwich, which was made with Frank's sauce and ranch sauce, but discontinued it), regular sandwiches, pizza, etc, etc. Recently, I thought, "wait, I use Frank's on top of pizza, why not make a pizza with Frank's as the base?"
 

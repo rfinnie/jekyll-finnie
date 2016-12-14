@@ -1,19 +1,19 @@
 ---
-id: 728
-title: 'Chef fo0bar presents: Baked Macaroni and Cheese'
-date: 2008-07-12T23:01:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
-permalink: /2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
-lj_current_mood:
-  - full
-lj_itemid:
-  - "190986"
-lj_import_url:
-  - http://fo0bar.livejournal.com/190986.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2008-07-12 23:01:00
+guid: http://www.finnie.org/2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
+id: 728
+layout: post
+lj_current_mood:
+- full
+lj_import_url:
+- http://fo0bar.livejournal.com/190986.html
+lj_itemid:
+- '190986'
+permalink: /2008/07/12/chef-fo0bar-presents-baked-macaroni-and-cheese/
+title: 'Chef fo0bar presents: Baked Macaroni and Cheese'
 ---
 [<img src="http://farm4.static.flickr.com/3192/2663594420_e449ba01fe.jpg" width="500" height="375" alt="Baked Macaroni & Cheese" />](http://www.flickr.com/photos/fo0bar/2663594420/ "Baked Macaroni & Cheese by fo0bar, on Flickr")
 

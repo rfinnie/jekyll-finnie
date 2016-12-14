@@ -1,13 +1,13 @@
 ---
-id: 1501
-title: Model M keyboard restoration project
-date: 2010-08-28T17:52:19+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/08/28/model-m-keyboard-restoration-project/
-permalink: /2010/08/28/model-m-keyboard-restoration-project/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-08-28 17:52:19
+guid: http://www.finnie.org/2010/08/28/model-m-keyboard-restoration-project/
+id: 1501
+layout: post
+permalink: /2010/08/28/model-m-keyboard-restoration-project/
+title: Model M keyboard restoration project
 ---
 On Monday, I stopped at [Twin City Surplus](http://www.twincitysurplus.com/) to look around, simply because I was in the neighborhood. I'm not going to Burning Man this year, so nothing really stood out. I went out into the back yard, which contains scrap metal, ammo cans, netting, etc. In a corner of the yard is covered but exposed set of shelves with some old computer and telecom equipment. Now, I'm a computer and telecom geek, but in all the times I've been to Twin City Surplus, there's never been anything worth buying, and most of it just sits there year after year. I'm talking half-broken 1950s key telephone systems, CRT monitors, etc.
 

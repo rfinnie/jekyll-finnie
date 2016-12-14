@@ -1,15 +1,15 @@
 ---
-id: 1929
-title: 'Quick tip: Pythagoras for the lazy'
-date: 2011-12-26T19:30:46+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/12/26/quick-tip-pythagoras-for-the-lazy/
-permalink: /2011/12/26/quick-tip-pythagoras-for-the-lazy/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-12-26 19:30:46
+guid: http://www.finnie.org/2011/12/26/quick-tip-pythagoras-for-the-lazy/
+id: 1929
+layout: post
+permalink: /2011/12/26/quick-tip-pythagoras-for-the-lazy/
 tags:
-  - planet:canonical
+- planet:canonical
+title: 'Quick tip: Pythagoras for the lazy'
 ---
 I occasionally plug this into [Wolfram Alpha](http://www.wolframalpha.com/):
 

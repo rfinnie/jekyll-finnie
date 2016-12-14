@@ -1,17 +1,17 @@
 ---
-id: 668
-title: I can walk in my office again!
-date: 2007-05-08T19:37:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2007/05/08/i-can-walk-in-my-office-again/
-permalink: /2007/05/08/i-can-walk-in-my-office-again/
-lj_itemid:
-  - "174630"
-lj_import_url:
-  - http://fo0bar.livejournal.com/174630.html
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2007-05-08 19:37:00
+guid: http://www.finnie.org/2007/05/08/i-can-walk-in-my-office-again/
+id: 668
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/174630.html
+lj_itemid:
+- '174630'
+permalink: /2007/05/08/i-can-walk-in-my-office-again/
+title: I can walk in my office again!
 ---
 This is just about as close to clean as my home office can get for me. Be thankful I didn't take "before" pictures. Here's a poor-man's panoramic stitching:
 

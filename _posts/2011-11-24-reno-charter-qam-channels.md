@@ -1,13 +1,13 @@
 ---
-id: 1917
-title: Reno Charter QAM channels
-date: 2011-11-24T20:51:24+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/11/24/reno-charter-qam-channels/
-permalink: /2011/11/24/reno-charter-qam-channels/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-11-24 20:51:24
+guid: http://www.finnie.org/2011/11/24/reno-charter-qam-channels/
+id: 1917
+layout: post
+permalink: /2011/11/24/reno-charter-qam-channels/
+title: Reno Charter QAM channels
 ---
 Today I hooked up my cable line to my TV to see if clear QAM is still available on my account (it is), due to wanting to watch today's NFL game on CBS, since the owner of the local CBS station (KTVN) and Dish Network are currently in the middle of a bitter dispute, and KTVN is currently not available on Dish.
 

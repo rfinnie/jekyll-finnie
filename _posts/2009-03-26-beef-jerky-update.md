@@ -1,19 +1,19 @@
 ---
-id: 770
-title: Beef Jerky update
-date: 2009-03-26T19:53:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/03/26/beef-jerky-update/
-permalink: /2009/03/26/beef-jerky-update/
-lj_itemid:
-  - "202394"
-lj_import_url:
-  - http://fo0bar.livejournal.com/202394.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2009-03-26 19:53:00
+guid: http://www.finnie.org/2009/03/26/beef-jerky-update/
+id: 770
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/202394.html
+lj_itemid:
+- '202394'
+permalink: /2009/03/26/beef-jerky-update/
 tags:
-  - jerky
+- jerky
+title: Beef Jerky update
 ---
 Following up on [yesterday's post](http://fo0bar.livejournal.com/202235.html), I pulled the jerky yesterday morning before heading to work. It was ok, but not great. I'll try to rationalize why:
 

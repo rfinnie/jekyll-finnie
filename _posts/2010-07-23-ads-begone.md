@@ -1,13 +1,13 @@
 ---
-id: 1441
-title: Ads begone
-date: 2010-07-23T22:43:28+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2010/07/23/ads-begone/
-permalink: /2010/07/23/ads-begone/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2010-07-23 22:43:28
+guid: http://www.finnie.org/2010/07/23/ads-begone/
+id: 1441
+layout: post
+permalink: /2010/07/23/ads-begone/
+title: Ads begone
 ---
 I have removed all Google ads from finnie.org, after logging into my AdSense account and noticing the money it brought in last month.
 

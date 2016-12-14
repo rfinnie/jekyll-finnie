@@ -1,19 +1,20 @@
 ---
-id: 769
-title: Line your air filter with beef, and a fresh, beefy scent throughout the house will be your reward!
-date: 2009-03-25T21:31:00+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
-permalink: /2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
-lj_itemid:
-  - "202235"
-lj_import_url:
-  - http://fo0bar.livejournal.com/202235.html
 categories:
-  - Chef Fo0bar Presents
+- Chef Fo0bar Presents
+date: 2009-03-25 21:31:00
+guid: http://www.finnie.org/2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
+id: 769
+layout: post
+lj_import_url:
+- http://fo0bar.livejournal.com/202235.html
+lj_itemid:
+- '202235'
+permalink: /2009/03/25/line-your-air-filter-with-beef-and-a-fresh-beefy-scent-throughout-the-house-will-be-your-reward/
 tags:
-  - jerky
+- jerky
+title: Line your air filter with beef, and a fresh, beefy scent throughout the house
+  will be your reward!
 ---
 [<img src="http://farm4.static.flickr.com/3457/3386932048_dcf86c49af.jpg" width="500" height="375" alt="Beef Jerky" />](http://www.flickr.com/photos/fo0bar/3386932048/ "Beef Jerky by fo0bar, on Flickr")
 

@@ -1,15 +1,15 @@
 ---
-id: 1718
-title: IPv6 in the Finnie
-date: 2011-02-03T23:24:14+00:00
 author: Ryan Finnie
-layout: post
-guid: http://www.finnie.org/2011/02/03/ipv6-in-the-finnie/
-permalink: /2011/02/03/ipv6-in-the-finnie/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2011-02-03 23:24:14
+guid: http://www.finnie.org/2011/02/03/ipv6-in-the-finnie/
+id: 1718
+layout: post
+permalink: /2011/02/03/ipv6-in-the-finnie/
 tags:
-  - planet:canonical
+- planet:canonical
+title: IPv6 in the Finnie
 ---
 My colocation provider has offered native IPv6 for the past year, and I've been a happy user. The only hiccup occurred a few weeks ago when they went down for about a minute or two completely, but for the next hour after IPv4 service came back up, IPv6 was still down. Other than that, no problems. They're based in San Jose, and appear to be peered with Hurricane Electric, the people who run [tunnelbroker.net](http://www.tunnelbroker.net/), so network-wise, they're pretty close to many US IPv6 users.
 

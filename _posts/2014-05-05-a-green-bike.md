@@ -1,14 +1,16 @@
 ---
-id: 2369
-title: A green bike
-date: 2014-05-05T00:55:50+00:00
 author: Ryan Finnie
-excerpt: Six years ago, I bought a $360 entry-level "hybrid" bike from a local bike shop. This weekend, I decided to step up to the next level... by buying a $200 big-box bike from Target. Wait, what?
-layout: post
-guid: http://www.finnie.org/2014/05/05/a-green-bike/
-permalink: /2014/05/05/a-green-bike/
 categories:
-  - Uncategorized
+- Uncategorized
+date: 2014-05-05 00:55:50
+excerpt: Six years ago, I bought a $360 entry-level "hybrid" bike from a local bike
+  shop. This weekend, I decided to step up to the next level... by buying a $200 big-box
+  bike from Target. Wait, what?
+guid: http://www.finnie.org/2014/05/05/a-green-bike/
+id: 2369
+layout: post
+permalink: /2014/05/05/a-green-bike/
+title: A green bike
 ---
 [<img src="https://farm6.staticflickr.com/5074/14098641181_28faa1332e.jpg" width="500" height="333" alt="New bike" />](https://www.flickr.com/photos/fo0bar/14098641181 "New bike by Ryan Finnie, on Flickr")
   
