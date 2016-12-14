@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2008-02-17 19:25:00
-guid: http://www.finnie.org/2008/02/17/exclusive-insignia-ns-dxa1-dtv-receiver-unboxing/
-id: 714
+date: 2008-02-17 18:25:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/187408.html
 lj_itemid: 187408
-permalink: /2008/02/17/exclusive-insignia-ns-dxa1-dtv-receiver-unboxing/
 title: EXCLUSIVE! Insignia NS-DXA1 DTV receiver unboxing!
+wp_id: 714
 ---
 If you're a United States citizen, you're probably aware of the bombardment of information regarding the [DTV transition](https://www.dtv2009.gov/). Everywhere you look, you're being reminded that analog TV will go dark on February 17, 2009. News flash: that's exactly 1 year from now. The $40 coupon program has been taking applications since January 1, 2008, but the converter boxes themselves have been "coming soon" for ages. Well now one is available. I filed for 1 out of 2 eligible $40 coupons back in January, but haven't received it yet. However, I was willing to spend the $59.99 retail to give you this **EXCLUSIVE UNBOXING**. That's right, nobody else has one of these, except for anyone who happened to walk by the big stack of them at Best Buy for the last few days and buy one.
 

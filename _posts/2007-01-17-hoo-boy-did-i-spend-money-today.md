@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2007-01-17 17:15:00
-guid: http://www.finnie.org/2007/01/17/hoo-boy-did-i-spend-money-today/
-id: 646
+date: 2007-01-17 16:15:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/169112.html
 lj_itemid: 169112
-permalink: /2007/01/17/hoo-boy-did-i-spend-money-today/
 title: Hoo boy, did I spend money today.
+wp_id: 646
 ---
 Today I grabbed my ankles and ordered a [ThinkPad T60 14"](http://www.notebookreview.com/default.asp?newsID=2767):
    

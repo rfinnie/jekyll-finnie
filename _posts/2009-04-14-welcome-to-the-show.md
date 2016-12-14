@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-04-14 12:03:08
-guid: http://www.finnie.org/2009/04/14/welcome-to-the-show/
-id: 830
+date: 2009-04-14 12:03:08-07:00
 layout: post
-permalink: /2009/04/14/welcome-to-the-show/
 title: Welcome to the show!
+wp_id: 830
 ---
 Welcome to the all new [finnie.org](http://www.finnie.org/)! My personal domain is about to celebrate its 12 year anniversary (just old enough to drink!), but for the last half of its existence, it has been an Apache index page with a bunch of junk thrown together. In addition, I used to write on [my LiveJournal](http://fo0bar.livejournal.com/) since 2001. These two functions have been combined (with full history from my LiveJournal imported) into an **Internet blogging extravaganza**. I'll try not to wake the neighbors.
 

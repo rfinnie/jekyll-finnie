@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2011-04-06 17:22:46
-guid: http://www.finnie.org/2011/04/06/forwarded-mail-and-gmail/
-id: 1788
+date: 2011-04-06 17:22:46-07:00
 layout: post
-permalink: /2011/04/06/forwarded-mail-and-gmail/
 tags:
 - planetcanonical
 title: Forwarded mail and Gmail
+wp_id: 1788
 ---
 I forward my mail from my personal server to Gmail. For the most part, it would work okay, but [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) is a problem. Specifically, SPF completely breaks legitimate email routing if "properly" configured. And since we're talking about the people emailing you being the ones "properly" configured, there's little you can do about it. (Have I mentioned how much I hate SPF?) My mail server receives mail, then routes it to Gmail. The problem is when the original sender's SPF policy is set to strict, Gmail receives it, looks up the SPF policy, notices it's coming from my server instead of the permitted sender server, and marks it as spam.
 

@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2012-08-22 00:04:01
-guid: http://www.finnie.org/2012/08/22/introducing-apache-vsl/
-id: 2028
+date: 2012-08-22 00:04:01-07:00
 layout: post
-permalink: /2012/08/22/introducing-apache-vsl/
 tags:
 - planetcanonical
 title: Introducing apache-vsl
+wp_id: 2028
 ---
 I'm not a programmer, honest, but lately I've had this annoying habit of releasing code. But instead of my normal rambling posts about new announcements, I'll try to keep it brief.
 

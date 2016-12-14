@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2004-09-22 11:07:00
-guid: http://www.finnie.org/2004/09/22/you-doubt-my-raw-coolness/
-id: 301
+date: 2004-09-22 11:07:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/77844.html
 lj_itemid: 77844
-permalink: /2004/09/22/you-doubt-my-raw-coolness/
 title: You doubt my raw coolness?
+wp_id: 301
 ---
 Occasionally, I post answers for the [Internet Oracle](http://cgi.cs.indiana.edu/~oracle/index.cgi), but unfortunately, I have yet to have any of my answers selected for the [digest](http://cgi.cs.indiana.edu/~oracle/digests.cgi). This recent one I was quite proud of:
 

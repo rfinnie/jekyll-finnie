@@ -1,21 +1,15 @@
 ---
-author: Ryan Finnie
 categories:
+- Development
 - Finnix
-date: 2005-11-04 10:53:00
-guid: http://www.finnie.org/2005/11/04/calling-all-mac-geeks/
-id: 513
+date: 2005-11-04 10:53:05-08:00
 layout: post
-lj_import_url: http://fo0bar.livejournal.com/132819.html
-lj_itemid: 132819
-permalink: /2005/11/04/calling-all-mac-geeks/
-title: Calling all Mac geeks!
+title: Calling All Mac Geeks!
+wp_id: 47
 ---
 Finnix-PPC development is coming along nicely. It's "stable", but since I don't have 100 different ppc machines lying around like I do for x86, I'm turning to livejournal for hardware testing before I "publicly" release it. So if you have a NewWorld[0x01] Mac (ESPECIALLY a G5):
 
-<!--more-->1) Download and burn 
-
-[finnix-ppc-dev21.iso](http://coma.colobox.com/finnix/finnix-ppc-dev21.iso) (116MB, login is finnix/2000, MD5 479b8f49d12148852520212a4cc66647)
+1) Download and burn finnix-ppc-dev21.iso (116MB, login is finnix/2000, MD5 479b8f49d12148852520212a4cc66647)
   
 2) Inset disc, reboot while holding down "c".
   
@@ -27,7 +21,7 @@ Finnix-PPC development is coming along nicely. It's "stable", but since I don't 
   
 5) Make sure you are wired in; you will need internet access in the next step, and Airport Extreme cards are not supported in linux yet.
   
-6) Run "finnix-hwsubmit", which will gather info about your hardware, let you review the info to be sent, then send it to the Finnix server. Follow the instructions. [Here](http://www.finnix.org/submits/ppc/1131131838-3492276741-220483593.gz) is an example of a submitted report. If you could note your LJ username in the "notes" section of the program, I would appreciate it :)
+6) Run "finnix-hwsubmit", which will gather info about your hardware, let you review the info to be sent, then send it to the Finnix server. Follow the instructions. Here is an example of a submitted report. If you could note your LJ username in the "notes" section of the program, I would appreciate it :)
   
 7) Play with Finnix or something.
 

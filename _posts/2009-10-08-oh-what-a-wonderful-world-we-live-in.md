@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-10-08 23:50:12
-guid: http://www.finnie.org/2009/10/08/oh-what-a-wonderful-world-we-live-in/
-id: 1033
+date: 2009-10-08 23:50:12-07:00
 layout: post
-permalink: /2009/10/08/oh-what-a-wonderful-world-we-live-in/
 title: Oh, what a wonderful world we live in
+wp_id: 1033
 ---
 About a year ago, I bought a [Canon A590 IS](http://www.usa.canon.com/consumer/controller?act=ModelInfoAct&fcategoryid=183&modelid=16336#ModelFeaturesAct) digital camera. The rationale was, "Hey, I can use this camera to take pictures! Of stuff!" Actually, the primary reason I wanted it was optical image stabilization. I'm particularly bad with taking photos indoors; they always come out blurry. Optical IS really helps with that.
 

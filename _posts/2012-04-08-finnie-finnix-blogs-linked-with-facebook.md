@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2012-04-08 21:50:00
-guid: http://www.finnie.org/2012/04/08/finnie-finnix-blogs-linked-with-facebook/
-id: 2057
+date: 2012-04-08 21:50:00-07:00
 layout: post
-permalink: /2012/04/08/finnie-finnix-blogs-linked-with-facebook/
 title: Finnie/Finnix blogs linked with Facebook
+wp_id: 2057
 ---
 Since I have proven over and over again I am incapable of logging into Facebook more than once every few weeks, and since Facebook has completed its quest of taking over the world, I have decided to install some space-age software to automatically post blog updates to the appropriate Facebook pages:
 

@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2009-10-11 15:26:21
-guid: http://www.finnie.org/2009/10/11/the-very-best-1995-has-to-offer/
-id: 1059
+date: 2009-10-11 15:26:21-07:00
 layout: post
-permalink: /2009/10/11/the-very-best-1995-has-to-offer/
 title: The very best 1995 has to offer.
+wp_id: 1059
 ---
 Here's a list of the many wonderful things you cannot do with your auto loan on bankofamerica.com:
 

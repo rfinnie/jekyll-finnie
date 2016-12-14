@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2015-02-05 17:02:14
-guid: http://www.finnie.org/2015/02/05/review-some-cheap-laptop-from-best-buy/
-id: 2411
+date: 2015-02-05 17:02:14-08:00
 layout: post
-permalink: /2015/02/05/review-some-cheap-laptop-from-best-buy/
 title: 'Review: Some Cheap Laptop from Best Buy'
+wp_id: 2411
 ---
 Last week I sold my primary laptop, a ThinkPad X220. After nearly three years of constant use, it was still in excellent shape, and was still powerful enough for daily use. Frankly, I was amazed how well it held up. None of the keycaps were worn off, everything was still solid, and none of the plastic corners had chipped. A "normal" laptop would survive less than a year of use with me, and a ThinkPad would get maybe two years. For a laptop to survive three years of me was a true testament to its build quality.
 

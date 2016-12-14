@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2011-06-27 16:53:13
-guid: http://www.finnie.org/2011/06/27/joplin-rundown/
-id: 1827
+date: 2011-06-27 16:53:13-07:00
 layout: post
-permalink: /2011/06/27/joplin-rundown/
 title: Joplin rundown
+wp_id: 1827
 ---
 I'm back from a few weeks in Joplin. While there, I did several different jobs, including working the missing persons hotline, working in the field doing debris cleanup, and working in a warehouse, sorting pallets of loose donations into different categories which were boxed, palletized and sent to relief agencies for distribution.
 

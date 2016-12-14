@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2015-02-14 00:32:51
-guid: http://www.finnie.org/2015/02/14/ubuntu-14-04-trusty-tahr-on-the-raspberry-pi-2/
-id: 2420
+date: 2015-02-14 00:32:51-08:00
 layout: post
-permalink: /2015/02/14/ubuntu-14-04-trusty-tahr-on-the-raspberry-pi-2/
 tags:
 - planetcanonical
 title: Ubuntu 14.04 (Trusty Tahr) on the Raspberry Pi 2
+wp_id: 2420
 ---
 UPDATE: [I've created a proper Ubuntu 14.04 image for the Raspberry Pi 2.](http://www.finnie.org/2015/02/16/raspberry-pi-2-update-ubuntu-14-04-image-available/)
 

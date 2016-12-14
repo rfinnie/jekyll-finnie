@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2007-06-20 20:48:00
-guid: http://www.finnie.org/2007/06/20/more-prius-news-you-can-ignore/
-id: 684
+date: 2007-06-20 20:48:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/179714.html
 lj_itemid: 179714
-permalink: /2007/06/20/more-prius-news-you-can-ignore/
 title: More Prius news you can ignore.
+wp_id: 684
 ---
 I got the Sirius satellite radio kit installed today. The antenna is right at the back of the roof, behind the main antenna. The unit works by extending the AM button, so now when you keep pressing it, it cycles through AM/SAT1/SAT2/SAT3. Each SAT mode lets you store 6 presets. Beside that, there's very few bells and whistles, not even a signal strength indicator. And the display is limited to 10 characters. Sucks, but at least it sounds good, much better than FM modulation or tape pass-through ever could.
 

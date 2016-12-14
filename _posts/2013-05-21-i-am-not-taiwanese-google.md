@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2013-05-21 21:24:40
-guid: http://www.finnie.org/2013/05/21/i-am-not-taiwanese-google/
-id: 2261
+date: 2013-05-21 21:24:40-07:00
 layout: post
-permalink: /2013/05/21/i-am-not-taiwanese-google/
 title: "\u6211\u4E0D\u662F\u53F0\u7063\u4EBA\uFF0C\u8C37\u6B4C"
+wp_id: 2261
 ---
 A few weeks ago, Google decided I live in Taiwan. More specifically, it decided my IPv6 netblock is in Taiwan. I have an IPv6 tunnelbroker allocation from HE, 2001:470:1f05:22e::/64, and while I'm not sure if it affects all of 2001:470::/32, [apparently I'm not alone](http://www.dslreports.com/forum/r28275694-Rant-Google-takes-me-to-Taiwan-). It's a relatively minor annoyance, but it crops up in a lot of places:
 

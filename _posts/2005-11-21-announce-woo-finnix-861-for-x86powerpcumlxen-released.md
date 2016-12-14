@@ -1,15 +1,12 @@
 ---
-author: Ryan Finnie
 categories:
 - Finnix
-date: 2005-11-21 22:33:00
-guid: http://www.finnie.org/2005/11/21/announce-woo-finnix-861-for-x86powerpcumlxen-released/
-id: 519
+date: 2005-11-21 21:33:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/134323.html
 lj_itemid: 134323
-permalink: /2005/11/21/announce-woo-finnix-861-for-x86powerpcumlxen-released/
 title: 'Announce (Woo!): Finnix 86.1 for x86/PowerPC/UML/Xen Released'
+wp_id: 519
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of version 86.1 for the x86, PowerPC, and UML/Xen platforms.
 

@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2009-06-03 01:58:54
-guid: http://www.finnie.org/2009/06/03/my-realty-clock-has-gone-off/
-id: 887
+date: 2009-06-03 01:58:54-07:00
 layout: post
-permalink: /2009/06/03/my-realty-clock-has-gone-off/
 title: My realty clock has gone off.
+wp_id: 887
 ---
 If there's been a common theme for this year for me, it's been "savings". I'm still on track to eliminate credit card debt by the end of October, but about a week ago, it hit me. I want to own a home. It's been a passing wish for years, and I've browsed real estate listings off and on since the bubble, but it hit me hard this week, as I did my bi-monthly review to make sure I was still on track financially.
 

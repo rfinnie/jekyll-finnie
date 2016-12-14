@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2011-08-13 13:56:27
-guid: http://www.finnie.org/2011/08/13/mobile-rickroll-appliance-6-0-released/
-id: 1873
+date: 2011-08-13 13:56:27-07:00
 layout: post
-permalink: /2011/08/13/mobile-rickroll-appliance-6-0-released/
 tags:
 - planetcanonical
 title: Mobile Rickroll Appliance 6.0 released
+wp_id: 1873
 ---
 <div style="float: right; margin-left: 1em;">
   <a href="http://www.flickr.com/photos/fo0bar/2366164074/" title="Mobile Rickroll Appliance 6.0 by Ryan Finnie, on Flickr"><img src="http://farm4.static.flickr.com/3228/2366164074_fce0ee2d3b_m.jpg" width="240" height="180" alt="Mobile Rickroll Appliance 6.0" /></a>

@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2006-04-16 14:40:00
-guid: http://www.finnie.org/2006/04/16/thoughts-on-my-new-cellphone/
-id: 580
+date: 2006-04-16 14:40:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/150754.html
 lj_itemid: 150754
-permalink: /2006/04/16/thoughts-on-my-new-cellphone/
 title: Thoughts on my new cellphone
+wp_id: 580
 ---
 I've had my [Cingular 8125](http://www.cingular.com/8125_consumer) for a few days, and here is what I have to report so far:
 

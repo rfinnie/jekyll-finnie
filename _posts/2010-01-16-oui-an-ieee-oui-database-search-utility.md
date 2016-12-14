@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2010-01-16 16:17:54
-guid: http://www.finnie.org/2010/01/16/oui-an-ieee-oui-database-search-utility/
-id: 1240
+date: 2010-01-16 16:17:54-08:00
 layout: post
-permalink: /2010/01/16/oui-an-ieee-oui-database-search-utility/
 title: oui, an IEEE OUI database search utility
+wp_id: 1240
 ---
 On Friday, I was grepping through DHCP logs, looking for a certain machine, and got sick of going to the IEEE web site to plug in the OUI to figure out the manufacturer of MAC addresses. This involved manually converting a "standard" format MAC address (00:04:f2:e6:93:16, for example) into an OUI format that would be accepted by the IEEE site (00-04-F2).
 

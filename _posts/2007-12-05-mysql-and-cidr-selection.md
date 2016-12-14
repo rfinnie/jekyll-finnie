@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2007-12-05 22:44:00
-guid: http://www.finnie.org/2007/12/05/mysql-and-cidr-selection/
-id: 705
+date: 2007-12-05 21:44:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/185275.html
 lj_itemid: 185275
-permalink: /2007/12/05/mysql-and-cidr-selection/
 title: MySQL and CIDR selection
+wp_id: 705
 ---
 I really like MySQL (yes, that won't win me any brownie points in my circle of friends) for its balance between power and simplicity, but I do miss a few things compared to other databases such as PostgreSQL. Some of them, such as subselects and stored procedures, have been introduced, but what I really miss is the "inet" data type. You can do most of its functionality with regular ints (well, unsigned ints), but it takes a lot more work. This little guide is here mainly for my own reference, but hopefully others will find it useful.
 

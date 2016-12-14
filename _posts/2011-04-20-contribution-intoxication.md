@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2011-04-20 12:51:07
-guid: http://www.finnie.org/2011/04/20/contribution-intoxication/
-id: 1797
+date: 2011-04-20 12:51:07-07:00
 layout: post
-permalink: /2011/04/20/contribution-intoxication/
 tags:
 - planetcanonical
 title: Contribution intoxication
+wp_id: 1797
 ---
 I am not a programmer by trade. I'm a system administrator, which involves knowing _just enough_ about ten thousand different technologies to get by. A literal Jack of all trades, master of "none". (Well, few; of course I have specialties.)
 

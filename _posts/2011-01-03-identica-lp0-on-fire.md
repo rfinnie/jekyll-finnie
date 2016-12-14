@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2011-01-03 19:20:31
-guid: http://www.finnie.org/2011/01/03/identica-lp0-on-fire/
-id: 1691
+date: 2011-01-03 19:20:31-08:00
 layout: post
-permalink: /2011/01/03/identica-lp0-on-fire/
 tags:
 - planetcanonical
 title: 'Identi.ca: lp0 on fire'
+wp_id: 1691
 ---
 <iframe width="640" height="360" src="https://www.youtube.com/embed/niAme_z9vxI" frameborder="0" allowfullscreen></iframe>
 

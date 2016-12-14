@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-05-01 22:50:10
-guid: http://www.finnie.org/2009/05/01/state-of-the-blog/
-id: 858
+date: 2009-05-01 22:50:10-07:00
 layout: post
-permalink: /2009/05/01/state-of-the-blog/
 title: State of the blog
+wp_id: 858
 ---
 Did I really say I'd try to do 5 blog posts per week? Yeah, that lasted long.
 

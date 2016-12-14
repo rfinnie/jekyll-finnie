@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2005-06-26 12:11:00
-guid: http://www.finnie.org/2005/06/26/earthquake/
-id: 429
+date: 2005-06-26 12:11:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/111348.html
 lj_itemid: 111348
-permalink: /2005/06/26/earthquake/
 title: Earthquake
+wp_id: 429
 ---
 [4.8 close to Truckee](http://quake.wr.usgs.gov/recenteqs/Quakes/nc51161673.htm); I felt it in Reno.
 

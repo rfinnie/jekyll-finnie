@@ -1,15 +1,12 @@
 ---
-author: Ryan Finnie
 categories:
 - Finances
-date: 2009-03-23 00:38:00
-guid: http://www.finnie.org/2009/03/23/savings-update/
-id: 768
+date: 2009-03-23 00:38:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/201945.html
 lj_itemid: 201945
-permalink: /2009/03/23/savings-update/
 title: Savings update
+wp_id: 768
 ---
 As part of my realization of getting out of debt being like a rehab program, I'm trying to be as open as possible. To that end, here's an update on my savings program.
 

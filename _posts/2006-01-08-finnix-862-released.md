@@ -1,28 +1,20 @@
 ---
-author: Ryan Finnie
 categories:
+- Announcements
 - Finnix
-date: 2006-01-08 02:38:00
-guid: http://www.finnie.org/2006/01/08/finnix-862-released/
-id: 538
+date: 2006-01-08 02:35:49-08:00
 layout: post
-lj_import_url: http://fo0bar.livejournal.com/139146.html
-lj_itemid: 139146
-permalink: /2006/01/08/finnix-862-released/
 title: Finnix 86.2 Released
+wp_id: 7
 ---
 Finnix is a small, self-contained, bootable Linux CD distribution for system administrators, based on Debian testing. Today marks the release of version 86.2 for the x86, PowerPC, and UML/Xen platforms.
 
 Finnix 86.2 contains several new features, including Linux kernel 2.6.15, improved hardware detection (using data from Fedora Core 4), improved reliability when booting from USB CDROM and thumb devices, and an expanded general-purpose task utility, aptly named "finnix". In addition, Finnix may now be installed and run directly from a hard drive. The ISO size has also been reduced, from 100MiB to 92MiB on the x86 platform, without any loss of functionality.
 
-Home page: http://www.finnix.org/
+[Home page](http://www.finnix.org/)
   
-SourceForge page: http://www.sourceforge.net/projects/finnix/
+[SourceForge page](http://www.sourceforge.net/projects/finnix/)
   
-Download:
+Download: [x86](http://prdownloads.sourceforge.net/finnix/finnix-86.2.iso?download), [PowerPC](http://prdownloads.sourceforge.net/finnix/finnix-ppc-86.2.iso?download)
   
-* x86: http://prdownloads.sourceforge.net/finnix/finnix-86.2.iso?download
-  
-* PowerPC: http://prdownloads.sourceforge.net/finnix/finnix-ppc-86.2.iso?download
-  
-Release notes: http://www.finnix.org/Finnix\_86.2\_Release_Notes
+[Release notes](http://www.finnix.org/Finnix_86.2_Release_Notes)

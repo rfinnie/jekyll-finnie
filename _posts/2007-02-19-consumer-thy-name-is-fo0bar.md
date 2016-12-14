@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2007-02-19 15:43:00
-guid: http://www.finnie.org/2007/02/19/consumer-thy-name-is-fo0bar/
-id: 652
+date: 2007-02-19 14:43:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/170499.html
 lj_itemid: 170499
-permalink: /2007/02/19/consumer-thy-name-is-fo0bar/
 title: Consumer, thy name is fo0bar
+wp_id: 652
 ---
 [<img src="http://farm1.static.flickr.com/108/384459142_7de4c16374.jpg" width="500" height="375" alt="New TV, now with sepia!" />](http://www.flickr.com/photos/fo0bar/384459142/ "Photo Sharing")
 

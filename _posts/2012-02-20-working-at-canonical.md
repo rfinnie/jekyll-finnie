@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2012-02-20 14:14:37
-guid: http://www.finnie.org/2012/02/20/working-at-canonical/
-id: 2022
+date: 2012-02-20 14:14:37-08:00
 layout: post
-permalink: /2012/02/20/working-at-canonical/
 tags:
 - planetcanonical
 title: Working at Canonical
+wp_id: 2022
 ---
 A month ago, I started working at [Canonical](http://www.canonical.com/), the makers of [Ubuntu](http://www.ubuntu.com/). Normally I'd write a long-winded post about my experiences from the last month, how/why I started and so on, but I'll just summarize: it rocks.
 

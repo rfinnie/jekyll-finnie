@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2010-06-07 13:51:18
-guid: http://www.finnie.org/2010/06/07/howto-delete-a-3ware-dcb/
-id: 1356
+date: 2010-06-07 13:51:18-07:00
 layout: post
-permalink: /2010/06/07/howto-delete-a-3ware-dcb/
 title: 'HOWTO: Delete a 3ware DCB'
+wp_id: 1356
 ---
 I have a large enough infrastructure at work where we're often (once or twice per month) moving disks around, replacing failed disks on 3ware controllers, etc. One thing that often shows up is issues when an unwiped disk previously used in a 3ware controller is put into another 3ware controller. First, let's step back:
 

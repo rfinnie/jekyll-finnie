@@ -1,15 +1,12 @@
 ---
-author: Ryan Finnie
 categories:
 - Hampr
-date: 2011-03-25 16:20:50
-guid: http://www.finnie.org/2011/03/25/hampr-extension-and-firefox-4-0/
-id: 1777
+date: 2011-03-25 16:20:50-07:00
 layout: post
-permalink: /2011/03/25/hampr-extension-and-firefox-4-0/
 tags:
 - planetcanonical
 title: Hampr extension and Firefox 4.0
+wp_id: 1777
 ---
 Firefox 4.0 was released this week, and while the Hampr extension is technically compatible with it out of the box, it's not ideal. Firefox 4.0 for Windows defaults to hiding the menu bar in favor of an "app menu", a dropdown next to the tab bar. Because the Hampr extension's default mode (on Windows and Linux) is to replace the Bookmarks menu with the Hampr menu, the user will never see the Hampr interface unless they've changed the default Firefox behavior and are showing the main menu bar.
 

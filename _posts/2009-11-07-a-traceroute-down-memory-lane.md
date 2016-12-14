@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2009-11-07 01:24:13
-guid: http://www.finnie.org/2009/11/07/a-traceroute-down-memory-lane/
-id: 1189
+date: 2009-11-07 00:24:13-08:00
 layout: post
-permalink: /2009/11/07/a-traceroute-down-memory-lane/
 title: A traceroute down memory lane
+wp_id: 1189
 ---
 If you downloaded Red Hat Linux 9 from BitTorrent in April 2003, you probably (partly) have me to thank.
 

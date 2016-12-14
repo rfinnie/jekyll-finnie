@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
 categories:
 - Reviews
-date: 2010-08-13 01:32:37
-guid: http://www.finnie.org/2010/08/13/lenovo-thinkpad-x200s/
-id: 1474
+date: 2010-08-13 01:32:37-07:00
 layout: post
-permalink: /2010/08/13/lenovo-thinkpad-x200s/
 title: Lenovo ThinkPad X200s
+wp_id: 1474
 ---
 <img src="/blog-media/2010/08/ThinkPad-X200s.jpg" alt="" title="ThinkPad X200s" width="600" height="231" class="aligncenter size-full wp-image-1476" srcset="/blog-media/2010/08/ThinkPad-X200s.jpg 600w, /blog-media/2010/08/ThinkPad-X200s-300x115.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
 

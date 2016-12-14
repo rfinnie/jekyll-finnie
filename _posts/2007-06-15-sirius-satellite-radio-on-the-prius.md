@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2007-06-15 19:36:00
-guid: http://www.finnie.org/2007/06/15/sirius-satellite-radio-on-the-prius/
-id: 682
+date: 2007-06-15 19:36:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/178249.html
 lj_itemid: 178249
-permalink: /2007/06/15/sirius-satellite-radio-on-the-prius/
 title: Sirius satellite radio on the Prius
+wp_id: 682
 ---
 I bought a Sirius car kit last year, the kind that clips to your AC vent, you run the antenna to the roof, and use a cassette adapter. While it wasn't too pretty, it worked well. I chose Sirius over XM because Sirius has more news/talk channels, and XM didn't have NPR at all. I found myself listening to NPR Now and BBC World News most of the time. (Oh, and the 80s channel.) I still switched back to the regular Sacramento NPR station for the drive home each day, because the Sirius NPR station doesn't have All Things Considered.
 

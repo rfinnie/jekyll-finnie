@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2008-12-12 11:36:00
-guid: http://www.finnie.org/2008/12/12/video-cards-freak-me-out/
-id: 750
+date: 2008-12-12 10:36:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/197509.html
 lj_itemid: 197509
-permalink: /2008/12/12/video-cards-freak-me-out/
 title: Video cards freak me out.
+wp_id: 750
 ---
 OK, this is how computer components work: you buy Expensive Component Model 150, and it rocks. Time passes, Expensive Component Model 250 comes out, and Expensive Component Model 150 becomes Formerly Expensive Component Model 150. Expensive Component Model 350 comes out, Expensive Component Model 250 becomes Formerly Expensive Component Model 250, and Formerly Expensive Component Model 150 becomes Trashheap Component Model 150. And so on.
 

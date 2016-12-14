@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2008-06-09 01:33:00
-guid: http://www.finnie.org/2008/06/09/theyre-baaaaack/
-id: 725
+date: 2008-06-09 01:33:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/190315.html
 lj_itemid: 190315
-permalink: /2008/06/09/theyre-baaaaack/
 title: They're baaaaack...
+wp_id: 725
 ---
 I had a dream about _them_ Friday night, and thought, "Well, _they_ haven't been around lately, so I should blog about my experiences with _them_". But, right on cue, _they_ came back Sunday, so it's even more relevant.
 

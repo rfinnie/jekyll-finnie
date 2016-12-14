@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2013-01-30 19:10:17
-guid: http://www.finnie.org/2013/01/30/steamlink-half-life-uplink-for-steam-updated-for-linux-os-x/
-id: 2218
+date: 2013-01-30 19:10:17-08:00
 layout: post
-permalink: /2013/01/30/steamlink-half-life-uplink-for-steam-updated-for-linux-os-x/
 tags:
 - planetcanonical
 title: 'SteamLink (Half-Life: Uplink for Steam) updated for Linux / OS X'
+wp_id: 2218
 ---
 The original Half-Life and Counter-Strike games were [quietly released for Linux](http://www.geek.com/articles/games/valve-ports-half-life-to-linux-20130125/) [and Mac OS X](http://tech2.in.com/news/gaming/valve-quietly-ports-halflife-to-osx-and-linux/725422) last week, and as the maintainer of [SteamLink](http://www.halflifeuplink.com/steamlink/), a repackaging of [Half-Life: Uplink](http://www.halflifeuplink.com/) for [Steam](http://www.steampowered.com/), I went out to see if the mod's files could be installed on these platforms.
 

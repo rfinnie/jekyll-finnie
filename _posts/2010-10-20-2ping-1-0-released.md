@@ -1,14 +1,11 @@
 ---
-author: Ryan Finnie
-date: 2010-10-20 15:36:17
-guid: http://www.finnie.org/2010/10/20/2ping-1-0-released/
-id: 1590
+date: 2010-10-20 15:36:17-07:00
 layout: post
-permalink: /2010/10/20/2ping-1-0-released/
 tags:
 - 2ping
 - planetcanonical
 title: 2ping 1.0 released
+wp_id: 1590
 ---
 [2ping](http://www.finnie.org/software/2ping/) 1.0 has been released! While the changes to the previous version are minor, this signifies a major milestone: 2ping (and the 2ping protocol) is now deemed "stable".
 

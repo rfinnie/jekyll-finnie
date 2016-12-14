@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2012-04-19 19:25:26
-guid: http://www.finnie.org/2012/04/19/wifi-on-an-ubuntu-server/
-id: 2065
+date: 2012-04-19 19:25:26-07:00
 layout: post
-permalink: /2012/04/19/wifi-on-an-ubuntu-server/
 tags:
 - planetcanonical
 title: WiFi on an Ubuntu server
+wp_id: 2065
 ---
 One night last week, my cable internet service went down. OK, it rarely happens, and when it does, I have an iPhone with tethering. No big deal normally, I would just have my laptop connect to the tether. However, that night I was in the middle of a few things on my home LAN, and wanted my whole network to have internet access, not just my laptop. Getting wireless access on [my home router/server](http://www.finnie.org/2012/03/09/new-home-server/) seemed the most preferable. So I dug through the junk crates and found:
 

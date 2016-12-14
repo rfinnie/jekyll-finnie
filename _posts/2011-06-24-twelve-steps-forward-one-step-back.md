@@ -1,11 +1,8 @@
 ---
-author: Ryan Finnie
-date: 2011-06-24 12:09:13
-guid: http://www.finnie.org/2011/06/24/twelve-steps-forward-one-step-back/
-id: 1834
+date: 2011-06-24 12:09:13-07:00
 layout: post
-permalink: /2011/06/24/twelve-steps-forward-one-step-back/
 title: Twelve steps forward, one step back
+wp_id: 1834
 ---
 I've been cleaning and organizing a lot in the last few weeks. My home office used to be a series of folding tables, a wire rack for computers, a stack of sorted plastic bins in the closet which hadn't been sorted INTO in years, and a stack of moving boxes with various junk from 1-3 moves ago. Today I have a corner IKEA desk and monitor cart to replace the folding tables, all of the moving boxes have been sorted into the plastic bins, and you can actually see the carpet.
 

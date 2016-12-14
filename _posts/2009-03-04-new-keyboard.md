@@ -1,13 +1,10 @@
 ---
-author: Ryan Finnie
-date: 2009-03-04 20:19:00
-guid: http://www.finnie.org/2009/03/04/new-keyboard/
-id: 759
+date: 2009-03-04 19:19:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/199517.html
 lj_itemid: 199517
-permalink: /2009/03/04/new-keyboard/
 title: New keyboard
+wp_id: 759
 ---
 [<img src="http://farm4.static.flickr.com/3580/3329284159_2901fca288.jpg" width="500" height="375" alt="IMG_0349" />](http://www.flickr.com/photos/fo0bar/3329284159/ "IMG_0349 by fo0bar, on Flickr")
   
