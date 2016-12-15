@@ -18,7 +18,7 @@ Now, the other reason I bought it was, well, I collect computers. Basically, if 
 
 * sparc: Sun Ultra1 (eBay, 2002), Sun Blade 100 (DEFCON, 2008)
 
-* powerpc: Two Apple Beige G3 ([pdx6](http://www.livejournal.com/users/pdx6){.lj-user}, 2003), G4 MDD (coworker, 2005), G4 Mini (CompUSA, 2005)
+* powerpc: Two Apple Beige G3 ([pdx6](http://www.livejournal.com/users/pdx6), 2003), G4 MDD (coworker, 2005), G4 Mini (CompUSA, 2005)
 
 * mips: SGI Challenge S (work, 2003)
 
