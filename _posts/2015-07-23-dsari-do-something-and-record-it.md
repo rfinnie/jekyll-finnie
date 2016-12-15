@@ -14,7 +14,7 @@ Like many people throughout history, my ad-hoc CI system transitioned from a cro
 
 That got me thinking of what I would need for something midway between cron and Jenkins. "Well, I basically need to do something and record it. Everything else can hang off the 'do something' part, or the 'record it' part." And with that, [dsari](https://github.com/rfinnie/dsari) was born.
 
-[dsari](https://github.com/rfinnie/dsari) is a lightweight continuous integration (CI) system. It provides scheduling, concurrency management and trigger capabilities, and is easy to configure. Job scheduling is handled via `dsari-daemon`, while `dsari-render` may be used to format job run information as HTML.
+[dsari](https://github.com/rfinnie/dsari) is a lightweight continuous integration (CI) system. It provides scheduling, concurrency management and trigger capabilities, and is easy to configure. Job scheduling is handled via <kbd>dsari-daemon</kbd>, while <kbd>dsari-render</kbd> may be used to format job run information as HTML.
 
 That's basically it. All other functionality is based on the idea that you have a better idea of what you want to do than I do. The "do something" portion of the job run is literally running a single command - this is almost always a shell script. For example, all of the jobs used to do NEALE builds call the same shell script, which uses the `JOB_NAME` and `RUN_ID` environment variables to determine what variants to build. The shell script then performs the build and [emails me](https://github.com/rfinnie/dsari/blob/master/doc/notifications.md) if a run fails or returns to normal.
 
