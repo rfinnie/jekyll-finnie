@@ -17,6 +17,8 @@ top_links:
     - {title: "GitHub", url: "https://github.com/rfinnie"}
     - {title: "Launchpad", url: "https://launchpad.net/~fo0bar"}
     - {title: "Debian", url: "http://qa.debian.org/developer.php?login=ryan@finnie.org"}
+keep_files:
+  - .git
 
 # Build settings
 markdown: kramdown
