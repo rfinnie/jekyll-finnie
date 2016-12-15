@@ -6,8 +6,19 @@ color: #22313f;
 }
 body > .container{
 margin-top: 50px;
-padding-bottom: 50px;
+padding-bottom: 20px;
 background-color: #ffffff;
+}
+.site-footer > .container{
+margin-top: 20px;
+padding-bottom: 20px;
+background-color: #77818b;
+color: #eff3f7;
+font-size: 14px;
+text-align: right;
+}
+.site-footer > .container a, .site-footer > .container a:visited {
+color: #eff3f7;
 }
 .navbar-inverse {
 	background-color: #384654;
