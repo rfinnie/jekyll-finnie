@@ -6,10 +6,17 @@ url: "http://www.finnie.org"
 permalink: /:year/:month/:day/:title/
 git_web_base: https://github.com/rfinnie/jekyll-finnie/blob/master/
 top_links:
-  - {title: "Finnix", url: "http://www.finnix.org/"}
-  - {title: "Debian", url: "http://qa.debian.org/developer.php?login=ryan@finnie.org"}
-  - {title: "Launchpad", url: "https://launchpad.net/~fo0bar"}
-  - {title: "OpenPGP", url: "http://pgp.mit.edu:11371/pks/lookup?search=0x86AE8D98"}
+  - title: "Projects"
+    sublinks:
+    - {title: "Finnix", url: "http://www.finnix.org/"}
+    - {title: "2ping", url: "http://www.finnie.org/software/2ping/"}
+    - {title: "dsari", url: "https://github.com/rfinnie/dsari"}
+  - title: "About"
+    sublinks:
+    - {title: "OpenPGP", url: "http://pgp.mit.edu:11371/pks/lookup?search=0x86AE8D98"}
+    - {title: "GitHub", url: "https://github.com/rfinnie"}
+    - {title: "Launchpad", url: "https://launchpad.net/~fo0bar"}
+    - {title: "Debian", url: "http://qa.debian.org/developer.php?login=ryan@finnie.org"}
 
 # Build settings
 markdown: kramdown

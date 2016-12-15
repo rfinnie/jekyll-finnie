@@ -31,17 +31,8 @@ color: #eff3f7;
 	color: #c0c0c0;
 }
 
-#cse-search-box input[type=search] {
-    width: 100%;
-    margin: 6px;
-    border: none;
-        padding: 6px 6px 6px 6px;
+.navbar-inverse .form-control {
         background: #77818b;
-        -webkit-border-radius: 6px;
-        -moz-border-radius: 6px;
-        border-radius: 6px;
-        -webkit-font-smoothing: subpixel-antialiased;
         color: #eff3f7;
+        border: none;
 }
-
-#cse-search-box input[type=search]:focus { color: #eff3f7; }
