@@ -19,7 +19,7 @@ Raspbian wheezy was tested on both Raspberry Pi models, while Ubuntu trusty was 
 
 This is a hand-picked assortment of test results; for the full raw results, see below.
 
-<table>
+<table class="table">
   <tr>
     <th>
       Test

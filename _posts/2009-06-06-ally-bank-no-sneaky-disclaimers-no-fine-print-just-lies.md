@@ -61,7 +61,7 @@ While you are reading, watch this Ally Bank commercial, but with these lines:
     On Thursday morning, June 4, 2009, I signed up for an Ally 9 month no penalty CD, at a 2.50% rate. I was impressed by Ally's site, your no-nonsense approach, and the impressive rates offered. The account sign-up process – during which time I created a new account and funded a $2,500 CD – was easy, and consistent with your business persona. There was no small print, and everything was explained up-front. I finished the process, and was given a PDF with the following table:
   </p>
   
-  <table border="0">
+  <table class="table">
     <tr>
       <th>
         Name
