@@ -6,7 +6,7 @@ layout: post
 title: 'Achievement Unlocked: Credit Card Solvency'
 wp_id: 907
 ---
-[<img src="http://farm4.static.flickr.com/3394/3596859185_7c2417f710.jpg" width="500" height="355" alt="CC Debt vs. Savings (6/5/2009)" />](http://www.flickr.com/photos/fo0bar/3596859185/ "CC Debt vs. Savings (6/5/2009) by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3394/3596859185_7c2417f710.jpg" width="500" height="355" alt="CC Debt vs. Savings (6/5/2009)" />](https://www.flickr.com/photos/fo0bar/3596859185/ "CC Debt vs. Savings (6/5/2009) by fo0bar, on Flickr")
   
 _Click for a more readable graph. Savings is blue on the top, CC debt is green on the bottom. The line is the delta between savings and debt._
 

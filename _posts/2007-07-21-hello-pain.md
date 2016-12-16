@@ -12,7 +12,7 @@ In late April, for no reason I can remember, the pain increased dramatically, sp
 
 Initial appointment with the specialist, back and forth with getting MRIs, insurance pre-approvals, more cortisone shots, lots of waiting, drugs, etc, etc. I'll cut to the chase:
 
-[<img src="http://farm2.static.flickr.com/1221/840610955_7a6ae5ed1f.jpg" width="500" height="456" alt="Does something look wrong here?" />](http://www.flickr.com/photos/fo0bar/840610955/ "Photo Sharing")
+[<img src="https://farm2.static.flickr.com/1221/840610955_7a6ae5ed1f.jpg" width="500" height="456" alt="Does something look wrong here?" />](https://www.flickr.com/photos/fo0bar/840610955/ "Photo Sharing")
 
 2 ruptured cervical (neck) discs, one of which is rather serious. The specialist referred me to a neurosurgeon, who I met with last week. I'll need surgery. (After insurance approval, of course.)
 

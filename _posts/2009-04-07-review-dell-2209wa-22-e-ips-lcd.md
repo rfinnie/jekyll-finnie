@@ -8,7 +8,7 @@ lj_itemid: 203363
 title: 'Review: Dell 2209WA 22" E-IPS LCD'
 wp_id: 774
 ---
-[<img src="http://farm4.static.flickr.com/3589/3421413597_a8790079aa.jpg" width="500" height="375" alt="Dell 2209WA" />](http://www.flickr.com/photos/fo0bar/3421413597/ "Dell 2209WA by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3589/3421413597_a8790079aa.jpg" width="500" height="375" alt="Dell 2209WA" />](https://www.flickr.com/photos/fo0bar/3421413597/ "Dell 2209WA by fo0bar, on Flickr")
   
 If you're a frequent reader of my blog, you know that the Dell 2005FPW 20" LCD was the best LCD made. Ever. It was an S-IPS display, and used [the same LCD panel as the $1400 20" Apple Cinema Display (2004 model)](http://www.anandtech.com/displays/showdoc.aspx?i=2400), but at better than half the price of the Apple, and with more peripheral features. For 4 years, I've had the 2005FPW as my primary desktop monitor, and I've been struggling to get something to complement it ever since. I bought a cheaper Dell SP2008WFP (TN panel), but ended up returning it within a week Last December I bought an HP w2408h 24" that, while still a TN panel, was supposedly one of the best TN LCDs on the market. I made do with it.
 
@@ -26,7 +26,7 @@ IPS displays have better viewing angles (often 179° horizontal, and 170° to 17
 
 The 2209WA features a square design with sharp lines. The base includes tilt, swivel and raise ability, and includes a hole in the back to route cables through. All three adjustment methods are relatively easy to do by hand, and stay in place well. The viewing area is matte, as is the outside of the bezel. However, the inside of the bezel (closest to the panel) is glossy for some reason, and as a result, it tends to reflect bright objects on the display that are close to the display edges. It's minor, but can be distracting.
 
-[<img src="http://farm4.static.flickr.com/3389/3422218406_05dd63f871.jpg" width="500" height="375" alt="Dell 2209WA - Corner Bezel" />](http://www.flickr.com/photos/fo0bar/3422218406/ "Dell 2209WA - Corner Bezel by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3389/3422218406_05dd63f871.jpg" width="500" height="375" alt="Dell 2209WA - Corner Bezel" />](https://www.flickr.com/photos/fo0bar/3422218406/ "Dell 2209WA - Corner Bezel by fo0bar, on Flickr")
   
 The menu/adjustment buttons are square, the width of the bezel, from the bottom-right corner of the bezel. While this breaks the flow of the otherwise continuous bezel, it is useful, as the on-screen display's control legend lines up with these buttons. A chrome mirror Dell logo is at the bottom center of the bezel.
 
@@ -36,11 +36,11 @@ The 2209WA accepts d-sub VGA or DVI inputs, and can be configured to auto-sense 
 
 I borrowed a Spyder2PRO from work and calibrated the 2209WA. Out of the box, the 2209WA was set to 6500K, though it doesn't actually list the color temperature, just modes like "cinema" and "gaming" that adjust the individual RGB ranges, and also fiddles with the brightness and contrast. Since I had the Spyder, I opted to start with the factory default settings, and adjust RGB by hand.
 
-[<img src="http://farm4.static.flickr.com/3638/3422214226_bb12bbd895.jpg" width="500" height="375" alt="Dell 2209WA - Calibration" />](http://www.flickr.com/photos/fo0bar/3422214226/ "Dell 2209WA - Calibration by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3638/3422214226_bb12bbd895.jpg" width="500" height="375" alt="Dell 2209WA - Calibration" />](https://www.flickr.com/photos/fo0bar/3422214226/ "Dell 2209WA - Calibration by fo0bar, on Flickr")
   
 The 2209WA was fairly well balanced out of the box. It was a bit heavy on the green, but was easily adjusted. My final numbers at home were 100 red, 92 green, 96 blue, to get an even balance, and the final color temperature measured 6506K.
 
-[<img src="http://farm4.static.flickr.com/3642/3421409455_c63ff78cce.jpg" width="500" height="375" alt="Dell 2005FPW & 2209WA" />](http://www.flickr.com/photos/fo0bar/3421409455/ "Dell 2005FPW & 2209WA by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3642/3421409455_c63ff78cce.jpg" width="500" height="375" alt="Dell 2005FPW & 2209WA" />](https://www.flickr.com/photos/fo0bar/3421409455/ "Dell 2005FPW & 2209WA by fo0bar, on Flickr")
   
 On the left is my 2005FPW, on the right is the 2209WA. Color representation is pretty well matched, but notice that luminance matching was NOT performed, and using default brightness settings, the 2209WA is noticeably brighter than the 2005FPW, though not overpoweringly so.
 

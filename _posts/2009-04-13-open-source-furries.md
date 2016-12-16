@@ -12,14 +12,14 @@ I've had a simulator running for over a month now, and it's been... fun. It's de
 
 First up is The Cube, a massive 64,000 cubic meter cube of girders and glass. The first level is hollow and can be explored (and is the default landing point for the region), but inside it is 4 more levels of smaller embedded cubes.
 
-[<img src="http://farm4.static.flickr.com/3401/3337423774_337f360232.jpg" width="500" height="298" alt="The Cube" />](http://www.flickr.com/photos/fo0bar/3337423774/ "The Cube by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3401/3337423774_337f360232.jpg" width="500" height="298" alt="The Cube" />](https://www.flickr.com/photos/fo0bar/3337423774/ "The Cube by fo0bar, on Flickr")
 
 The Information Center is a smaller version of the cube, for visitor/resident information.
 
-[<img src="http://farm4.static.flickr.com/3636/3336591599_7c614758cb.jpg" width="500" height="298" alt="Undef Information Center" />](http://www.flickr.com/photos/fo0bar/3336591599/ "Undef Information Center by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3636/3336591599_7c614758cb.jpg" width="500" height="298" alt="Undef Information Center" />](https://www.flickr.com/photos/fo0bar/3336591599/ "Undef Information Center by fo0bar, on Flickr")
 
 This next one... well, took on a life of its own. I started by using Valve Source textures (CS:S players will instantly recognize them), and it sort of took off in its own direction. I now see what artists mean when they say that the ideas themselves come into being, and the artist is merely the conduit. That is to say, I accidentally created a cult.
 
-[<img src="http://farm4.static.flickr.com/3408/3336578345_132aaf2e8a.jpg" width="500" height="298" alt="Temple of the NOOB" />](http://www.flickr.com/photos/fo0bar/3336578345/ "Temple of the NOOB by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3408/3336578345_132aaf2e8a.jpg" width="500" height="298" alt="Temple of the NOOB" />](https://www.flickr.com/photos/fo0bar/3336578345/ "Temple of the NOOB by fo0bar, on Flickr")
 
 The characters themselves (NOOBs) are an in-joke in Second Life, and OSGrid in particular. In fact, there is a 50-meter tall version of one in one of the OSGrid plazas.

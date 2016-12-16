@@ -6,7 +6,7 @@ lj_itemid: 170499
 title: Consumer, thy name is fo0bar
 wp_id: 652
 ---
-[<img src="http://farm1.static.flickr.com/108/384459142_7de4c16374.jpg" width="500" height="375" alt="New TV, now with sepia!" />](http://www.flickr.com/photos/fo0bar/384459142/ "Photo Sharing")
+[<img src="https://farm1.static.flickr.com/108/384459142_7de4c16374.jpg" width="500" height="375" alt="New TV, now with sepia!" />](https://www.flickr.com/photos/fo0bar/384459142/ "Photo Sharing")
 
 As I hinted before, I got a new TV, pictured above. The Thursday before the Super Bowl, I was at CompUSA talking with our sales rep (our company buys laptops and software licenses through them). At one point we got to talking about TVs. I mentioned that I'll probably upgrade my 10-year-old 27" Daewoo TV sometime this year, but I wasn't really looking at the moment. He mentioned that he bought a 37" LCD from CompUSA a few weeks ago, and was really happy with it. I took a look at the model, a 37" Olevia 437V. Now, I had never heard of Olevia before, and the quality was hard to gauge (since they split a component signal about 50 ways), but the price was awesome at $800, especially for an LCD.
 

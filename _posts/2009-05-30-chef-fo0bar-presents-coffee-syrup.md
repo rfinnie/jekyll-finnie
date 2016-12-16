@@ -8,7 +8,7 @@ wp_id: 871
 ---
 My New England roots are showing.
 
-[<img src="http://farm4.static.flickr.com/3564/3558484568_56ff913dd7.jpg" width="500" height="375" alt="Coffee cabinet, coffee milk, coffee syrup" />](http://www.flickr.com/photos/fo0bar/3558484568/ "Coffee cabinet, coffee milk, coffee syrup by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3564/3558484568_56ff913dd7.jpg" width="500" height="375" alt="Coffee cabinet, coffee milk, coffee syrup" />](https://www.flickr.com/photos/fo0bar/3558484568/ "Coffee cabinet, coffee milk, coffee syrup by fo0bar, on Flickr")
   
 _A coffee cabinet, coffee milk, and a bottle of coffee syrup._
 
@@ -36,7 +36,7 @@ Brew the coffee. I found that 1/2 cup grounds to 3 cups water will produce a lit
 
 Bring the pan back to low heat, and simmer for 10 minutes, whisking occasionally. After 10 minutes, remove from heat and cool for at least 10 minutes, stirring occasionally. When the syrup is cool enough to handle, transfer to a dispenser bottle. You should have almost exactly 3 cups of syrup. I initially tried a generic squeeze bottle, but I later found that a 24oz pancake syrup bottle works perfectly.
 
-[<img src="http://farm4.static.flickr.com/3647/3579411443_a558f64d76.jpg" width="500" height="375" alt="Coffee syrup" />](http://www.flickr.com/photos/fo0bar/3579411443/ "Coffee syrup by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3647/3579411443_a558f64d76.jpg" width="500" height="375" alt="Coffee syrup" />](https://www.flickr.com/photos/fo0bar/3579411443/ "Coffee syrup by fo0bar, on Flickr")
   
 _That's not maple syrup._
 

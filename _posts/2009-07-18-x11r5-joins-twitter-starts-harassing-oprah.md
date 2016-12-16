@@ -5,7 +5,7 @@ title: X11R5 Joins Twitter, Starts Harassing Oprah
 wp_id: 952
 ---
 <div style="float: right;">
-  <a href="http://www.flickr.com/photos/fo0bar/3587751864/" title="X11R5 on the street by Ryan Finnie, on Flickr"><img src="http://farm4.static.flickr.com/3641/3587751864_d926a09af9_m.jpg" width="240" height="180" alt="X11R5 on the street" /></a>
+  <a href="https://www.flickr.com/photos/fo0bar/3587751864/" title="X11R5 on the street by Ryan Finnie, on Flickr"><img src="https://farm4.static.flickr.com/3641/3587751864_d926a09af9_m.jpg" width="240" height="180" alt="X11R5 on the street" /></a>
 </div>
 
 [Last month](http://www.finnie.org/2009/06/19/beep/), I briefly introduced you to [X11R5](http://identi.ca/x11r5), a [Markov bot](http://en.wikipedia.org/wiki/Markov_chain) on [Identica](http://identi.ca/).

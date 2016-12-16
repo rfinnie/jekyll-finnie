@@ -6,7 +6,7 @@ layout: post
 title: 'Review: Reusable grocery bags'
 wp_id: 814
 ---
-[<img src="http://farm4.static.flickr.com/3653/3437320152_613293d543.jpg" width="500" height="375" alt="Reusable grocery bag" />](http://www.flickr.com/photos/fo0bar/3437320152/ "Reusable grocery bag by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3653/3437320152_613293d543.jpg" width="500" height="375" alt="Reusable grocery bag" />](https://www.flickr.com/photos/fo0bar/3437320152/ "Reusable grocery bag by fo0bar, on Flickr")
 
 A few months ago, I got a set of four reusable grocery bags from Walgreens, on sale for $0.25 each. Look for deals, but even at full price (usually $1 to $2 per bag), they are well worth it. Before that, I was downing in plastic grocery bags. My not-so-little [IKEA plastic bag dispenser](http://www.ikea.com/us/en/catalog/products/60025535) was filled years ago, and I seemed to find plastic bags thrown in pretty much every corner of the apartment. But these new reusable grocery bags combine the best attributes of both plastic and paper bags.
 

@@ -6,7 +6,7 @@ lj_itemid: 197093
 title: Some people collect baseball cards.
 wp_id: 749
 ---
-[<img src="http://farm4.static.flickr.com/3185/2997883815_6977cd3a65.jpg" width="500" height="375" alt="Sun Blade 100" />](http://www.flickr.com/photos/fo0bar/2997883815/ "Sun Blade 100 by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3185/2997883815_6977cd3a65.jpg" width="500" height="375" alt="Sun Blade 100" />](https://www.flickr.com/photos/fo0bar/2997883815/ "Sun Blade 100 by fo0bar, on Flickr")
   
 While at DEFCON this August, I picked up a Sun Blade 100 from a vendor table for $30. My primary motivation for the purchase was the irony of the processor. See, when starting at the datacenter in 2002, we bought a Sun Enterprise 250 to control a tape library. This E250 contained a UltraSparc II 400MHz processor, which was quite zippy at the time, and reasonably priced at only $10,000. And here I was, 6 years later, buying a desktop with an UltraSparc II 500MHz for $30 at a junk sale.
 

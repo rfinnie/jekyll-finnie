@@ -6,7 +6,7 @@ layout: post
 title: 'Chef fo0bar presents: Sushi'
 wp_id: 949
 ---
-[<img src="http://farm3.static.flickr.com/2503/3719072581_dba7126765.jpg" width="500" height="375" alt="Sushi" />](http://www.flickr.com/photos/fo0bar/3719072581/ "Sushi by Ryan Finnie, on Flickr")
+[<img src="https://farm3.static.flickr.com/2503/3719072581_dba7126765.jpg" width="500" height="375" alt="Sushi" />](https://www.flickr.com/photos/fo0bar/3719072581/ "Sushi by Ryan Finnie, on Flickr")
 
 Tonight I made sushi. [The rice recipe is here](http://www.foodnetwork.com/recipes/alton-brown/sushi-rice-recipe/index.html), but you really need to see the Good Eats episode, as it deals with all aspects of sushi making, not just the rice. Actually, the rice is what I feared the most, as I've never had good luck with rice, and sushi rice is more complicated. That part actually worked out the best. It was fluffy and sticky, and didn't mush up.
 

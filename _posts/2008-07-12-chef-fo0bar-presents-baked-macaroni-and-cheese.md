@@ -10,7 +10,7 @@ lj_itemid: 190986
 title: 'Chef fo0bar presents: Baked Macaroni and Cheese'
 wp_id: 728
 ---
-[<img src="http://farm4.static.flickr.com/3192/2663594420_e449ba01fe.jpg" width="500" height="375" alt="Baked Macaroni & Cheese" />](http://www.flickr.com/photos/fo0bar/2663594420/ "Baked Macaroni & Cheese by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3192/2663594420_e449ba01fe.jpg" width="500" height="375" alt="Baked Macaroni & Cheese" />](https://www.flickr.com/photos/fo0bar/2663594420/ "Baked Macaroni & Cheese by fo0bar, on Flickr")
 
 Yes, just macaroni and cheese. I always loved baked macaroni and cheese as mom would make, but could never get it right as an adult. She even sent me the recipe, but I could never get the roux right. The flour would burn, or I'd use too little flour and cook it too long, resulting in too little thickening and a sort of macaroni soup.
 

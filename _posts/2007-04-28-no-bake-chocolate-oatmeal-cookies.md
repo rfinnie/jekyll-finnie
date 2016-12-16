@@ -11,7 +11,7 @@ title: No-Bake Chocolate Oatmeal Cookies
 wp_id: 661
 ---
 <div class="flickr-frame">
-  <a href="http://www.flickr.com/photos/fo0bar/476287469/" title="photo sharing"><img src="http://farm1.static.flickr.com/224/476287469_989f096db5.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="http://www.flickr.com/photos/fo0bar/476287469/">No-Bake Chocolate Oatmeal Cookies</a>, originally uploaded by <a href="http://www.flickr.com/people/fo0bar/">fo0bar</a>.</span>
+  <a href="https://www.flickr.com/photos/fo0bar/476287469/" title="photo sharing"><img src="https://farm1.static.flickr.com/224/476287469_989f096db5.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="https://www.flickr.com/photos/fo0bar/476287469/">No-Bake Chocolate Oatmeal Cookies</a>, originally uploaded by <a href="https://www.flickr.com/people/fo0bar/">fo0bar</a>.</span>
 </div>
 
 <p class="flickr-yourcomment">

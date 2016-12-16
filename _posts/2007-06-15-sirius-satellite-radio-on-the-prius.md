@@ -16,7 +16,7 @@ Then I found [this site](https://www.authentictoyota.com/product_info.php?cPath=
 
 I busted out the camera:
 
-[<img src="http://farm2.static.flickr.com/1096/554470850_46159a6ad7.jpg" width="500" height="375" alt="DSCN0503" />](http://www.flickr.com/photos/fo0bar/sets/72157600369580067/ "Photo Sharing")
+[<img src="https://farm2.static.flickr.com/1096/554470850_46159a6ad7.jpg" width="500" height="375" alt="DSCN0503" />](https://www.flickr.com/photos/fo0bar/sets/72157600369580067/ "Photo Sharing")
 
 Everything needed seems to be there. It even came with a printout of the TIS installation manual. The instructions are straight forward, but I would need tools such as a drill, deburring tool, nylon panel removal tool, etc. I then made an appointment with Reno Toyota to get it installed. $180 is worth it to not risk messing up your car that's only a week old.
 

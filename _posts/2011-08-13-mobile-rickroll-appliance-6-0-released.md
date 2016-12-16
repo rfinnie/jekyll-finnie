@@ -7,7 +7,7 @@ title: Mobile Rickroll Appliance 6.0 released
 wp_id: 1873
 ---
 <div style="float: right; margin-left: 1em;">
-  <a href="http://www.flickr.com/photos/fo0bar/2366164074/" title="Mobile Rickroll Appliance 6.0 by Ryan Finnie, on Flickr"><img src="http://farm4.static.flickr.com/3228/2366164074_fce0ee2d3b_m.jpg" width="240" height="180" alt="Mobile Rickroll Appliance 6.0" /></a>
+  <a href="https://www.flickr.com/photos/fo0bar/2366164074/" title="Mobile Rickroll Appliance 6.0 by Ryan Finnie, on Flickr"><img src="https://farm4.static.flickr.com/3228/2366164074_fce0ee2d3b_m.jpg" width="240" height="180" alt="Mobile Rickroll Appliance 6.0" /></a>
 </div>
 
 Last week, I attended Defcon 19 in Las Vegas. This year was a pretty good year. It was held at the Rio which was not without problems, but the hotel rooms were nice, the conference space was much larger than any previous year, and overall it was a much better experience that the Riviera from the last few years.

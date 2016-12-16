@@ -8,7 +8,7 @@ lj_itemid: 197746
 title: 'Chef fo0bar presents: Combo cheeseburger, Kroll''s style'
 wp_id: 751
 ---
-[<img src="http://farm4.static.flickr.com/3198/3130540182_9a6da1ae93.jpg" width="500" height="375" alt="Combo cheeseburger - Kroll's style" />](http://www.flickr.com/photos/fo0bar/3130540182/ "Combo cheeseburger - Kroll's style by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3198/3130540182_9a6da1ae93.jpg" width="500" height="375" alt="Combo cheeseburger - Kroll's style" />](https://www.flickr.com/photos/fo0bar/3130540182/ "Combo cheeseburger - Kroll's style by fo0bar, on Flickr")
 
 Wisconsin is not necessarily known for its health food. I have a hard enough time explaining cheese curds to people, not to mention why they must be breaded and deep fried. But today's recipe I blame on the Germans -- namely German influence on Northeast Wisconsin cuisine.
 
@@ -52,4 +52,4 @@ Makes 8 burgers, plus a leftover bratwurst link to do with as you please. Since 
 
 (By the way, the malt vinegar is decidedly a [New] England thing, and not a Wisconsin thing. Most of my extended family is from New England, so I'm allowed to cross cultures a bit.)
 
-[<img src="http://farm4.static.flickr.com/3050/3129709817_6abdcbb144_m.jpg" width="240" height="180" alt="Combo cheeseburger - Kroll's style" />](http://www.flickr.com/photos/fo0bar/3129709817/ "Combo cheeseburger - Kroll's style by fo0bar, on Flickr") [<img src="http://farm4.static.flickr.com/3293/3130539966_cdc92a3a0e_m.jpg" width="240" height="180" alt="Combo cheeseburger - Kroll's style" />](http://www.flickr.com/photos/fo0bar/3130539966/ "Combo cheeseburger - Kroll's style by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3050/3129709817_6abdcbb144_m.jpg" width="240" height="180" alt="Combo cheeseburger - Kroll's style" />](https://www.flickr.com/photos/fo0bar/3129709817/ "Combo cheeseburger - Kroll's style by fo0bar, on Flickr") [<img src="https://farm4.static.flickr.com/3293/3130539966_cdc92a3a0e_m.jpg" width="240" height="180" alt="Combo cheeseburger - Kroll's style" />](https://www.flickr.com/photos/fo0bar/3130539966/ "Combo cheeseburger - Kroll's style by fo0bar, on Flickr")

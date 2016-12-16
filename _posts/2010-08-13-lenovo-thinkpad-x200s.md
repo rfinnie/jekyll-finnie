@@ -26,7 +26,7 @@ I've been using it for 3 days now, and I can honestly say this is the best lapto
 
 The X200s is a "more mobile" version of the X200. It uses low-voltage CPUs and a LED backlit screen to crank out even more battery life, 10 to 12 hours on a 9-cell battery. (By the way, even though the 9-cell batteries do hang off the back of the laptop, I found that actually makes a nice grip for walking while the display is opened.) With a 9-cell battery, the laptop is still only 3.4 lbs, .2 lbs more than the X61 with a 9-cell battery. And the X200s includes a composite top and roll cage, while the X200 doesn't.
 
-[<img src="http://farm5.static.flickr.com/4115/4887682848_90af8770c7.jpg" width="500" height="375" alt="Three generations of ThinkPads" />](http://www.flickr.com/photos/fo0bar/4887682848/ "Three generations of ThinkPads by Ryan Finnie, on Flickr")
+[<img src="https://farm5.static.flickr.com/4115/4887682848_90af8770c7.jpg" width="500" height="375" alt="Three generations of ThinkPads" />](https://www.flickr.com/photos/fo0bar/4887682848/ "Three generations of ThinkPads by Ryan Finnie, on Flickr")
 
 (From bottom to top: T60 14", X200s, X61)
 
@@ -36,4 +36,4 @@ One thing that is really nice about ThinkPads is the accessory consistency. All 
 
 There is... one downside to the X200s. The color balance on the LED LCD is atrocious. Many LCD manufacturers weight the color distribution toward blue (the practice is known as "showroom syndrome" since more blue makes the picture look more "vibrant" in a showroom), but this was just plain horrible. Unfortunately, this being a laptop, there are no hardware color adjustment controls. Thankfully, I have the tools to correct for this, namely a Spyder2 at work. ([I mentioned this while reviewing a Dell monitor.](http://www.finnie.org/2009/04/07/review-dell-2209wa-22-e-ips-lcd/)) Gnome now also has a color manager that supports the Spyder2, so I was able to profile the display completely within Ubuntu. I was able to get it to a decent balance, and [published the ICC profile](http://www.finnie.org/software/icc/). So if you also have an X200s with LED backlighting, I'd recommend this ICC profile. Unless you like blue.
 
-[<img src="http://farm5.static.flickr.com/4080/4887683098_84aa80503c.jpg" width="500" height="375" alt="Three generations of ThinkPads" />](http://www.flickr.com/photos/fo0bar/4887683098/ "Three generations of ThinkPads by Ryan Finnie, on Flickr")
+[<img src="https://farm5.static.flickr.com/4080/4887683098_84aa80503c.jpg" width="500" height="375" alt="Three generations of ThinkPads" />](https://www.flickr.com/photos/fo0bar/4887683098/ "Three generations of ThinkPads by Ryan Finnie, on Flickr")

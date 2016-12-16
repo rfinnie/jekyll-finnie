@@ -6,7 +6,7 @@ layout: post
 title: Mission accomplished
 wp_id: 1070
 ---
-[<img src="http://farm4.static.flickr.com/3533/4015374963_1fa1941d75.jpg" width="500" height="355" alt="CC Debt vs. Savings (10/16/2009)" />](http://www.flickr.com/photos/fo0bar/4015374963/ "CC Debt vs. Savings (10/16/2009) by Ryan Finnie, on Flickr")
+[<img src="https://farm4.static.flickr.com/3533/4015374963_1fa1941d75.jpg" width="500" height="355" alt="CC Debt vs. Savings (10/16/2009)" />](https://www.flickr.com/photos/fo0bar/4015374963/ "CC Debt vs. Savings (10/16/2009) by Ryan Finnie, on Flickr")
 
 In 2000, I got my first credit card, a Capital One card with a $300 limit. Ever since then I have been in credit card debt. 2½ years ago, I was $15,000 in credit card debt and had virtually no savings. 1 year ago, I wasn't doing much better. This year, for a new years resolution, [I vowed to get out of credit card debt](http://www.finnie.org/2009/01/28/hello-interest-free-loan-to-the-government/).
 

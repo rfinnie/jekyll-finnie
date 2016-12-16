@@ -11,11 +11,11 @@ title: Line your air filter with beef, and a fresh, beefy scent throughout the h
   will be your reward!
 wp_id: 769
 ---
-[<img src="http://farm4.static.flickr.com/3457/3386932048_dcf86c49af.jpg" width="500" height="375" alt="Beef Jerky" />](http://www.flickr.com/photos/fo0bar/3386932048/ "Beef Jerky by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3457/3386932048_dcf86c49af.jpg" width="500" height="375" alt="Beef Jerky" />](https://www.flickr.com/photos/fo0bar/3386932048/ "Beef Jerky by fo0bar, on Flickr")
 
 Actually, I'm making beef jerky, according to [this recipe](http://www.foodnetwork.com/recipes/alton-brown/beef-jerky-recipe/index.html) (halved, 1 pound of beef). The beef is chilled, cut into thin, long slices, marinated, and placed on accordion furnace filters. A blank filter is placed on top, and the whole thing is bungee corded to a box fan. Here's the final setup, before being placed on my patio:
 
-[<img src="http://farm4.static.flickr.com/3625/3386120877_a178110267.jpg" width="500" height="375" alt="Beef Jerky" />](http://www.flickr.com/photos/fo0bar/3386120877/ "Beef Jerky by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3625/3386120877_a178110267.jpg" width="500" height="375" alt="Beef Jerky" />](https://www.flickr.com/photos/fo0bar/3386120877/ "Beef Jerky by fo0bar, on Flickr")
 
 For the record, the filters are cellulose/poly air filters, not fiberglass. They ran me about $7.50 for a 3-pack, and obviously aren't usable as furnace filters after they're used to make jerky. But they should be reusable for future jerky batches.
 
