@@ -38,3 +38,12 @@ color: #eff3f7;
         color: #eff3f7;
         border: none;
 }
+
+.article-navigation {
+background-color: #eff3f7;
+margin-top: 20px;
+}
+
+.article-navigation-next {
+text-align: right;
+}
