@@ -8,13 +8,13 @@ wp_id: 1156
 ---
 I long ago gave up on keeping DVD packaging around, instead keeping everything in CD binders. However, I've been starting to amass a decent number of Blu-ray, HD-DVD, Xbox 360 and Wii games in full [DVD keep cases](http://en.wikipedia.org/wiki/Keep_case). (Well, the HD-DVD collection is no longer growing.) I didn't really want to go to CD binders on those, but recently I came across [DiscSox media sleeves](http://www.discsox.com/). They're disc sleeves, but they also allow you to keep everything but the keep case: multiple discs, covers, manuals and note cards. They lay nearly flat, and take up between 1/4 and 1/3 the height of a normal DVD keep case.
 
-[<img src="http://farm3.static.flickr.com/2698/4031447454_e86c9bc775.jpg" width="500" height="375" alt="DiscSox media management system" />](http://www.flickr.com/photos/fo0bar/4031447454/ "DiscSox media management system by Ryan Finnie, on Flickr")
+[<img src="https://farm3.static.flickr.com/2698/4031447454_e86c9bc775.jpg" width="500" height="375" alt="DiscSox media management system" />](https://www.flickr.com/photos/fo0bar/4031447454/ "DiscSox media management system by Ryan Finnie, on Flickr")
 
 That's 50 DiscSox sleeves (25 Blu-ray/HD-DVD, 25 Wii/Xbox 360) containing 78 discs, and nearly all of the packaging that came with the original media. The cover is folded so that the entire front cover and spine are visible on the front of the sleeve, and is slid inside so the back cover is visible on the back. If the cover is printed on both sides, the front inside cover is visible on the inside of the sleeve, but the back inside cover is hidden. Manuals and other inside material can be slid inside the front cover, and are kept relatively secure.
 
 There are two protective cloth sleeves (the special cloth you see in CD binders) inside for holding discs. One disc can be a dual-sided disc, as the inner sleeve has cloth on both sides. You can actually fit up to four discs in a single DiscSox sleeve with a little creativity. A third disc can be placed behind the rear cover, as there is protective cloth there, but it will slide around a bit. I had a few sets of four discs, and used a regular dual-sided cloth sleeve for the third and fourth discs, and simply inserted that sleeve behind the rear cover of the DiscSox sleeve.
 
-[<img src="http://farm3.static.flickr.com/2708/4030693515_df518ae9ca_m.jpg" width="240" height="180" alt="DiscSox media management system" />](http://www.flickr.com/photos/fo0bar/4030693515/ "DiscSox media management system by Ryan Finnie, on Flickr") [<img src="http://farm4.static.flickr.com/3047/4031448262_35cb8991ba_m.jpg" width="240" height="180" alt="DiscSox media management system" />](http://www.flickr.com/photos/fo0bar/4031448262/ "DiscSox media management system by Ryan Finnie, on Flickr")
+[<img src="https://farm3.static.flickr.com/2708/4030693515_df518ae9ca_m.jpg" width="240" height="180" alt="DiscSox media management system" />](https://www.flickr.com/photos/fo0bar/4030693515/ "DiscSox media management system by Ryan Finnie, on Flickr") [<img src="https://farm4.static.flickr.com/3047/4031448262_35cb8991ba_m.jpg" width="240" height="180" alt="DiscSox media management system" />](https://www.flickr.com/photos/fo0bar/4031448262/ "DiscSox media management system by Ryan Finnie, on Flickr")
 
 Here is an Xbox 360 game, complete with manual, in its DiscSox sleeve, both closed an open, with its original keep case for size comparison. The DiscSox sleeve is a little wider than a keep case, the same height, and of course much thinner. Most of my sleeves have a little bump from the spines, as each one has spent all of its life wrapped around a keep case. However, I'm anticipating they'll further flatten out as they settle.
 
@@ -24,7 +24,7 @@ Overall I'm very happy with this system, but there are a few drawbacks. The disc
 
 How much space have I saved?
 
-[<img src="http://farm4.static.flickr.com/3511/4031447020_61c29f397b.jpg" width="375" height="500" alt="DiscSox media management system" />](http://www.flickr.com/photos/fo0bar/4031447020/ "DiscSox media management system by Ryan Finnie, on Flickr")
+[<img src="https://farm4.static.flickr.com/3511/4031447020_61c29f397b.jpg" width="375" height="500" alt="DiscSox media management system" />](https://www.flickr.com/photos/fo0bar/4031447020/ "DiscSox media management system by Ryan Finnie, on Flickr")
 
 That pretty much speaks for itself. The stack would be much higher if it weren't for the TV series sets that are rather tightly compacted. (The DiscSox sleeves are still less than half the height of even the most compacted TV series box set.)
 

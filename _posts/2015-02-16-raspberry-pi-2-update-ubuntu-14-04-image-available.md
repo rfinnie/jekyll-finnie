@@ -12,7 +12,7 @@ If you downloaded an older image than the current one, you shouldn't need to rei
 
 _Note that this blog post originally contained a bunch more information, which has been moved to a [dedicated page on wiki.ubuntu.com](https://wiki.ubuntu.com/ARM/RaspberryPi)._
 
-_I've closed comments on this blog post. If you are looking for help, please see [this post on the raspberrypi.org forums](http://www.raspberrypi.org/forums/viewtopic.php?f=56&t=100553). If you post there, you'll be reaching a wider audience of people (including myself) who can help you. Thanks for all of your comments!_
+_I've closed comments on this blog post. If you are looking for help, please see [this post on the raspberrypi.org forums](https://www.raspberrypi.org/forums/viewtopic.php?f=56&t=100553). If you post there, you'll be reaching a wider audience of people (including myself) who can help you. Thanks for all of your comments!_
 
 * * *
 

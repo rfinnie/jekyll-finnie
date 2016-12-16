@@ -6,7 +6,7 @@ lj_itemid: 190188
 title: New bike.  Also, riding of said bike.
 wp_id: 724
 ---
-[<img src="http://farm3.static.flickr.com/2305/2504212189_b30522287a.jpg" width="500" height="375" alt="New bike" />](http://www.flickr.com/photos/fo0bar/2504212189/ "New bike by fo0bar, on Flickr")
+[<img src="https://farm3.static.flickr.com/2305/2504212189_b30522287a.jpg" width="500" height="375" alt="New bike" />](https://www.flickr.com/photos/fo0bar/2504212189/ "New bike by fo0bar, on Flickr")
   
 In celebration of [Bike to Work Day](http://www.sfbike.org/?btwd), last Thursday I bought a new bike. However I wasn't actually able to bike to work on Bike to Work Day (I was on call and needed to haul some equipment that day).
 

@@ -6,7 +6,7 @@ tags:
 title: IPv6 in the Finnie
 wp_id: 1718
 ---
-My colocation provider has offered native IPv6 for the past year, and I've been a happy user. The only hiccup occurred a few weeks ago when they went down for about a minute or two completely, but for the next hour after IPv4 service came back up, IPv6 was still down. Other than that, no problems. They're based in San Jose, and appear to be peered with Hurricane Electric, the people who run [tunnelbroker.net](http://www.tunnelbroker.net/), so network-wise, they're pretty close to many US IPv6 users.
+My colocation provider has offered native IPv6 for the past year, and I've been a happy user. The only hiccup occurred a few weeks ago when they went down for about a minute or two completely, but for the next hour after IPv4 service came back up, IPv6 was still down. Other than that, no problems. They're based in San Jose, and appear to be peered with Hurricane Electric, the people who run [tunnelbroker.net](https://www.tunnelbroker.net/), so network-wise, they're pretty close to many US IPv6 users.
 
 I'm about 99% done migrating to full IPv6 availability on my colo box. Web serving for my major sites (finnie.org, finnix.org, etc) have been IPv6 enabled for almost a year now, and while all web my web sites are technically IPv6 available, the AAAA records for a few minor domains are not yet in DNS. But I should have that done in the next day or so.
 

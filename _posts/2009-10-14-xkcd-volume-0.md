@@ -4,7 +4,7 @@ layout: post
 title: 'xkcd: volume 0'
 wp_id: 1046
 ---
-[<img src="http://farm3.static.flickr.com/2519/4009801890_bf9c108e39.jpg" width="500" height="375" alt="xkcd: volume 0" />](http://www.flickr.com/photos/fo0bar/4009801890/ "xkcd: volume 0 by Ryan Finnie, on Flickr")
+[<img src="https://farm3.static.flickr.com/2519/4009801890_bf9c108e39.jpg" width="500" height="375" alt="xkcd: volume 0" />](https://www.flickr.com/photos/fo0bar/4009801890/ "xkcd: volume 0 by Ryan Finnie, on Flickr")
 
 I received my signed copy of [_xkcd: volume 0_](http://store.xkcd.com/) yesterday. It contains lots of tidbits, commentary, sketches and a bunch of puzzles. (I still haven't figured out the page numbering scheme. It looks to be base 3, but certain numbers are missing from the series.) My biggest complaint is, for the price, I assumed it would be hardcover. It's not, but the production quality is nonetheless very, very excellent.
 

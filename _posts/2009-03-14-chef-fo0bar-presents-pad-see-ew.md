@@ -10,7 +10,7 @@ lj_itemid: 200697
 title: 'Chef fo0bar presents: Pad See Ew'
 wp_id: 763
 ---
-[<img src="http://farm4.static.flickr.com/3330/3340426554_f86860f565.jpg" width="500" height="375" alt="Pad See Ew" />](http://www.flickr.com/photos/fo0bar/3340426554/ "Pad See Ew by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3330/3340426554_f86860f565.jpg" width="500" height="375" alt="Pad See Ew" />](https://www.flickr.com/photos/fo0bar/3340426554/ "Pad See Ew by fo0bar, on Flickr")
 
 I first tried Pad See Ew ("fried with soy sauce") at a Thai restaurant in Seattle about 5 years ago, while staking out the city for potential colonization with friends. It was a few blocks our hotel, and we basically ended up going there every other night of the week. But, while there are many Thai restaurants in Reno, very few if any seem to serve Pad See Ew.
 

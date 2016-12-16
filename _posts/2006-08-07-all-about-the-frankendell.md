@@ -7,7 +7,7 @@ title: All about the FrankenDell
 wp_id: 606
 ---
 <div class="flickr-frame">
-  <a href="http://www.flickr.com/photos/fo0bar/208260148/" title="photo sharing"><img src="http://static.flickr.com/92/208260148_db13ea47f8.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="http://www.flickr.com/photos/fo0bar/208260148/">FrankenDell</a>, originally uploaded by <a href="http://www.flickr.com/people/fo0bar/">fo0bar</a>.</span>
+  <a href="https://www.flickr.com/photos/fo0bar/208260148/" title="photo sharing"><img src="https://static.flickr.com/92/208260148_db13ea47f8.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="https://www.flickr.com/photos/fo0bar/208260148/">FrankenDell</a>, originally uploaded by <a href="https://www.flickr.com/people/fo0bar/">fo0bar</a>.</span>
 </div>
 
 I told you I'd give you a story, and now you will have a story.

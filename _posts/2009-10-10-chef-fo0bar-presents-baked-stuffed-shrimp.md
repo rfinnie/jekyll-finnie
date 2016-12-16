@@ -6,7 +6,7 @@ layout: post
 title: 'Chef fo0bar presents: Baked stuffed shrimp'
 wp_id: 1043
 ---
-[<img src="http://farm4.static.flickr.com/3033/3006894913_239c25fe74.jpg" width="500" height="375" alt="Stuffed Shrimp" />](http://www.flickr.com/photos/fo0bar/3006894913/ "Stuffed Shrimp by Ryan Finnie, on Flickr")
+[<img src="https://farm4.static.flickr.com/3033/3006894913_239c25fe74.jpg" width="500" height="375" alt="Stuffed Shrimp" />](https://www.flickr.com/photos/fo0bar/3006894913/ "Stuffed Shrimp by Ryan Finnie, on Flickr")
 
 Here's another one from the family cookbook. The shrimp is great, but I've got to say that the cracker mixture is where it's at. I could simply munch on that if I had to.
 

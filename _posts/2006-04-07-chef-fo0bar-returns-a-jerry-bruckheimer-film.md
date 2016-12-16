@@ -12,7 +12,7 @@ title: Chef fo0bar Returns -- A Jerry Bruckheimer film
 wp_id: 576
 ---
 <div class="flickr-frame">
-  <a href="http://www.flickr.com/photos/25307084@N00/124999147/" title="photo sharing"><img src="http://static.flickr.com/1/124999147_e6c1581571.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="http://www.flickr.com/photos/25307084@N00/124999147/">Faux Chili John's</a>, originally uploaded by <a href="http://www.flickr.com/people/25307084@N00/">fo0bar</a>.</span>
+  <a href="https://www.flickr.com/photos/25307084@N00/124999147/" title="photo sharing"><img src="https://static.flickr.com/1/124999147_e6c1581571.jpg" class="flickr-photo" alt="" /></a><br /> <span class="flickr-caption"><a href="https://www.flickr.com/photos/25307084@N00/124999147/">Faux Chili John's</a>, originally uploaded by <a href="https://www.flickr.com/people/25307084@N00/">fo0bar</a>.</span>
 </div>
 
 In [my last posted adventure in cooking](http://fo0bar.livejournal.com/115236.html), I told you how to make red-looking pizza using no tomato sauce whatsoever. Today, I will tell you about the miracle of Chili John's chili.

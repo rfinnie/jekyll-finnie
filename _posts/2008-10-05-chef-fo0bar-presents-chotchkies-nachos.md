@@ -10,7 +10,7 @@ lj_itemid: 193752
 title: 'Chef fo0bar presents: Chotchkie''s Nachos'
 wp_id: 736
 ---
-[<img src="http://farm4.static.flickr.com/3123/2913704013_4a857ff188.jpg" width="500" height="375" alt="Chotchkie's Nachos" />](http://www.flickr.com/photos/fo0bar/2913704013/ "Chotchkie's Nachos by fo0bar, on Flickr")
+[<img src="https://farm4.static.flickr.com/3123/2913704013_4a857ff188.jpg" width="500" height="375" alt="Chotchkie's Nachos" />](https://www.flickr.com/photos/fo0bar/2913704013/ "Chotchkie's Nachos by fo0bar, on Flickr")
   
 Sorry, took this on my cameraphone, since I couldn't find my real camera.
 

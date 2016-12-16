@@ -9,7 +9,7 @@ wp_id: 2369
 ---
 [<img src="https://farm6.staticflickr.com/5074/14098641181_28faa1332e.jpg" width="500" height="333" alt="New bike" />](https://www.flickr.com/photos/fo0bar/14098641181 "New bike by Ryan Finnie, on Flickr")
   
-([Is it green? Yes, very.](http://www.youtube.com/watch?v=7e7R3y-qwZ0&t=4m7s))
+([Is it green? Yes, very.](https://www.youtube.com/watch?v=7e7R3y-qwZ0&t=4m7s))
 
 [Six years ago](http://www.finnie.org/2008/05/19/new-bike-also-riding-of-said-bike/), I bought a $360 entry-level "hybrid" bike from a local bike shop. This weekend, I decided to step up to the next level... by buying a $200 big-box bike from Target. Wait, what?
 

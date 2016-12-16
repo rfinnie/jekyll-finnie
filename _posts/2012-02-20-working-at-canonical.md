@@ -6,7 +6,7 @@ tags:
 title: Working at Canonical
 wp_id: 2022
 ---
-A month ago, I started working at [Canonical](http://www.canonical.com/), the makers of [Ubuntu](http://www.ubuntu.com/). Normally I'd write a long-winded post about my experiences from the last month, how/why I started and so on, but I'll just summarize: it rocks.
+A month ago, I started working at [Canonical](https://www.canonical.com/), the makers of [Ubuntu](https://www.ubuntu.com/). Normally I'd write a long-winded post about my experiences from the last month, how/why I started and so on, but I'll just summarize: it rocks.
 
 I work in the IS Operations group as a system administrator, and while [my Launchpad profile](https://launchpad.net/~fo0bar) has the little "Member of Canonical" badge on it now, I am not an Ubuntu developer (though of course Canonical employs quite a number of Ubuntu developers). That's not to say I don't contribute to Ubuntu; I file bugs, and manage packages as trickle-down from my Debian maintainer status, but these are all contributions that any member of the public community can do. Working in Canonical IS Operations is much like being a sysadmin in any large Ubuntu server shop.
 

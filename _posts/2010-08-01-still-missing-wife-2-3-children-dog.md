@@ -4,7 +4,7 @@ layout: post
 title: 'Still missing: wife, 2.3 children, dog'
 wp_id: 1449
 ---
-[<img src="http://farm5.static.flickr.com/4137/4850509973_a3ced98e2a.jpg" width="500" height="375" alt="New dining room table" />](http://www.flickr.com/photos/fo0bar/4850509973/ "New dining room table by Ryan Finnie, on Flickr")
+[<img src="https://farm5.static.flickr.com/4137/4850509973_a3ced98e2a.jpg" width="500" height="375" alt="New dining room table" />](https://www.flickr.com/photos/fo0bar/4850509973/ "New dining room table by Ryan Finnie, on Flickr")
 
 As Jack Kerouac said, "If you own a rug, you own too much."<sup>0x00</sup> I think this is one step below that.
 

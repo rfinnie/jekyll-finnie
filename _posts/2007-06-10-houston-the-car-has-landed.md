@@ -8,9 +8,9 @@ wp_id: 675
 ---
 Well, it didn't work out exactly as expected, but I now have a new 2007 Prius, and got an awesome deal on it.
 
-[<img src="http://farm2.static.flickr.com/1004/539416758_c5cbaba7d6.jpg" width="500" height="375" alt="DSCN0451" />](http://www.flickr.com/photos/fo0bar/539416758/ "Photo Sharing")
+[<img src="https://farm2.static.flickr.com/1004/539416758_c5cbaba7d6.jpg" width="500" height="375" alt="DSCN0451" />](https://www.flickr.com/photos/fo0bar/539416758/ "Photo Sharing")
 
-([More photos from today.](http://www.flickr.com/photos/fo0bar/sets/72157600335190969/))
+([More photos from today.](https://www.flickr.com/photos/fo0bar/sets/72157600335190969/))
 
 Last Monday, I went down to Carson City Toyota to buy a new Prius. It turns out it had actually been sold that morning, but the Internet sales manager said she could easily get one by the end of the week. I put down $1000 and went home.
 

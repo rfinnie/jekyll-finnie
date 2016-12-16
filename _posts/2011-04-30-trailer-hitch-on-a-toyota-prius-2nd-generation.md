@@ -4,7 +4,7 @@ layout: post
 title: Trailer hitch on a Toyota Prius (2nd generation)
 wp_id: 1803
 ---
-<a href="http://www.flickr.com/photos/fo0bar/5673572604/" title="Trailer hitch, 2009 Toyota Prius by Ryan Finnie, on Flickr" style="float: right; margin: 1em;"><img src="http://farm6.static.flickr.com/5268/5673572604_d6180e939e_m.jpg" width="240" height="180" alt="Trailer hitch, 2009 Toyota Prius" /></a>This week I bought and installed a Curt 1 1/4" trailer hitch on my 2009 Toyota Prius. U-Haul sells them for $135, model 24743 (which covers all Gen 2 Priuses, 2004-2009). It is a Class I hitch, which allows for 2000 lbs towing weight or 200 lbs tongue weight (that is, the downward force upon the hitch, when a bike rack is installed for example). Officially Toyota does not recommend any sort of towing with the Prius, but unofficially you should be able to tow up to the Class I limit of 2000 lbs without a problem. However, the main reason I installed one was for a bike rack.
+<a href="https://www.flickr.com/photos/fo0bar/5673572604/" title="Trailer hitch, 2009 Toyota Prius by Ryan Finnie, on Flickr" style="float: right; margin: 1em;"><img src="https://farm6.static.flickr.com/5268/5673572604_d6180e939e_m.jpg" width="240" height="180" alt="Trailer hitch, 2009 Toyota Prius" /></a>This week I bought and installed a Curt 1 1/4" trailer hitch on my 2009 Toyota Prius. U-Haul sells them for $135, model 24743 (which covers all Gen 2 Priuses, 2004-2009). It is a Class I hitch, which allows for 2000 lbs towing weight or 200 lbs tongue weight (that is, the downward force upon the hitch, when a bike rack is installed for example). Officially Toyota does not recommend any sort of towing with the Prius, but unofficially you should be able to tow up to the Class I limit of 2000 lbs without a problem. However, the main reason I installed one was for a bike rack.
 
 Installation was pretty easy; I did it myself on the ground in about an hour. However, 2 people and a lifted vehicle would have been much easier. There is no drilling required; all you need is a ratchet wrench set (I didn't write down the sockets I used, but they're all in my $20 Lowe's socket set), a narrow thin flat-head screwdriver, a utility knife and a flashlight.
 
@@ -19,7 +19,7 @@ I've also ordered a trailer light kit for the car, T-One part 118505. Again, I d
 More reading:
 
   * [Installation PDF](http://www.sigmaautomotive.com/jdm/prius/manual_ext-hitch.pdf) (Model number is the previous model 11468, but the installation instructions are the same)
-  * [Video installation guide on YouTube, from eTrailer](http://www.youtube.com/watch?v=wock6ENTUgA)
+  * [Video installation guide on YouTube, from eTrailer](https://www.youtube.com/watch?v=wock6ENTUgA)
   * [Hitch installation from EVnut.com](http://evnut.com/prius_hitch.htm), also explains the melting bumper problem from the previous model
   * [Another installation guide from eHow](http://www.ehow.com/how_2091017_hitch-toyota-prius-bike-rack.html)
   * [T-One 118505 4-flat light kit](http://www.redtrailers.com/ShowItem.asp?id=118505)
