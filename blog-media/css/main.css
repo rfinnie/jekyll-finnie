@@ -5,9 +5,11 @@ background-color: #77818b;
 color: #22313f;
 }
 body > .container{
-margin-top: 50px;
 padding-bottom: 20px;
 background-color: #ffffff;
+}
+.navbar {
+margin-bottom: 0;
 }
 .site-footer > .container{
 margin-top: 20px;
