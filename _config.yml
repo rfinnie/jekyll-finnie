@@ -13,7 +13,7 @@ top_links:
     - {title: "dsari", url: "https://github.com/rfinnie/dsari"}
   - title: "About"
     sublinks:
-    - {title: "OpenPGP", url: "http://pgp.mit.edu:11371/pks/lookup?search=0x86AE8D98"}
+    - {title: "OpenPGP", url: "http://pgp.mit.edu:11371/pks/lookup?search=0x7E60A3A686AE8D98"}
     - {title: "GitHub", url: "https://github.com/rfinnie"}
     - {title: "Launchpad", url: "https://launchpad.net/~fo0bar"}
     - {title: "Debian", url: "http://qa.debian.org/developer.php?login=ryan@finnie.org"}
