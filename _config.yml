@@ -2,7 +2,7 @@
 title: Ryan Finnie
 description: Personal blog for Ryan Finnie
 baseurl: ""
-url: "http://www.finnie.org"
+url: "https://www.finnie.org"
 permalink: /:year/:month/:day/:title/
 git_web_base: https://github.com/rfinnie/jekyll-finnie/blob/master/
 top_links:

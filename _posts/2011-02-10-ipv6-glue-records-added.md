@@ -29,9 +29,9 @@ feh.colobox.com.	3600	IN	AAAA	2607:f740:0:d::2
 
 (Records unrelated to the trace have been omitted for readability.)
 
-It also gave me the ability to complete [Hurricane Electric's IPv6 certification](http://ipv6.he.net/certification/scoresheet.php?pass_name=rfinnie):
+It also gave me the ability to complete [Hurricane Electric's IPv6 certification](https://ipv6.he.net/certification/scoresheet.php?pass_name=rfinnie):
 
-> <a href="http://ipv6.he.net/certification/scoresheet.php?pass_name=rfinnie" target="_blank"><img src="http://ipv6.he.net/certification/create_badge.php?pass_name=rfinnie&badge=2" width=250 height=194 border=0 alt="IPv6 Certification Badge for rfinnie"></img></a>
+> <a href="https://ipv6.he.net/certification/scoresheet.php?pass_name=rfinnie" target="_blank"><img src="https://ipv6.he.net/certification/create_badge.php?pass_name=rfinnie&badge=2" width=250 height=194 border=0 alt="IPv6 Certification Badge for rfinnie"></img></a>
 
 Also, last week I found out that my work office's ISP has native IPv6 connectivity, and they set us up with an allocation this week, a /64 for the border VLAN between our networks and a /48 routed to our router/firewall. It's up and running, though the only internal address I've set up so far is my workstation.
 
