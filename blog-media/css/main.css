@@ -1,12 +1,15 @@
 body{
-font-family: 'Cutive Mono', monospace;
-font-size: 17px;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 18px;
 background-color: #77818b;
 color: #22313f;
 }
 body > .container{
 padding-bottom: 20px;
 background-color: #ffffff;
+}
+.post-meta {
+color: #7a838b;
 }
 .navbar {
 margin-bottom: 0;
