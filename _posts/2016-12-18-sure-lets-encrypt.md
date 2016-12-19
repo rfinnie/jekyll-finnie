@@ -32,7 +32,7 @@ Firefox and Chrome worked fine with the new certs, but that's because their chan
 
 So I started looking into Let's Encrypt.
 I had known about the project since it was launched last year, but didn't give it much thought until now.
-Primarily, I thought the project wouldn't be too useful as a new CA would take years to get into the major browser and OSes to the extent it would be viable.
+Primarily, I thought the project wouldn't be too useful as a new CA would take years to get into the major browsers and OSes to the extent it would be viable.
 Also, it had sounded like I needed to run an agent which took over configuration of Apache for me, something I did not want to do.
 
 Turns out I was wrong on both fronts.
@@ -49,7 +49,7 @@ Most sites were trivial to convert.
 For example, [74d.com](https://74d.com/) has nothing except "hey, maybe some day someone will pay me an insane amount of money for this domain".
 Other sites required more planning.
 The biggest problem with starting to serve an existing site via HTTPS is all images, CSS and JS also needs to be served via HTTPS, even if the domain is configured to completely redirect from HTTP to HTTPS.
-[finnie.org](https://www.finnie.org/) is a decemptively massive site, with decades worth of junk layered on it (the domain itself is actually coming up on its 20 year anniversary in April), so it took a lot of grepping for places where I had hard-coded HTTP content.
+[finnie.org](https://www.finnie.org/) is a deceptively massive site, with decades worth of junk layered on it (the domain itself is actually coming up on its 20 year anniversary in April), so it took a lot of grepping for places where I had hard-coded HTTP content.
 I'm sure I've missed places, but most of it has been fixed.
 
 [finnix.org](https://www.finnix.org/) is another example of requiring a lot of thought.
