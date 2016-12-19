@@ -63,3 +63,13 @@ In the end, I decided on serving both HTTP and HTTPS, and setting it up so if yo
 In total, I've created 22 certificates, covering 41 hostnames.
 As Let's Encrypt is now essentially the only free CA, I wish them well, and have even [donated $100 to their non-profit](https://www.generosity.com/community-fundraising/make-a-more-secure-web-with-let-s-encrypt).
 This is really putting all my eggs in one basket; once you go to HTTPS-only for a site, it's very hard to go back.
+
+**Edit**: It's been pointed out that you can get around SNI issues by using multiple Subject Alternative Names (SANs) with Let's Encrypt, as SAN has much more older support than SNI current does.
+I had been using SANs for multiple similar hostnames on a certificate (e.g. www.finnie.org had a SAN for finnie.org), but thought certbot required them all to have a single document root.
+Turns out you can define a "webroot map" for multiple hostnames to multiple document roots, and there are no defined limits to the number of SANs you can use (though it appears the accepted effective limit in the industry is about 100).
+
+The big downside of one cert with multiple SANs is you are now publicy advertising a group of which sites you are administering, but in this case I'm fine with that.
+I've changed things so 37 of my hostnames are now covered under one certificate.
+
+Also, the part about Ubuntu precise's wget not supporting SNI is no longer correct.
+Thankfully SNI support for wget had been backported to precise in May 2016.
