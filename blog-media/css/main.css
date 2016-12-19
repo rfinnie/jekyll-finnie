@@ -11,6 +11,9 @@ background-color: #ffffff;
 .post-meta {
 color: #7a838b;
 }
+.post-excerpt {
+font-size: 15px;
+}
 .navbar {
 margin-bottom: 0;
 }
