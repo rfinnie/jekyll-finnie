@@ -53,3 +53,9 @@ margin-top: 20px;
 .article-navigation-next {
 text-align: right;
 }
+
+.post-comments {
+margin-top: 2em;
+border: 0;
+border-top: 1px solid #eee;
+}
