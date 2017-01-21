@@ -14,7 +14,7 @@ They looked nice, but I didn't want to go the DIY route. Eventually I found [iBu
 
 The products arrived Thursday, and I plugged the master into a server running Debian 5.0 Lenny. The LinkUSBi is a serial device with an internal FTDI FT232R USB UART, which was recognized by the ftdi_sio usb-serial module and set up as <tt>/dev/ttyUSB0</tt>. In case you have other ttyUSB devices on your machine, I devised this udev rule for more permanent device naming:
 
-> <pre>SUBSYSTEM=="tty", ATTRS{serial}=="?*", SYMLINK+="char/by-id/tty-$attr{serial}"</pre>
+<pre>SUBSYSTEM=="tty", ATTRS{serial}=="?*", SYMLINK+="char/by-id/tty-$attr{serial}"</pre>
 
 In this case it gives me <tt>/dev/char/by-id/tty-A800bZvc</tt>, but for the sake of simplicity I will continue to refer to the device as <tt>/dev/ttyUSB0</tt> for the rest of this guide.
 
@@ -36,7 +36,7 @@ This shows the two DS18B20 temperature sensors (T-Sense probes), as well as the 
 
 Next you'll want to create a config file. I chose to store it in <tt>/etc/digitemp.conf</tt>.
 
-> <pre># digitemp_DS9097U -i -c /etc/digitemp.conf -s /dev/ttyUSB0
+<pre># digitemp_DS9097U -i -c /etc/digitemp.conf -s /dev/ttyUSB0
 DigiTemp v3.5.0 Copyright 1996-2007 by Brian C. Lane
 GNU Public License v2.0 - http://www.digitemp.com
 Turning off all DS2409 Couplers
@@ -50,7 +50,7 @@ Wrote /etc/digitemp.conf</pre>
 
 You will be left with a file called <tt>/etc/digitemp.conf</tt> that looks something like this:
 
-> <pre>TTY /dev/ttyUSB0
+<pre>TTY /dev/ttyUSB0
 READ_TIME 1000
 LOG_TYPE 1
 LOG_FORMAT "%b %d %H:%M:%S Sensor %s C: %.2C F: %.2F"
@@ -64,18 +64,18 @@ You can rearrange the ROM mappings as you'd like. 1-Wire refers to devices by th
 
 Now, let's see what's being returned:
 
-> <pre># digitemp_DS9097U -q -c /etc/digitemp.conf -a
+<pre># digitemp_DS9097U -q -c /etc/digitemp.conf -a
 Mar 04 22:22:43 Sensor 0 C: 25.38 F: 77.67
 Mar 04 22:22:44 Sensor 1 C: 27.56 F: 81.61</pre>
 
 Great, works fine. We'll soon need the data in a machine-readable format, so here's how to do that:
 
-> <pre># digitemp_DS9097U -q -c /etc/digitemp.conf -o 3 -a
+<pre># digitemp_DS9097U -q -c /etc/digitemp.conf -o 3 -a
 0	77.79	81.50</pre>
 
 That output is tab-delimited, the first column being elapsed time (digitemp can pull data multiple times, but we won't be going into that so it will always be 0 here), and the rest of the columns are the probe values in order. "-o 3" is Fahrenheit; use "-o 2" for Celsius. In this case I only want the result of the first probe, so I can save some time by specifying a specific probe with "-t 0":
 
-> <pre># digitemp_DS9097U -q -c /etc/digitemp.conf -o 3 -t 0
+<pre># digitemp_DS9097U -q -c /etc/digitemp.conf -o 3 -t 0
 0	77.90</pre>
 
 <!--more-->
@@ -88,7 +88,7 @@ First, ensure your groups are correct. The snmpd process (usually user "snmp") w
 
 Now, create a script. I chose to create a Nagios-compatible Perl script that will also work as an snmpd "exec" process:
 
-> <pre>#!/usr/bin/perl
+<pre>#!/usr/bin/perl
 
 $warn = 82.0;
 $crit = 87.0;
@@ -113,17 +113,17 @@ if($output =~ /^\d+\t([\d\.]+)/) {
 
 And when run:
 
-> <pre># check_roomtemp; echo $?
+<pre># check_roomtemp; echo $?
 OK Room temperature is 78.24F|temp0=78.24
 0</pre>
 
 Now add this to your working snmpd.conf and restart snmpd:
 
-> <pre>exec roomtemp /usr/local/bin/check_roomtemp</pre>
+<pre>exec roomtemp /usr/local/bin/check_roomtemp</pre>
 
 Now switch to another host and verify it is working:
 
-> <pre># snmpwalk -v 1 1wirehost.example.com -c community extTable
+<pre># snmpwalk -v 1 1wirehost.example.com -c community extTable
 UCD-SNMP-MIB::extIndex.1 = INTEGER: 
 UCD-SNMP-MIB::extNames.1 = STRING: roomtemp
 UCD-SNMP-MIB::extCommand.1 = STRING: /usr/local/bin/check_roomtemp
@@ -138,7 +138,7 @@ UCD-SNMP-MIB::extErrFixCmd.1 = STRING: </pre>
 
 Now, on the Nagios host, we'll need to turn that into data Nagios can actually use. I've got a little script called <tt>check_snmp_exec</tt>; feed it a named "exec" entry and it will return the result and text to Nagios:
 
-> <pre>#!/bin/sh
+<pre>#!/bin/sh
 
 PATH=/bin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 USAGE="Usage: $0 [-h] -i host [-n community_string] (-x index | -e execname)"
@@ -189,14 +189,14 @@ fi</pre>
 
 Set up the check command in Nagios:
 
-> <pre>define command{
+<pre>define command{
         command_name    check_snmp_exec
         command_line    /usr/lib/nagios/plugins/custom/check_snmp_exec -i $HOSTADDRESS$ -e $ARG1$ -n $ARG2$
         }</pre>
 
 And a service check:
 
-> <pre>define service{
+<pre>define service{
         use                             generic-service
         host_name                       1wirehost.example.com
         service_description             ROOMTEMP
@@ -211,7 +211,7 @@ Now you're ready to monitor! Of course, if the 1-Wire master is on the Nagios ho
 
 I also wanted to graph the temperature, and MRTG can work for that purpose. We can use the same "roomtemp" snmp exec on the backend, but we'll need a frontend script to extract the perfmon data to feed to MRTG. Here's <tt>mrtg_roomtemp</tt>; it's similar to <tt>check_snmp_exec</tt> but rewritten in Perl for its splitting capability (yes, you could do it in bash, but I'm lazy and I'm decent with Perl), and is hardcoded to this purpose:
 
-> <pre>#!/usr/bin/perl
+<pre>#!/usr/bin/perl
 
 host = "1wirehost.example.com";
 $community = "community";
@@ -248,7 +248,7 @@ if($result[1] =~ /^\d+$/) {
 
 Which will return:
 
-> <pre># mrtg_roomtemp
+<pre># mrtg_roomtemp
 7845
 7845
 6 days 12:08
@@ -258,7 +258,7 @@ The temperature is multiplied by 100 because MRTG cannot handle decimal input (i
 
 Here's the <tt>mrtg.cfg</tt> entry to handle this data:
 
-> <pre>Target[roomtemp]: `/usr/local/bin/mrtg_roomtemp`
+<pre>Target[roomtemp]: `/usr/local/bin/mrtg_roomtemp`
 Options[roomtemp]: growright, gauge, noo, nopercent, noinfo, expscale
 Factor[roomtemp]: 0.01
 YTics[roomtemp]: 7
