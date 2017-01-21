@@ -20,7 +20,7 @@ The next day I ordered a $17 [PCI express 802.11n adapter](http://www.newegg.com
 
 <tt>/etc/network/interfaces</tt>:
 
-> <pre>#auto wlan0
+<pre>#auto wlan0
 iface wlan0 inet dhcp
     wpa-conf /etc/wpa_supplicant.conf</pre>
 
@@ -28,7 +28,7 @@ iface wlan0 inet dhcp
 
 <tt>/etc/wpa_supplicant.conf</tt>:
 
-> <pre>network={
+<pre>network={
     ssid="Ryan’s iPhone"
     scan_ssid=1
     key_mgmt=WPA-PSK
@@ -37,7 +37,7 @@ iface wlan0 inet dhcp
 
 iPhone-specific note: that "’" is actually a unicode character, U+2019. "iwlist wlan0 scan" was returning this, which wpa_supplicant was not accepting:
 
-> <pre>ESSID:"Ryan\xE2\x80\x99s iPhone"</pre>
+<pre>ESSID:"Ryan\xE2\x80\x99s iPhone"</pre>
 
 In the end, I hopped on my laptop, associated with the phone and grabbed the SSID from the logs and pasted it in on the server, to preserve the unicode character.
 

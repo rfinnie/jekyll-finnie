@@ -57,7 +57,7 @@ LOG_FORMAT "%b %d %H:%M:%S Sensor %s C: %.2C F: %.2F"
 CNT_FORMAT "%b %d %H:%M:%S Sensor %s #%n %C"
 HUM_FORMAT "%b %d %H:%M:%S Sensor %s C: %.2C F: %.2F H: %h%%"
 SENSORS 2
-ROM 0 0x28 0xD1 0x48 0x3C 0x02 0x00 0x00 0x2F 
+ROM 0 0x28 0xD1 0x48 0x3C 0x02 0x00 0x00 0x2F
 ROM 1 0x28 0xE9 0x39 0x3C 0x02 0x00 0x00 0xC3 </pre>
 
 You can rearrange the ROM mappings as you'd like. 1-Wire refers to devices by their 64-bit IDs; the numeric mappings are for digitemp's benefit. In my case, 28D1483C0200002F is the probe I'd like to use, so #0 is fine.
@@ -77,8 +77,6 @@ That output is tab-delimited, the first column being elapsed time (digitemp can 
 
 <pre># digitemp_DS9097U -q -c /etc/digitemp.conf -o 3 -t 0
 0	77.90</pre>
-
-<!--more-->
 
 # SNMP
 
@@ -105,7 +103,7 @@ if($output =~ /^\d+\t([\d\.]+)/) {
   } else {
     print "OK Room temperature is ${temp0}F|temp0=${temp0}\n";
     exit 0;
-  }  
+  }
 } else {
   print "Cannot find probe!\n";
   exit 3;
@@ -124,7 +122,7 @@ Now add this to your working snmpd.conf and restart snmpd:
 Now switch to another host and verify it is working:
 
 <pre># snmpwalk -v 1 1wirehost.example.com -c community extTable
-UCD-SNMP-MIB::extIndex.1 = INTEGER: 
+UCD-SNMP-MIB::extIndex.1 = INTEGER:
 UCD-SNMP-MIB::extNames.1 = STRING: roomtemp
 UCD-SNMP-MIB::extCommand.1 = STRING: /usr/local/bin/check_roomtemp
 UCD-SNMP-MIB::extResult.1 = INTEGER: 0

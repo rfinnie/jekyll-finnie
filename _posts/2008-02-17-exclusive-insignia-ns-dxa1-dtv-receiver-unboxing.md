@@ -20,8 +20,6 @@ That's right, this little lady is the best technology 1992 had to offer, in the 
 
 But there's a catch. You see, this television will literally **BURST INTO FLAMES** unless you buy a $60 box in the next 366 days (yes, it's a leap year). Yes, literally! Burst! Flames!
 
-<!--more-->
-
 [<img src="https://farm3.static.flickr.com/2073/2272655927_9c1ece1cc5.jpg" width="500" height="375" alt="EXCLUSIVE Insignia NS-DXA1 DTV receiver unboxing!" />](https://www.flickr.com/photos/fo0bar/2272655927/ "EXCLUSIVE Insignia NS-DXA1 DTV receiver unboxing! by fo0bar, on Flickr")
 
 I could have bought Season 3 of Harvey Birdman, Attorney at Law. But noooo, I bought this instead. I honestly heard the 37" LCD in the living room snicker at me as I carried this bag back to my office.

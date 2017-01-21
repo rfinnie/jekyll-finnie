@@ -26,7 +26,7 @@ The previous paragraph's information comes from 3ware's docs and my personal exp
 
 So, the important part to take away is if you want to reuse a disk that was previously in a 3ware controller on another 3ware controller as if it were a blank disk, it is best to wipe the disk's DCB areas first, to make sure the new controller doesn't recognize it. I'm currently writing a utility that can search a disk for DCBs, tell the difference between Old and New style DCBs, dump them to files, wipe them, etc. But for now, here's a short Linux shell script for wiping the DCB areas from a disk:
 
-> <pre>DISK=sdz
+<pre>DISK=sdz
 LBAS=$(cat /sys/block/$DISK/size)
 dd if=/dev/zero of=/dev/$DISK bs=512 count=1024
 dd if=/dev/zero of=/dev/$DISK bs=512 seek=$(($LBAS-1024)) count=1024</pre>

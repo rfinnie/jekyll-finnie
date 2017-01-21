@@ -10,8 +10,6 @@ This is just about as close to clean as my home office can get for me. Be thankf
 
 [<img src="https://farm1.static.flickr.com/203/490692682_cca5c29802_m.jpg" width="240" height="180" alt="DSCN0420" />](https://www.flickr.com/photos/fo0bar/490692682/ "Photo Sharing")[<img src="https://farm1.static.flickr.com/194/490704949_eaf84335c2_m.jpg" width="240" height="180" alt="DSCN0421" />](https://www.flickr.com/photos/fo0bar/490704949/ "Photo Sharing")[<img src="https://farm1.static.flickr.com/230/490703553_9daaf0e8af_m.jpg" width="240" height="180" alt="DSCN0411" />](https://www.flickr.com/photos/fo0bar/490703553/ "Photo Sharing")[<img src="https://farm1.static.flickr.com/190/490703739_8d9cf0526f_m.jpg" width="240" height="180" alt="DSCN0412" />](https://www.flickr.com/photos/fo0bar/490703739/ "Photo Sharing")
 
-<!--more-->
-
 [<img src="https://farm1.static.flickr.com/227/490703885_516e7a807c.jpg" width="500" height="375" alt="DSCN0413" />](https://www.flickr.com/photos/fo0bar/490703885/ "Photo Sharing")
 
 Gaming/Photoshop/Windows/whatever machine. The CD photo printer is on the left, the multifunction is on the right. The phone is connected to [my home VoIP PBX](http://www.finnie.org/phone). The stack of papers are documents I still need to scan in to archive. (I checked: you can't make out the account number or balance on my retirement account.)

@@ -12,10 +12,6 @@ My [Raspberry Pi 2](https://www.raspberrypi.org/raspberry-pi-2-on-sale/) arrived
 
 I found [this post by Sjoerd Simons](http://sjoerd.luon.net/posts/2015/02/debian-jessie-on-rpi2/) detailing getting Debian testing (jessie) on the Pi 2, and he did a good job of putting together the needed software, which I used to get a clean working install of Ubuntu trusty on my Pi 2. This is meant as a rough guide, mostly from memory -- I'll let better people eventually take care of producing a user-friendly system image. This procedure should work for trusty, utopic, and vivid, and might work for earlier distributions.
   
-<!--more-->
-
-
-  
 1) Install and boot Raspbian on one MicroSD card, and get the system access to a second MicroSD card, e.g. via a USB adapter.
 
 2) Partition and format the card. #1 must be a vfat partition (64MB should be fine), and for the rest of this post I'm going to assume #2 is a swap partition and #3 is the rest of the card as ext4 for the root partition. Mount the root partition at e.g. /mnt/ubuntu and the vfat partition at e.g. /mnt/ubuntu-boot

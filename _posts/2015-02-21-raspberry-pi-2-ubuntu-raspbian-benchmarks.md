@@ -369,8 +369,6 @@ This is a hand-picked assortment of test results; for the full raw results, see 
   * This was not a controlled scientific test. I did not run multiple tests on each system and average them together, and in the Intel system's case, it was an active (but low volume) server.
   * All Bonnie++ tests were run with swap disabled and on the boot drive, except for the Intel system where the boot drive (an SSD) did not have enough space for a full test. (Bonnie++ requires twice the amount of RAM as disk to run. On 512 MiB / 1 GiB / 2 GiB systems that's fine, but I didn't have 64 GiB free on the the Intel system's boot drive.
 
-<!--more-->
-
 ## Raw results
 
 ### RPi B

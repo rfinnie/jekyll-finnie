@@ -16,8 +16,6 @@ Below is an unboxing (UNBOXING! WOO! SHOW US YOUR SKUS!), and a comparison again
 
 By the way, there is a technological anachronism somewhere in the photos below. The first one to point it out wins... well, nothing.
 
-<!--more-->
-
 [<img src="https://farm4.static.flickr.com/3612/3330102082_ed845f96ac.jpg" width="500" height="375" alt="IMG_0286" />](https://www.flickr.com/photos/fo0bar/3330102082/ "IMG_0286 by fo0bar, on Flickr")
   
 The unwrapped box (came wrapped in plastic, not shown). Also of interest to cardboard box geeks: [the UPC label](https://www.flickr.com/photos/fo0bar/3330102356/) and [the system requirements label](https://www.flickr.com/photos/fo0bar/3329268819/).

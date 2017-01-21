@@ -30,7 +30,7 @@ This process produces a stream of truly random bits. An attacker can alter the a
 
 twuewand could be used as a primary source of random data, but its primary purpose is intended to be an entropy pool seed. In Linux, you would execute:
 
-> <pre>twuewand $(cat /proc/sys/kernel/random/poolsize) &gt;/dev/urandom</pre>
+<pre>twuewand $(cat /proc/sys/kernel/random/poolsize) &gt;/dev/urandom</pre>
 
 I wrote twuewand a few weeks ago when I first learned of truerand. truerand is an interesting concept, but it's actually almost never used in the real world anymore. The reason it was invented was to add another source of entropy to entropy pools, but the discovery of the benefits of saving pool data to reintroduce after reboot mostly made it unnecessary. But remember, this source is not available to LiveCDs and diskless workstations. I wrote twuewand for use by [Finnix](http://www.finnix.org/) during startup, but hit a major snag. Namely, it's slow. Each bit takes a minimum of 4ms to generate, and that adds up. Generating 4096 bytes takes over 2 minutes. So I'm not going to have Finnix run it during startup, at least not for the full 4096 byte pool size. Perhaps 8 bytes by default, which will take a little over a quarter of a second. It's not as cryptographically secure as filling the entire pool, but it's better than nothing. Either way, twuewand will at least be available in the next version of Finnix if you desire to use it.
 

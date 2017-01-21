@@ -17,7 +17,7 @@ Today, I did such a thing, in one of the rare instance where I take a bunch of r
 
 <font size="+1"><b>fo0bar's RedHot Pizza</b></font>
   
-<!--more-->Ingredients:
+Ingredients:
 
 
   

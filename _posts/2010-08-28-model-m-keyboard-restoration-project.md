@@ -20,8 +20,6 @@ Below is a repost of the photos I've posted to Flickr this week. [The full set i
 
 Score!
   
-<!--more-->
-
 ## Making progress
 
 [<img src="https://farm5.static.flickr.com/4116/4922886346_fb68d97ee5.jpg" width="500" height="374" alt="Making progress" />](https://www.flickr.com/photos/fo0bar/4922886346/ "Making progress by Ryan Finnie, on Flickr")

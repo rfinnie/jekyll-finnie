@@ -15,7 +15,7 @@ No wait, that sounds too dry. I've been writing dry documentation and protocol r
 
 Has this ever happened to you?
 
-> <pre>PING 10.0.0.1 56(84) bytes of data.
+<pre>PING 10.0.0.1 56(84) bytes of data.
 64 bytes from 10.0.0.1: icmp_seq=1 ttl=255 time=0.062 ms
 64 bytes from 10.0.0.1: icmp_seq=4 ttl=255 time=0.064 ms
 
@@ -25,7 +25,7 @@ rtt min/avg/max = 0.062/0.063/0.064 ms</pre>
 
 Great, two replies were never received. But why? Did the far end receive the requests and reply? There's no way to know. Enter 2ping.
 
-> <pre>2PING 10.0.0.1: 64 to 512 bytes of data.
+<pre>2PING 10.0.0.1: 64 to 512 bytes of data.
 64 bytes from 10.0.0.1: ping_seq=1 time=0.083 ms
 Lost inbound packet from 10.0.0.1: ping_seq=2
 Lost outbound packet to 10.0.0.1: ping_seq=3
@@ -48,20 +48,20 @@ Normal ping uses ICMP. It is assumed that nearly all IP-capable machines are lis
 2ping is a combined client and listener utility that communicates over UDP. You start a listener on the far end (<tt>2ping --listen</tt>), then on the near end you start the client mode and tell it to go to the far end. In normal conditions, it operates much like a regular ICMP ping.
 
 > Client: "Ping!"
-  
+>
 > Listener: "Pong!"
 
 Actually, it's a little more involved. By default, 2ping uses 3-way pings:
 
 > Client: "Ping!"
-  
+>
 > Listener: "Pong! And Ping!"
-  
+>
 > Client: "Pong! And that last ping took 1.2ms to complete!
 
 This allows the listener to gain a little more insight into what's happening on the client end. It knows what the RTT is between the 2nd and 3rd legs, and in addition, the client let the listener know the result of the ping between the 1st and 2nd legs. Here's what 2ping looks like in listener mode:
 
-> <pre>2PING listener (0.0.0.0): 64 to 512 bytes of data.
+<pre>2PING listener (0.0.0.0): 64 to 512 bytes of data.
 64 bytes from 10.0.0.2: ping_seq=1 time=0.226 ms peertime=0.077 ms
 64 bytes from 10.0.0.2: ping_seq=2 time=0.166 ms peertime=0.035 ms
 64 bytes from 10.0.0.2: ping_seq=3 time=0.164 ms peertime=0.032 ms
@@ -70,17 +70,17 @@ This allows the listener to gain a little more insight into what's happening on 
 Nifty, huh? Now the real magic happens when packet loss starts occurring. Say a few replies from the listener to the client never arrive at the client. Communication isn't totally dead between the two hosts, and they do eventually start talking to each other. When this happens, they start comparing notes:
 
 > Client: "Ping #1!"
-  
+>
 > Listener: "Pong #1!"
-  
+>
 > Client: "Ping #2!"
-  
+>
 > Client: "Ping #3!"
-  
+>
 > Listener: "Pong #3!"
-  
+>
 > Client: "Ping #4! Oh, and I never received a response to ping #2."
-  
+>
 > Listener: "Pong #4! I received ping #2 and replied. Must be inbound packet loss on your side."
 
 (This is a simplified example that doesn't show the extra communication with the 3-way pings. But the principle is the same.)
