@@ -2,7 +2,7 @@
 date: 2016-12-16 11:40:14-08:00
 excerpt: Wherein Ryan blogs about blogging, and has been on the blogosphere since
   back when it was called the interblog
-excerpt_standalone: True
+excerpt_standalone: true
 layout: post
 title: Blog sites updated
 ---
