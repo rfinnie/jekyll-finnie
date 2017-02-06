@@ -20,8 +20,8 @@ The house features recessed lighting in many places, with about 15 BR30 pot ligh
 For example, the kitchen itself has 7 pot lights (6 spaced evenly above the kitchen, and one directly above the sink).
 Several of them were burned out in various places, and I wanted to replace them all with more energy efficient bulbs, as the kitchen alone would be consuming 455 watts with incandescent bulbs.
 
-October 2014 isn't that long ago, but a lot has changed since then.
-Back then, LED bulbs were available, but expensive and of varying quality, and LED BR30 spotlights just weren't available.
+October 2014 wasn't that long ago, but a lot has changed since then.
+Back then, LED bulbs were available, but were expensive and of varying quality, and LED BR30 spotlights just weren't available.
 So I went with [15 watt BR30 CFL bulbs](https://www.lowes.com/pd/Utilitech-6-Pack-65-W-Equivalent-Soft-White-BR30-CFL-Flood-Light-Bulbs/3411272) at $5 each.
 Good price, but the trade-off was quality.
 Their 2700K color temperature was consistent, but only once they warmed up.
@@ -36,7 +36,7 @@ These bedrooms have vaulted ceilings (actually the entire house does), with alco
 At some point in the house's life, someone had the great idea of mounting lights up there, specifically cheap metal fluorescent tube mounts, which are meant for permanent industrial installation, but they just let them float on the bottom of the alcoves, and used bare Romex wire leading into a drilled hole.
 
 Besides the bad idea of using buzzing 4000K fluorescent tubes in bedrooms, they were badly mounted and unsafe.
-I replaced them with permanently mounted outlet boxes, and for the lighting itself I used two [adjustable floor lamps spotlights](http://www.homedepot.com/p/Hampton-Bay-6-3-5-in-White-Uplight-Floor-Lamp-EP266WH/202103252) per bedroom, focused up at the middle of the ceiling.
+I replaced them with permanently mounted outlet boxes, and for the lighting itself I used two [adjustable floor lamp spotlights](http://www.homedepot.com/p/Hampton-Bay-6-3-5-in-White-Uplight-Floor-Lamp-EP266WH/202103252) per bedroom, focused up at the middle of the ceiling.
 But since they're now standard outlets, they can be anything.
 
 Things stayed like that for the next two years.
@@ -56,8 +56,8 @@ The recessed lighting was the first to be replaced, obviously. Instant on and fu
 I found a sale on Cree A19 bulbs at $1.50 each, so most of the rest of the house got those.
 The hallway bathroom had 4 incandescent globe lights which were meant to look good on their own, so I found [LED globes](http://www.homedepot.com/p/GE-40W-Equivalent-Soft-White-2700K-High-Definition-G25-Globe-Clear-Dimmable-LED-Light-Bulb-2-Pack-LED5DG25-CSW9HT2/207203359) which have a very nice looking pattern in the middle.
 
-My workbench in the garage has 2 foot CFL enclosure which I like, so I ended up using a [retrofit LED tube](https://hyperikon.com/product/2ft-t8-led-light-tube-frosted-cover/).
-This requires rewiring the enclosure to remove the CFL ballast and convert it to direct AC drive, but was worth it.
+My workbench in the garage has 2 foot fluorescent enclosure which I like, so I ended up using a [retrofit LED tube](https://hyperikon.com/product/2ft-t8-led-light-tube-frosted-cover/).
+This requires rewiring the enclosure to remove the ballast and convert it to direct AC drive, but was worth it.
 
 The security motion light on the outside of the garage was one of those dual floodlights you've seen everywhere, but each bulb was 100 watts each.
 I replaced it with an [all-in-one unit](http://www.homedepot.com/p/Defiant-180-Degree-White-LED-Motion-Outdoor-Security-Light-DFI-5983-WH/205937583) which puts out much more light, is 5000K[1], and is only 25 watts total.
@@ -77,5 +77,5 @@ Possibly I'll get the roof replaced this year.
 [1] All of my internal lighting is 2700K, the standard "warm" temperature.
 The garage is 4000K to replicate standard fluorescent tubes, but the security light is 5000K.
 Higher color temperature is better for security lights, as it's easier to pick out features.
-Those typical orange street lights you see everywhere are so ubiquitous because they are among the most efficient lighting available in terms of lumens per watt (even better than LED).
+Those typical orange street lights (sodium vapor HPS) you see everywhere are so ubiquitous because they are among the most efficient lighting available in terms of lumens per watt (even better than LED).
 But police officers hate them because it's hard to make out people under that light.
