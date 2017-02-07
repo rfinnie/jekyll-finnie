@@ -59,3 +59,7 @@ margin-top: 2em;
 border: 0;
 border-top: 1px solid #eee;
 }
+
+.img-halfheight {
+  max-height: 50vh;
+}
