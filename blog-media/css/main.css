@@ -55,8 +55,9 @@ body > .container {
   border: 0;
   border-top: 1px solid #eee;
 }
-.img-halfheight {
-  max-height: 50vh;
+.img-md {
+  max-height: 300px;
+  width: auto;
 }
 .pull-right {
   margin-left: 1em;
