@@ -69,3 +69,6 @@ body > .container {
   margin-bottom: .5em;
   margin-top: .5em;
 }
+article {
+  margin-bottom: 3em;
+}
