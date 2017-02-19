@@ -77,3 +77,4 @@ Additional fun facts:
 * The bomb design is based on [Fat Man](https://en.wikipedia.org/wiki/Fat_Man), and its dimensions and perspective closely match [the main photo](https://commons.wikimedia.org/wiki/File:Fat_man.jpg) on Wikipedia, though my version was completely freehand.
 * The raptor herself was loosely based on [Randall Munroe's raptors in Xkcd](https://xkcd.com/135/).  There's even a tracing bitmap layer in one of my old SVGs, though the final product ended up being almost nothing like the Xkcd raptors.
 * The VAD raptor does have a name.  Her name is Ada, short for Adaptor.  Adaptor the raptor.
+* I cannot look at the VAD logo for more than about a minute before I start giggling.
