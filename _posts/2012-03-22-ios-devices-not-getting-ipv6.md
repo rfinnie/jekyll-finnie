@@ -14,4 +14,4 @@ But my iPhone and iPad are no longer getting IPv6 addresses. They associate with
 
 I know this worked at one point, because whenever I try searching the web, I keep coming up with [my own post from 2010 on getting this working](http://forums.macrumors.com/showthread.php?t=951542). That being "hey, it's not working... oh, now it is".
 
-**Update (2012-06-08)**: [I've figured out what caused this.](http://www.finnie.org/2012/06/08/ipv6-in-apple-ios/)
+**Update (2012-06-08)**: [I've figured out what caused this.](https://www.finnie.org/2012/06/08/ipv6-in-apple-ios/)

@@ -8,4 +8,4 @@ wp_id: 419
 ---
 <tt>$ telnet cromulent.colobox.com 25<br /> Trying 66.220.1.247...<br /> Connected to cromulent.colobox.com.<br /> Escape character is '^]'.<br /> 220 cromulent.colobox.com BSDI BSD/OS 2.0 Thu Feb 23 13:09:18 MST 1995 i386 ESMTP</tt>
 
-See also: <tt><a href="http://www.finnie.org/software/apache_rand_server.patch">apache_rand_server.patch</a></tt>
+See also: <tt><a href="https://www.finnie.org/software/apache_rand_server.patch">apache_rand_server.patch</a></tt>

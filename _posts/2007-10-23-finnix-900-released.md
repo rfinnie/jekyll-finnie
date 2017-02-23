@@ -23,6 +23,6 @@ Finnix 90.0 will now boot even quicker, about 8 seconds quicker than Finnix 89.0
 
 Finnix 90.0 can now be booted using Serial ATA (SATA) CD-ROM or DVD-ROM drives. This is in addition to the many other existing ways to boot Finnix: Parallel ATA CD/DVD drive, SCSI CD/DVD drive, USB thumb drive, hard drive, netboot, or virtualized (User Mode Linux, Xen). 
 
-  * Home page: <http://www.finnix.org/>
-  * Download: <http://www.finnix.org/Download>
-  * Release notes: [http://www.finnix.org/Finnix\_90.0\_release_notes](http://www.finnix.org/Finnix_90.0_release_notes)
+  * Home page: <https://www.finnix.org/>
+  * Download: <https://www.finnix.org/Download>
+  * Release notes: [https://www.finnix.org/Finnix\_90.0\_release_notes](https://www.finnix.org/Finnix_90.0_release_notes)

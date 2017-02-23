@@ -7,7 +7,7 @@ tags:
 title: 2ping 1.2 released
 wp_id: 1925
 ---
-[2ping 1.2](http://www.finnie.org/software/2ping/) has been released, adding ping-style mdev/ewma statistics:
+[2ping 1.2](https://www.finnie.org/software/2ping/) has been released, adding ping-style mdev/ewma statistics:
 
   * Added exponentially-weighted moving average (ewma) and moving standard deviation (mdev) statistics to the summary display
 

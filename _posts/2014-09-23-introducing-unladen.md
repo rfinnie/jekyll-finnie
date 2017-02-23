@@ -28,6 +28,6 @@ Replica targets and confidence determine _how much_ to store, but weight defines
 
 Unladen is designed to be a cheap, easily scalable object storage system. "Cheap" in the sense that you can easily use your infrastructure's existing servers' spare space to create (or add to) an ad-hoc cluster. Or you could build massive dedicated 500TB storage nodes. Or a combination of those two extremes.
 
-Again, this is a very early work in progress. I was a bit hesitant publicly announcing it before it was "ready", but things have been looking good, and I didn't want this to turn into a "90/90" project (90% done, just need to finish the other 90% before I release it, which of course never happens). And the last major project I announced before it was ready was [2ping](http://www.finnie.org/software/2ping/), which turned out to be a great success.
+Again, this is a very early work in progress. I was a bit hesitant publicly announcing it before it was "ready", but things have been looking good, and I didn't want this to turn into a "90/90" project (90% done, just need to finish the other 90% before I release it, which of course never happens). And the last major project I announced before it was ready was [2ping](https://www.finnie.org/software/2ping/), which turned out to be a great success.
 
 Note that this project is purely a personal endeavor, and is not supported or endorsed by the OpenStack project or my employer.

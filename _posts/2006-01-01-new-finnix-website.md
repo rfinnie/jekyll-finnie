@@ -8,6 +8,6 @@ lj_itemid: 138724
 title: New Finnix website
 wp_id: 536
 ---
-[We got a nice new wiki](http://www.finnix.org/) (ain't she a beautiful sight?)
+[We got a nice new wiki](https://www.finnix.org/) (ain't she a beautiful sight?)
 
-Notice that since I have the power of TEH MOD\_REWRITE, the home page isn't something like http://www.finnix.org/wiki/index.php/Main\_Page
+Notice that since I have the power of TEH MOD\_REWRITE, the home page isn't something like https://www.finnix.org/wiki/index.php/Main\_Page

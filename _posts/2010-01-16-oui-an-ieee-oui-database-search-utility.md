@@ -6,7 +6,7 @@ wp_id: 1240
 ---
 On Friday, I was grepping through DHCP logs, looking for a certain machine, and got sick of going to the IEEE web site to plug in the OUI to figure out the manufacturer of MAC addresses. This involved manually converting a "standard" format MAC address (00:04:f2:e6:93:16, for example) into an OUI format that would be accepted by the IEEE site (00-04-F2).
 
-I found that my workstation already had several OUI databases installed locally (most notably one provided by the nmap package), and hacked together a 5 line Perl script to take a MAC address and use it to search one of the OUI databases. I later fleshed it out into a complete, releasable product. You can download the program from <http://www.finnie.org/software/oui/>.
+I found that my workstation already had several OUI databases installed locally (most notably one provided by the nmap package), and hacked together a 5 line Perl script to take a MAC address and use it to search one of the OUI databases. I later fleshed it out into a complete, releasable product. You can download the program from <https://www.finnie.org/software/oui/>.
 
 At its simplest, give it a MAC address, and it will return a vendor.
 

@@ -7,7 +7,7 @@ tags:
 title: 2ping 1.1 released
 wp_id: 1785
 ---
-[2ping 1.1](http://www.finnie.org/software/2ping/) has been released, with a few small changes:
+[2ping 1.1](https://www.finnie.org/software/2ping/) has been released, with a few small changes:
 
   * Host processing delays sent by the peer are no longer considered when calculating RTT
   * Changed ID expiration (for which no courtesty was received) time from 10 minutes to 2 minutes

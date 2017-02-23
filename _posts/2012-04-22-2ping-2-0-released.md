@@ -7,9 +7,9 @@ tags:
 title: 2ping 2.0 released
 wp_id: 2072
 ---
-[2ping 2.0](http://www.finnie.org/software/2ping/) has been released today. User-visible changes are minor, but behind the scenes, a major update to the protocol specification has been implemented, justifying the major version bump:
+[2ping 2.0](https://www.finnie.org/software/2ping/) has been released today. User-visible changes are minor, but behind the scenes, a major update to the protocol specification has been implemented, justifying the major version bump:
 
-  * Updated to support [2ping protocol 2.0](http://www.finnie.org/software/2ping/2pingprotocol2.0-20120422.pdf) 
+  * Updated to support [2ping protocol 2.0](https://www.finnie.org/software/2ping/2pingprotocol2.0-20120422.pdf) 
       * Protocol 1.0 and 2.0 are backwards and forwards compatible with each other
       * Added support for extended segments
       * Added extended segment support for program version and notice text

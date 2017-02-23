@@ -13,11 +13,11 @@ In 2003, [LNX-BBC](http://www.lnx-bbc.com/) 2.1 was released. The final ISO just
 
 The way it works is pretty simple. MD5 (as well as other hashes) process data in a stream. You can add the original input data to an MD5 context, remember the context's current state, clone the context, add test data, and perform a hash on the current cloned context. If the cloned context doesn't contain the fragment you want, simply go back to the original context, clone it, and try again. Effectively, you only have to read the original data once, and you are using processing power to only hash a few bytes, rather than the whole input data. On today's hardware, an MD5 checksum of a 100MB ISO may take a few seconds, but running hash_search on a a 100MB ISO can run through hundreds of thousands of hashes per second.
 
-I re-discovered hash_search a few months ago, and used it when releasing [Finnix 100](http://www.finnix.org/), whose MD5 hash was <tt>f100ffa1d470b7d119979c58f18bb6b1</tt> (notice <tt>f100ff</tt>).
+I re-discovered hash_search a few months ago, and used it when releasing [Finnix 100](https://www.finnix.org/), whose MD5 hash was <tt>f100ffa1d470b7d119979c58f18bb6b1</tt> (notice <tt>f100ff</tt>).
 
 However, hash_search had a few drawbacks. It wouldn't compile on a modern GCC (though was easily fixable), and was missing a number of features that would be nice today. I had a few email conversations with Schoen last month where we discussed some ideas, and I decided to build a replacement.
 
-The result is [**vanityhash**](http://www.finnie.org/software/vanityhash/).
+The result is [**vanityhash**](https://www.finnie.org/software/vanityhash/).
 
 vanityhash is a superset of hash_search. It has two modes. By default, it will take input data, and go through a given search space (24 bits by default), and list all possible matches. It can also take input data, go through a search space, and for the first match it finds it outputs the original input, plus the extra data needed to produce the desired hash. If no match is found in a search space, it simply outputs the original input.
 

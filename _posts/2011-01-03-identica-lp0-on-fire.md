@@ -18,7 +18,7 @@ In homage to [Eric's ImageWriter II](http://imagewriter.yikes.com/), I would pri
 
 The Panasonic's ink ribbon was amazingly still good (remember, it had been in storage for more than a decade), and replacement ribbon cartridges are still easy to find and cheap. And office supply stores still sell perforated computer paper! (The feeder needed for the KX-P2023 to accept regular sheet-fed paper is missing, but not needed for computer paper.)
 
-I set it up in my home office on a printer stand with the feed paper below, attached it to my Linux router (which is the only 24/7 computer in my home to still have a parallel port), and wrote a script to interface with Identi.ca. ([I've had some experience interfacing with Identi.ca.](http://www.finnie.org/2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/))
+I set it up in my home office on a printer stand with the feed paper below, attached it to my Linux router (which is the only 24/7 computer in my home to still have a parallel port), and wrote a script to interface with Identi.ca. ([I've had some experience interfacing with Identi.ca.](https://www.finnie.org/2009/07/18/x11r5-joins-twitter-starts-harassing-oprah/))
 
 The printer checks its Identi.ca account, [@lpd](http://identi.ca/lpd), every few minutes, and prints any new dents by its followers. So if you want your dents to be printed out, simply add [@lpd](http://identi.ca/lpd) as a friend. Dents are formatted somewhat, with Panasonic (or maybe Epson?)-specific control codes to overstrike/bold the poster's username, but no attempt at word wrapping is made.
 

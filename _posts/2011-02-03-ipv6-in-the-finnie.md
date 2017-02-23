@@ -12,7 +12,7 @@ I'm about 99% done migrating to full IPv6 availability on my colo box. Web servi
 
 Today I finished migrating my mail server from qmail to Postfix. I had been using qmail for many years, but the fact is it's essentially abandoned as software. And it's not IPv6 enabled. Switching to Postfix took some work (I've got some odd mail setups, mailing lists, etc), but I believe I am done now. The first non-test IPv6 email came in this morning at about 9AM. It was a lottery scam. Ho hum.
 
-The DNS server is listening on IPv6. The [2ping](http://www.finnie.org/software/2ping/) listener on colobox was of course designed to be IPv6 aware from the start. And I am still pretty sure I am running [the only IPv6 enabled TCPMUX server on the Internet](http://www.finnie.org/2010/04/30/ipv6-living-in-the-future-etc-etc/).
+The DNS server is listening on IPv6. The [2ping](https://www.finnie.org/software/2ping/) listener on colobox was of course designed to be IPv6 aware from the start. And I am still pretty sure I am running [the only IPv6 enabled TCPMUX server on the Internet](https://www.finnie.org/2010/04/30/ipv6-living-in-the-future-etc-etc/).
 
 At this point, everything on the server itself works with IPv6. However, if IPv4 simply disappeared tomorrow, there is one crucial link that would prevent anyone from getting to it. Only one of the DNS servers (the primary on the box itself) is IPv6 enabled, but IPv6 glue records for it (feh.colobox.com) are not published to the .com zone. DNS glue solves the chicken-and-egg problem of name-based delegation of names.
 

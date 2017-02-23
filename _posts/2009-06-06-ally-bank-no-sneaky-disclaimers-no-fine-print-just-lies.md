@@ -8,7 +8,7 @@ wp_id: 915
 ---
 **UPDATE:** The situation has been resolved to my satisfaction. Al de Molina did follow through with his comment to get the situation fixed (see comment below), and I am impressed that this was taken care of before I even had a chance to drop the letter off in the mail.
 
-[I have made an updated post](http://www.finnie.org/2009/06/10/ally-bank-update/), with information about what happened, and what it means to other customers as well.
+[I have made an updated post](https://www.finnie.org/2009/06/10/ally-bank-update/), with information about what happened, and what it means to other customers as well.
 
 **UPDATE 2 (2009-01-22):** It's six months later, and I am still satisfied with Ally. I even switched over my savings account to them shortly after that. Moreso, shortly after my ordeal, they added a "Ten Day Best Rate Guarantee":
 
@@ -22,7 +22,7 @@ The original post is retained below.
 
 * * *
 
-Well, [regarding that 2.50% CD I opened](http://www.finnie.org/2009/06/05/achievement-unlocked-credit-card-solvency/)? It's now 2.30%. A phone call got me nowhere; they're claiming the rate is based on a seemingly random date, related to neither the date I opened (and funded) the account, nor the date the funds cleared. The difference between the rate they quoted me and the rate they gave me is $3.74 over the lifetime of the CD, but I'm not letting them get away with this, especially given their "open" brand. I have sent [this letter](/blog-media/2009/06/ally-2009-06-06-redacted.pdf) to GMAC Financial Services / Ally Bank CEO Al de Molina, copied below.
+Well, [regarding that 2.50% CD I opened](https://www.finnie.org/2009/06/05/achievement-unlocked-credit-card-solvency/)? It's now 2.30%. A phone call got me nowhere; they're claiming the rate is based on a seemingly random date, related to neither the date I opened (and funded) the account, nor the date the funds cleared. The difference between the rate they quoted me and the rate they gave me is $3.74 over the lifetime of the CD, but I'm not letting them get away with this, especially given their "open" brand. I have sent [this letter](/blog-media/2009/06/ally-2009-06-06-redacted.pdf) to GMAC Financial Services / Ally Bank CEO Al de Molina, copied below.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7qb0vquRcys" frameborder="0" allowfullscreen></iframe>
 

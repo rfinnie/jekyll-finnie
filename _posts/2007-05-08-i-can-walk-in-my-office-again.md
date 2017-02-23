@@ -12,7 +12,7 @@ This is just about as close to clean as my home office can get for me. Be thankf
 
 [<img src="https://farm1.static.flickr.com/227/490703885_516e7a807c.jpg" width="500" height="375" alt="DSCN0413" />](https://www.flickr.com/photos/fo0bar/490703885/ "Photo Sharing")
 
-Gaming/Photoshop/Windows/whatever machine. The CD photo printer is on the left, the multifunction is on the right. The phone is connected to [my home VoIP PBX](http://www.finnie.org/phone). The stack of papers are documents I still need to scan in to archive. (I checked: you can't make out the account number or balance on my retirement account.)
+Gaming/Photoshop/Windows/whatever machine. The CD photo printer is on the left, the multifunction is on the right. The phone is connected to [my home VoIP PBX](https://www.finnie.org/phone). The stack of papers are documents I still need to scan in to archive. (I checked: you can't make out the account number or balance on my retirement account.)
 
 [<img src="https://farm1.static.flickr.com/214/490704021_f8a13f1f73.jpg" width="500" height="375" alt="DSCN0414" />](https://www.flickr.com/photos/fo0bar/490704021/ "Photo Sharing")
 
@@ -20,7 +20,7 @@ I think I've got a storage problem. These are all the hard drives and CDR spindl
 
 [<img src="https://farm1.static.flickr.com/217/490704183_26bb2d3b9a.jpg" width="500" height="375" alt="DSCN0416" />](https://www.flickr.com/photos/fo0bar/490704183/ "Photo Sharing")
 
-Bottom row: Beige G3 (not used), Graphite G4 (used occasionally), Duron 750 (currently missing a heatsink fan, along with half its case), Athlon 64 3400 (used for Finnix development and backups). Not pictured to its right is monster remains of the [terabyte project](http://www.finnie.org/text/terabyte/). Second row: Gateway 300mhz?, Sun Ultra 1, Dell PowerEdge 350 800mhz, Celeron 2.4ghz system in an Emachines case, Mac Mini G4 (used for Finnix-PPC development). Out of view currently on the "workbench" is an Emachine Athlon XP 2000 system, soon to be my [new router](http://fo0bar.livejournal.com/173879.html). Not pictured on the top 2 shelves are some switches, CD-ROM drives, the laser printer, and various junk.
+Bottom row: Beige G3 (not used), Graphite G4 (used occasionally), Duron 750 (currently missing a heatsink fan, along with half its case), Athlon 64 3400 (used for Finnix development and backups). Not pictured to its right is monster remains of the [terabyte project](https://www.finnie.org/text/terabyte/). Second row: Gateway 300mhz?, Sun Ultra 1, Dell PowerEdge 350 800mhz, Celeron 2.4ghz system in an Emachines case, Mac Mini G4 (used for Finnix-PPC development). Out of view currently on the "workbench" is an Emachine Athlon XP 2000 system, soon to be my [new router](http://fo0bar.livejournal.com/173879.html). Not pictured on the top 2 shelves are some switches, CD-ROM drives, the laser printer, and various junk.
 
 (Yes, that switch is just kinda hanging there.)
 

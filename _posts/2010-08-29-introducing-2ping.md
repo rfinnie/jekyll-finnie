@@ -7,7 +7,7 @@ tags:
 title: Introducing 2ping
 wp_id: 1489
 ---
-[2ping](http://www.finnie.org/software/2ping/) is a bi-directional ping utility. It uses 3-way pings (akin to TCP SYN, SYN/ACK, ACK) and after-the-fact state comparison between a 2ping listener and a 2ping client to determine which direction packet loss occurs.
+[2ping](https://www.finnie.org/software/2ping/) is a bi-directional ping utility. It uses 3-way pings (akin to TCP SYN, SYN/ACK, ACK) and after-the-fact state comparison between a 2ping listener and a 2ping client to determine which direction packet loss occurs.
 
 No wait, that sounds too dry. I've been writing dry documentation and protocol references for weeks.
 
@@ -89,7 +89,7 @@ Again, this assumes a stable listener's network. "Must be inbound packet loss on
 
 ## Current status
 
-[Go and download version 0.0.1.](http://www.finnie.org/software/2ping/) This version is mostly feature-complete, and implements many of the relevant command-line options from the regular ping utility ("2ping -a" for audible ping, etc). [A 2ping manpage is partially complete](http://www.finnie.org/software/2ping/2ping.1.html), and documents all of the command-line options.
+[Go and download version 0.0.1.](https://www.finnie.org/software/2ping/) This version is mostly feature-complete, and implements many of the relevant command-line options from the regular ping utility ("2ping -a" for audible ping, etc). [A 2ping manpage is partially complete](https://www.finnie.org/software/2ping/2ping.1.html), and documents all of the command-line options.
 
 2ping is written in Perl, and all of the base module requirements should be in any default Perl install. It is IPv6 compatible with the "-6" switch, but requires IO::Socket::INET6, which is probably not included by default. But 2ping only tries to load it if you are using the "-6" switch, so the module is not needed if you do not need IPv6 support.
 

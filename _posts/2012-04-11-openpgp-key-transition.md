@@ -6,7 +6,7 @@ tags:
 title: OpenPGP key transition
 wp_id: 2061
 ---
-A copy of this announcement is available at <http://www.finnie.org/rfinnie-openpgp-2012-transition.txt>, in case the text is mangled here and the signature cannot be verified.
+A copy of this announcement is available at <https://www.finnie.org/rfinnie-openpgp-2012-transition.txt>, in case the text is mangled here and the signature cannot be verified.
 
 <pre>-----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256,SHA1
@@ -43,7 +43,7 @@ pub   4096R/86AE8D98 2012-04-11
 To fetch the full key (including a photo UID, which is commonly
 stripped by public keyservers), you can get it with:
 
-  wget -q -O- http://www.finnie.org/rfinnie.gpg | gpg --import -
+  wget -q -O- https://www.finnie.org/rfinnie.gpg | gpg --import -
 
 Or, to fetch my new key from a public key server, you can simply do:
 

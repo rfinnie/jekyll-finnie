@@ -16,7 +16,7 @@ _I've closed comments on this blog post. If you are looking for help, please see
 
 * * *
 
-After [my last post](http://www.finnie.org/2015/02/14/ubuntu-14-04-trusty-tahr-on-the-raspberry-pi-2/), I went and ported Sjoerd's Raspberry Pi 2 Debian kernel patchset to Ubuntu's kernel package base (specifically 3.18.0-14.15). The result is an RPi2-compatible 3.18.7-based kernel which not only installs in Ubuntu, but has all the Ubuntu bells and whistles. I also re-ported flash-kernel based on Ubuntu's package, recompiled raspberrypi-firmware-nokernel, created a linux-meta-rpi2 package, and put it all in [a PPA](https://launchpad.net/~fo0bar/+archive/ubuntu/rpi2).
+After [my last post](https://www.finnie.org/2015/02/14/ubuntu-14-04-trusty-tahr-on-the-raspberry-pi-2/), I went and ported Sjoerd's Raspberry Pi 2 Debian kernel patchset to Ubuntu's kernel package base (specifically 3.18.0-14.15). The result is an RPi2-compatible 3.18.7-based kernel which not only installs in Ubuntu, but has all the Ubuntu bells and whistles. I also re-ported flash-kernel based on Ubuntu's package, recompiled raspberrypi-firmware-nokernel, created a linux-meta-rpi2 package, and put it all in [a PPA](https://launchpad.net/~fo0bar/+archive/ubuntu/rpi2).
 
 With that all done, I decided to go ahead and produce a base Ubuntu trusty image. It's 1.75GB uncompressed so you can put it on a 2GB or larger MicroSD card, and includes a full ubuntu-standard setup. Also included in the zip is a .bmap file; if you are writing the image in Linux you can use [bmap-tools package](http://packages.ubuntu.com/bmap-tools) to write only the non-zero bytes, saving some time. Otherwise it's the same procedure as other Raspberry Pi images.
 

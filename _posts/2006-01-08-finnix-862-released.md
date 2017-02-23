@@ -11,10 +11,10 @@ Finnix is a small, self-contained, bootable Linux CD distribution for system adm
 
 Finnix 86.2 contains several new features, including Linux kernel 2.6.15, improved hardware detection (using data from Fedora Core 4), improved reliability when booting from USB CDROM and thumb devices, and an expanded general-purpose task utility, aptly named "finnix". In addition, Finnix may now be installed and run directly from a hard drive. The ISO size has also been reduced, from 100MiB to 92MiB on the x86 platform, without any loss of functionality.
 
-[Home page](http://www.finnix.org/)
+[Home page](https://www.finnix.org/)
   
 [SourceForge page](http://www.sourceforge.net/projects/finnix/)
   
 Download: [x86](http://prdownloads.sourceforge.net/finnix/finnix-86.2.iso?download), [PowerPC](http://prdownloads.sourceforge.net/finnix/finnix-ppc-86.2.iso?download)
   
-[Release notes](http://www.finnix.org/Finnix_86.2_Release_Notes)
+[Release notes](https://www.finnix.org/Finnix_86.2_Release_Notes)

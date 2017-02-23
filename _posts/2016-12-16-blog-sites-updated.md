@@ -7,8 +7,8 @@ layout: post
 title: Blog sites updated
 ---
 I've been on the ol' blogosphere for over 15 years now, starting with a LiveJournal back in 2001.
-In 2009, I moved the contents of the LiveJournal to [my personal site](http://www.finnie.org/), a WordPress installation.
-In addition, I've got a blog for [Finnix](http://www.finnix.org/) at [blog.finnix.org](http://blog.finnix.org/), also a WordPress site.
+In 2009, I moved the contents of the LiveJournal to [my personal site](https://www.finnie.org/), a WordPress installation.
+In addition, I've got a blog for [Finnix](https://www.finnix.org/) at [blog.finnix.org](https://blog.finnix.org/), also a WordPress site.
 
 I haven't been blogging much (my last post was a little over a year ago), but I've been keeping the software up to date on them, as WordPress is not exactly know to be the most secure⁰.
 However, I've had a thought in the back of my mind for awhile:

@@ -7,7 +7,7 @@ tags:
 title: twuewand 2.0 released
 wp_id: 2122
 ---
-You may remember [about a year ago](http://www.finnie.org/2011/09/25/introducing-twuewand/) when I released [twuewand](http://www.finnie.org/software/twuewand/), a TrueRand implementation. TrueRand is a hardware entropy generation technique, implemented in software. In a nutshell, it works by setting an alarm for a few milliseconds in the future, and flipping a bit until the alarm is reached. It works due to the fact that time (your computer's RTC) and work (your computer's CPU) are not linked, so the result when the alarm comes due is unpredictable.
+You may remember [about a year ago](https://www.finnie.org/2011/09/25/introducing-twuewand/) when I released [twuewand](https://www.finnie.org/software/twuewand/), a TrueRand implementation. TrueRand is a hardware entropy generation technique, implemented in software. In a nutshell, it works by setting an alarm for a few milliseconds in the future, and flipping a bit until the alarm is reached. It works due to the fact that time (your computer's RTC) and work (your computer's CPU) are not linked, so the result when the alarm comes due is unpredictable.
 
 TrueRand was invented in 1995, and had mostly been forgotten for the last decade, until I started doing research on it last year. So it was quite a surprise when I was at Dan Kaminsky's talk at DEFCON a few weeks ago, and one of the topics he brought up was TrueRand. ([Go check out his presentation slides](http://dankaminsky.com/2012/08/06/bo2012/); I just want to point out that while I'll be focusing on entropy and debiasing here, he goes into a lot of other interesting topics.)
 
@@ -23,7 +23,7 @@ Dan thought, "Hmm, that's an awful lot of data simply being thrown out. We can't
 
 The incoming bit stream is still run through Von Neumann, and put into an output buffer. However, all bits (whether they pass Von Neumann or not) are fed to a SHA256 stream. Occasionally (after the input stream is finished, or a sufficient number of bytes are put into the output buffer), the SHA256 hash is computed<sup>[1]</sup>, and used as a 256-bit key for AES-256-CBC encrypting the output buffer. This way, only the bits which pass Von Neumann influence the output directly, but all bits help indirectly influence the output as well.
 
-So [twuewand](http://www.finnie.org/software/twuewand/) now supports Kaminsky debiasing, and will use it by default if Digest::SHA and Crypt::Rijndael are installed.
+So [twuewand](https://www.finnie.org/software/twuewand/) now supports Kaminsky debiasing, and will use it by default if Digest::SHA and Crypt::Rijndael are installed.
 
 * * *
 

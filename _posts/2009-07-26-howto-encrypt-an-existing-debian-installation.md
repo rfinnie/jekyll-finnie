@@ -18,7 +18,7 @@ And with that, I began looking into what it would take to convert a normal Debia
 
 Note that the instructions below are provided at your own risk. You are copying the system to a temporary location, **destroying your data** and restoring it. A lot could go wrong. I make a lot of assumptions:
 
-  * [Finnix](http://www.finnix.org/) is used throughout the process
+  * [Finnix](https://www.finnix.org/) is used throughout the process
   * "Before" system: Single root partition on /dev/sda1, swap on /dev/sda2
   * "After" system: Boot partition on /dev/sda1, encrypted LVM on /dev/sda2, root and swap LVs
   * System name (and Volume Group name) is "nibbler" (Futurama naming scheme here)
@@ -37,7 +37,7 @@ Before you reboot into Finnix, be sure your system has the following required pa
 
 ## Backup
 
-Boot into [Finnix](http://www.finnix.org/), or another LiveCD that contains LVM and cryptsetup w/LUKS support.
+Boot into [Finnix](https://www.finnix.org/), or another LiveCD that contains LVM and cryptsetup w/LUKS support.
 
 Copy the contents of system to another machine.
 

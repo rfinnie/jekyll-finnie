@@ -13,4 +13,4 @@ Finnix 86.0 includes 336 Debian packages, Linux kernel 2.6.13, and advanced syst
 
 Most importantly, Finnix can be burned to a "Mini-CDR", which, as a fashion statement, goes great with your laptop bag or pocket. 
 
-Please visit <http://www.finnix.org/> to learn more or download a copy!
+Please visit <https://www.finnix.org/> to learn more or download a copy!

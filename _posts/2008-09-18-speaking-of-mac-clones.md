@@ -10,4 +10,4 @@ tags:
 title: Speaking of Mac clones...
 wp_id: 734
 ---
-[Psystar](http://www.psystar.com/), the company currently famous for butting heads with Apple, is shipping [Finnix](http://www.finnix.org/). [No, really.](http://www.psystar.com/opencomputing_leopard_restore_disk_.html) Looks like they're shipping it as a restore utility CD (which is great, since that's what Finnix is designed to be).
+[Psystar](http://www.psystar.com/), the company currently famous for butting heads with Apple, is shipping [Finnix](https://www.finnix.org/). [No, really.](http://www.psystar.com/opencomputing_leopard_restore_disk_.html) Looks like they're shipping it as a restore utility CD (which is great, since that's what Finnix is designed to be).

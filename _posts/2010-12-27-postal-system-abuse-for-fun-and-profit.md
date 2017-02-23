@@ -42,7 +42,7 @@ Sadly, ZIP+4 isn't a unique identifier. It's basically designed as a better auto
 
 With that information, I realized "US 89509-6521 2██" is a globally unique address. It's not "valid" per se, but could be deciphered to my home. The United States Postal Service has a lot of rules for addressing, but is also well known for its resiliency. You could address a letter to "Bob's house at the end of ABC street in Chicago" with no return address, and it's likely that it would (eventually) arrive as long as it had sufficient postage. Apparently the UK Royal Mail is similar; I remember seeing an article (which I can no longer find, unfortunately) about a woman in London who would send letters to herself, with the address encoded in puzzles. Nearly all of them would eventually arrive, with the puzzles hinting to the address filled out. Sometimes it would take days, sometimes months.
 
-So I decided to mail bz2 some [Finnix stickers](http://www.finnix.org/Free_stickers), in the following envelope:
+So I decided to mail bz2 some [Finnix stickers](https://www.finnix.org/Free_stickers), in the following envelope:
 
 [<img src="/blog-media/2010/12/leiden-envelope-300x168.jpg" alt="" title="NL-2333 AP ##" width="300" height="168" class="aligncenter size-medium wp-image-1672" srcset="/blog-media/2010/12/leiden-envelope-300x168.jpg 300w, /blog-media/2010/12/leiden-envelope-1024x576.jpg 1024w, /blog-media/2010/12/leiden-envelope.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />](/blog-media/2010/12/leiden-envelope.jpg)
 

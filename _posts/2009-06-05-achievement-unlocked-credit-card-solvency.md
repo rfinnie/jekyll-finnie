@@ -10,7 +10,7 @@ wp_id: 907
   
 _Click for a more readable graph. Savings is blue on the top, CC debt is green on the bottom. The line is the delta between savings and debt._
 
-As of today, I officially have $3.37 more savings than I do credit card debt. [As I mentioned](http://www.finnie.org/2009/02/28/woot/) in February, I had reached the point where my liquid assets (savings + checking + cash) were more than my credit card debt. However, a checking account is rapidly moving up and down, and savings vs CC debt is a more stable comparison. It wasn't until today that I could theoretically drain my savings to pay my CC debt, while still not affecting my day-to-day finances. Again, not that I would, so it's a mostly symbolic milestone, but it's a milestone nonetheless.
+As of today, I officially have $3.37 more savings than I do credit card debt. [As I mentioned](https://www.finnie.org/2009/02/28/woot/) in February, I had reached the point where my liquid assets (savings + checking + cash) were more than my credit card debt. However, a checking account is rapidly moving up and down, and savings vs CC debt is a more stable comparison. It wasn't until today that I could theoretically drain my savings to pay my CC debt, while still not affecting my day-to-day finances. Again, not that I would, so it's a mostly symbolic milestone, but it's a milestone nonetheless.
 
 In other financial news, I have invested $2500 in General Motors. No really. Well...
 

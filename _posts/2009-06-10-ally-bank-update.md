@@ -6,7 +6,7 @@ layout: post
 title: Ally Bank update
 wp_id: 935
 ---
-Following up on [Saturday's post](http://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/): On Sunday morning, I received a call on my cellphone from an 800 number. "I'm not answering that on a weekend," I thought, and went back to bed. When I got up later, I found [a comment waiting for approval on my blog](http://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/#comment-1106), and it was from Al de Molina. (I did a little checking, and it seemed authentic, either from him himself, or something like a PR firm on his behalf.)
+Following up on [Saturday's post](https://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/): On Sunday morning, I received a call on my cellphone from an 800 number. "I'm not answering that on a weekend," I thought, and went back to bed. When I got up later, I found [a comment waiting for approval on my blog](https://www.finnie.org/2009/06/06/ally-bank-no-sneaky-disclaimers-no-fine-print-just-lies/#comment-1106), and it was from Al de Molina. (I did a little checking, and it seemed authentic, either from him himself, or something like a PR firm on his behalf.)
 
 Sure enough, the voicemail waiting for me was from Alex from Ally bank wanting me to return his call. We played phone tag Sunday, and he got back to me Monday morning.
 

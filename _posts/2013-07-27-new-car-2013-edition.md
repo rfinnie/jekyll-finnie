@@ -8,7 +8,7 @@ wp_id: 2280
 
 "Oh, it must be Saturday."
 
-Yeah yeah... (I would point out the last time I bought a car was [nearly 5 years ago](http://www.finnie.org/2008/10/24/my-fellow-consumers/).) But the shocker is it's not a Prius. It's a 2013 Ford C-Max Hybrid. That's right, after 12 years of Prius ownership, I have jumped ship. And I love it.
+Yeah yeah... (I would point out the last time I bought a car was [nearly 5 years ago](https://www.finnie.org/2008/10/24/my-fellow-consumers/).) But the shocker is it's not a Prius. It's a 2013 Ford C-Max Hybrid. That's right, after 12 years of Prius ownership, I have jumped ship. And I love it.
 
 First, a little background. The C-Max is a competitor to the Prius v, not the regular Prius. When the 2012 Prius v was announced, I was confused about it specifically, and crossovers in general. It was advertised as a larger Prius, but my first impression was, "What's the big deal? The numbers are a little larger, but it doesn't look any bigger in photos. It can't be much different." After taking a test drive in a C-Max, I now _get_ crossovers. The C-Max, like the Prius v (which I admit I haven't been in) may have the outer stylings of a midsize hatchback, but the interior is laid out and feels a lot more like a compact SUV. Higher ride, more headroom, more room in general.
 

@@ -10,7 +10,7 @@ I've been cleaning and organizing a lot in the last few weeks. My home office us
 
 I threw away a lot (for example, a circa 2000 VCR; it weighed less than a pound and was nearly all plastic, I don't remember buying it, I don't have any VHS tapes, and no donation centers would take it), donated a file cabinet to Goodwill, and donated 8 computers and 4 old rackmount hubs/switches to [New2u Computers](http://www.new2ucomputers.com/). Basically any 686-class desktop that wasn't currently in use got donated. (Actual conversation: "Surely you mean '686 or older'." "No, I'm keeping the 586 and 486, and any non-x86 computers.")
 
-However, today I went to the UNR surplus sale, and walked out with a Blue & White G3 PowerMac for $5. It works fine; it has no OS, but as soon as I got home I booted a dev build of [Finnix](http://www.finnix.org/) running Linux 3.0-rc4. It even has a Zip drive.
+However, today I went to the UNR surplus sale, and walked out with a Blue & White G3 PowerMac for $5. It works fine; it has no OS, but as soon as I got home I booted a dev build of [Finnix](https://www.finnix.org/) running Linux 3.0-rc4. It even has a Zip drive.
 
 So my desktop collection is currently:
 
