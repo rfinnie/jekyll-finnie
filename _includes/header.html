@@ -47,13 +47,15 @@
             {% endif %}
             {% endfor %}
           </ul>
-          <form action="https://www.google.com/cse" id="cse-search-box" class="navbar-form navbar-right">
-            <input type="hidden" name="cx" value="015291346489371011935:ibw1sgqcayw" />
-            <input type="hidden" name="ie" value="UTF-8" />
-            <div class="form-group">
-              <input type="search" class="form-control" value placeholder="Site search" name="q" />
-            </div>
-          </form>
+          {% if site.cse_id %}
+            <form action="https://www.google.com/cse" id="cse-search-box" class="navbar-form navbar-right">
+              <input type="hidden" name="cx" value="{{ site.cse_id }}" />
+              <input type="hidden" name="ie" value="UTF-8" />
+              <div class="form-group">
+                <input type="search" class="form-control" value placeholder="Site search" name="q" />
+              </div>
+            </form>
+          {% endif %}
         </div><!--/.nav-collapse -->
       </div>
     </nav>
