@@ -51,7 +51,7 @@ The plan now is to replace the remaining drives over the year with 4TB drives, u
 All four drives were originally bought at the same time, and have a higher chance of having more than one failure at a time, which could be disastrous.
 
 I've got a 4TB WD drive on order (all the current drives are Seagate), and ideally wanted to place it in the RAID 1 array which didn't contain the drive I replaced last year.
-That way, each of the RAID 1 pairs will contain both and old and a new drive.
+That way, each of the RAID 1 pairs will contain both an old and a new drive.
 
 Once all four drives are replaced with 4TB drives, I'll be left with an identical array set as before, but with 2TB per drive completely unused.
 At that point, I can partition the remaining space in each drive and combine them into a second RAID 10 array, then add it as a second physical volume on the LVM setup this is all a part of.
