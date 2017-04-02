@@ -56,7 +56,7 @@ The recessed lighting was the first to be replaced, obviously. Instant on and fu
 I found a sale on Cree A19 bulbs at $1.50 each, so most of the rest of the house got those.
 The hallway bathroom had 4 incandescent globe lights which were meant to look good on their own, so I found [LED globes](http://www.homedepot.com/p/GE-40W-Equivalent-Soft-White-2700K-High-Definition-G25-Globe-Clear-Dimmable-LED-Light-Bulb-2-Pack-LED5DG25-CSW9HT2/207203359) which have a very nice looking pattern in the middle.
 
-My workbench in the garage has 2 foot fluorescent enclosure which I like, so I ended up using a [retrofit LED tube](https://hyperikon.com/product/2ft-t8-led-light-tube-frosted-cover/).
+My workbench in the garage has a 2 foot fluorescent enclosure which I like, so I ended up using a [retrofit LED tube](https://hyperikon.com/product/2ft-t8-led-light-tube-frosted-cover/).
 This requires rewiring the enclosure to remove the ballast and convert it to direct AC drive, but was worth it.
 
 The security motion light on the outside of the garage was one of those dual floodlights you've seen everywhere, but each bulb was 100 watts each.
