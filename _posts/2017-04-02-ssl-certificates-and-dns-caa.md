@@ -48,7 +48,7 @@ Also of note is that these records are solely for the CAs to use when a certific
 It is not intended for, say, a browser to verify a certificate in real time.
 
 CAA is definitely an additional layer of protection, but it still relies on the CAs utilizing and adhering to it.
-There's nothing to prevent me from crating my own certificate authority and issuing a certificate for google.com, but that would be of little use as my CA root isn't trusted anywhere.
+There's nothing to prevent me from creating my own certificate authority and issuing a certificate for google.com, but that would be of little use as my CA root isn't trusted anywhere.
 As of today, [only about half the major CAs check CAA](https://sslmate.com/labs/caa/), but in March [a vote was taken by the CAs](https://cabforum.org/pipermail/public/2017-March/009988.html) which mandates its use as of September 2017.
 As I understand it, this is not a requirement that end user requesters must have CAA entries when requesting a certificate, just that CAs must check CAA and act appropriately if the records are present.
 
