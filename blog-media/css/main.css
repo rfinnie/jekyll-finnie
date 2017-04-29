@@ -59,6 +59,10 @@ body > .container {
   max-height: 300px;
   width: auto;
 }
+.img-lg {
+  max-height: 480px;
+  width: auto;
+}
 .pull-right {
   margin-left: 1em;
   margin-bottom: .5em;
