@@ -3,6 +3,7 @@ date: 2017-04-29 12:07:18-07:00
 excerpt: Wherein Ryan applies retail therapy to the rise and fall of the NES Classic
   Edition.
 excerpt_standalone: true
+headline_image: https://c1.staticflickr.com/3/2861/33502892934_e94442da1b_b.jpg
 layout: post
 title: 'Re-Buying My Childhood, Part 1: eBay Does What Nintendon''t'
 ---
