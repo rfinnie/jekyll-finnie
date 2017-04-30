@@ -6,13 +6,18 @@ layout: default
 
   <h1 class="page-heading">Blog posts</h1>
 
-  <ul class="post-list">
+  <table class="post-list table table-striped">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> • 
+      <tr>
+      <td>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </td>
+      <td>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
+        {% if post.excerpt_standalone %}<br/><span class="post-meta"><span class="post-excerpt">{{ post.excerpt }}</span></span>{% endif %}
+      </td>
+      </tr>
     {% endfor %}
-  </ul>
+  </table>
 
 </div>
