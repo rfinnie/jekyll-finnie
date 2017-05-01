@@ -134,4 +134,4 @@ This system has you covered.
 
 I now have more clone consoles than authentic retro consoles.
 By why stop at hardware?
-Tomorrow, part three: The Clone Wars.
+Tomorrow, [part three: The Clone Wars](https://www.finnie.org/2017/05/01/rebuying-my-childhood-part-3-the-clone-wars/).

@@ -144,4 +144,4 @@ Three systems, 33 game cartridges, and a ton of old childhood memories.
 But that's not all I've bought in the last few months.
 You may have noticed some odd hardware in the photos above which I have not yet mentioned.
 
-Tomorrow, part two: Send in the clones!
+Tomorrow, [part two: Send in the clones](https://www.finnie.org/2017/04/30/rebuying-my-childhood-part-2-send-in-the-clones/)!
