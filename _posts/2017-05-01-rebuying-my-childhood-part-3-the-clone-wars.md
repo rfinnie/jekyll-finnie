@@ -12,8 +12,8 @@ Please see the previous two entries, *[eBay Does What Nintendon't](https://www.f
 
 ---
 
-<a href="https://www.flickr.com/photos/fo0bar/33533796993/in/album-72157683206318665/" title="Donkey Kong Competition Cartridge SNES reproduction"><img src="https://c1.staticflickr.com/3/2816/33533796993_f7e38607a2_b.jpg" class="img-responsive img-rounded img-md pull-right" alt="Donkey Kong Competition Cartridge SNES reproduction"></a>
-Ladies and gentlemen, the [Donkey Kong Competition Cartridge](https://www.mariowiki.com/Donkey_Kong_Country_Competition_Cartridge) (DKCC).
+<a href="https://www.flickr.com/photos/fo0bar/33533796993/in/album-72157683206318665/" title="Donkey Kong Country Competition Cartridge SNES reproduction"><img src="https://c1.staticflickr.com/3/2816/33533796993_f7e38607a2_b.jpg" class="img-responsive img-rounded img-md pull-right" alt="Donkey Kong Country Competition Cartridge SNES reproduction"></a>
+Ladies and gentlemen, the [Donkey Kong Country Competition Cartridge](https://www.mariowiki.com/Donkey_Kong_Country_Competition_Cartridge) (DKCC).
 One of the rarest and most expensive SNES cartridges in history, they now go for around $2000, and I own one.
 Look for the distinctive translucent red cartridge...
 
