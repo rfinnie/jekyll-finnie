@@ -6,7 +6,7 @@ layout: post
 title: Lenovo ThinkPad X200s
 wp_id: 1474
 ---
-<img src="/blog-media/2010/08/ThinkPad-X200s.jpg" alt="" title="ThinkPad X200s" width="600" height="231" class="aligncenter size-full wp-image-1476" srcset="/blog-media/2010/08/ThinkPad-X200s.jpg 600w, /blog-media/2010/08/ThinkPad-X200s-300x115.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img src="/blog-media/2010/08/ThinkPad-X200s.jpg" alt="ThinkPad X200s" class="img-responsive img-rounded img-lg">
 
 My first ThinkPad was a T60 14.1". I had heard good things about the T40 series from friends, and was in the market for a new laptop, as I have a tendency to go through about one laptop per year. The T60 was released shortly after IBM sold the ThinkPad line to Lenovo, and you got that sense by looking at it. The main logos on the cover and keyboard tray still said "IBM ThinkPad", and the only place Lenovo was mentioned was next to the status lights and on the underside stickers.
 

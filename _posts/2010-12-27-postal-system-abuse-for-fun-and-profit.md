@@ -44,7 +44,7 @@ With that information, I realized "US 89509-6521 2██" is a globally unique a
 
 So I decided to mail bz2 some [Finnix stickers](https://www.finnix.org/Free_stickers), in the following envelope:
 
-[<img src="/blog-media/2010/12/leiden-envelope-300x168.jpg" alt="" title="NL-2333 AP ##" width="300" height="168" class="aligncenter size-medium wp-image-1672" srcset="/blog-media/2010/12/leiden-envelope-300x168.jpg 300w, /blog-media/2010/12/leiden-envelope-1024x576.jpg 1024w, /blog-media/2010/12/leiden-envelope.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />](/blog-media/2010/12/leiden-envelope.jpg)
+<img src="/blog-media/2010/12/leiden-envelope.jpg" alt="NL-2333 AP ##" class="img-responsive img-rounded img-lg">
 
 No names, and both the sender and recipient addresses are not in the format the USPS wants. There is sufficient postage to mail the Netherlands, but the address is internationally non-standard, as far as the USPS is concerned. However, both the sender and recipient addresses are globally unique, and could be figured out by a human.
 

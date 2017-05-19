@@ -4,10 +4,9 @@ layout: post
 title: External temperature monitoring with Linux
 wp_id: 1264
 ---
-[<img src="/blog-media/2010/03/renooffice_servercloset_temp0-day3.png" alt="MRTG Temperature" title="MRTG Temperature" width="500" height="135" style="border-style: none;" />](/blog-media/2010/03/renooffice_servercloset_temp0-day3.png)
+<img src="/blog-media/2010/03/renooffice_servercloset_temp0-day3.png" alt="MRTG Temperature" class="img-responsive img-lg">
 
-[<img src="/blog-media/2010/03/t-sense_probe-225x300.jpg" alt="T-Sense Probe" title="T-Sense Probe" width="225" height="300" style="border-style: none; float: right;" />](/blog-media/2010/03/t-sense_probe.jpg)At work, we moved into a new office last week. Part of that move involved moving the office network infrastructure from a massive server and work room into a small server closet. We're having some issues with cooling, so I decided to get some sort of ambient temperature monitoring going while we work on fixing the issue.
-
+<img src="/blog-media/2010/03/t-sense_probe-225x300.jpg" alt="T-Sense Probe" class="img-responsive img-rounded img-md pull-right">
 I found a few DIY articles (such as [here](http://ssli.ee.washington.edu/people/nomad/thermalcube/) and [here](http://www.hoppie.nl/tempsens/)) that use the Dallas Semiconductor 1-Wire bus. [1-Wire](http://en.wikipedia.org/wiki/1-Wire) is a low-speed parallel communications bus where the entire bus is powered and controlled by a single master interface. The master is usually a serial device connected to a computer. The rest of the devices can either be daisy-chained, or wired in a star topology, much the same as home phone wiring can be split from the telco demarc to multiple phones. (Despite the name, two wires are needed for a 1-Wire bus, one carries data and power, the other is ground.)
 
 They looked nice, but I didn't want to go the DIY route. Eventually I found [iButtonLink](http://www.ibuttonlink.com/), who makes and sells 1-Wire products. I bought the [LinkUSBi](http://www.ibuttonlink.com/linkusbi.aspx) master and a few [T-Sense](http://www.ibuttonlink.com/t-sense.aspx) temperature probes. (The [LinkUSB](http://www.ibuttonlink.com/linkusb.aspx) is a few dollars cheaper than the LinkUSBi, but the LinkUSBi also contains an ID chip, so you can verify operation of the bus even if no other devices are connected.) The iButtonLink products use RJ45 ports, so you can use Cat5 network cable to connect them together. The T-Sense probe has RJ45 ports on both ends, so you can daisy chain them if you like. I haven't done so, but if you wanted to do star topology instead, you could buy a 4-port biscuit block with 4 RJ45 ports, and then wire all of their pin 4s together and all of their pin 5s together. Then simply plug the master into one port (doesn't matter which, remember this is a parallel bus), and the sensors into the rest.
@@ -132,7 +131,7 @@ UCD-SNMP-MIB::extErrFixCmd.1 = STRING: </pre>
 
 # Nagios
 
-[<img src="/blog-media/2010/03/nagios-temp.png" alt="Nagios Temperature" title="Nagios Temperature" width="451" height="305" style="border-style: none;" />](/blog-media/2010/03/nagios-temp.png)
+<img src="/blog-media/2010/03/nagios-temp.png" alt="Nagios Temperature" class="img-responsive img-lg">
 
 Now, on the Nagios host, we'll need to turn that into data Nagios can actually use. I've got a little script called <tt>check_snmp_exec</tt>; feed it a named "exec" entry and it will return the result and text to Nagios:
 
@@ -205,7 +204,7 @@ Now you're ready to monitor! Of course, if the 1-Wire master is on the Nagios ho
 
 # MRTG
 
-[<img src="/blog-media/2010/03/renooffice_servercloset_temp0-day3.png" alt="MRTG Temperature" title="MRTG Temperature" width="500" height="135" style="border-style: none;" />](/blog-media/2010/03/renooffice_servercloset_temp0-day3.png)
+<img src="/blog-media/2010/03/renooffice_servercloset_temp0-day3.png" alt="MRTG Temperature" class="img-responsive img-lg">
 
 I also wanted to graph the temperature, and MRTG can work for that purpose. We can use the same "roomtemp" snmp exec on the backend, but we'll need a frontend script to extract the perfmon data to feed to MRTG. Here's <tt>mrtg_roomtemp</tt>; it's similar to <tt>check_snmp_exec</tt> but rewritten in Perl for its splitting capability (yes, you could do it in bash, but I'm lazy and I'm decent with Perl), and is hardcoded to this purpose:
 

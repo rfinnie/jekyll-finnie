@@ -41,8 +41,7 @@ Now THAT tells you a lot more. One ping was received by the server and replied t
 
 ## How does it work?
 
-[<img src="/blog-media/2010/08/2ping-lolcat-300x225.jpg" alt="" title="2ping-lolcat" width="300" height="225" class="aligncenter size-medium wp-image-1511" srcset="/blog-media/2010/08/2ping-lolcat-300x225.jpg 300w, /blog-media/2010/08/2ping-lolcat.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/blog-media/2010/08/2ping-lolcat.jpg)
-
+<img src="/blog-media/2010/08/2ping-lolcat.jpg" alt="2ping lolcat" class="img-responsive img-rounded img-md pull-right">
 Normal ping uses ICMP. It is assumed that nearly all IP-capable machines are listening for ICMP ping requests, and will respond with an ICMP response.
 
 2ping is a combined client and listener utility that communicates over UDP. You start a listener on the far end (<tt>2ping --listen</tt>), then on the near end you start the client mode and tell it to go to the far end. In normal conditions, it operates much like a regular ICMP ping.

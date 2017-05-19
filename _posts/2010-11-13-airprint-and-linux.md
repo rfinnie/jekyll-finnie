@@ -6,8 +6,7 @@ tags:
 title: AirPrint and Linux
 wp_id: 1634
 ---
-[<img src="/blog-media/2010/11/airprint-linux-1-200x300.png" alt="" title="airprint-linux-1" width="200" height="300" class="size-medium wp-image-1639" srcset="/blog-media/2010/11/airprint-linux-1-200x300.png 200w, /blog-media/2010/11/airprint-linux-1.png 640w" sizes="(max-width: 200px) 100vw, 200px" />](/blog-media/2010/11/airprint-linux-1.png) [<img src="/blog-media/2010/11/airprint-linux-2-200x300.png" alt="" title="airprint-linux-2" width="200" height="300" class="size-medium wp-image-1640" srcset="/blog-media/2010/11/airprint-linux-2-200x300.png 200w, /blog-media/2010/11/airprint-linux-2.png 640w" sizes="(max-width: 200px) 100vw, 200px" />](/blog-media/2010/11/airprint-linux-2.png)
-
+<img src="/blog-media/2010/11/airprint-linux-1.png" alt="AirPrint Linux 1" class="img-responsive img-md pull-right"><img src="/blog-media/2010/11/airprint-linux-2.png" alt="AirPrint Linux 2" class="img-responsive img-md pull-right">
 I've been trying the iPhone OS<sup>[1]</sup> 4.2 GM, and decided to play with the AirPrint functionality. However, Apple has removed the ability to print to locally attached PC/Mac printers with the final versions of iTunes 10.1 and OS X 10.6.5. Using a beta version of iTunes 10.1 for Windows, Wireshark, avahi-discover and a few other tools, I managed to get an understanding of how AirPrint works. What I've found is:
 
   * AirPrint uses IPP for print management.

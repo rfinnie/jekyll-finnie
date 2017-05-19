@@ -11,7 +11,7 @@ Minecraft minecraft minecraft minecraft [Minecraft](http://www.minecraft.net/) m
 
 Minecraft minecraft minecraft minecraft minecraft minecraft minecraft minecraft minecraft, minecraft [xkcd](http://xkcd.com/861/) minecraft minecraft, minecraft Randall minecraft minecraft minecraft. Minecraft server minecraft minecraft minecraft.
 
-[<img src="/blog-media/2011/02/Minecraft-tower-300x178.jpg" alt="" title="Minecraft-tower" width="300" height="178" class="aligncenter size-medium wp-image-1770" srcset="/blog-media/2011/02/Minecraft-tower-300x178.jpg 300w, /blog-media/2011/02/Minecraft-tower-1024x608.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/blog-media/2011/02/Minecraft-tower.jpg)
+<img src="/blog-media/2011/02/Minecraft-tower.jpg" alt="Minecraft tower" class="img-responsive img-rounded img-lg">
 
 Minecraft minecraft minecraft minecraft minecraft tower, minecraft minecraft building minecraft minecraft. Minecraft minecraft minecraft minecraft zombies, minecraft creepers minecraft minecraft minecraft.
 

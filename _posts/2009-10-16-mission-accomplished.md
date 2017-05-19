@@ -14,7 +14,8 @@ Today, I made a final $914.34 payment, and with that, I have eliminated nearly a
 
 I did it.
 
-<img src="/blog-media/2009/10/debt-zero.png" style="float: right; margin: 1em;" />Even better, in the process I have managed to grow my savings from almost nothing to nearly $5,000. And now that I have no credit card debt, I can grow that savings even faster.
+<img src="/blog-media/2009/10/debt-zero.png" class="img-responsive img-md pull-right">
+Even better, in the process I have managed to grow my savings from almost nothing to nearly $5,000. And now that I have no credit card debt, I can grow that savings even faster.
 
 How did I do it? There is a wealth of information available available on the web for getting out of debt. Here's a few of the methods I used to help with my goals.
 

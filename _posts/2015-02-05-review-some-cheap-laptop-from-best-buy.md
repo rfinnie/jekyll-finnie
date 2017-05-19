@@ -29,7 +29,7 @@ Some Cheap Laptop from Best Buy satisfied these requirements:
   * Official designation: HP 15-f019dx
   * Price: $329.99
 
-[<img src="/blog-media/2015/02/quiwoo-760-1024x768.jpg" alt="HP 15-f019dx" width="788" height="591" class="aligncenter size-large wp-image-2415" srcset="/blog-media/2015/02/quiwoo-760-1024x768.jpg 1024w, /blog-media/2015/02/quiwoo-760-300x225.jpg 300w, /blog-media/2015/02/quiwoo-760-788x591.jpg 788w" sizes="(max-width: 788px) 100vw, 788px" />](/blog-media/2015/02/quiwoo-760.jpg)
+<img src="/blog-media/2015/02/quiwoo-760.jpg" alt="HP 15-f019dx" class="img-responsive img-rounded img-lg">
 
 Some Cheap Laptop from Best Buy's 15.6" display is massive by my 12.5" tastes, and I don't care for the numpad, but since it's "only" 5.05lbs, it's managable. (By comparison, the X250 is going to be approximately 3lbs.) The entire surface is a nice matte black, and the touchpad feels comfortable, as far as touchpads go. (I miss the TrackPoint already.) My biggest complaint with the touchpad is it's too large, and my left palm tends to slightly rest on the left side of it while using my right finger to natigate, resulting in scrolling instead of mouse movement. The island-style keyboard is usable, but I can't say how well it is since I've never yet owned a keyboard with island keys.
 
