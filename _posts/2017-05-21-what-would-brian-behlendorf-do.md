@@ -22,4 +22,6 @@ Content-type: text/html
 
 After that, I continued on, finding a few bugs in the source code, fixing them, finding a few more, etc.  After a few hours I stopped and realized what I was doing, and threw those patches out.  I was literally reinventing the Apache project, 22 years too late.
 
-I've made the patches required to build on modern systems available in [this `flying-cars` branch](https://github.com/rfinnie/ncsa-httpd/commits/flying-cars).  They consist of a single commit for the fixes I made back in 2007 (which I may split out into individual commits later), as well as the individual fixes made this evening.  And if you're interesting in the Debian packages, [they're available as well](https://www.finnie.org/software/ruins/ncsa-httpd/debian/).
+I've made the patches required to build on modern systems available in [this repository](https://github.com/rfinnie/ncsa-httpd).  And if you're interesting in the Debian packages, [they're available as well](https://www.finnie.org/software/ruins/ncsa-httpd/debian/).
+
+Oh, and it should go without saying, do **not** use this in a production environment, on anything accessible from the Internet, etc.  We're talking about code which has been unmaintained for over 20 years, and has many known vulnerabilities.
