@@ -19,7 +19,7 @@ I have a few entertainment devices hooked up to it, all controlled by a Harmony 
     * Streaming my ripped DVD collection from a 6 year old Mac Mini in the office
 * Xbox One S
     * Gaming, mostly Hitman these days
-    * Twitch (again, watching grown [men](https://www.twitch.tv/grandpoobear) and [women](https://www.twitch.tv/tinahacks) people play video games for my amusement)
+    * Twitch (again, watching grown [men](https://www.twitch.tv/grandpoobear) and [women](https://www.twitch.tv/tinahacks) play video games for my amusement)
     * 4K Blu-Ray player
 * Xbox 360
     * Previous generation games, when I feel the desire
