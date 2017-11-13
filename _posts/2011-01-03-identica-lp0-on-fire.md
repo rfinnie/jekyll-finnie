@@ -6,7 +6,11 @@ tags:
 title: 'Identi.ca: lp0 on fire'
 wp_id: 1691
 ---
+<div class="video-embed-lg">
+<div class="video-embed video-embed-169">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/niAme_z9vxI" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
 
 Behold, the Panasonic KX-P2023. Introduced in the early 90s and [still in production today](http://www.officedepot.com/a/products/543371/KX-P2023-24-PIN-240-CPS/), the KX-P2023 is a 24-pin parallel dot-matrix printer, capable of handling sheet-fed copier paper or perforated computer paper.
 

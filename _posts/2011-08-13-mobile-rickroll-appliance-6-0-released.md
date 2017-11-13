@@ -14,7 +14,11 @@ Last week, I attended Defcon 19 in Las Vegas. This year was a pretty good year. 
 
 At the last minute before I left for Vegas, I found and revived the Mobile Rickroll Appliance 6.0. The MRRA 6.0 is something I created in 2008, modifying a WRT54GS running OpenWRT with some custom iptables and dnsmasq configuration to make a self-contained Rickrolling platform. The result was hilarious:
 
+<div class="video-embed-lg">
+<div class="video-embed video-embed-169">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/l0C_wEAx6ao" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
 
 (Since then, the sped-up Rickroll video has been replaced with a normal speed one, but otherwise the functionality is exactly the same.)
 

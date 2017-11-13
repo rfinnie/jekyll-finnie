@@ -12,10 +12,18 @@ The Second Life client (and any client based off it, such as the [Hippo OpenSim 
 
 The third mode is where it really shines. Press the left button on the SpaceNavigator, and the SL client goes into Flycam mode. The camera is now detached from the avatar, and you now have complete control over the movement and rotation of the camera. This is what you can do with almost no practice:
 
+<div class="video-embed-lg">
+<div class="video-embed video-embed-169">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4nE8lCfVN2o" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
 
 That video was controlled entirely by the SpaceNavigator in Flycam mode, and was basically me tooling around Undef Lagoon randomly. One thing I should point out is that in that video, you'll notice that I was going forward at a constant pace while moving around. You'd be tempted to think that Flycam mode operates like a plane, with constant thrust, but no, I had my thumb pushing forward on the knob for most of it. Toward the end I do fly backwards for a bit. It's also a bit easier to understand the controls in this next video I made, as it starts out with a pull-back, while moving up and pitching down:
 
+<div class="video-embed-lg">
+<div class="video-embed video-embed-169">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LZQwODsqF64" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
 
 That video had a bit more jerky movement, because as I said, it takes a fair amount of pressure to manipulate the SpaceNavigator. So if you're not going full-bore (as I was throughout most of the first video), it's harder to maintain a constant pressure. Still, it has a lot of potential for machinima, and is just plain fun to use.

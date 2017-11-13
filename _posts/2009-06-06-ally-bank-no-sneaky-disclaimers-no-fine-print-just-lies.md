@@ -24,7 +24,11 @@ The original post is retained below.
 
 Well, [regarding that 2.50% CD I opened](https://www.finnie.org/2009/06/05/achievement-unlocked-credit-card-solvency/)? It's now 2.30%. A phone call got me nowhere; they're claiming the rate is based on a seemingly random date, related to neither the date I opened (and funded) the account, nor the date the funds cleared. The difference between the rate they quoted me and the rate they gave me is $3.74 over the lifetime of the CD, but I'm not letting them get away with this, especially given their "open" brand. I have sent [this letter](/blog-media/2009/06/ally-2009-06-06-redacted.pdf) to GMAC Financial Services / Ally Bank CEO Al de Molina, copied below.
 
+<div class="video-embed-lg">
+<div class="video-embed video-embed-169">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/7qb0vquRcys" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
 
 While you are reading, watch this Ally Bank commercial, but with these lines:
 
