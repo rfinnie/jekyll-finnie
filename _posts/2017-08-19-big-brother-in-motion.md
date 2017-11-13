@@ -6,7 +6,11 @@ excerpt_standalone: true
 layout: post
 title: Big Brother in Motion
 ---
+<div class="video-embed-lg">
+<div class="video-embed video-embed-169">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UD9sOe5eVzk" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
 
 A few weeks ago, I installed a networked security camera overlooking the front yard.
 It performs three functions:

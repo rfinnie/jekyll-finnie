@@ -76,3 +76,29 @@ body > .container {
 article {
   margin-bottom: 3em;
 }
+.video-embed {
+  position: relative;
+  padding-top: 0;
+  height: 0;
+}
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.video-embed-169 {
+  padding-bottom: 56.25%; /* 16:9 */
+}
+.video-embed-43 {
+  padding-bottom: 75%; /* 4:3 */
+}
+.video-embed-md {
+  max-width: 400px;
+  height: auto;
+}
+.video-embed-lg {
+  max-width: 640px;
+  height: auto;
+}
