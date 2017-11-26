@@ -10,7 +10,7 @@ layout: default
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
       <header class="post-header">
-        <h2 class="post-title" itemprop="name headline"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <h2 class="post-title" itemprop="name headline"><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
         <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author or site.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %}</span></span>{% endif %}{% if post.excerpt_standalone %} • <span class="post-excerpt">{{ post.excerpt }}</span>{% endif %}</p>
       </header>
 
@@ -21,7 +21,7 @@ layout: default
     </article>
     {% endfor %}
     <div class="article-navigation row">
-      <div class="article-navigation-previous col-md-6"><a class="post-link" href="{{ "/posts/" | prepend: site.baseurl }}">&laquo; All posts</a></div>
+      <div class="article-navigation-previous col-md-6"><a class="post-link" href="{{ site.baseurl }}/posts/">&laquo; All posts</a></div>
     </div>
 
 </div>

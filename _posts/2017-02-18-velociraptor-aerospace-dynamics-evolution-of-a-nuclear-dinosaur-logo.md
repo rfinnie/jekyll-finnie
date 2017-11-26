@@ -7,7 +7,7 @@ headline_image: /blog-media/2017/vadlogo-current.png
 layout: post
 title: 'Velociraptor Aerospace Dynamics: Evolution of a nuclear dinosaur logo'
 ---
-<img src="{{ "/blog-media/2017/vadlogo-current.png" | prepend: site.baseurl | prepend: site.url }}" alt="Velociraptor Aerospace Dynamics logo (current)" class="img-responsive img-md pull-right">In 2011, I started [Velociraptor Aerospace Dynamics](https://vad.solutions/).
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/vadlogo-current.png" alt="Velociraptor Aerospace Dynamics logo (current)" class="img-responsive img-md pull-right">In 2011, I started [Velociraptor Aerospace Dynamics](https://vad.solutions/).
 The reasoning was practical: In 2010, I had made over $1,000 from Google ads, and once you hit $800 in miscellaneous net revenue, the IRS basically considers you a small business, whether you like it or not.
 At that point, it makes sense to go the full route, forming an LLC (a perk of living in Nevada is cheap, easy LLCs), tracking expenses against revenue, etc.
 
@@ -23,19 +23,19 @@ While on a trip to Boston in April 2011, I created what would become the first V
 I don't consider myself an artist, but knew what I wanted it to look like: a raptor riding a falling nuclear bomb while waving a hat, ala Slim Pickens's Major Kong in [Dr. Strangelove](https://en.wikipedia.org/wiki/Dr._Strangelove).
 Using my ThinkPad's TrackPoint to draw in Inkscape, I sketched it out.
 
-<img src="{{ "/blog-media/2017/vadlogo-reallyold.png" | prepend: site.baseurl | prepend: site.url }}" alt="VAD logo (really old)" class="img-responsive img-md">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/vadlogo-reallyold.png" alt="VAD logo (really old)" class="img-responsive img-md">
 
 Predictably, it wasn't that great.
 A three-year-old with crayons could have done better.
 
-<img src="{{ "/blog-media/2017/vadlogo-old.png" | prepend: site.baseurl | prepend: site.url }}" alt="VAD logo (old)" class="img-responsive img-md">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/vadlogo-old.png" alt="VAD logo (old)" class="img-responsive img-md">
 
 A few weeks later, I found my old Wacom tablet and gave it another go, with much better success.
 I was able to clean up and simplify the raptor, and it ended up being almost exactly what I wanted.
 The bomb looked okay, but was still pretty rough, and my knowledge of Inkscape wasn't good enough to clean it up sufficiently.
 When using the logo in media, I'd usually export it to PNG, bring it into Photoshop/Gimp and add color manually.
 
-<img src="{{ "/blog-media/2017/vadlogo-notquitecurrent.png" | prepend: site.baseurl | prepend: site.url }}" alt="VAD logo (not quite current)" class="img-responsive img-md">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/vadlogo-notquitecurrent.png" alt="VAD logo (not quite current)" class="img-responsive img-md">
 
 In 2014, I did a major revision of the logo.
 The bomb was completely recreated digitally; that is to say, one node at a time, and it looks much more clip-arty (which was the original intent).
@@ -58,7 +58,7 @@ A few months ago, I imported the logo (along with the previous two attempts for 
 SVG is basically code, and changes are hence easy to track, so Git was a logical idea.
 And recently I spent a day and did a lot of work under the hood.
 
-<img src="{{ "/blog-media/2017/vadlogo-current.png" | prepend: site.baseurl | prepend: site.url }}" alt="Velociraptor Aerospace Dynamics logo (current)" class="img-responsive img-md">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/vadlogo-current.png" alt="Velociraptor Aerospace Dynamics logo (current)" class="img-responsive img-md">
 
 The raptor's been completely redone.
 Before, the body outline was a two-dimensional path; now it's a single curved line with a uniform thickness, equal to the bomb outline.

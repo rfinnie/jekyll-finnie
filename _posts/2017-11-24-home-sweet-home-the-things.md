@@ -10,7 +10,7 @@ title: 'Home Sweet Home: The "Things"'
 ---
 It all began a year ago with a dot.
 
-Late last year, when [replacing all my home's lights with LEDs](https://www.finnie.org/2017/02/05/home-sweet-home-light-bulbs/) (among other projects), I had been spending a lot of time at Home Depot and Lowes.  While at Lowes in November 2016, I noticed they sold Amazon Echo products, and the Echo Dot was only $50.  I picked one up and started playing with it.
+Late last year, when [replacing all my home's lights with LEDs]({{ site.url }}{{ site.baseurl }}{% post_url 2017-02-05-home-sweet-home-light-bulbs %}) (among other projects), I had been spending a lot of time at Home Depot and Lowes.  While at Lowes in November 2016, I noticed they sold Amazon Echo products, and the Echo Dot was only $50.  I picked one up and started playing with it.
 
 Echo mostly works as you'd expect from a Siri-like device: you say "Alexa, ..." and it responds.  The full-sized Echo supposedly has decent sound, but the Dot is compact and has, at best, satisfactory sound for music.  However, if you want you may hook it up to a speaker via Bluetooth, and that works well.  I'll usually wake up with "Alexa, play some music", and it often does a good job figuring out music I would like to hear.  "Alexa, what's the weather like?"  "Alexa, what movies are playing?"  Etc.  A little limited in day to day functionality, but worth the $50 as a novelty.
 
@@ -18,7 +18,7 @@ But I was drawn to the developer functionality.  I wrote a few apps, one of whic
 
 I was also curious about the "smart home" integration possibilities.  I had mostly dismissed the the whole "Internet of Things" idea as gimmicky, but there was one specific use case I could think of for me personally.  The backyard patio lights are a string of overhead lights which run to the side of the house and attach to a standard outdoor outlet which is in a slightly inconvenient location.  I had been thinking of ways to fix this, and a weatherproof remote controlled relay switch would be useful.
 
-<img src="{{ "/blog-media/2017/smartthings-screenshot.png" | prepend: site.baseurl | prepend: site.url }}" alt="SmartThings screenshot" class="img-responsive img-rounded img-md pull-right">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/smartthings-screenshot.png" alt="SmartThings screenshot" class="img-responsive img-rounded img-md pull-right">
 The Samsung SmartThings hub was on sale on Black Friday 2016 for $50 (which as of 2017 is now its regular price), got good reviews, and seemed to have the best variety of device support.  Its two main supported protocols are ZigBee and Z-Wave.  Both are point-to-point mesh networks: you can pair both Device A and Device B to your hub, and if, say, Device B is not within range of the hub but can talk to Device A, Device A will relay the commands for it.  It also supports several other Internet-connected services, such as the thermostat I already happened to have.
 
 I bought the SmartThings hub, as well as a weatherproof control module.  The pairing process was simple: press a button on the module to initiate pairing, accept it on the smartphone app, and now I could turn the patio lights on and off from my phone.  It also has Alexa integration, so once those were paired, I could say "Alexa, turn on patio lights".
@@ -31,7 +31,7 @@ With enough work, I could have reverse engineered the Iris outlet and written my
 
 An interesting feature of these Iris outlets is, while they are controlled via ZigBee, they also have a Z-Wave radio in them and can act as Z-Wave repeaters, strengthening the Z-Wave mesh as a whole.  However, SmartThings does not know about Z-Wave devices which literally do nothing but act as a repeater, so when I added the Z-Wave side, it would fall back to a switched outlet.  Not really a problem (in the phone UI, it would show a switch to toggle which did nothing), but it did inspire me to learn Groovy and how to write device handlers, and I wrote [a proper device handler for Z-Wave repeaters](https://github.com/rfinnie/smartthings/tree/master/devicetypes/rfinnie/zwave-repeater.src).  It was actually a surprising amount of work to write a handler for a device which does literally nothing.
 
-<img src="{{ "/blog-media/2017/temperature-graph.png" | prepend: site.baseurl | prepend: site.url }}" alt="Temperature graph" class="img-responsive img-rounded img-lg">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/temperature-graph.png" alt="Temperature graph" class="img-responsive img-rounded img-lg">
 
 Since then, I went a little overboard in the novelty of it, and have bought a number of additional devices.  As of now, the current list is:
 

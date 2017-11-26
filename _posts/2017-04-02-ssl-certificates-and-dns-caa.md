@@ -6,7 +6,7 @@ excerpt_standalone: true
 layout: post
 title: SSL certificates and DNS CAA
 ---
-Late last year, [I converted all of my web sites to SSL with Let's Encrypt](https://www.finnie.org/2016/12/18/sure-lets-encrypt/).
+Late last year, [I converted all of my web sites to SSL with Let's Encrypt]({{ site.url }}{{ site.baseurl }}{% post_url 2016-12-18-sure-lets-encrypt %}).
 Since then, I've made sure other SSL-enabled services have proper trusted certificates, such as my mail server and XMPP server.
 Historically, those types of services, when SSL enabled, tended to be self-signed certificates.
 For example, while MX mail servers on the Internet often are TLS enabled, trust is almost never checked or enforced because it is assumed few people or organizations would pay extra money for a non-web service.

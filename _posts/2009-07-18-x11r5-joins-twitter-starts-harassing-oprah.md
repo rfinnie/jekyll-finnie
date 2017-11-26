@@ -8,7 +8,7 @@ wp_id: 952
   <a href="https://www.flickr.com/photos/fo0bar/3587751864/" title="X11R5 on the street by Ryan Finnie, on Flickr"><img src="https://farm4.static.flickr.com/3641/3587751864_d926a09af9_m.jpg" width="240" height="180" alt="X11R5 on the street" /></a>
 </div>
 
-[Last month](https://www.finnie.org/2009/06/19/beep/), I briefly introduced you to [X11R5](http://identi.ca/x11r5), a [Markov bot](http://en.wikipedia.org/wiki/Markov_chain) on [Identica](http://identi.ca/).
+[Last month]({{ site.url }}{{ site.baseurl }}{% post_url 2009-06-19-beep %}), I briefly introduced you to [X11R5](http://identi.ca/x11r5), a [Markov bot](http://en.wikipedia.org/wiki/Markov_chain) on [Identica](http://identi.ca/).
 
 X11R5's history actually goes back a few years, as an IRC bot. He learns from chatter on a few select IRC channels, responds to direct queries, and when the channels are idle, he occasionally blathers randomly. Those blathers are recorded in a database, and are used to power [x11r5.com](https://www.x11r5.com/), including an [RSS feed](https://www.x11r5.com/x11r5.rss) that was then simulcast to [Twitter](http://twitter.com/x11r5) and [Identica](http://identi.ca/x11r5).
 

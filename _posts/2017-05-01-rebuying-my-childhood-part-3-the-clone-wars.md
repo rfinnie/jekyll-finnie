@@ -8,7 +8,7 @@ layout: post
 title: 'Re-Buying My Childhood, Part 3: The Clone Wars'
 ---
 This is a continuation of my *Re-Buying My Childhood* series.
-Please see the previous two entries, *[eBay Does What Nintendon't](https://www.finnie.org/2017/04/29/rebuying-my-childhood-part-1-ebay-does-what-nintendont/)* and *[Send in the Clones](https://www.finnie.org/2017/04/30/rebuying-my-childhood-part-2-send-in-the-clones/)*.
+Please see the previous two entries, *[eBay Does What Nintendon't]({{ site.url }}{{ site.baseurl }}{% post_url 2017-04-29-rebuying-my-childhood-part-1-ebay-does-what-nintendont %})* and *[Send in the Clones]({{ site.url }}{{ site.baseurl }}{% post_url 2017-04-30-rebuying-my-childhood-part-2-send-in-the-clones %})*.
 
 ---
 

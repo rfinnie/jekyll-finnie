@@ -31,7 +31,7 @@ SSDs really didn't exist until the SATA era.
 CompactFlash to IDE adapters are available, but most of the ones I've seen are "loose" (not in a form factor emulating a standard physical drive size), and besides, CompactFlash is basically obsolete too.
 SD to IDE adapters exist and I've tried a few over the years, but compatibility tends to be terrible, and the interface is slow.
 
-<img src="{{ "/blog-media/2017/m2-to-44pin-ide.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="HP 15-f019dx" class="img-responsive img-rounded img-lg">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2017/m2-to-44pin-ide.jpg" alt="HP 15-f019dx" class="img-responsive img-rounded img-lg">
 
 But the other day, I found something I didn't expect to exist: an M.2 SATA (up to 2280 length) to 44-pin IDE adapter, housed in a 2.5" enclosure.
 And from what I read at the time, supposedly they worked well.

@@ -8,7 +8,7 @@ wp_id: 1070
 ---
 [<img src="https://farm4.static.flickr.com/3533/4015374963_1fa1941d75.jpg" width="500" height="355" alt="CC Debt vs. Savings (10/16/2009)" />](https://www.flickr.com/photos/fo0bar/4015374963/ "CC Debt vs. Savings (10/16/2009) by Ryan Finnie, on Flickr")
 
-In 2000, I got my first credit card, a Capital One card with a $300 limit. Ever since then I have been in credit card debt. 2½ years ago, I was $15,000 in credit card debt and had virtually no savings. 1 year ago, I wasn't doing much better. This year, for a new years resolution, [I vowed to get out of credit card debt](https://www.finnie.org/2009/01/28/hello-interest-free-loan-to-the-government/).
+In 2000, I got my first credit card, a Capital One card with a $300 limit. Ever since then I have been in credit card debt. 2½ years ago, I was $15,000 in credit card debt and had virtually no savings. 1 year ago, I wasn't doing much better. This year, for a new years resolution, I vowed to get out of credit card debt.
 
 Today, I made a final $914.34 payment, and with that, I have eliminated nearly a decade of credit card debt.
 
@@ -41,7 +41,7 @@ How did I do it? There is a wealth of information available available on the web
     
     Also, keep in mind that [Regulation D](https://www.ufcu.org/tools/help/reg_d_faq.php) places a limit of six withdrawals per month on online transfers, so be careful when transferring from a savings account to a savings account. Checking to savings is unlimited, which is why I prefer having my entire paycheck direct deposited into my checking account, then using automated transfers to go to their final destinations.
 
-  7. **Build a safety net into your checking account.** [I went into this in more detail in a previous blog post](https://www.finnie.org/2009/09/27/build-a-safety-net-into-your-checking-account/), but reduce the perceived balance of your checking account by a few hundred dollars. This will make it less likely that you will need to dig into savings, go to a credit card, or, worst of worst, go to a payday loan place due to irregularities from month to month. Once you do this, tell your bank to cancel overdraft protection on your account if they offer an opt-out, as this service can often do more harm than good.
+  7. **Build a safety net into your checking account.** [I went into this in more detail in a previous blog post]({{ site.url }}{{ site.baseurl }}{% post_url 2009-09-27-build-a-safety-net-into-your-checking-account %}), but reduce the perceived balance of your checking account by a few hundred dollars. This will make it less likely that you will need to dig into savings, go to a credit card, or, worst of worst, go to a payday loan place due to irregularities from month to month. Once you do this, tell your bank to cancel overdraft protection on your account if they offer an opt-out, as this service can often do more harm than good.
 
   8. **Reduce expenses.** Cancel your cable and apply it to your debt/savings. Cancel that MMO you never play any more. Stop going to Starbucks. There is usually plenty of low-hanging fruit to pick from. Each time you receive a lump sum (say, a gift or a rebate), deposit it in savings. When you save recurring monthly costs through reducing expenses, set up automatic transfers to your savings. Most brick-and-mortar banks allow an unlimited number of transfers out of checking, and most Internet banks allow an unlimited number of transfers into savings, so it works well.
     

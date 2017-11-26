@@ -11,7 +11,7 @@ wp_id: 2369
   
 ([Is it green? Yes, very.](https://www.youtube.com/watch?v=7e7R3y-qwZ0&t=4m7s))
 
-[Six years ago](https://www.finnie.org/2008/05/19/new-bike-also-riding-of-said-bike/), I bought a $360 entry-level "hybrid" bike from a local bike shop. This weekend, I decided to step up to the next level... by buying a $200 big-box bike from Target. Wait, what?
+[Six years ago]({{ site.url }}{{ site.baseurl }}{% post_url 2008-05-19-new-bike-also-riding-of-said-bike %}), I bought a $360 entry-level "hybrid" bike from a local bike shop. This weekend, I decided to step up to the next level... by buying a $200 big-box bike from Target. Wait, what?
 
 When I bought my last bike, I knew almost nothing about bikes, went into a shop armed with only a little research, and walked out with something. It was a decent quality bike, but there were lots of things I ultimately didn't like about it. It was billed as a "hybrid" bike, but it would be hard to explain how it was different from a mountain bike. The handlebars were way too high and I didn't like the curve of them. (The stem was adjustable, and I eventually did lower it down, but that brought it very far forward.) It was quite heavy. The tires were very wide and very knobby. I didn't like the front fork suspension. It was very high up and the seatpost had its own suspension which took up a lot of space, and as a result the lowest possible position of the saddle was the bare minimum acceptable for me. And while it had a partial chain guard, I never used the front high or low gear.
 

@@ -25,7 +25,7 @@ With a few small bumps<sup>[2]</sup>, that strategy worked well. However, a LOT 
   * Mumble/Murmur
   * rsyncd (Finnix mirrors)
   * [2ping](https://www.finnie.org/software/2ping/) listener
-  * The all-important [TCPMUX](https://www.finnie.org/2010/02/13/in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server/) server
+  * The all-important [TCPMUX]({{ site.url }}{{ site.baseurl }}{% post_url 2010-02-13-in-tcpmuxd-a-secure-rfc-compliant-tcpmux-server %}) server
   * Various AI, TTS, text manipulation and audio utilities for [X11R5](https://www.x11r5.com/) and the [Cybersauce Broadcasting Corporation](https://www.x11r5.com/radio/)
 
 As of Monday, everything is now running off the new precise install. I installed this server over LVM, and have only allocated about 500GB of the 1.5TB usable space. There is a relatively small 120GB root partition, a 160GB /home partition, and a 250GB /srv partition. The idea is not much more than the OS should be on root (and should never need more than 120GB), /home is self explanatory, and all projects (web sites, etc) go in /srv. If /home or /srv need to be expanded, it can be done remotely relatively easily by umounting them, expanding the partitions using LVM, and running resize2fs. I've also left most of the space unallocated in case I want to run KVM guests some day, though I don't have an immediate need.

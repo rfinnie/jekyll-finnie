@@ -6,7 +6,7 @@ tags:
 title: Ubuntu 14.04 (Trusty Tahr) on the Raspberry Pi 2
 wp_id: 2420
 ---
-UPDATE: [I've created a proper Ubuntu 14.04 image for the Raspberry Pi 2.](https://www.finnie.org/2015/02/16/raspberry-pi-2-update-ubuntu-14-04-image-available/)
+UPDATE: [I've created a proper Ubuntu 14.04 image for the Raspberry Pi 2.]({{ site.url }}{{ site.baseurl }}{% post_url 2015-02-16-raspberry-pi-2-update-ubuntu-14-04-image-available %})
 
 My [Raspberry Pi 2](https://www.raspberrypi.org/raspberry-pi-2-on-sale/) arrived yesterday, and I started playing with it today. Unlike the original Raspberry Pi which had an ARMv6 CPU, the Raspberry Pi 2 uses a Broadcom BCM2836 (ARMv7) CPU, which allows for binary compatibility with many distributions' armhf ports. However, it's still early early in the game, and since ARM systems have little standardization, there isn't much available yet. [Raspbian](http://raspbian.org/) works, but its userland still uses ARMv6-optimized binaries. Ubuntu has an early beta of [Ubuntu Snappy](https://www.ubuntu.com/cloud/tools/snappy), but Snappy is a much different environment than "regular" Ubuntu.
 

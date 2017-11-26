@@ -8,7 +8,7 @@ wp_id: 1024
 ---
 I had been meaning to post about this, but it happened right before I left for Burning Man and I let it slip. Nevertheless, do NOT buy an EFiX. Art Studios is a horribly managed company that has screwed me, all early adopters (most of their userbase), and they will eventually screw you too.
 
-Last September, [I bought an EFiX](https://www.finnie.org/2008/09/17/dood-im-getting-a-mac-kind-of/) directly from their USA store. And then I waited, and waited. It took nearly a month to receive it, during which I was unable to get a response from them. The forums were useless too, with them saying that "EFiX USA" was an unrelated 3rd party reseller that they had no control over. Uh huh. I was literally just about to call my credit card company to dispute the charges when it arrived.
+Last September, I bought an EFiX directly from their USA store. And then I waited, and waited. It took nearly a month to receive it, during which I was unable to get a response from them. The forums were useless too, with them saying that "EFiX USA" was an unrelated 3rd party reseller that they had no control over. Uh huh. I was literally just about to call my credit card company to dispute the charges when it arrived.
 
 For the most part, the hardware just worked. The biggest annoyance was the firmware updates. The firmware must be updated through a control panel application which transparently contacts their download server... and the download server was down half the time. Occasionally I'd have to update the firmware before I could install an OS X point release (10.5.3 to 10.5.4, for example), but if you did that, pretty much everything Just Worked.
 

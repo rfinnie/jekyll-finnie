@@ -6,7 +6,7 @@ headline_image: https://c1.staticflickr.com/3/2883/33502890734_d594eb745c_b.jpg
 layout: post
 title: 'Re-Buying My Childhood, Part 2: Send in the Clones'
 ---
-In [my last post](https://www.finnie.org/2017/04/29/rebuying-my-childhood-part-1-ebay-does-what-nintendont/), I detailed the last six months of re-buying my old Nintendo systems and cartridges, beginning with a Game Boy Color back in October, after watching a few videos online during the NES Classic Edition hype.
+In [my last post]({{ site.url }}{{ site.baseurl }}{% post_url 2017-04-29-rebuying-my-childhood-part-1-ebay-does-what-nintendont %}), I detailed the last six months of re-buying my old Nintendo systems and cartridges, beginning with a Game Boy Color back in October, after watching a few videos online during the NES Classic Edition hype.
 
 <a href="https://www.flickr.com/photos/fo0bar/33502891574/in/album-72157683206318665/" title="GB Boy Colour (Game Boy Color clone)"><img src="https://c1.staticflickr.com/3/2833/33502891574_ce8956f245_b.jpg" class="img-responsive img-rounded img-md pull-right" alt="GB Boy Colour (Game Boy Color clone)"></a>
 Actually, a few details were left out.
@@ -134,4 +134,4 @@ This system has you covered.
 
 I now have more clone consoles than authentic retro consoles.
 By why stop at hardware?
-Tomorrow, [part three: The Clone Wars](https://www.finnie.org/2017/05/01/rebuying-my-childhood-part-3-the-clone-wars/).
+Tomorrow, [part three: The Clone Wars]({{ site.url }}{{ site.baseurl }}{% post_url 2017-05-01-rebuying-my-childhood-part-3-the-clone-wars %}).

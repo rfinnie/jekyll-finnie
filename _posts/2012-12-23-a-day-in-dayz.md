@@ -4,7 +4,7 @@ layout: post
 title: A Day in DayZ
 wp_id: 2203
 ---
-This is the post I intended to make two weeks ago, as a follow-up to [an introductory post on DayZ](https://www.finnie.org/2012/12/10/dayz-will-consume-you/). It details a rich, full day in the game two Sundays ago. It helps to reference [this map](http://dayzdb.com/map) when understanding the locations in the game. Mind you, until this point, I could have counted the number of times I had been in a vehicle on my hands, but in this exciting day, I was in five.
+This is the post I intended to make two weeks ago, as a follow-up to [an introductory post on DayZ]({{ site.url }}{{ site.baseurl }}{% post_url 2012-12-10-dayz-will-consume-you %}). It details a rich, full day in the game two Sundays ago. It helps to reference [this map](http://dayzdb.com/map) when understanding the locations in the game. Mind you, until this point, I could have counted the number of times I had been in a vehicle on my hands, but in this exciting day, I was in five.
 
 I logged in to a server and spawned by Cap Golova as a fresh survivor. I hadn't played on the main hive in a week or so (hives store your player's state and equipment), so I didn't remember why I had died previously. There is a lighthouse at Cap Golova, and next to the lighthouse is the best chance to find a fully working bicycle, so I checked. Sure enough, there was one. Since I had no equipment, nothing to lose, and a bike, a fun thought entered my mind: I was going to ride up to the Northwest Airfield and ride around the runways. Northwest Airfield is a hotspot for combat action, since it spawns the most military weapons, and my plan was essentially a (fun) suicide mission.
 

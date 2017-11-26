@@ -6,7 +6,7 @@ excerpt: While native Linux md RAID 10 works well, its main problem is it doesn'
 layout: post
 title: Linux md RAID 10 disk layout, updated
 ---
-[Back in 2012](https://www.finnie.org/2012/11/04/linux-md-raid-10-disk-layout/), I wrote about how to identify the individual components of a Linux md RAID 10 array.
+[Back in 2012]({{ site.url }}{{ site.baseurl }}{% post_url 2012-11-04-linux-md-raid-10-disk-layout %}), I wrote about how to identify the individual components of a Linux md RAID 10 array.
 mdraid recently (within the last decade, that is) allows for native RAID 10 arrays, whereas before the normal method would have been to create two sets of RAID 1 arrays, then combine those arrays into a RAID 0 array.
 
 While native RAID 10 has worked well over the last 5 years, its main problem is it doesn't indicate what each individual disk is doing.

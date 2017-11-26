@@ -5,7 +5,7 @@ excerpt_standalone: true
 layout: post
 title: A brave new world of blogging
 ---
-About a month ago, [I converted my blogs over to Jekyll](https://www.finnie.org/2016/12/16/blog-sites-updated/).
+About a month ago, [I converted my blogs over to Jekyll]({{ site.url }}{{ site.baseurl }}{% post_url 2016-12-16-blog-sites-updated %}).
 (I've also made the leap and converted all of my web sites over to HTTPS, and upgraded my main colo box from Ubuntu 14.04 to 16.04, taking the opportunity to retire a ton of old PHP code during the upgrade from PHP 5 to PHP 7.
 It's been a busy few weeks.)
 
@@ -14,7 +14,7 @@ This was mostly for my own benefit, and I certainly could have kept the reposito
 
 At the bottom of each page, I do have a small "Git source" link to the corresponding page on GitHub.
 I didn't expect anyone would really notice, and I certainly did not expect anyone to make a pull request against the repositories.
-So I was surprised when I saw [this pull request](https://github.com/rfinnie/jekyll-finnie/pull/1), by someone who fixed the formatting on [one of my imported posts](https://www.finnie.org/2010/03/07/external-temperature-monitoring-with-linux/).
+So I was surprised when I saw [this pull request](https://github.com/rfinnie/jekyll-finnie/pull/1), by someone who fixed the formatting on [one of my imported posts]({{ site.url }}{{ site.baseurl }}{% post_url 2010-03-07-external-temperature-monitoring-with-linux %}).
 
 Unexpected, but certainly welcome!
 So feel free to open Issues or PRs against those repositories, but I would discourage you from actually writing new posts and asking for them to be published via a PR.

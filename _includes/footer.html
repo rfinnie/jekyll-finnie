@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="container">
     <p>
-      {% if site.git_web_base %}<a href="{{ page.path | prepend: site.git_web_base }}">Git source</a> •{% endif %}
+      {% if site.git_web_base %}<a href="{{ site.git_web_base }}{{ page.path }}">Git source</a> •{% endif %}
       <a href="http://www.finnie.org/">Ryan Finnie</a>
     </p>
   </div>

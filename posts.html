@@ -13,7 +13,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
       </td>
       <td>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         {% if post.excerpt_standalone %}<br/><span class="post-meta"><span class="post-excerpt">{{ post.excerpt }}</span></span>{% endif %}
       </td>
       </tr>
