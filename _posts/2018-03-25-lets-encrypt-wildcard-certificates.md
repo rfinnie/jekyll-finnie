@@ -11,7 +11,7 @@ About a week ago [they announced wildcard support](https://community.letsencrypt
 
 Let's Encrypt only supports wildcard registration via the ACME v2 protocol and dns-01 validation.  I'm not exactly sure why it's dns-01 only, as they are not checking multiple subdomains, just using the TXT record of _acme-challenge.example.com to validate *.example.com.  Unless I'm missing something, http-01 validation on example.com would be just as secure.
 
-In my case, this means configuring BIND for secure dynamic updates.  [The documentation for certbot-dns-rfc2136](https://github.com/certbot/certbot/tree/master/certbot-dns-rfc2136) is straightforward, but complicated by the fact that my zones are DNSSEC signed, so BIND itself needs to be able to re-sign the zone on the fly.  (In my case, I re-sign the zones myself after making zone updates.)  Ultimately I split out nocache.vsix.us to its own zone and configured BIND so it could re-sign upon update.
+In my case, this means configuring BIND for secure dynamic updates.  [The documentation for certbot-dns-rfc2136](https://certbot-dns-rfc2136.readthedocs.io/) is straightforward, but complicated by the fact that my zones are DNSSEC signed, so BIND itself needs to be able to re-sign the zone on the fly.  (In my case, I re-sign the zones myself after making zone updates.)  Ultimately I split out nocache.vsix.us to its own zone and configured BIND so it could re-sign upon update.
 
 `certbot` needs to be at least version 0.22 to support ACME v2, needed for wildcard.  The Ubuntu PPA includes 0.22.2 as of this writing, but it does not include `certbot-dns-rfc2136` needed for dns-01 validation.  But it's relatively easy to install manually:
 
