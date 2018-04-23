@@ -52,29 +52,29 @@ dsari_run_duration_seconds_sum{job_name="sample1"} 112009.71985500008
 
 # HELP dsari_last_run_exit_code Numeric exit code of the last run for a job
 # TYPE dsari_last_run_exit_code gauge
-dsari_last_run_exit_code{job_name="o1"} 143
+dsari_last_run_exit_code{job_name="sample1"} 143
 
 # HELP dsari_last_run_schedule_time Schedule time of the last run for a job, seconds since epoch
 # TYPE dsari_last_run_schedule_time gauge
-dsari_last_run_schedule_time{job_name="o1"} 1524347585.946814
+dsari_last_run_schedule_time{job_name="sample1"} 1524347585.946814
 
 # HELP dsari_last_run_start_time Start time of the last run for a job, seconds since epoch
 # TYPE dsari_last_run_start_time gauge
-dsari_last_run_start_time{job_name="o1"} 1524347824.892004
+dsari_last_run_start_time{job_name="sample1"} 1524347824.892004
 
 # HELP dsari_last_run_stop_time Stop time of the last run for a job, seconds since epoch
 # TYPE dsari_last_run_stop_time gauge
-dsari_last_run_stop_time{job_name="o1"} 1524347913.404784
+dsari_last_run_stop_time{job_name="sample1"} 1524347913.404784
 
 # HELP dsari_run_count Number of runs performed for a job
 # TYPE dsari_run_count counter
-dsari_run_count{job_name="o1"} 1300
+dsari_run_count{job_name="sample1"} 1300
 
 # HELP dsari_run_failure_count Number of failed runs performed for a job
 # TYPE dsari_run_failure_count counter
-dsari_run_failure_count{job_name="o1"} 56
+dsari_run_failure_count{job_name="sample1"} 56
 
 # HELP dsari_run_success_count Number of successful runs performed for a job
 # TYPE dsari_run_success_count counter
-dsari_run_success_count{job_name="o1"} 1244
+dsari_run_success_count{job_name="sample1"} 1244
 ```
