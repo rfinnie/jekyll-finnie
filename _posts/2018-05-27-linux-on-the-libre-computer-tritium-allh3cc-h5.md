@@ -16,7 +16,7 @@ Last year I found a Kickstarter for the [Libre Computer Tritium](https://www.kic
 
 The hardware is slick and good quality, and indeed it fits in standard Raspberry Pi cases (though the chip layout isn't identical, so cases which expect e.g. a heatsinked SoC chip to be in a certain place won't be compatible).  When it arrived, I started looking at what to do with it.
 
-Here's where the company sort of dropped the ball, in my opinion.  They offer 3 models; a 512MiB Allwinner H2+ and a 1 GiB Allwinner H3 (the H2+ and H3 are effectively identical 32-bit SoCs), and a 2 GiB 64-bit Allwinner H5 (which is what I got).  The H5 is effectively a completely different and incompatible SoC to the H2+/H3.  Further confusing the matter is the model name for all three is "ALL-H3-CC".
+Here's where the company sort of dropped the ball, in my opinion.  They offer 3 models: a 512MiB Allwinner H2+ and a 1 GiB Allwinner H3 (the H2+ and H3 are effectively identical 32-bit SoCs), and a 2 GiB 64-bit Allwinner H5 (which is what I got).  The H5 is effectively a completely different and incompatible SoC to the H2+/H3.  Further confusing the matter is the model name for all three is "ALL-H3-CC".
 
 As of this writing, there is only a single [WiP Armbian image](https://www.armbian.com/tritium-h3/), but just for the H2+/H3.  The comments on the Kickstarter page are understandably confused, with people trying to use that image on their H5 and getting no video or activity other than a red power LED.  I did some digging and found the ALL-H3-CC H5 is very similar to [Orange Pi PC 2](https://www.armbian.com/orange-pi-pc2/), which has a supported image.  I tried it out, and it mostly works.  HDMI video (and presumably audio), USB and serial all work, but Ethernet does not (but a random USB Ethernet adapter I added worked fine).  I posted my findings on the Kickstarter comments section to help people at least verify their hardware is working until official images are produced.
 
@@ -26,7 +26,7 @@ Turns out [U-Boot](https://www.denx.de/wiki/U-Boot) has everything needed for bo
 
 Traditionally, U-Boot works more like [lilo](https://en.wikipedia.org/wiki/LILO_(boot_loader)) did back in the day.  Write a boot script, it points to a kernel and initrd at specific locations and boots them.  If you're fancy, you might have the option to boot a backup kernel.  But U-Boot has a recent party trick on supported platforms: UEFI booting.  Let's have U-Boot hand off to GRUB to do the actual boot management!
 
-On my system, the first partition on the SD card is 2048 512-byte sectors in, 512 MiB long, MBR partition type "ef", vfat-formatted.  2048 for the first sector has been the default for a long time, but is important here since the SoC expects the boot code to be 8 KiB from the beginning of the disk, and that's where you wrote it to as part of the U-Boot compilation above.  MBR is required since 8 KiB in on a GPT is actively used for partition data.  (I didn't even know and EFI System Partition was even possible on an MBR until today; thought it was GPT only.)  512 MiB length is quite overkill, but I'd recommend at least 64 MiB.
+On my system, the first partition on the SD card is 2048 512-byte sectors in, 512 MiB long, MBR partition type "ef", vfat-formatted.  2048 for the first sector has been the default for a long time, but is important here since the SoC expects the boot code to be 8 KiB from the beginning of the disk, and that's where you wrote it to as part of the U-Boot compilation above.  MBR is required since 8 KiB in on a GPT is actively used for partition data.  (I didn't even know an EFI System Partition was even possible on an MBR until today; thought it was GPT only.)  512 MiB length is quite overkill, but I'd recommend at least 64 MiB.
 
 The EFI partition layout looks as follows (relative to the partition, which I have mounted as `/boot/efi`):
 
@@ -84,16 +84,3 @@ michelle
 (Futurama naming scheme, if you're wondering about the hostname.)
 
 If you're one of the approximately 500 people who got an H5 as part of the Kickstarter, I hope you find this information useful.  Sorry I can't go as far as making a ready-to-use image.  If you're just looking for something to run on the H5 immediately, I'd recommend the [Orange Pi PC 2 image](https://www.armbian.com/orange-pi-pc2/), as described above.  Just add a standard USB Ethernet adapter and you should be good.
-
-
-
-
-
-
-
-
-
-
-
-
-
