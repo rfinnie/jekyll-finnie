@@ -102,3 +102,7 @@ article {
   max-width: 640px;
   height: auto;
 }
+
+h1.post-title, h2.post-title {
+  font-size: 36px;
+}
