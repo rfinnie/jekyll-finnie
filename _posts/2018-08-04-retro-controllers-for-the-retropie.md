@@ -48,6 +48,8 @@ The original SNES controller is widely considered to be the best controller of i
 
 You will need a USB adapter for the SNES controller, but those are readily available online.  I've got a pair of 15 year old Lik-Sang (rest in peace) adapters, which oddly aren't recognized by EmulationStation, despite appearing as standard USB gamepads on everything else I've used them on over the years.  I haven't actually looked into why they're not being recognized yet, but these specific adapters haven't been made in literally decades and plenty of other modern equivalent models exist.
 
+*Edit: Turns out the Lik-Sang Super SmartJoy consumes too much current for the Raspberry Pi.  Daisy chaining it through a powered USB hub works fine.*
+
 ## Playstation DualShock 4
 
 <img src="{{ site.url }}{{ site.baseurl }}/blog-media/2018/ds4-red.png" alt="Red DualShock 4" class="img-responsive img-rounded img-md pull-right">
