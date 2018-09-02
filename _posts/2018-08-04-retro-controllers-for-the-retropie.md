@@ -9,7 +9,7 @@ title: Retro controllers for the RetroPie
 ---
 <img src="{{ site.url }}{{ site.baseurl }}/blog-media/2018/retropie-sn30-pro.jpg" alt="RetroPie computer with 8Bitdo SN30 Pro" class="img-responsive img-rounded img-lg">
 
-*This post was originally part of a longer planned article about building a RetroPie game system.  That will be coming later.*
+*This post was originally part of [a longer article about building a RetroPie game system](https://www.finnie.org/2018/09/01/building-a-retropie-game-console/).*
 
 *Also, let me stress that controller design is a very personal preference, and has been known to cause intense discussions and the occasional bar fight.  The following are my own opinions.  Put down your pitchforks.*
 
