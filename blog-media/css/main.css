@@ -7,6 +7,7 @@ body {
 body > .container {
   padding-bottom: 20px;
   background-color: #ffffff;
+  border-radius: 0 0 18px 18px;
 }
 .post-meta {
   color: #7a838b;
@@ -62,6 +63,12 @@ body > .container {
 .img-lg {
   max-height: 480px;
   width: auto;
+}
+.img-md.img-rounded {
+  border-radius: 12px;
+}
+.img-lg.img-rounded {
+  border-radius: 18px;
 }
 .pull-right {
   margin-left: 1em;
