@@ -2,6 +2,7 @@
 title: Ryan Finnie
 description: Personal blog for Ryan Finnie
 author: Ryan Finnie
+twitter_via: fo0
 baseurl: ""
 url: "https://www.finnie.org"
 permalink: /:year/:month/:day/:title/
