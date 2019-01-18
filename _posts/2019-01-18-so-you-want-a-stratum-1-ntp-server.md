@@ -36,9 +36,13 @@ So now, let me present to you **MECCA: Measuring Expensive Cesium Clocks in the 
 
 <img src="{{ site.url }}{{ site.baseurl }}/blog-media/2019/mecca-gps-time-receiver-open.jpg" alt="MECCA GPS time receiver (open case)" class="img-responsive img-rounded img-lg">
 
-The RS-232 board is the Pololu 23201a.  The USB board is a random cheap micro USB header to supply 5V to the GPS receiver, which is an [Adafruit Ultimate GPS Breakout](https://www.adafruit.com/product/746).  The Adafruit receiver is quite expensive, about $40, but I chose it because it has an automatic external antenna header, something I didn't find on any of the $15 eBay modules.  But if you're in a relatively open area, the $15 modules with their built-in antennas should be fine.  The receiver has a 3.3V regulator which drives the TTL logic, but also powers the RS-232 board.  It's a pretty simple schematic; the hardest part was soldering the various VCC bridges (needed to keep DSR, CTS and RI high) on the breadboard connecting the RS-232 and USB boards to fit in the project box.  (I left the GPS receiver modular since it's the most expensive component of the setup.)
+The RS-232 board is the Pololu 23201a.  The USB board is a random cheap micro USB header to supply 5V to the GPS receiver, which is an [Adafruit Ultimate GPS Breakout](https://www.adafruit.com/product/746).  The Adafruit receiver is quite expensive, about $40, but I chose it because it has an automatic external antenna header, something I didn't find on any of the $15 eBay modules.  But if you're in a relatively open area, the $15 modules with their built-in antennas should be fine.
+
+The receiver has a 3.3V regulator which drives the TTL logic, but also powers the RS-232 board.  It's a pretty simple schematic; the hardest part was soldering the various VCC bridges (needed to keep DSR, CTS and RI high) on the breadboard connecting the RS-232 and USB boards to fit in the project box.  (I left the GPS receiver modular since it's the most expensive component of the setup.)
 
 <img src="{{ site.url }}{{ site.baseurl }}/blog-media/2019/mecca-1.0-schematic.png" alt="MECCA 1.0 schematic" class="img-responsive img-rounded img-lg">
+
+One thing to note if you go for the $15 bare module: The "enable" pin must also be tied to VCC to enable it.  On the Adafruit module, "enable" is pulled high by default and can be tied to ground to disable it.
 
 If you wanted to go more versatile, you could build something which supports USB **or** RS-232:
 
