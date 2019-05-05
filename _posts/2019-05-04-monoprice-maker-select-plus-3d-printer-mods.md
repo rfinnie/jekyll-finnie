@@ -6,7 +6,7 @@ headline_image: /blog-media/2019/monoprice-maker-select-plus.jpg
 layout: post
 title: Monoprice Maker Select Plus 3D printer mods
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2019/monoprice-maker-select-plus.jpg" alt="MECCA GPS time receiver" class="img-responsive img-rounded img-lg">
+<img src="{{ site.url }}{{ site.baseurl }}/blog-media/2019/monoprice-maker-select-plus.jpg" alt="Monoprice Maker Select Plus 3d printer" class="img-responsive img-rounded img-lg">
 
 About a month ago I bought a 3D printer, the [Monoprice Maker Select Plus](https://www.monoprice.com/product?p_id=15711).  This is a rebrand of the [Wanhao Duplicator i3 Plus](https://www.usawanhao.com/wanhao-duplicator-i3-plus-), and is also rebranded by several other manufacturers, including Aldi supermarkets in Australia.  Yes, really.
 
