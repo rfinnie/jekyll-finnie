@@ -1,6 +1,6 @@
 ---
 date: 2019-05-04 22:32:55-07:00
-excerpt: Wherein Ryan take up extrusion as a hobby
+excerpt: Wherein Ryan takes up extrusion as a hobby
 excerpt_standalone: true
 headline_image: /blog-media/2019/monoprice-maker-select-plus.jpg
 layout: post
@@ -14,7 +14,7 @@ About a month ago I bought a 3D printer, the [Monoprice Maker Select Plus](https
 
 I picked the Monoprice model because it's nearly fully assembled, requiring about 15 minutes of assembly to attach the two main components together, and it is well reviewed as producing decent prints out of the box.  This is an important consideration for a first 3D printer, and I was very lucky to have my first few prints go perfectly, so I had an idea what the process should look like, to compare when things are going wrong.
 
-And they will go wrong.  No 3D printer will be completely foolproof, and all require various levels of troubleshooting.  For all that I've learned in the last month, I feel confident that if I buy another printer, a kit would be easy and a completely-from-scratch build would be possible.  (From what I've seen, 3D printers are like cats: very few people who have more than zero only have one.  Some even have their houses overrun by them.)
+And they will go wrong.  No 3D printer will be completely foolproof, and all require various levels of troubleshooting.  For all that I've learned in the last month, I feel confident that if I buy another printer, a kit would be easy and a completely-from-scratch build would be possible.  (From what I've seen, 3D printers are like cats: people who have more than zero usually have more than one.  Some even have their houses overrun by them.)
 
 The second important factor in choosing the Monoprice is there is a lot of potential for customization, with a large community of Wanhao i3 owners.  And oh boy, have I modded it in the last month.  Strictly speaking, none of what I've done below is necessary, but this is a hobby, and all of it was fun.
 
