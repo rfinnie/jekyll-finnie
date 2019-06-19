@@ -10,7 +10,7 @@ title: So you want a Stratum 1 NTP server...
 
 <img src="{{ site.url }}{{ site.baseurl }}/blog-media/2019/mecca-gps-time-receiver.jpg" alt="MECCA GPS time receiver" class="img-responsive img-rounded img-lg">
 
-The [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) is an amazing piece of technology.  In very simple terms, GPS is a constellation of moving satellites which simply broadcast *when* they are, and rely on you to know *where* they can be in the sky.  Picking up one satellite by itself is useless.  Two let you determine your position to somewhere in a radial line around the Earth.  Three pinpoint you to a specific latitude and longitude (2D fix).  And four or more let you pinpoint elevation (3D fix).
+The [Global Positioning System](https://en.wikipedia.org/wiki/Global_Positioning_System) is an amazing piece of technology.  In very simple terms, GPS is a constellation of moving satellites which simply broadcast *when* they are, and rely on you to know *where* they can be in the sky.  Picking up one satellite by itself determines your position to within a hemisphere of Earth.  Two satellites reduce that down to a radial line.  Three pinpoint you to a specific latitude and longitude (2D fix).  And four or more let you pinpoint elevation (3D fix).
 
 To do this with any sort of accuracy, the clocks onboard the satellites must be extremely accurate.  GPS [atomic clocks](https://en.wikipedia.org/wiki/Atomic_clock) use cesium (or more recently, rubidium) as an oscillator, and are theoretically accurate to within 14 nanoseconds.  So great, you have a free source of high-precision timekeeping!  Just hook up a consumer GPS receiver to your computer and you have a Stratum 1 device, right?
 
