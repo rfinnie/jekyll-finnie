@@ -11,8 +11,7 @@ After a few iterations, I've got a recipe which is not 100% exact to Popeyes, bu
 
 * 4 cans (approx 15 oz each) red kidney beans, drained
 * 1 can beef broth
-* ½ can water
-* 1 chicken bouillon cube
+* 1 can chicken broth, or chicken bouillon cube and 1 can water
 * 2 tsp celery flakes
 * 2 tsp parsley flakes
 * 2 bay leaves
@@ -21,4 +20,9 @@ After a few iterations, I've got a recipe which is not 100% exact to Popeyes, bu
 * ½ tsp crushed red pepper
 * ¼ tsp cumin
 
-Combine all ingredients, cover and bring to a boil.  Reduce to a simmer for 30 minutes, stirring halfway.  Uncover, remove bay leaves and mash moderately (most but not all beans should be broken).  Leave uncovered, re-add bay leaves and simmer for another 30 minutes, stirring every 10 minutes.  Consistency should be a thick sauce.  Remove bay leaves.  Serve over rice.
+Combine all ingredients, cover and bring to a boil.
+Reduce to a simmer for 30 minutes, stirring halfway.
+Uncover, remove bay leaves and mash moderately; most but not all beans should be broken.
+(Now would be a good time to add sliced andouille sausage.)
+Leave uncovered, re-add bay leaves and simmer for another 30 minutes, stirring every 10 minutes.
+Consistency should be a thick sauce.  Remove bay leaves.  Serve over rice.
