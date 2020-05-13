@@ -21,6 +21,9 @@ top_links:
     - {title: "Debian", url: "http://qa.debian.org/developer.php?login=ryan@finnie.org"}
 keep_files:
   - .git
+  - blog-media
+include:
+  - blog-media
 cse_id: "015291346489371011935:ibw1sgqcayw"
 
 # Build settings
