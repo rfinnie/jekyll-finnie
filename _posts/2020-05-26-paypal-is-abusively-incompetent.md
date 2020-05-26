@@ -6,9 +6,17 @@ excerpt_standalone: true
 layout: post
 title: PayPal is abusively incompetent
 ---
+**&lt;update day="same"&gt;**They immediately responded with almost exactly what I predicted in the "What shouldn't I do?" section.  I've updated the counts below, we're now up to 11 different PayPal representatives.
+
+Seeing this was going nowhere, I filed a Better Business Bureau complaint against PayPal.  I let PayPal know, and turns out they have a form reply specific to when people tell them they've filed BBB complaints.  I don't know why I found that surprising; must happen a lot.
+
+This form reply stated they will wait to receive the complaint until they do anything. To be clear, filing a BBB complaint does not preclude PayPal from fixing the problem they caused until they receive the complaint. They are perfectly capable of fixing their problem, but are now explicitly refusing to, instead of leading me on.  At least this is closure, in the sense that they can stop lying to me regularly and repeatedly.
+
+And in case this goes viral, I am open to media inquiries.  Yes, I have a grudge.**&lt;/update&gt;**
+
 First of all, I want to apologize to the average reader reading this.  I know most people treat these sorts of grudge posts the digital equivalent of putting your hand at the side of your lowered head and walking by without making eye contact.  I get it, and I'm sorry for making you uncomfortable.  Instead, this post is intended to reach someone from one of the world's largest financial institutions.
 
-Short version: About two months ago, PayPal changed it so I can no longer access my account.  Since then, I've had **NINE** PayPal representatives "try" and fail to help me, and have been lied to multiple times.
+Short version: About two months ago, PayPal changed it so I can no longer access my account.  Since then, I've had ~~NINE~~ **ELEVEN** PayPal representatives "try" and fail to help me, and have been lied to multiple times.
 
 It used to be that when I logged in, it would ask security questions (mother's maiden name, last 4 SSN, etc).  Then they changed it so it tries to send a verification text to a cell number I haven't had in years.  This cell number I had explicitly removed from my profile, again, years ago.
 
@@ -28,7 +36,7 @@ I posted on my Twitter timeline about the chat experience, and that I've basical
 
 > Hi there, thanks for getting in touch with us. We have responded to the Direct message. Please check. Thanks for your patience. ^MJD
 
-And then the cycle begins again.  They'll ask a few token questions, and either stop responding, or tell me to go to chat support (which we've established will not help me).  Any time I mention PayPal publicly, I get a response eventually, but it never goes anywhere.  This has happened with **SIX** different PayPal representatives (at least judging by the initials at the end; add the 3 chat support attempts and we're at 9).  Twice they ended with promising to escalate to a "specialist", but will then disappear.
+And then the cycle begins again.  They'll ask a few token questions, and either stop responding, or tell me to go to chat support (which we've established will not help me).  Any time I mention PayPal publicly, I get a response eventually, but it never goes anywhere.  This has happened with ~~SIX~~ **EIGHT** different PayPal representatives (at least judging by the initials at the end; add the 3 chat support attempts and we're at ~~9~~ 11).  Twice they ended with promising to escalate to a "specialist", but will then disappear.
 
 Every time I feel like hope is properly lost and I can move on (did I mention I foolishly had over $700 in the account?), they'll reply and ask to repeat the situation, or ask what happens when I try to log in, or suggest that if I contact chat support they can reset my password.  With each response, I know that @AskPayPal cannot actually fix the problem PayPal created, but there's still that bit of hope which makes me respond.  But it ends the same each time, and honestly, I feel terrible.
 
@@ -45,9 +53,7 @@ So, you're a member of the aforementioned brand protection team and have discove
 
 Please don't reply with "I'm sorry you've had a bad experience!  Please send us a direct message with more information, and we would be happy to help you."  That would be abusive and would make me more angry.
 
-But you're going to do that anyway.  Gotta protect the brand.
-
-**EDIT (2 minutes after posting):** That's exactly what they did.
+~~But you're going to do that anyway.~~ That's exactly what they did.  Gotta protect the brand.
 
 ## Coda
 
