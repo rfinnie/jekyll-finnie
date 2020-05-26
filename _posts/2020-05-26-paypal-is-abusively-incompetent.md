@@ -47,6 +47,8 @@ Please don't reply with "I'm sorry you've had a bad experience!  Please send us 
 
 But you're going to do that anyway.  Gotta protect the brand.
 
+**EDIT (2 minutes after posting):** That's exactly what they did.
+
 ## Coda
 
 I may have been a little irreverent there, but make no mistake, this is not something I wanted to write.  I do not feel good writing this, and I just want the problem resolved.  I'm currently out over $700, I cannot pay friends (which is how this all started), or buy on eBay, or buy from small businesses which only accept PayPal.  I don't want a 10th encounter with PayPal support, or a 11th, or...  I've also left some parts out, as detailing each of the 9 attempts at service would make this post even longer.  Suffice it to say, #9 was so incredibly tone deaf that it prompted me to write this post.
