@@ -6,13 +6,13 @@ excerpt_standalone: true
 layout: post
 title: 'Safechain: safe, atomic and idempotent iptables firewall management'
 ---
-When I joined Canonical in 2012, we in IS had a number of choke firewalls which were literally just a server which ran iptables rules.  These firewalls would filter gigabits of traffic without blinking an eye, so it was sound from a technical perspective, but config management was a problem.
+When I joined Canonical in 2012, we in IS had a number of choke firewalls which were literally just servers which ran iptables rules.  These firewalls would filter gigabits of traffic without blinking an eye, so it was sound from a technical perspective, but config management was a problem.
 
 The general layout was a firewall.sh file which was run early on boot, which did initial setup and created network-specific chains.  The network-specific chain (which usually took the form net1_to_net2.sh) would be run from /etc/network/interfaces and would flush the chain and populate it.  This approach had two rather annoying flaws.
 
-The first flaw was any sort of syntax error would leave the chain in a broken state.  Because of this, any updates to the firewall in the config management system (Puppet at the time) required a +2 to commit, instead of the normal +1.  Even then, chains would regularly break, leaving an SRE to scramble to cowboy in a fix while downtime occurred.
+The first flaw was any sort of syntax error would leave the chain in a broken state.  Because of this, any updates to a firewall in the config management system (Puppet at the time) required a +2 to commit, instead of the normal +1.  Even then, chains would regularly break, leaving an SRE to scramble to cowboy in a fix while downtime occurred.
 
-The second flaw is less obvious at first, but became a large problem later on.  As chains grew larger, it took longer to apply them.  A chain with thousands of rules could take seconds; tens of thousands of rules could take over a minute.  And since the first step was to flush the chain, this was time when a partially applied chain was in production.  SREs would start announcing when chain updates were being applied, chain files were rearranged so the most important rules were near the top, etc.
+The second flaw is less obvious at first, but became a large problem later on.  As chains grew larger, they took longer to apply.  A chain with thousands of rules could take seconds; tens of thousands of rules could take over a minute.  And since the first step was to flush the chain, this was time when a partially applied chain was in production.  SREs would start announcing when chain updates were being applied, chain files were rearranged so the most important rules were near the top, etc.
 
 In early 2013, I wrote [Safechain](https://github.com/rfinnie/safechain), which ended up being one of the most proportionally simple-to-write-versus-headache-reducing scripts I had ever written.  In a nutshell, it takes the basic concept of chain-specific iptables firewall scripts, and makes it safe, atomic and idempotent.
 
