@@ -6,7 +6,7 @@ twitter_via: fo0
 baseurl: ""
 url: "https://www.finnie.org"
 permalink: /:year/:month/:day/:title/
-git_web_base: https://github.com/rfinnie/jekyll-finnie/blob/master/
+git_web_base: https://github.com/rfinnie/jekyll-finnie/blob/main/
 top_links:
   - title: "Projects"
     sublinks:
