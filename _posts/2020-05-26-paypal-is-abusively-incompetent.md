@@ -6,7 +6,17 @@ excerpt_standalone: true
 layout: post
 title: PayPal is abusively incompetent
 ---
-**&lt;update day="same"&gt;**They immediately responded with almost exactly what I predicted in the "What shouldn't I do?" section.  I've updated the counts below, we're now up to 11 different PayPal representatives.
+**&lt;update date="2020-06-23"&gt;**It's a month later, and I noticed the BBB complaint page kept pushing back the required date for PayPal to respond, currently at the end of July. I took that as them not actually holding one of the world's largest financial institutions  to task, because scary things are going on in the world.  So, back to square one, having no hope that my situation will ever be resolved.
+
+I posted this observation on Twitter, and an hour later, they fixed my account and I got a call from PayPal Corporate Escalations regarding my BBB complaint.  They claimed they had no knowledge of the tweet I just sent, or of the previous 11 interactions.  What an amazing coincidence!  I verified I could log in and immediately transferred all the money out of my account.
+
+I did not hold back with my assesment of the situation, and also asked about the two promised "specialist" escalations from @AskPayPal that never happened, the fact that there has been literally no way to deal with account security issues for months now (and for months in the future, see below), the lies from @AskPayPal claiming the opposite of that, etc.  The person I talked to was generically contrite, but obviously didn't have any answers.
+
+I'm relieved this is fixed for me personally, but obviously not happy.  They said the current estimate for phone support to return is **OCTOBER**.  From one of the world's largest financial institutions.  PayPal online chat can't access your account.  Their brand protection accounts on Twitter/Facebook/etc can't access your account.  Literally the only way to deal with account security issues at the present time is to file a BBB complaint and be as loud as possible.  Maybe file a small claims lawsuit if you have money held hostage.  This is just to get the attention of someone who can make a difference.
+
+If you have money in your PayPal account, withdraw it immediately.  If you use it as your primary account, find a different bank immediately.  And if you're in the same situation as I was for over 3 months, I'm truly sorry.**&lt;/update&gt;**
+
+**&lt;update date="original (2020-05-26)"&gt;**They immediately responded with almost exactly what I predicted in the "What shouldn't I do?" section.  I've updated the counts below, we're now up to 11 different PayPal representatives.
 
 Seeing this was going nowhere, I filed a Better Business Bureau complaint against PayPal.  I let PayPal know, and turns out they have a form reply specific to when people tell them they've filed BBB complaints.  I don't know why I found that surprising; must happen a lot.
 
