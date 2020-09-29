@@ -11,9 +11,9 @@ If you want to anonymize IP addresses, for example in HTTP logs, here's the meth
 ```python
 #!/usr/bin/env python3
 
-import sys
-import ipaddress
 import hashlib
+import ipaddress
+import sys
 
 
 KEY = b"example"
