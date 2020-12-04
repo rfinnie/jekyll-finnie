@@ -22,13 +22,13 @@ It performs three functions:
 The motion detection normally activates when a car drives by, so most of the burst shot images were of a car at three different positions.
 I decided to average each of the sets together from a three day period, and the result was pleasing.
 
-```
+``` shell
 convert 00001a.jpg 00001b.jpg 00001c.jpg -evaluate-sequence mean 00001.jpg
 ```
 
 From there, I converted the sets of averaged images into a video.
 
-```
+``` shell
 ffmpeg -framerate 5 -i %05d.jpg -c:v libx264 -profile:v high -crf 20 \
     -pix_fmt yuv420p -s 1920x1080 -r 30 output.mp4
 ```

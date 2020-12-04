@@ -29,7 +29,7 @@ The `sample1` job is part of a severely constrained concurrency group where only
 
 (The fact that over 1300 runs, the job has spent almost exactly the same amount of time running as being blocked is also interesting, but a coincidence.)
 
-```
+``` prometheus
 # HELP dsari_run_latency_seconds Length of time spent between scheduled start and actual start
 # TYPE dsari_run_latency_seconds summary
 dsari_run_latency_seconds{job_name="sample1",quantile="0.01"} 0.0027895

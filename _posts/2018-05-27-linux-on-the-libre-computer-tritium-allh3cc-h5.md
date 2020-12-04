@@ -34,11 +34,9 @@ On my system, the first partition on the SD card is 2048 512-byte sectors in, 51
 
 The EFI partition layout looks as follows (relative to the partition, which I have mounted as `/boot/efi`):
 
-```
-/EFI/BOOT/BOOTAA64.EFI
-/EFI/ubuntu/grubaa64.efi
-/dtb/allwinner/sun50i-h5-libretech-all-h3-cc.dtb
-```
+- /EFI/BOOT/BOOTAA64.EFI
+- /EFI/ubuntu/grubaa64.efi
+- /dtb/allwinner/sun50i-h5-libretech-all-h3-cc.dtb
 
 The EFI files are written as part of `grub-install -v --no-nvram /dev/mmcblk0`, and the DTB comes from the U-Boot compilation.  Amazingly, this is all U-Boot needs to hand off to GRUB.  You don't even need a `boot.scr`!  U-Boot's built-in fallback bootscript will notice `BOOTAA64.EFI`, load it along with the DTB and `bootefi` them.  GRUB then finds its second stage modules and `grub.cfg` in the main partition, and continues on as normal.
 

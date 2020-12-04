@@ -21,7 +21,7 @@ Download:
  * [Inkscape SVG source](https://www.finnie.org/projects/printer/CMYK_Line_Test.svg)
 
 I have my Ubuntu laptop run the following every Sunday morning:
-```
+``` shell
 lpr -P brotherc /path/to/CMYK_Line_Test_US_Letter.pdf
 ```
 (Replace "brotherc" with your printer identifier.)

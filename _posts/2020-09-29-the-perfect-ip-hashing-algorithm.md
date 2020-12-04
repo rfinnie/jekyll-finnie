@@ -8,7 +8,7 @@ title: The "perfect" IP hashing algorithm
 ---
 If you want to anonymize IP addresses, for example in HTTP logs, here's the method I recommend:
 
-```python
+``` python
 #!/usr/bin/env python3
 
 import hashlib

@@ -15,7 +15,7 @@ In my case, this means configuring BIND for secure dynamic updates.  [The docume
 
 `certbot` needs to be at least version 0.22 to support ACME v2, needed for wildcard.  The Ubuntu PPA includes 0.22.2 as of this writing, but it does not include `certbot-dns-rfc2136` needed for dns-01 validation.  But it's relatively easy to install manually:
 
-```
+``` shell
 git clone https://github.com/certbot/certbot
 cd certbot/certbot-dns-rfc2136
 sudo pip3 install .
@@ -23,7 +23,7 @@ sudo pip3 install .
 
 Also of note is 0.22 still defaults to ACME v1.  You will need to pass the v2 endpoint via `--server`, but keep in mind that the v2 endpoint is essentially a completely different service, and it will once again ask registration questions (email address, etc).  With all that in place, here was the final invocation for me:
 
-```
+``` shell
 certbot certonly \
   --server 'https://acme-v02.api.letsencrypt.org/directory' \
   --dns-rfc2136 \

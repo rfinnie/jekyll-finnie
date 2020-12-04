@@ -51,7 +51,7 @@ Let me reiterate: at this point I was going from SATA to M.2 to 44-pin IDE to 40
 
 The partitioning and syncing was relatively straightforward, but keep in mind for NewWorld PowerPCs, extra work is needed to make the bootstrap partition (#2) actually bootable, using <kbd>hattrib</kbd> to essentially do the following:
 
-```
+``` shell
 hmount /dev/sda2
 hattrib -c UNIX -t tbxi :yaboot
 hattrib -b :

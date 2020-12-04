@@ -18,7 +18,7 @@ In early 2013, I wrote [Safechain](https://github.com/rfinnie/safechain), which 
 
 A converted chain called "host_ingress" might look like this:
 
-```bash
+``` shell
 #!/bin/sh
 
 set -e
