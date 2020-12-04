@@ -1,0 +1,18 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: Dependency packages
+      run: |
+        sudo apt-get update
+        sudo apt -y install jekyll
+    - name: Build
+      run: jekyll build
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: jekyll-site.${{ github.workflow }}.${{ github.job }}.${{ github.run_number }}.${{ github.run_id }}
+        path: _site
