@@ -9,20 +9,21 @@ Just a short post here (and no pictures, because let's be honest, red beans and 
 
 After a few iterations, I've got a recipe which is not 100% exact to Popeyes, but is still wonderfully tasty.  And as usual, is easy to make with pantry items.  (You could of course do things like use real celery instead of flakes, add salt pork or shrimp, etc, but this is a good simple base.)
 
-* 4 cans (approx 15 oz each) red kidney beans, drained
-* 1 can beef broth
-* 1 can chicken broth, or chicken bouillon cube and 1 can water
-* 2 tsp celery flakes
-* 2 tsp parsley flakes
-* 2 bay leaves
-* 1 tsp garlic powder
-* ½ tsp onion powder
-* ½ tsp crushed red pepper
-* ¼ tsp cumin
+  * 2 cans (approx 15 oz each) red kidney beans, drained
+  * 1 can broth
+    * ½ can each of beef and chicken broth is best IMHO, but basically requires doubling the recipe. Vegetable broth can work too, or a bouillon cube and 1 can water.
+  * 1 tsp celery flakes
+  * 1 tsp parsley flakes
+  * 1 bay leaf
+  * ½ tsp garlic powder
+  * ¼ tsp onion powder
+  * ¼ tsp crushed red pepper
+  * ⅛ tsp cumin (this can overpower the recipe if used too much)
+  * Optional: ½ pound andouille sausage, shrimp, etc
 
-Combine all ingredients, cover and bring to a boil.
-Reduce to a simmer for 30 minutes, stirring halfway.
-Uncover, remove bay leaves and mash moderately; most but not all beans should be broken.
-(Now would be a good time to add sliced andouille sausage.)
-Leave uncovered, re-add bay leaves and simmer for another 30 minutes, stirring every 10 minutes.
-Consistency should be a thick sauce.  Remove bay leaves.  Serve over rice.
+Combine all ingredients, cover and bring to a boil, then reduce to a simmer for 15 minutes.
+Uncover, remove bay leaf and mash moderately; most but not all beans should be broken.
+Add meat now, if desired.
+
+Leave uncovered, re-add bay leaf and simmer for 20-30 minutes, stirring occasionally.
+Consistency should be a medium to thick sauce.  Remove bay leaf.  Serve over rice.
