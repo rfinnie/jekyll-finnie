@@ -18,40 +18,84 @@ The hardware is slick and good quality, and indeed it fits in standard Raspberry
 
 Here's where the company sort of dropped the ball, in my opinion.  They offer 3 models: a 512MiB Allwinner H2+ and a 1 GiB Allwinner H3 (the H2+ and H3 are effectively identical 32-bit SoCs), and a 2 GiB 64-bit Allwinner H5 (which is what I got).  The H5 is effectively a completely different and incompatible SoC to the H2+/H3.  Further confusing the matter is the model name for all three is "ALL-H3-CC".
 
-As of this writing, there is only a single [Armbian image](https://www.armbian.com/tritium-h3/), but just for the H2+/H3.  The comments on the Kickstarter page are understandably confused, with people trying to use that image on their H5 and getting no video or activity other than a red power LED.  I did some digging and found the ALL-H3-CC H5 is very similar to [Orange Pi PC 2](https://www.armbian.com/orange-pi-pc2/), which has a supported image.  I tried it out, and it mostly works.  HDMI video (and presumably audio), USB and serial all work, but Ethernet does not (but a random USB Ethernet adapter I added worked fine).  I posted my findings on the Kickstarter comments section to help people at least verify their hardware is working until official images are produced.
+Armbian initially didn't have [an image for the H5](https://www.armbian.com/tritium-h5/), just for the H2+/H3.  The comments on the Kickstarter page were understandably confused, with people trying to use that image on their H5 and getting no video or activity other than a red power LED.  I did some digging and found the ALL-H3-CC H5 is very similar to [Orange Pi PC 2](https://www.armbian.com/orange-pi-pc2/), which had a supported image.  I tried it out, and it mostly worked.  HDMI video (and presumably audio), USB and serial all worked, but Ethernet does not (but a random USB Ethernet adapter I added worked fine).  I posted my findings on the Kickstarter comments section to help people at least verify their hardware is working until official images were produced.
 
-**Update**: As of 2018-06-06, Armbian does not yet have a Tritium H5 image, but LoveRPi has produced [Tritium H3/H5 images based on Armbian](http://share.loverpi.com/board/libre-computer-project/libre-computer-board-all-h3-cc/image/ubuntu/).
+But I didn't want to leave it at that.  What follows is by no means a how-to; more like a stream of observations.  It's also specific to the H5 model, as that's the only one I have.  This post was originally written in 2018, but I came back in 2021 and updated a bunch of it based on my last few years of experience.
 
-But I didn't want to leave it at that.  What follows is by no means a how-to; more like a stream of observations.  It's also specific to the H5 model, as that's the only one I have.
+---
 
-Turns out [U-Boot](https://www.denx.de/wiki/U-Boot) has everything needed for booting, and works beautifully.  It was added just after v2018.05, so you'll need to compile from [git HEAD](https://www.denx.de/wiki/U-Boot/SourceCode), using `libretech_all_h3_cc_h5_defconfig`.  [This page](https://github.com/apritzel/pine64/) goes into detail about the whats and whys of booting on Allwinner A53-based SoCs (it's specific to the Pine64 platform, but the concepts all translate to the H5).
+[U-Boot](https://www.denx.de/wiki/U-Boot) has everything needed for booting, and works beautifully, but you'll need to compile it yourself.  You will need three repositories:
 
-Traditionally, U-Boot works more like [lilo](https://en.wikipedia.org/wiki/LILO_(boot_loader)) did back in the day.  Write a boot script, it points to a kernel and initrd at specific locations and boots them.  If you're fancy, you might have the option to boot a backup kernel.  But U-Boot has a recent party trick on supported platforms: UEFI booting.  Let's have U-Boot hand off to GRUB to do the actual boot management!
+  * [u-boot](https://github.com/u-boot/u-boot)
+  * [arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware)
+  * [crust](https://github.com/crust-firmware/crust)
 
-On my system, the first partition on the SD card is 2048 512-byte sectors in, 512 MiB long, MBR partition type "ef", vfat-formatted.  2048 for the first sector has been the default for a long time, but is important here since the SoC expects the boot code to be 8 KiB from the beginning of the disk, and that's where you wrote it to as part of the U-Boot compilation above.  MBR is recommended since, by default, 8 KiB in on a GPT is actively used for partition data.  (I didn't even know an EFI System Partition was even possible on an MBR until today; thought it was GPT only.)  512 MiB length is quite overkill, but I'd recommend at least 64 MiB.
+Please see instructions and requirements for each; note particularly that crust requires a (as of this writing) custom RISC (not RISC-V) cross-compiler.  Once the requirements are satisfied, here's my compilation process, assuming cross-compiling from an amd64 environment:
 
-**Update**: If you wish to use GPT, it *is* possible to make it so the area between 8 KiB and 1 MiB is not used by the GPT.  This functionality does not appear to be in stock `fdisk`'s GPT handling, but you can do it in `gdisk`.  Type `o` to create a new GPT, then `x` to go to the expert menu, then `j` to set the partition table beginning sector.  By default, this is sector 2 (1024 bytes in), but you can change this to sector 2048 (1 MiB in).  Then type `m` to exit the expert mode and continue partitioning as normal, and the created partitions will default to starting at sector 4096.
+``` shell
+CRUST_DIR="/home/ryan/git/crust"
+ATF_DIR="/home/ryan/git/arm-trusted-firmware"
+UBOOT_DIR="/home/ryan/git/u-boot"
 
-The EFI partition layout looks as follows (relative to the partition, which I have mounted as `/boot/efi`):
+make -C "${CRUST_DIR}" clean
+make -C "${CRUST_DIR}" libretech_all_h3_cc_h5_defconfig
+env PATH="${CRUST_DIR}/or1k-linux-musl/bin:${PATH}" make -C "${CRUST_DIR}" -j16 scp
+
+make -C "${ATF_DIR}" distclean
+make -C "${ATF_DIR}" CROSS_COMPILE=aarch64-linux-gnu- PLAT=sun50i_a64 -j16 bl31
+
+make -C "${UBOOT_DIR}" distclean
+make -C "${UBOOT_DIR}" libretech_all_h3_cc_h5_defconfig
+make -C "${UBOOT_DIR}" CROSS_COMPILE=aarch64-linux-gnu- \
+    BL31="${ATF_DIR}/build/sun50i_a64/release/bl31.bin" \
+    SCP="${CRUST_DIR}/build/scp/scp.bin" \
+    -j16
+
+file "${UBOOT_DIR}/u-boot-sunxi-with-spl.bin"
+```
+
+Traditionally, U-Boot works more like [lilo](https://en.wikipedia.org/wiki/LILO_(boot_loader)) did back in the day.  Write a boot script, it points to a kernel and initrd at specific locations and boots them.  If you're fancy, you might have the option to boot a backup kernel.  But U-Boot has a party trick on supported platforms: UEFI booting.  Let's have U-Boot hand off to GRUB to do the actual boot management!
+
+The SoC expects the boot code to start 8 KiB from the beginning of the SD card, but this overlaps the GUID partition table (GPT) by default.  We can get around this by using `gdisk` to set the location of the beginning of the partition table (`fdisk`'s GPT handling doesn't have this functionality). Type `o` to create a new GPT, then `x` to go to the expert menu, then `j` to set the partition table beginning sector.  By default, this is sector 2 (1024 bytes in), but you can change this to sector 6144 (3 MiB in).  This will give plenty of room for U-Boot's loader. Then type `m` to exit the expert mode and continue partitioning as normal, and the created partitions will default to starting at sector 8192 (4 MiB in).
+
+```
+Found valid GPT with protective MBR; using GPT.
+Disk /dev/mmcblk0: 125042688 sectors, 59.6 GiB
+Sector size (logical/physical): 512/512 bytes
+Disk identifier (GUID): CEADEC18-8EDC-41D2-973F-2362594061EE
+Partition table holds up to 128 entries
+Main partition table begins at sector 6144 and ends at sector 6175
+First usable sector is 6176, last usable sector is 125042654
+Partitions will be aligned on 2048-sector boundaries
+Total free space is 2016 sectors (1008.0 KiB)
+
+Number  Start (sector)    End (sector)  Size       Code  Name
+   1            8192         1056767   512.0 MiB   EF00  EFI system partition
+   2         1056768       125042654   59.1 GiB    8300  Linux filesystem
+```
+
+The EFI partition (created with `mkfs.vfat`) layout looks as follows (relative to the partition, which I have mounted as `/boot/efi`):
 
 - /EFI/BOOT/BOOTAA64.EFI
 - /EFI/ubuntu/grubaa64.efi
-- /dtb/allwinner/sun50i-h5-libretech-all-h3-cc.dtb
 
-The EFI files are written as part of `grub-install -v --no-nvram /dev/mmcblk0`, and the DTB comes from the U-Boot compilation.  Amazingly, this is all U-Boot needs to hand off to GRUB.  You don't even need a `boot.scr`!  U-Boot's built-in fallback bootscript will notice `BOOTAA64.EFI`, load it along with the DTB and `bootefi` them.  GRUB then finds its second stage modules and `grub.cfg` in the main partition, and continues on as normal.
+The EFI files are written as part of `grub-install -v --no-nvram /dev/mmcblk0`.  Amazingly, this is all U-Boot needs to hand off to GRUB.  You don't even need a `boot.scr`!  U-Boot's built-in fallback bootscript will notice `BOOTAA64.EFI`, load it along with the DTB (which is built into `u-boot-sunxi-with-spl.bin`) and `bootefi` them.  GRUB then finds its second stage modules and `grub.cfg` in the main partition, and continues on as normal.
 
-The implication here is, aside from a HEAD-compiled U-Boot living in the MBR, I have a completely standard Ubuntu 18.04 LTS ("bionic") ARM64 installation running on the Tritium H5.  No extra packages needed, and the kernel is bionic's standard 4.15.  `grub-efi-arm64` is installed and managing `grub.cfg`.  USB, SD, Ethernet, serial console and hardware virtualization have all been tested.  IR hasn't been tested (but I see it in dmesg).  Sound hasn't been tested, and video turns off as soon as kernel init is done, but that's OK for me as I'm using it in a server capacity.  The only major problem is the kernel will panic right before shutdown/reboot, so a hands-off remote reboot is not possible.
+To install U-Boot itself, we will manually `dd` it into place at the point in the SD card the SoC expects the boot code to be:
 
-[Full `lshw` output is here](https://pastebin.ubuntu.com/p/YBRGJPzYG7/), but in short:
+``` shell
+dd if=u-boot-sunxi-with-spl.bin of=/dev/mmcblk0 bs=1k seek=8 oflag=sync
+```
+
+The implication here is, aside from a manually-compiled U-Boot living in the MBR, I have a completely standard Ubuntu 20.04 LTS ("focal") ARM64 installation running on the Tritium H5.  No extra packages needed, and the kernel is focal's standard 5.4.  `grub-efi-arm64` is installed and managing `grub.cfg`.  USB, SD, Ethernet, serial console, hardware virtualization, graphics, sound and IR have all been tested.
 
 ```
 michelle
     description: Desktop Computer
     product: Libre Computer Board ALL-H3-CC H5
-    vendor: sunxi
     serial: 828000018ab9133a
     width: 64 bits
-    capabilities: smbios-3.0 dmi-3.0 smp cp15_barrier setend swp
+    capabilities: smbios-3.0 dmi-3.0 smp cp15_barrier setend swp tagged_addr_disabled
     configuration: chassis=desktop uuid=38323830-3030-3031-3861-623931333361
   *-core
        description: Motherboard
@@ -62,15 +106,14 @@ michelle
           description: BIOS
           vendor: U-Boot
           physical id: 0
-          version: 2018.05-00424-g2a8e80dfce
-          date: 05/27/2018
+          version: 2021.01
+          date: 03/01/2021
           size: 1MiB
           capabilities: pci upgrade bootselect i2oboot
      *-firmware:1
           description: BIOS
-          physical id: 1
+          physical id: 303
           size: 1MiB
-          capabilities: pcmcia shadowing escd cdboot socketedrom
      *-cpu:{0,1,2,3}
           description: CPU
           product: cpu
