@@ -1,6 +1,6 @@
 ---
 date: 2021-08-07 15:10:09-07:00
-excerpt: Excerpt
+excerpt: Information on how to request and maintain an IPv6 /64 prefix on the Spectrum cable network
 excerpt_standalone: true
 layout: post
 title: IPv6 Prefix Delegation on Spectrum with dhclient
