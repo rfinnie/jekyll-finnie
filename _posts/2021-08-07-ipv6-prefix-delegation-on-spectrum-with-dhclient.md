@@ -9,18 +9,18 @@ A few years ago, Spectrum (a US cable company formed from the combination of Cha
 
 I used to live in Reno in a formerly Charter network, but recently moved to Southern California in a formerly Time Warner network, so I'm confident this information applies to all Spectrum regions.  The `dhclient` invocation should work for any provider which supports Prefix Delegation, but the lease behavior I describe is probably not universal.
 
-Here's my router's (a Raspberry Pi 4 connected directly to the cable modem) systemd `dhclient6-pd.service` file.  Replace `eext0` with your external interface name.
+Here's the systemd `dhclient6-pd.service` file on my router, a Raspberry Pi 4 connected directly to the cable modem.  Replace `eext0` with your external interface name.
 ```systemd
 [Unit]
-Description=dhclient pd
+Description=IPv6 PD lease reservation
 Wants=network-online.target
 After=network-online.target
-StartLimitInterval=0
+StartLimitIntervalSec=0
 
 [Service]
 Restart=always
 RestartSec=30
-ExecStart=/sbin/dhclient -d -6 -P -v -pf /run/dhclient6-pd.pid -lf /var/lib/dhcp/dhclient6-pd.leases eext0
+ExecStart=/sbin/dhclient -d -6 -P -v -lf /var/lib/dhcp/dhclient6-pd.leases eext0
 
 [Install]
 WantedBy=multi-user.target
