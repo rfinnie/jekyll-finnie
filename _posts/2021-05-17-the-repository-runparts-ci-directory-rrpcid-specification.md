@@ -7,7 +7,7 @@ title: The Repository Run-Parts CI Directory (RRPCID) specification
 ---
 Years ago, I wrote [dsari](https://github.com/rfinnie/dsari) ("Do Something And Record It"), a lightweight CI system. This was prompted by administering Jenkins installations for multiple development groups at the time, each environment having increasingly specialized (and often incompatible) plugins layered onto the core functionality.
 
-This led me to take the opposite approach.  I made a CI system based on one executable (usually a script) per job, and the assumption that you, the CI job developer, know exactly what functionality you want.  Want custom notifications?  [Write it into the script.](https://github.com/rfinnie/dsari/blob/main/doc/notifications.md)  Sub-job triggers based on the result of the run?  [You can totally do that.](https://github.com/rfinnie/dsari/blob/main/doc/triggers.md)  Remote agents?  Bah, just tell the script to ssh to a remote system [based on the concurrency group the run is currently in](https://github.com/rfinnie/dsari/blob/main/doc/concurrency.md).  dsari's acronym was a light-hearted take on this simplicity.
+This led me to take the opposite approach.  I made a CI system based on one executable (usually a script) per job, and the assumption that you, the CI job developer, know exactly what functionality you want.  Want custom notifications?  [Write it into the script.](https://github.com/rfinnie/dsari/blob/HEAD/doc/notifications.md)  Sub-job triggers based on the result of the run?  [You can totally do that.](https://github.com/rfinnie/dsari/blob/HEAD/doc/triggers.md)  Remote agents?  Bah, just tell the script to ssh to a remote system [based on the concurrency group the run is currently in](https://github.com/rfinnie/dsari/blob/HEAD/doc/concurrency.md).  dsari's acronym was a light-hearted take on this simplicity.
 
 Fast forward to now, and GitHub's CI has quickly become ubiquitous.  But before that, Travis essentially pushed the idea of in-repository CI definitions, as opposed to a CI job being built around the repository as in Jenkins.  As an example, [finnix-live-build](https://github.com/finnix/finnix-live-build) has a GitHub workflow which makes a test build, but I also have multiple dsari instances at home, for different architectures, doing the same thing on schedule.
 
@@ -73,7 +73,7 @@ for workflow_dir in .rrpcid/workflows/*; do
 done
 ```
 
-[finnix-live-build now has a simple RRPCID job](https://github.com/finnix/finnix-live-build/tree/main/.rrpcid), though as of this writing I have not yet switched over the home dsari jobs to utilize it.
+[finnix-live-build now has a simple RRPCID job](https://github.com/finnix/finnix-live-build/tree/HEAD/.rrpcid), though as of this writing I have not yet switched over the home dsari jobs to utilize it.
 
 ---
 
