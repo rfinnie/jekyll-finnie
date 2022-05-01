@@ -8,6 +8,8 @@ tags:
 title: 'HOWTO: Encrypt an existing Debian installation'
 wp_id: 965
 ---
+***Edit (2022-05-01):** While this post is 13 years old as of this edit, I still use it as a reference for creating new arrays, mostly by searching "site:finnie.org luks".  I've updated the example cipher from aes-cbc-essiv:sha256 (256 bit key size) to aes-xts-plain64 (512 bit key size) to reflect modern best practices, but keep in mind there is probably other parts of this post which are out of date.*
+
 The last few days have been a snowball of encryption, so to speak. For years, I've done [full disk encryption](http://en.wikipedia.org/wiki/Full_disk_encryption) on my Debian laptop. But this week I decided to look into TrueCrypt's full disk encryption for my Windows desktop. It works surprisingly well ("where's the catch", I've basically been saying to myself), but that started making me follow the data trail.
 
 > I use Acronis True Image to back up to my Debian router / fileserver. OK, True Image has an option to encrypt backups, but what about the other hosts being backed up onto that server? Hell, my laptop is backed up onto there. While the primary purpose of full disk encryption on the laptop is to protect it if it were lost or stolen, it would be nice to have the disk that it's being backed up to be encrypted as well.
@@ -77,7 +79,7 @@ Format the first partition.
 
 Encrypt the second partition. The first command will ask for a password to be used to encrypt the partiton. The second command will make the newly created encrypted partition available at <tt>/dev/mapper/sda2_crypt</tt>.
 
-<pre># cryptsetup --verbose --cipher "aes-cbc-essiv:sha256" --key-size 256 --verify-passphrase luksFormat /dev/sda2
+<pre># cryptsetup --verbose --cipher aes-xts-plain64 --key-size 512 --verify-passphrase luksFormat /dev/sda2
 # cryptsetup luksOpen /dev/sda2 sda2_crypt
 </pre>
 
