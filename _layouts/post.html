@@ -9,7 +9,6 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
       {% if page.author or site.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span></span>{% endif %}
       {% if page.excerpt_standalone %} • <span class="post-excerpt">{{ page.excerpt }}</span>{% endif %}
-      <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="{% if page.author or site.author %}{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}: {% endif %}{{ page.title }}"{% if site.twitter_via %} data-via="{{ site.twitter_via }}"{% endif %} data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </p>
   </header>
 

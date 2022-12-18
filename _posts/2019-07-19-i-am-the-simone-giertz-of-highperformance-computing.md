@@ -9,7 +9,6 @@ title: I am the Simone Giertz of high-performance computing
 It all began with a tweet.
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Maybe I should finally make a cluster so that high school me is no longer disappointed in me. <a href="https://t.co/D5tiKORh2D">https://t.co/D5tiKORh2D</a></p>&mdash; Brian Danger Hicks 🏴‍☠️ (@crazyunlikeafox) <a href="https://twitter.com/crazyunlikeafox/status/1147209037630574592?ref_src=twsrc%5Etfw">July 5, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I too spent my late teens and early 20s thinking clusters were the future.  I gawked at a friend who worked on an SGI Altix in college.  I wanted a Beowulf, whatever those were.  Itanium!  Blades!  Infiniband!
 
@@ -26,7 +25,6 @@ I ordered one.
 I also ordered four Zero Ws.  Problem is while they're theoretically $10 each, they're very hard to find individually and always have strict one per person limits.  So I bought [four kits at $25 each](https://www.amazon.com/gp/product/B0748MPQT4/) even though I didn't have any need for the included accessories.  And four $7 32GB MicroSD cards.  And [the hat itself](https://clusterhat.com/).  Including the original purchase of the Pi 2 several years ago, this all adds up to $170.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let’s be honest, the main reason to build a cluster like this is the blinkenlights. <a href="https://t.co/uyAYo5HjUG">pic.twitter.com/uyAYo5HjUG</a></p>&mdash; Ryan Finnie (@fo0) <a href="https://twitter.com/fo0/status/1152050345167618048?ref_src=twsrc%5Etfw">July 19, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 With the parts on the way (the hat was shipped from the UK and took about two weeks to arrive), I pondered what to do with the cluster.  It had to *do* something; creative irrelevance needs to have a grain of relevance to be amusing.  I did know I wanted to have some sort out on-device output, so I also bought [a $25 2.13" e-paper hat](https://www.amazon.com/gp/product/B071S8HT76/) to attach to the outermost Zero.  Running total: $195.
 
