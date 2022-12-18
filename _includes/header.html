@@ -20,7 +20,11 @@
                 {% for my_sublink in my_link.sublinks %}
                 {% if my_sublink.title %}
                 {% if my_sublink.url %}
+                {% if my_sublink.rel %}
+                <li><a rel="{{ my_sublink.rel }}" href="{{ my_sublink.url }}">{{ my_sublink.title }}</a></li>
+                {% else %}
                 <li><a href="{{ my_sublink.url }}">{{ my_sublink.title }}</a></li>
+                {% endif %}
                 {% else %}
                 <li class="dropdown-header">{{ my_sublink.title }}</li>
                 {% endif %}

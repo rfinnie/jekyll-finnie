@@ -15,7 +15,7 @@ top_links:
     - {title: "dsari", url: "https://github.com/rfinnie/dsari"}
   - title: "About"
     sublinks:
-    - {title: "Twitter", url: "https://twitter.com/rfinnie"}
+    - {title: "Mastodon", url: "https://fosstodon.org/@foo", rel: "me"}
     - {title: "GitHub", url: "https://github.com/rfinnie"}
     - {title: "Debian", url: "https://qa.debian.org/developer.php?login=ryan@finnie.org"}
     - {title: "OpenPGP", url: "https://keyserver.ubuntu.com/pks/lookup?search=0x42e2c8de8c173ab102f52c6e7e60a3a686ae8d98&fingerprint=on&op=index"}
