@@ -79,7 +79,7 @@ Format the first partition.
 
 Encrypt the second partition. The first command will ask for a password to be used to encrypt the partiton. The second command will make the newly created encrypted partition available at <tt>/dev/mapper/sda2_crypt</tt>.
 
-<pre># cryptsetup --verbose --cipher aes-xts-plain64 --key-size 512 --verify-passphrase luksFormat /dev/sda2
+<pre># cryptsetup --verbose --type luks2 --pbkdf argon2id --cipher aes-xts-plain64 --key-size 512 --verify-passphrase luksFormat /dev/sda2
 # cryptsetup luksOpen /dev/sda2 sda2_crypt
 </pre>
 
