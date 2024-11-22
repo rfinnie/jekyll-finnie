@@ -2,6 +2,7 @@
 title: Ryan Finnie
 description: Personal blog for Ryan Finnie
 author: Ryan Finnie
+fediverse_creator: "@foo@fosstodon.org"
 baseurl: ""
 url: "https://www.finnie.org"
 permalink: /:year/:month/:day/:title/
