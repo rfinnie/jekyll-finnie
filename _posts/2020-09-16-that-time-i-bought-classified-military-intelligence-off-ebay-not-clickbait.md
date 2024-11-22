@@ -6,7 +6,7 @@ headline_image: /blog-media/2020/cobalt-raq2-classified.jpg
 layout: post
 title: That Time I Bought Classified Military Intelligence Off eBay (NOT CLICKBAIT)
 ---
-Yesterday, ["Alex"](https://twitter.com/mangopdf) posted a [hilarious account](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram) of getting former Australian prime minister Tony Abbott's passport information. The lesson of the story boils down to: how do you report a vulnerability at a national scale? Do you just call 1-800-NATIONAL-SECURITY and let them know what happened? (Actually, Australia does have a literal hotline like that, but it turned out to be useless. Seriously, before you read further here, go read "Alex"'s story.)
+Yesterday, "Alex" posted a [hilarious account](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram) of getting former Australian prime minister Tony Abbott's passport information. The lesson of the story boils down to: how do you report a vulnerability at a national scale? Do you just call 1-800-NATIONAL-SECURITY and let them know what happened? (Actually, Australia does have a literal hotline like that, but it turned out to be useless. Seriously, before you read further here, go read "Alex"'s story.)
 
 This story reminds me of a similar problem I had 13 years ago. But be warned, this story is completely from memory and some things may be wrong. It will also not be nearly as entertaining as "Alex"'s story.
 

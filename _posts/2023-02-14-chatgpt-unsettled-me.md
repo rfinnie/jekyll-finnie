@@ -7,7 +7,7 @@ title: ChatGPT unsettled me
 ---
 [Tom Scott recently put out a video](https://www.youtube.com/watch?v=jPhJbKBuNnA) where he had a "minor existential crisis" after giving ChatGPT a coding task. His conclusion was basically, this works better than it should, and that's unsettling. After watching this, I had my own minor coding task which I decided to give to ChatGPT, and, spoiler alert, I am also unsettled.
 
-The problem I needed to solve was I have [an old Twitter bot](https://twitter.com/x11r5) which had automatically followed a bunch of people over the years, and I wanted to clear out those follows. As of this writing, Twitter's API service seems to inexplicably still exist, but the single-purpose OAauth "app" associated with that account was for API v1.1, not v2, so I needed to use API v1.1 calls.
+The problem I needed to solve was I have an old Twitter bot which had automatically followed a bunch of people over the years, and I wanted to clear out those follows. As of this writing, Twitter's API service seems to inexplicably still exist, but the single-purpose OAauth "app" associated with that account was for API v1.1, not v2, so I needed to use API v1.1 calls.
 
 I'd done a lot of Twitter API work over the years, and a lot of that was through Python, so I was ready to kitbash something together using existing code snippets.  But let's see what ChatGPT would do if given the opportunity:
 
@@ -114,14 +114,14 @@ twitter = OAuth1Session(consumer_key, client_secret=consumer_secret,
                         resource_owner_key=access_token, resource_owner_secret=access_token_secret)
 
 # get a list of all friends
-url = 'https://api.twitter.com/1.1/friends/list.json'
+url = 'https://api.example.com/1.1/friends/list.json'
 params = {'count': 200}
 response = twitter.get(url, params=params)
 friend_list = response.json()['users']
 
 # unsubscribe from each friend
 for friend in friend_list:
-    url = f'https://api.twitter.com/1.1/friendships/destroy.json?user_id={friend["id"]}'
+    url = f'https://api.example.com/1.1/friendships/destroy.json?user_id={friend["id"]}'
     response = twitter.post(url)
     if response.status_code == 200:
         print(f'Unsubscribed from {friend["screen_name"]}')
@@ -152,14 +152,14 @@ twitter = OAuth1Session(consumer_key, client_secret=consumer_secret,
                         resource_owner_key=access_token, resource_owner_secret=access_token_secret)
 
 # get a list of all friend IDs
-url = 'https://api.twitter.com/1.1/friends/ids.json'
+url = 'https://api.example.com/1.1/friends/ids.json'
 params = {'count': 5000}
 response = twitter.get(url, params=params)
 friend_ids = response.json()['ids']
 
 # unsubscribe from each friend
 for friend_id in friend_ids:
-    url = f'https://api.twitter.com/1.1/friendships/destroy.json?user_id={friend_id}'
+    url = f'https://api.example.com/1.1/friendships/destroy.json?user_id={friend_id}'
     response = twitter.post(url)
     if response.status_code == 200:
         print(f'Unsubscribed from friend ID {friend_id}')
@@ -190,14 +190,14 @@ twitter = OAuth1Session(consumer_key, client_secret=consumer_secret,
                         resource_owner_key=access_token, resource_owner_secret=access_token_secret)
 
 # get a list of all friend IDs
-url = 'https://api.twitter.com/1.1/friends/ids.json'
+url = 'https://api.example.com/1.1/friends/ids.json'
 params = {'count': 5000}
 response = twitter.get(url, params=params)
 friend_ids = response.json()['ids']
 
 # unsubscribe from each friend
 for friend_id in friend_ids:
-    url = 'https://api.twitter.com/1.1/friendships/destroy.json?user_id={}'.format(friend_id)
+    url = 'https://api.example.com/1.1/friendships/destroy.json?user_id={}'.format(friend_id)
     response = twitter.post(url)
     if response.status_code == 200:
         print('Unsubscribed from friend ID {}'.format(friend_id))
@@ -228,14 +228,14 @@ twitter = OAuth1Session(consumer_key, client_secret=consumer_secret,
                         resource_owner_key=access_token, resource_owner_secret=access_token_secret)
 
 # get a list of all friend IDs
-url = 'https://api.twitter.com/1.1/friends/ids.json'
+url = 'https://api.example.com/1.1/friends/ids.json'
 params = {'count': 5000}
 response = twitter.get(url, params=params)
 friend_ids = response.json()['ids']
 
 # unsubscribe from each friend
 for friend_id in friend_ids:
-    url = 'https://api.twitter.com/1.1/friendships/destroy.json?user_id={}'.format(friend_id)
+    url = 'https://api.example.com/1.1/friendships/destroy.json?user_id={}'.format(friend_id)
     response = twitter.post(url)
     if response.status_code == 200:
         print('Unsubscribed from friend ID {}'.format(friend_id))
@@ -302,14 +302,14 @@ twitter = OAuth1Session(consumer_key, client_secret=consumer_secret,
                         resource_owner_key=access_token, resource_owner_secret=access_token_secret)
 
 # get a list of all friend IDs
-url = 'https://api.twitter.com/1.1/friends/ids.json'
+url = 'https://api.example.com/1.1/friends/ids.json'
 params = {'count': 5000}
 response = twitter.get(url, params=params)
 friend_ids = response.json()['ids']
 
 # unsubscribe from each friend
 for friend_id in friend_ids:
-    url = 'https://api.twitter.com/1.1/friendships/destroy.json?user_id={}'.format(friend_id)
+    url = 'https://api.example.com/1.1/friendships/destroy.json?user_id={}'.format(friend_id)
     response = twitter.post(url)
     if response.status_code == 200:
         print('Unsubscribed from friend ID {}'.format(friend_id))

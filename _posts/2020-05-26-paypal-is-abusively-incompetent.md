@@ -32,7 +32,7 @@ It used to be that when I logged in, it would ask security questions (mother's m
 
 When I click "Having trouble logging in?", it says "Sorry, we couldn’t confirm it’s you. Need a hand? We can help."  The "we can help" link takes me to their knowledge base, which doesn't address this scenario.
 
-Any attempt to find a "contact us" link results in being asked to log in first.  I explained the situation to [@AskPayPal](https://twitter.com/AskPayPal) on Twitter, and they replied with:
+Any attempt to find a "contact us" link results in being asked to log in first.  I explained the situation to @AskPayPal on Twitter, and they replied with:
 
 > Hi there! Thank you for reaching out to us via Twitter. We are sorry to hear that you are unable to access your account. Please send us a DM with your registered email address. We'd be happy to help.
 
