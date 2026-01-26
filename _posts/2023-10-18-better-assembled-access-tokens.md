@@ -23,14 +23,15 @@ The other part -- the wrapped data -- contains a payload of 144 bits (18 bytes),
 
 The checksum includes all of the data, including the prefix (which is not a feature of GitHub's tokens), and the fact that it has a binary magic number means a BAAT can be identified programmatically, no matter the prefix chosen by the application. A BAAT is canonically all lowercase, but can handle being case-corrupted in transit.
 
-A sample Python implementation is below, but the general specification for BAAT is:
+A sample Python implementation is below and [a general-purpose utility for generating tokens is here](https://github.com/rfinnie/rf-tools/blob/main/bin/baat), but the general specification for BAAT is:
 
 - If the binary payload is under 18 bytes, pad it to 18 bytes
 - CRC32 the prefix + payload + magic number (`\x8f\xa5`) + version (`\x01`)
 - Assemble the wrapped data as a base32 concatenation of payload + magic number + version + CRC
 - Assemble the final BAAT as the prefix + "_" + the wrapped data
 
-And to verify a BAAT:
+To quickly detect a version 1 BAAT, check for "d5fa" at position -11 in the token string.
+If that is detected, you can move on to a full verification:
 
 - Split the string into prefix and wrapped data by "_"
 - Base32 decode the wrapped data and verify it's at least 7 bytes
