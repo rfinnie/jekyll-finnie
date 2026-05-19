@@ -10,11 +10,11 @@ About a month ago, [I converted my blogs over to Jekyll]({{ site.url }}{{ site.b
 It's been a busy few weeks.)
 
 Part of the process of converting the blogs to Jekyll was storing the site data and posts in Git repositories.
-This was mostly for my own benefit, and I certainly could have kept the repositories private, but instead chose to push them to GitHub ([finnie.org](https://github.com/rfinnie/jekyll-finnie), [blog.finnix.org](https://github.com/rfinnie/jekyll-finnie)) to serve as examples for others who may wish to do the same thing.
+This was mostly for my own benefit, and I certainly could have kept the repositories private, but instead chose to push them to an online forge ([finnie.org](https://forge.colobox.com/rfinnie/jekyll-finnie), [blog.finnix.org](https://forge.colobox.com/rfinnie/jekyll-finnie)) to serve as examples for others who may wish to do the same thing.
 
-At the bottom of each page, I do have a small "Git source" link to the corresponding page on GitHub.
+At the bottom of each page, I do have a small "Git source" link to the corresponding page on the forge.
 I didn't expect anyone would really notice, and I certainly did not expect anyone to make a pull request against the repositories.
-So I was surprised when I saw [this pull request](https://github.com/rfinnie/jekyll-finnie/pull/1), by someone who fixed the formatting on [one of my imported posts]({{ site.url }}{{ site.baseurl }}{% post_url 2010-03-07-external-temperature-monitoring-with-linux %}).
+So I was surprised when I saw [this pull request](https://forge.colobox.com/rfinnie/jekyll-finnie/pull/1), by someone who fixed the formatting on [one of my imported posts]({{ site.url }}{{ site.baseurl }}{% post_url 2010-03-07-external-temperature-monitoring-with-linux %}).
 
 Unexpected, but certainly welcome!
 So feel free to open Issues or PRs against those repositories, but I would discourage you from actually writing new posts and asking for them to be published via a PR.

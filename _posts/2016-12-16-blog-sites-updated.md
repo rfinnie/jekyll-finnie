@@ -18,7 +18,7 @@ Turns out a decently generalized solution already exists for that, [Jekyll](http
 Over the last week, I've been converting both sites over from WordPress to Jekyll.
 The layout is simple, mostly baseline [Bootstrap](http://getbootstrap.com/), but it's starting to reach the point where it takes a lot of effort to make it look like something which didn't take a lot of effort.
 One of the nice things about Jekyll is it's all just flat files, so it's easy to track with Git.
-I've got repositories for both sites on GitHub ([finnie.org](https://github.com/rfinnie/jekyll-finnie), [blog.finnix.org](https://github.com/rfinnie/jekyll-finnix)), if you want to take a look.
+I've got repositories for both sites on an online forge ([finnie.org](https://forge.colobox.com/rfinnie/jekyll-finnie), [blog.finnix.org](https://forge.colobox.com/rfinnie/jekyll-finnix)), if you want to take a look.
 The templates would mostly work as a generic base, but do have some personal customizations (such as the Google site search at the top of finnie.org).
 
 For my personal site, I also did some pruning of old content.

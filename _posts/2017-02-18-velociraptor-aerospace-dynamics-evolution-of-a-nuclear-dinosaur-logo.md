@@ -54,7 +54,7 @@ But over the years, there were a few small issues I wanted to correct:
 All of these issues are very minor, and most are not even visible or noticeable in most media.
 But I knew.
 
-A few months ago, I imported the logo (along with the previous two attempts for historical interest) into [a Git repository](https://github.com/rfinnie/vad-assets).
+A few months ago, I imported the logo (along with the previous two attempts for historical interest) into [a Git repository](https://forge.colobox.com/rfinnie/vad-assets).
 SVG is basically code, and changes are hence easy to track, so Git was a logical idea.
 And recently I spent a day and did a lot of work under the hood.
 

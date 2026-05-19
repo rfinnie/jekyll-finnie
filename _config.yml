@@ -6,16 +6,17 @@ fediverse_creator: "@ryan@m29.us"
 baseurl: ""
 url: "https://www.finnie.org"
 permalink: /:year/:month/:day/:title/
-git_web_base: https://github.com/rfinnie/jekyll-finnie/blob/HEAD/
+git_web_base: https://forge.colobox.com/rfinnie/jekyll-finnie/src/HEAD/
 top_links:
   - title: "Projects"
     sublinks:
     - {title: "Finnix", url: "https://www.finnix.org/"}
     - {title: "2ping", url: "https://www.finnie.org/software/2ping/"}
-    - {title: "dsari", url: "https://github.com/rfinnie/dsari"}
+    - {title: "dsari", url: "https://forge.colobox.com/rfinnie/dsari"}
   - title: "About"
     sublinks:
     - {title: "Mastodon", url: "https://m29.us/@ryan", rel: "me"}
+    - {title: "Self-Hosted Code Forge", url: "https://forge.colobox.com/rfinnie"}
     - {title: "GitHub", url: "https://github.com/rfinnie"}
     - {title: "Debian", url: "https://qa.debian.org/developer.php?login=ryan@finnie.org"}
     - {title: "OpenPGP", url: "https://keyserver.ubuntu.com/pks/lookup?search=0x42e2c8de8c173ab102f52c6e7e60a3a686ae8d98&fingerprint=on&op=index"}

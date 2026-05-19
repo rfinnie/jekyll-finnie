@@ -11,10 +11,10 @@ This post is roughly based on a guide I wrote for an internal company wiki about
 
 Managing purposeful changes in their own branches lets you manage multiple contributions to a single project.  There was a project last year where I had over 20 changes ready to be reviewed and merged, each in their own branch.  Most of them were simple and could be reviewed in a minute, but since they were split up into dedicated changes, you didn't have to coordinate with the reviewer about which requests to review in what order (most of the time).
 
-As an example, let's use the [Git repository](https://github.com/rfinnie/2ping) for [2ping](https://www.finnie.org/software/2ping/), a somewhat popular utility I wrote.  First, we want to clone the origin repository.
+As an example, let's use the [Git repository](https://forge.colobox.com/rfinnie/2ping) for [2ping](https://www.finnie.org/software/2ping/), a somewhat popular utility I wrote.  First, we want to clone the origin repository.
 
 ```
-$ git clone https://github.com/rfinnie/2ping
+$ git clone https://forge.colobox.com/rfinnie/2ping
 Cloning into '2ping'...
 $ cd 2ping/
 2ping{main}$

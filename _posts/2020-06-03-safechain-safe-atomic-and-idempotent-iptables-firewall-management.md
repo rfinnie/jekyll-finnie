@@ -14,7 +14,7 @@ The first flaw was any sort of syntax error would leave the chain in a broken st
 
 The second flaw is less obvious at first, but became a large problem later on.  As chains grew larger, they took longer to apply.  A chain with thousands of rules could take seconds; tens of thousands of rules could take over a minute.  And since the first step was to flush the chain, this was time when a partially applied chain was in production.  SREs would start announcing when chain updates were being applied, chain files were rearranged so the most important rules were near the top, etc.
 
-In early 2013, I wrote [Safechain](https://github.com/rfinnie/safechain), which ended up being one of the most proportionally simple-to-write-versus-headache-reducing scripts I had ever written.  In a nutshell, it takes the basic concept of chain-specific iptables firewall scripts, and makes it safe, atomic and idempotent.
+In early 2013, I wrote [Safechain](https://forge.colobox.com/rfinnie/safechain), which ended up being one of the most proportionally simple-to-write-versus-headache-reducing scripts I had ever written.  In a nutshell, it takes the basic concept of chain-specific iptables firewall scripts, and makes it safe, atomic and idempotent.
 
 A converted chain called "host_ingress" might look like this:
 

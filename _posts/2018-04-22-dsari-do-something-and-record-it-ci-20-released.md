@@ -5,7 +5,7 @@ excerpt: In 2015, I released dsari (Do Something and Record It), a small but ver
 layout: post
 title: dsari (Do Something and Record It) CI 2.0 released
 ---
-[In 2015](https://www.finnie.org/2015/07/23/dsari-do-something-and-record-it/), I released [dsari](https://github.com/rfinnie/dsari) (Do Something and Record It), a small but very powerful continuous integration (CI) system.  Over the past few years, I've been adding bits and pieces to it, and realized I haven't made a proper release since shortly after the initial release.
+[In 2015](https://www.finnie.org/2015/07/23/dsari-do-something-and-record-it/), I released [dsari](https://forge.colobox.com/rfinnie/dsari) (Do Something and Record It), a small but very powerful continuous integration (CI) system.  Over the past few years, I've been adding bits and pieces to it, and realized I haven't made a proper release since shortly after the initial release.
 
 Version 2.0 includes the following:
 
