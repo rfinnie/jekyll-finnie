@@ -8,7 +8,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | replace: newline, ' ' | strip | truncate: 160 | escape }}{% else %}{{ site.description | escape }}{% endif %}">
 
-  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="{{ site.baseurl }}/blog-assets/css/bootstrap.min.css" rel="stylesheet">
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
 
@@ -38,7 +38,6 @@
 <meta property="og:type" content="{% if page.id %}article{% else %}website{% endif %}" />
 {% if page.headline_image %}<meta property="og:image" content="{% if page.headline_image contains '//' %}{{ page.headline_image }}{% else %}{{ site.url }}{{ site.baseurl }}{{ page.headline_image }}{% endif %}" />{% endif %}
 
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
 <link href="{{ site.baseurl }}/blog-assets/css/main.css" rel="stylesheet">
 
 </head>
