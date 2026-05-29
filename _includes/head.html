@@ -8,7 +8,7 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | replace: newline, ' ' | strip | truncate: 160 | escape }}{% else %}{{ site.description | escape }}{% endif %}">
 
-  <link href="{{ site.baseurl }}/blog-assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/blog-assets/css/bootstrap.css" rel="stylesheet">
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.url }}{{ site.baseurl }}/feed.xml">
 
