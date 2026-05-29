@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2009 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Hampr
 date: 2009-10-10 18:57:35-07:00

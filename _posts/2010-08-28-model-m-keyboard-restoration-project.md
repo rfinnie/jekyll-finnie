@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2010 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2010-08-28 17:52:19-07:00
 layout: post
 title: Model M keyboard restoration project
@@ -19,7 +25,7 @@ Below is a repost of the photos I've posted to Flickr this week. [The full set i
 3 Model M 1391401 keyboards, found in the outside yard at Twin Cities Surplus in Reno, NV. I picked them up for $3 each. 2 are white logo (1988 and 1989), one is a 1993 blue logo. All have detachable PS2 cables, one is a 10-foot, two are 5-foots. I was able to find all but two of the keycaps. Conditions look good, but they're covered in a ton of dust, so we'll see once I get them cleaned up.
 
 Score!
-  
+
 ## Making progress
 
 [<img src="https://farm5.static.flickr.com/4116/4922886346_fb68d97ee5.jpg" width="500" height="374" alt="Making progress" />](https://www.flickr.com/photos/fo0bar/4922886346/ "Making progress by Ryan Finnie, on Flickr")
@@ -75,11 +81,11 @@ While restoring my Model Ms, I decided to take a better look at my 2005 Unicomp 
 [<img src="https://farm5.static.flickr.com/4136/4935997198_97918c594b.jpg" width="500" height="375" alt="Four Model Ms, 17 years" />](https://www.flickr.com/photos/fo0bar/4935997198/ "Four Model Ms, 17 years by Ryan Finnie, on Flickr")
 
 From front to back:
-  
+
 - [1988-03-22 IBM Model M 1391401 J2, white logo, S/N 1335975](https://www.flickr.com/photos/fo0bar/4935466343/in/set-72157624671196301/)
-  
+
 - [1989-11-13 IBM Model M 1391401 J1, white logo, S/N 4058648](https://www.flickr.com/photos/fo0bar/4936056560/in/set-72157624671196301/)
-  
+
 - [1993-02-19 IBM Model M 1391401 L2-JH, blue logo, S/N 0791743](https://www.flickr.com/photos/fo0bar/4935465999/in/set-72157624671196301/)
-  
+
 - [2005-04-25 Unicomp Customizer 104 UNI0P46, S/N 0125583](https://www.flickr.com/photos/fo0bar/4935466733/in/set-72157624671196301/)

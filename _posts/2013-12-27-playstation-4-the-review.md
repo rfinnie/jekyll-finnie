@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2013 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2013-12-27 19:18:16-08:00
 layout: post
 title: 'PlayStation 4: The Review'

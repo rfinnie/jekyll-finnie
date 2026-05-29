@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2010 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2010-04-30 19:48:07-07:00
 layout: post
 title: 'IPv6: Living in the future, etc, etc'
@@ -13,7 +19,7 @@ In Linux, this requires the use of ip6tables. I personally use a simple setup, a
 <pre># Set a default DROP policy.  Note that this only affects IPv6 traffic,
 # it does not affect the regular iptables FORWARD policy.
 <strong>ip6tables -P FORWARD DROP</strong>
-# Allow any outbound traffic from your local LAN (2001:470:1f05:22e::/64). 
+# Allow any outbound traffic from your local LAN (2001:470:1f05:22e::/64).
 # Replace "hetunnel" with your tunnel/outbound interface (or leave it off,
 # though it helps prevent possible spoofing).
 <strong>ip6tables -A FORWARD -s 2001:470:1f05:22e::/64 -o hetunnel -j ACCEPT</strong>

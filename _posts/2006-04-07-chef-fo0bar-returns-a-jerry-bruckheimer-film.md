@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2006 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Chef Fo0bar Presents
 date: 2006-04-07 22:42:00-07:00
@@ -26,25 +32,25 @@ A few weeks later, I was eating tacos made with McCormick taco seasoning, and th
 **fo0bar's Faux Chili John's Chili**
 
 Ingredients:
-  
+
 1 lb ground beef, 75% lean (an explanation of why to use fatty beef is below)
-  
+
 1 packet McCormick hot chili seasoning ("hot chili" is harder to find at the grocery store; "chili" can be used instead, but won't be as hot, obviously)
-  
+
 1 packet McCormick taco seasoning
-  
+
 1/2 cup water (2/3 cup for us high-elevation freaks)
-  
+
 1 16 oz can dark kidney beans
-  
+
 Spaghetti
-  
+
 Shredded cheddar cheese
-  
+
 Oyster crackers
-  
+
 Sour cream (optional, I never liked sour cream in my chili)
-  
+
 Chopped onions (optional)
 
 Instructions:
@@ -60,9 +66,9 @@ Instructions:
 5. Cook spaghetti. When spaghetti is cooked, drain and add to bowl (duh). Add several heaping spoonfuls of chili mix, then top with cheese, oyster crackers, and optional sour cream and onions. Enjoy.
 
 Warnings:
-  
+
 * The chili mixture (and associated grease) turn a dark red, and WILL permanently stain anything it touches. Don't say I didn't warn you. (This is true to the original Chili John's chili as well).
-  
+
 * This chili has enough fat to clog the arteries of a horse.
-  
+
 * If you are on Atkins, the paraphernalia (spaghetti, beans and crackers) will probably kill you.

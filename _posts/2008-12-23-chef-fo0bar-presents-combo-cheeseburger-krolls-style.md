@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2008 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Chef Fo0bar Presents
 date: 2008-12-23 00:14:00-08:00
@@ -25,15 +31,15 @@ Calorie count: you don't want to know
 Ingredients:
 
 * 1 lb lean ground hamburger
-  
+
 * 1.25 lb bratwurst (5 quarter-pound links), **raw, not pre-cooked**
-  
+
 * 8 hamburger buns
-  
+
 * 16 slices American cheese
-  
+
 * Butter
-  
+
 * Toppings: Yellow mustard, sauerkraut, onions
 
 Recipe:

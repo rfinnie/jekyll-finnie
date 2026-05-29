@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2011 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2011-09-25 15:26:13-07:00
 layout: post
 tags:
@@ -22,7 +28,7 @@ Now, entropy is gathered from several sources to directly feed the primary pool:
 
 Now, consider a LiveCD or a diskless workstation. Without the ability to introduce dynamic entropy from a previous session, the predictability increases a lot. If the computer had a hardware random number generator, we wouldn't have this problem. The hardware RNG could be queried directly, or it could be used to influence a pseudo RNG like the system Linux uses. But very few computers have hardware RNGs, and almost zero consumer-level computers do.
 
-Or do they? Every computer actually has two hardware random number generators, which can be combined to get a stream of random numbers. They are the CPU itself and the real-time clock (RTC). 
+Or do they? Every computer actually has two hardware random number generators, which can be combined to get a stream of random numbers. They are the CPU itself and the real-time clock (RTC).
 
 twuewand is a truerand implementation, first invented in 1995 by D. P. Mitchell. It relies on the fact that the CPU and RTC are physically separate clocked devices, and therefore time and work are not linked. twuewand's operation is very simple. It sets an alarm for sometime in the future (by default 4 milliseconds, as determined by the RTC), and then starts flipping a bit between 0 and 1 (work performed by the CPU). When the alarm is reached, the bit is taken. Voilà, random bit. It then repeats this process for as many bytes as needed.
 

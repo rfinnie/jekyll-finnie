@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2009 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Hampr
 date: 2009-06-01 02:01:58-07:00
@@ -13,17 +19,17 @@ wp_id: 878
 The 2.0.0 extension is a complete rewrite, and introduces new major functionality. The most visible change is the placement. By default, the extension installs itself in the same place as the Bookmarks menu (on Windows and Linux), but you can choose instead to place is next to the Bookmarks menu, as a sub-menu, or even as a toolbar menu button. Other new features include:
 
 * Added tags support
-  
+
 * Bookmarks display can be picked: recent, untagged, or specific tag
-  
+
 * Added ability to load more bookmarks
-  
+
 * Added page context menu integration
-  
+
 * Added network caching
-  
+
 * Many added display preferences
-  
+
 * Many bug fixes and minor enhancements
 
 Please visit [the extension home page](https://www.hampr.com/firefoxextension) and give it a try! Hampr is fully OpenID-enabled; for information about creating an account, please visit [the login page](https://www.hampr.com/login).

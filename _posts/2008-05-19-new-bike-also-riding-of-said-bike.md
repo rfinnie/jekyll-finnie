@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2008 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2008-05-19 00:58:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/190188.html
@@ -7,7 +13,7 @@ title: New bike.  Also, riding of said bike.
 wp_id: 724
 ---
 [<img src="https://farm3.static.flickr.com/2305/2504212189_b30522287a.jpg" width="500" height="375" alt="New bike" />](https://www.flickr.com/photos/fo0bar/2504212189/ "New bike by fo0bar, on Flickr")
-  
+
 In celebration of [Bike to Work Day](http://www.sfbike.org/?btwd), last Thursday I bought a new bike. However I wasn't actually able to bike to work on Bike to Work Day (I was on call and needed to haul some equipment that day).
 
 The last time I bought a bike was in 2002; a $30 bike from Target. I rode it a little, but in general I got exactly what I paid for, and its main use became a Burning Man bike. Moving to the top of a big hill in 2004 didn't help matters. But now I live closer to work (and more importantly, it's a relatively flat ride to work), and, inspired by [pdx6](http://www.livejournal.com/users/pdx6)'s [post](http://pdx6.livejournal.com/400457.html), I dusted off the bike and saw if I could make it to work and back (this was at about 10PM, mind you). I could, but my body didn't like me for it.

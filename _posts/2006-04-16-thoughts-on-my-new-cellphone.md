@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2006 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2006-04-16 14:40:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/150754.html
@@ -26,7 +32,7 @@ One thing I have to remember is the difference between "call" and "dial". You "c
 
 **Browsers:** Pocket IE is crap. [Minimo](http://www.mozilla.org/projects/minimo/) is crap. Opera 8.5 beta for PocketPC is decent (particularly its ability to make regular webpages look decent on a small screen), but it is lacking in features. Also, there is an annoying bug. Before I say, let me remind you how PocketPC works: When you open an application, it loads into memory. When you close the window, the application remains in memory so it can be loaded more quickly the next time you want it. This way of doing things is also neat because it allows programs like IM clients to remain in the background, and pop themselves up if a message is received. (There are also protections in place so if you run out of memory (in my case, 48MB), the least used application is removed from memory first.) That being said, the Opera bug is that if it is in background memory, it'll pop itself up whenever you do nearly anything: turn on the phone's LCD, switch screen orientation, etc. From forum postings, this seems specific to Opera on the 8125 (HTC Wizard). The workaround is to do a force quit when I'm done (Ctrl-Q). Annoying, but hey, it's a beta.
 
-**Skype:** I tried out the Skype client for 312mhz PocketPC ARM, and was not impressed. Half the time, loading the app would lock up the phone (see below), the interface wasn't that good, talking over GSM was impossible (occasionally, I would hear something that sounded like voice), and quality over ethernet/802.11 was blah. I didn't really use Skype anyways, so I ditched the app. 
+**Skype:** I tried out the Skype client for 312mhz PocketPC ARM, and was not impressed. Half the time, loading the app would lock up the phone (see below), the interface wasn't that good, talking over GSM was impossible (occasionally, I would hear something that sounded like voice), and quality over ethernet/802.11 was blah. I didn't really use Skype anyways, so I ditched the app.
 
 **802.11:** Speaking of which, the phone includes 802.11b/g, so I could go to coffee shops and decrease my latency while chatting on IRC. The phone includes WEP and WPA-TKIP, but not WPA-AES. And on top of that, WPA-TKIP does not seem to work on my laptop at home using wpa_supplicant. It sucks that there is no AES support on the phone, but TKIP should work with my laptop configs (but doesn't), so I'm going along that route to see if I can figure out WHY it doesn't work. One day I may be able to switch my home's AP over to WPA-TKIP and use both my laptop and my phone over 802.11g at the same time.
 

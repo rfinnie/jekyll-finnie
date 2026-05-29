@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2015 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2015-02-21 17:04:11-08:00
 layout: post
 tags:
@@ -24,335 +30,335 @@ This is a hand-picked assortment of test results; for the full raw results, see 
     <th>
       Test
     </th>
-    
+
     <th>
       RPi B<br />Raspbian
     </th>
-    
+
     <th>
       RPi 2<br />Raspbian
     </th>
-    
+
     <th>
       RPi 2<br />Ubuntu
     </th>
-    
+
     <th>
       Utilite<br />Ubuntu
     </th>
-    
+
     <th>
       i5-4690K<br />Ubuntu
     </th>
   </tr>
-  
+
   <tr>
     <th>
       Numeric sort
     </th>
-    
+
     <td>
       217.2
     </td>
-    
+
     <td>
       450.72
     </td>
-    
+
     <td>
       421.55
     </td>
-    
+
     <td>
       334.63
     </td>
-    
+
     <td>
       2,385.1
     </td>
   </tr>
-  
+
   <tr>
     <th>
       FP emulation
     </th>
-    
+
     <td>
       41.334
     </td>
-    
+
     <td>
       70.276
     </td>
-    
+
     <td>
       55.108
     </td>
-    
+
     <td>
       52.454
     </td>
-    
+
     <td>
       795.9
     </td>
   </tr>
-  
+
   <tr>
     <th>
       IDEA
     </th>
-    
+
     <td>
       694.72
     </td>
-    
+
     <td>
       1,308.5
     </td>
-    
+
     <td>
       1,573.3
     </td>
-    
+
     <td>
       1,315
     </td>
-    
+
     <td>
       15,059
     </td>
   </tr>
-  
+
   <tr>
     <th>
       md5 1024
     </th>
-    
+
     <td>
       37,008.46
     </td>
-    
+
     <td>
       62,628.86
     </td>
-    
+
     <td>
       69,563.39
     </td>
-    
+
     <td>
       80,632.53
     </td>
-    
+
     <td>
       670,637.40
     </td>
   </tr>
-  
+
   <tr>
     <th>
       aes-256 cbc 1024
     </th>
-    
+
     <td>
       11,969.50
     </td>
-    
+
     <td>
       18,445.31
     </td>
-    
+
     <td>
       17,295.36
     </td>
-    
+
     <td>
       20,986.47
     </td>
-    
+
     <td>
       124,509.53
     </td>
   </tr>
-  
+
   <tr>
     <th>
       sha512 1024
     </th>
-    
+
     <td>
       8,491.32
     </td>
-    
+
     <td>
       11,838.81
     </td>
-    
+
     <td>
       20,718.25
     </td>
-    
+
     <td>
       25,803.70
     </td>
-    
+
     <td>
       431,647.74
     </td>
   </tr>
-  
+
   <tr>
     <th>
       whirlpool 1024
     </th>
-    
+
     <td>
       1,584.61
     </td>
-    
+
     <td>
       2,949.80
     </td>
-    
+
     <td>
       2,747.05
     </td>
-    
+
     <td>
       2,687.46
     </td>
-    
+
     <td>
       135,009.28
     </td>
   </tr>
-  
+
   <tr>
     <th>
       rsa 1024 verify
     </th>
-    
+
     <td>
       1,540.3
     </td>
-    
+
     <td>
       2,649.6
     </td>
-    
+
     <td>
       2,630.5
     </td>
-    
+
     <td>
       2,890.8
     </td>
-    
+
     <td>
       114,074.5
     </td>
   </tr>
-  
+
   <tr>
     <th>
       ecdsa 256 verify
     </th>
-    
+
     <td>
       73.2
     </td>
-    
+
     <td>
       126.3
     </td>
-    
+
     <td>
       138.0
     </td>
-    
+
     <td>
       161.1
     </td>
-    
+
     <td>
       4,329.6
     </td>
   </tr>
-  
+
   <tr>
     <th>
       Block output
     </th>
-    
+
     <td>
       7,520
     </td>
-    
+
     <td>
       11,028
     </td>
-    
+
     <td>
       11,299
     </td>
-    
+
     <td>
       48,214
     </td>
-    
+
     <td>
       62,762
     </td>
   </tr>
-  
+
   <tr>
     <th>
       Block input
     </th>
-    
+
     <td>
       13,233
     </td>
-    
+
     <td>
       23,015
     </td>
-    
+
     <td>
       22,997
     </td>
-    
+
     <td>
       125,954
     </td>
-    
+
     <td>
       284,914
     </td>
   </tr>
-  
+
   <tr>
     <th>
       Random seeks
     </th>
-    
+
     <td>
       524.7
     </td>
-    
+
     <td>
       1,054
     </td>
-    
+
     <td>
       874.6
     </td>
-    
+
     <td>
       3,218
     </td>
-    
+
     <td>
       444.5
     </td>
@@ -396,9 +402,9 @@ FLOATING-POINT INDEX: 3.773
 Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
 ==============================LINUX DATA BELOW===============================
 CPU                 : ARMv6-compatible processor rev 7 (v6l)
-L2 Cache            : 
+L2 Cache            :
 OS                  : Linux 3.18.7+
-C compiler          : gcc version 4.6.3 (Debian 4.6.3-14+rpi1) 
+C compiler          : gcc version 4.6.3 (Debian 4.6.3-14+rpi1)
 libc                : libc-2.13.so
 MEMORY INDEX        : 2.526
 INTEGER INDEX       : 3.165
@@ -420,12 +426,12 @@ Latency              2726us    5095us    4832us    2743us     307us    2468us
 
 OpenSSL 1.0.1e 11 Feb 2013
 built on: Fri Jun  6 15:02:47 UTC 2014
-options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr) 
+options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr)
 compiler: gcc -fPIC -DOPENSSL_PIC -DZLIB -DOPENSSL_THREADS -D_REENTRANT -DDSO_DLFCN -DHAVE_DLFCN_H -DL_ENDIAN -DTERMIO -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security -D_FORTIFY_SOURCE=2 -Wl,-z,relro -Wa,--noexecstack -Wall -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DAES_ASM -DGHASH_ASM
 The 'numbers' are in 1000s of bytes per second processed.
 type             16 bytes     64 bytes    256 bytes   1024 bytes   8192 bytes
-md2                  0.00         0.00         0.00         0.00         0.00 
-mdc2                 0.00         0.00         0.00         0.00         0.00 
+md2                  0.00         0.00         0.00         0.00         0.00
+mdc2                 0.00         0.00         0.00         0.00         0.00
 md4               2111.92k     7710.99k    23471.96k    48774.36k    70500.68k
 md5               1575.49k     5735.79k    17700.13k    37008.46k    53661.71k
 hmac(md5)         2724.28k     9222.25k    25068.61k    43978.74k    56001.50k
@@ -434,10 +440,10 @@ rmd160            1391.15k     4389.22k    10595.31k    16489.15k    19804.23k
 rc4              34807.13k    40177.89k    41639.59k    42066.47k    42146.33k
 des cbc           6241.84k     6592.86k     6662.08k     6715.25k     6682.37k
 des ede3          2281.85k     2351.88k     2374.12k     2370.95k     2385.89k
-idea cbc             0.00         0.00         0.00         0.00         0.00 
+idea cbc             0.00         0.00         0.00         0.00         0.00
 seed cbc          7857.93k     9024.04k     9347.69k     9446.83k     9482.45k
 rc2 cbc           6075.61k     6397.57k     6474.49k     6491.95k     6534.29k
-rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00 
+rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00
 blowfish cbc     11636.94k    12964.88k    13267.65k    13459.91k    13439.83k
 cast cbc          9786.53k    11425.48k    11879.08k    11967.79k    11967.44k
 aes-128 cbc      13080.39k    14961.80k    15568.42k    15649.73k    15723.71k
@@ -523,9 +529,9 @@ FLOATING-POINT INDEX: 8.644
 Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
 ==============================LINUX DATA BELOW===============================
 CPU                 : 4 CPU ARMv7 Processor rev 5 (v7l)
-L2 Cache            : 
+L2 Cache            :
 OS                  : Linux 3.18.7-v7+
-C compiler          : gcc version 4.6.3 (Debian 4.6.3-14+rpi1) 
+C compiler          : gcc version 4.6.3 (Debian 4.6.3-14+rpi1)
 libc                : libc-2.13.so
 MEMORY INDEX        : 4.296
 INTEGER INDEX       : 5.654
@@ -547,12 +553,12 @@ Latency               761us    3017us    3273us     694us      82us     619us
 
 OpenSSL 1.0.1e 11 Feb 2013
 built on: Thu Jan 15 21:10:17 UTC 2015
-options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr) 
+options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr)
 compiler: gcc -fPIC -DOPENSSL_PIC -DZLIB -DOPENSSL_THREADS -D_REENTRANT -DDSO_DLFCN -DHAVE_DLFCN_H -DL_ENDIAN -DTERMIO -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security -D_FORTIFY_SOURCE=2 -Wl,-z,relro -Wa,--noexecstack -Wall -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DAES_ASM -DGHASH_ASM
 The 'numbers' are in 1000s of bytes per second processed.
 type             16 bytes     64 bytes    256 bytes   1024 bytes   8192 bytes
-md2                  0.00         0.00         0.00         0.00         0.00 
-mdc2                 0.00         0.00         0.00         0.00         0.00 
+md2                  0.00         0.00         0.00         0.00         0.00
+mdc2                 0.00         0.00         0.00         0.00         0.00
 md4               5729.39k    19130.11k    49388.12k    81406.29k   100783.45k
 md5               4438.31k    14612.82k    37866.07k    62628.86k    77651.97k
 hmac(md5)         4319.19k    14172.82k    37175.64k    62360.92k    77799.42k
@@ -561,10 +567,10 @@ rmd160            3564.22k     9565.55k    19012.52k    25239.55k    27931.99k
 rc4              51118.50k    57082.26k    58688.00k    59210.75k    59361.96k
 des cbc          10716.11k    11323.88k    11482.62k    11527.51k    11539.80k
 des ede3          4014.53k     4126.68k     4157.87k     4165.97k     4169.73k
-idea cbc             0.00         0.00         0.00         0.00         0.00 
+idea cbc             0.00         0.00         0.00         0.00         0.00
 seed cbc         12535.65k    13878.08k    14283.09k    14388.91k    14420.65k
 rc2 cbc           9081.97k     9540.69k     9663.23k     9694.55k     9704.79k
-rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00 
+rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00
 blowfish cbc     17411.52k    19035.82k    19490.73k    19605.50k    19641.69k
 cast cbc         16156.60k    18213.35k    18851.75k    19018.41k    19068.25k
 aes-128 cbc      18509.82k    20745.75k    21447.68k    21703.32k    21684.22k
@@ -650,9 +656,9 @@ FLOATING-POINT INDEX: 7.832
 Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
 ==============================LINUX DATA BELOW===============================
 CPU                 : 4 CPU ARMv7 Processor rev 5 (v7l)
-L2 Cache            : 
+L2 Cache            :
 OS                  : Linux 3.18.0-14-rpi2
-C compiler          : gcc version 4.8.2 (Ubuntu/Linaro 4.8.2-19ubuntu1) 
+C compiler          : gcc version 4.8.2 (Ubuntu/Linaro 4.8.2-19ubuntu1)
 libc                : libc-2.19.so
 MEMORY INDEX        : 4.675
 INTEGER INDEX       : 5.560
@@ -674,12 +680,12 @@ Latency               495us    3662us    3825us     579us     151us     453us
 
 OpenSSL 1.0.1f 6 Jan 2014
 built on: Fri Jan  9 18:00:48 UTC 2015
-options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr) 
+options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr)
 compiler: cc -fPIC -DOPENSSL_PIC -DOPENSSL_THREADS -D_REENTRANT -DDSO_DLFCN -DHAVE_DLFCN_H -DL_ENDIAN -DTERMIO -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security -D_FORTIFY_SOURCE=2 -Wl,-Bsymbolic-functions -Wl,-z,relro -Wa,--noexecstack -Wall -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DAES_ASM -DGHASH_ASM
 The 'numbers' are in 1000s of bytes per second processed.
 type             16 bytes     64 bytes    256 bytes   1024 bytes   8192 bytes
-md2                  0.00         0.00         0.00         0.00         0.00 
-mdc2                 0.00         0.00         0.00         0.00         0.00 
+md2                  0.00         0.00         0.00         0.00         0.00
+mdc2                 0.00         0.00         0.00         0.00         0.00
 md4               5583.18k    19339.84k    50591.15k    84928.17k   105990.83k
 md5               4933.80k    16334.36k    42260.72k    69563.39k    86103.38k
 hmac(md5)         5168.09k    16575.19k    42759.08k    70127.27k    86078.81k
@@ -688,10 +694,10 @@ rmd160            4114.97k    11203.16k    22984.95k    30934.70k    34390.07k
 rc4              51762.27k    60471.42k    63043.07k    63848.45k    64042.33k
 des cbc          11655.27k    12331.43k    12531.33k    12557.65k    12569.26k
 des ede3          4439.70k     4544.32k     4571.82k     4578.99k     4573.87k
-idea cbc             0.00         0.00         0.00         0.00         0.00 
+idea cbc             0.00         0.00         0.00         0.00         0.00
 seed cbc         15028.15k    15992.85k    16226.46k    16152.58k    16134.68k
 rc2 cbc           8283.84k     8735.81k     8842.87k     8890.31k     8896.51k
-rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00 
+rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00
 blowfish cbc     17713.68k    19325.95k    19862.27k    19652.61k    19942.06k
 cast cbc         17440.01k    18823.55k    19480.49k    19606.87k    19685.38k
 aes-128 cbc      20525.47k    22075.99k    22760.96k    22951.94k    23003.14k
@@ -777,9 +783,9 @@ FLOATING-POINT INDEX: 8.296
 Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
 ==============================LINUX DATA BELOW===============================
 CPU                 : 4 CPU ARMv7 Processor rev 10 (v7l)
-L2 Cache            : 
+L2 Cache            :
 OS                  : Linux 3.13.0-45-generic
-C compiler          : gcc version 4.8.2 (Ubuntu/Linaro 4.8.2-19ubuntu1) 
+C compiler          : gcc version 4.8.2 (Ubuntu/Linaro 4.8.2-19ubuntu1)
 libc                : libc-2.19.so
 MEMORY INDEX        : 4.513
 INTEGER INDEX       : 4.904
@@ -801,13 +807,13 @@ Latency              7211us    2315us    3450us    2208us      42us    2775us
 
 OpenSSL 1.0.1f 6 Jan 2014
 built on: Fri Jan  9 18:00:48 UTC 2015
-options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr) 
+options:bn(64,32) rc4(ptr,char) des(idx,cisc,16,long) aes(partial) blowfish(ptr)
 compiler: cc -fPIC -DOPENSSL_PIC -DOPENSSL_THREADS -D_REENTRANT -DDSO_DLFCN -DHAVE_DLFCN_H -DL_ENDIAN -DTERMIO -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security
  -D_FORTIFY_SOURCE=2 -Wl,-Bsymbolic-functions -Wl,-z,relro -Wa,--noexecstack -Wall -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DAES_ASM -DGHASH_ASM
 The 'numbers' are in 1000s of bytes per second processed.
 type             16 bytes     64 bytes    256 bytes   1024 bytes   8192 bytes
-md2                  0.00         0.00         0.00         0.00         0.00 
-mdc2                 0.00         0.00         0.00         0.00         0.00 
+md2                  0.00         0.00         0.00         0.00         0.00
+mdc2                 0.00         0.00         0.00         0.00         0.00
 md4               8241.83k    26442.64k    68072.19k   110937.69k   137616.85k
 md5               6614.97k    20734.38k    50776.42k    80632.53k    96689.61k
 hmac(md5)         6211.28k    19780.36k    50121.04k    80594.27k    97447.04k
@@ -816,10 +822,10 @@ rmd160            5281.47k    14105.00k    28500.52k    38167.31k    42205.18k
 rc4              47155.17k    53723.78k    56523.76k    57421.26k    57431.15k
 des cbc          12163.80k    12749.62k    13012.00k    13033.06k    12996.98k
 des ede3          4672.83k     4775.56k     4796.24k     4800.45k     4824.83k
-idea cbc             0.00         0.00         0.00         0.00         0.00 
+idea cbc             0.00         0.00         0.00         0.00         0.00
 seed cbc         15433.24k    16347.68k    16366.75k    16512.74k    16525.96k
 rc2 cbc           9267.11k     9746.40k     9817.27k     9917.86k     9891.40k
-rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00 
+rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00
 blowfish cbc     20327.67k    22173.27k    22814.70k    22972.48k    22843.30k
 cast cbc         18834.93k    20428.78k    20931.76k    21110.43k    21150.52k
 aes-128 cbc      25165.48k    26673.46k    27322.31k    27435.49k    27447.67k
@@ -907,7 +913,7 @@ Baseline (MSDOS*)   : Pentium* 90, 256 KB L2-cache, Watcom* compiler 10.0
 CPU                 : 4 CPU GenuineIntel Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz 3501MHz
 L2 Cache            : 6144 KB
 OS                  : Linux 3.13.0-45-generic
-C compiler          : gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1) 
+C compiler          : gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1)
 libc                : libc-2.19.so
 MEMORY INDEX        : 57.512
 INTEGER INDEX       : 51.811
@@ -929,12 +935,12 @@ Latency               186ms      81us     386ms     228ms      11us    2314ms
 
 OpenSSL 1.0.1f 6 Jan 2014
 built on: Fri Jan  9 17:52:48 UTC 2015
-options:bn(64,64) rc4(16x,int) des(idx,cisc,16,int) aes(partial) blowfish(idx) 
+options:bn(64,64) rc4(16x,int) des(idx,cisc,16,int) aes(partial) blowfish(idx)
 compiler: cc -fPIC -DOPENSSL_PIC -DOPENSSL_THREADS -D_REENTRANT -DDSO_DLFCN -DHAVE_DLFCN_H -m64 -DL_ENDIAN -DTERMIO -g -O2 -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security -D_FORTIFY_SOURCE=2 -Wl,-Bsymbolic-functions -Wl,-z,relro -Wa,--noexecstack -Wall -DMD32_REG_T=int -DOPENSSL_IA32_SSE2 -DOPENSSL_BN_ASM_MONT -DOPENSSL_BN_ASM_MONT5 -DOPENSSL_BN_ASM_GF2m -DSHA1_ASM -DSHA256_ASM -DSHA512_ASM -DMD5_ASM -DAES_ASM -DVPAES_ASM -DBSAES_ASM -DWHIRLPOOL_ASM -DGHASH_ASM
 The 'numbers' are in 1000s of bytes per second processed.
 type             16 bytes     64 bytes    256 bytes   1024 bytes   8192 bytes
-md2                  0.00         0.00         0.00         0.00         0.00 
-mdc2                 0.00         0.00         0.00         0.00         0.00 
+md2                  0.00         0.00         0.00         0.00         0.00
+mdc2                 0.00         0.00         0.00         0.00         0.00
 md4             106719.16k   322994.60k   737961.39k  1105796.37k  1289319.77k
 md5              74058.79k   213987.90k   470995.74k   670637.40k   767888.04k
 hmac(md5)        63472.70k   190996.20k   442288.12k   656018.77k   766369.79k
@@ -943,10 +949,10 @@ rmd160           50582.59k   120868.69k   218979.15k   273907.03k   295291.56k
 rc4             439214.15k   793583.10k   931643.08k   959178.75k   965929.64k
 des cbc          82232.33k    85451.92k    85785.86k    85917.01k    86350.26k
 des ede3         31638.78k    32192.49k    32414.31k    32370.01k    32385.71k
-idea cbc             0.00         0.00         0.00         0.00         0.00 
+idea cbc             0.00         0.00         0.00         0.00         0.00
 seed cbc         85378.73k    86113.46k    85957.63k    85827.58k    86218.75k
 rc2 cbc          52713.13k    53636.61k    53993.22k    54268.92k    54160.04k
-rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00 
+rc5-32/12 cbc        0.00         0.00         0.00         0.00         0.00
 blowfish cbc    132890.61k   140962.25k   142400.85k   143064.75k   143606.58k
 cast cbc        123477.80k   131612.07k   133600.00k   134423.46k   134250.50k
 aes-128 cbc     155945.39k   170214.83k   173895.42k   175899.91k   175699.29k

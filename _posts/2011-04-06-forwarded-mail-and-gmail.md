@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2011 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2011-04-06 17:22:46-07:00
 layout: post
 tags:
@@ -15,11 +21,11 @@ I implemented this about a month ago on my mail server, and things seemed to be 
 Now, what many email providers do is support a procedure with a name like "inbound gateway", "trusted relay", etc, where you specify which IP addresses are permitted to relay mail to the final destination. This isn't a "whitelist", it basically tells the mail server, "for mail coming from this IP address, do not consider the connecting IP address at all in relation to spam determination, good or bad". The problem is, only some Google mail services provide this:
 
 Free Gmail: NO
-  
+
 Free Google Apps Gmail: NO
-  
+
 Paid Google Apps Gmail: YES (from the Apps control panel: Service Settings, Email, Inbound gateway)
-  
+
 Postini: YES (but requires a call to Postini, and getting them to approve the IP globally, not just for your service)
 
 So I'm considering switching to the paid Google Apps, just to get this behind me. I like Gmail's interface, and more importantly, I'm almost totally reliant on Google for spam filtering, as no other service seems to do as well (barring the problems described here), considering I've had my primary email address for nearly 15 years, and it receives literally thousands of spam per day.

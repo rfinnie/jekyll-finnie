@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2012 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2012-04-11 10:53:39-07:00
 layout: post
 tags:
@@ -13,21 +19,21 @@ Hash: SHA256,SHA1
 
 Wed, 11 Apr 2012 10:30:08 -0700
 
-For a number of reasons, I've recently set up a new OpenPGP key, and 
-will be transitioning away from my old one.  My old key was created 
-over 10 years ago, as a 1024 bit DSA key with a SHA-1 signatures, both 
-of which are considered inadequate today.  My new key is a 4096 bit RSA 
+For a number of reasons, I've recently set up a new OpenPGP key, and
+will be transitioning away from my old one.  My old key was created
+over 10 years ago, as a 1024 bit DSA key with a SHA-1 signatures, both
+of which are considered inadequate today.  My new key is a 4096 bit RSA
 key with SHA-256 signatures.
 
-The old key will continue to be valid for at least 90 days.  It will be 
-revoked on or around 2012-07-15, or after the release of Finnix 105, 
-whichever is later.  (My old key was used to manage signatures for the 
-Finnix project.  This will be split out into a Finnix-specific signing 
+The old key will continue to be valid for at least 90 days.  It will be
+revoked on or around 2012-07-15, or after the release of Finnix 105,
+whichever is later.  (My old key was used to manage signatures for the
+Finnix project.  This will be split out into a Finnix-specific signing
 key, and will be announced in a separate message.)
 
-However, I would prefer all future correspondence to come to the new 
-one, as of today.  I would also like this new key to be re-integrated 
-into the web of trust.  This message is signed by both keys to certify 
+However, I would prefer all future correspondence to come to the new
+one, as of today.  I would also like this new key to be re-integrated
+into the web of trust.  This message is signed by both keys to certify
 the transition.
 
 The old key was:
@@ -54,9 +60,9 @@ signed by the old one:
 
   gpg --check-sigs 86AE8D98
 
-The new and old keys' primary UIDs are both "Ryan Finnie 
-&lt;ryan@finnie.org>".  This was by design, to ensure you must verify the 
-key signatures rather than seeing something like "Ryan Finnie (2012) 
+The new and old keys' primary UIDs are both "Ryan Finnie
+&lt;ryan@finnie.org>".  This was by design, to ensure you must verify the
+key signatures rather than seeing something like "Ryan Finnie (2012)
 &lt;ryan@finnie.org>".
 
 If you don't already know my old key, or you just want to be double

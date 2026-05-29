@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2007 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2007-02-19 14:43:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/170499.html
@@ -21,15 +27,15 @@ With ATSC and a normal radio shack antenna, I can get ABC, CBS, NBC, PBS, PBS Cr
 Now, admittedly, I'm not much of a TV snob. Before now, I had a 10-year-old TV, in an area where I couldn't receive anything well via SD transmissions. I didn't have cable, which basically leaves watching DVDs through my TV. Before I bought the new HDTV, I (correctly) predicted this would be a slippery slope to rampant consumerism. Since then I have bought:
 
 \* $100 TV stand (the feet on the new 37" TV alone were too big for the TV stand that once fit the entire 27" CRT) (\*)
-  
+
 \* $60 Progressive scan DVD player with upconverting (\*)
-  
+
 * $20 Wii component cables
-  
+
 * $80 Hauppauge HVR-1600 (dual ATSC/NTSC PCI tuner)
-  
+
 \* $160 500GB SATA HD (\*)
-  
+
 * $40 MCE remote/receiver
 
 Items marked with a (*) were bought with a Best Buy or Sears gift card, so I technically didn't lose anything on those.

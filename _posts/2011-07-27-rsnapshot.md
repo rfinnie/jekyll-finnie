@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2011 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2011-07-27 21:59:27-07:00
 layout: post
 tags:
@@ -21,11 +27,11 @@ I ran an early dev copy of bahlgs on my home router / server, backing up a few h
 It seems to be pretty decent, and would be capable of functioning as a replacement for my home backup system. But at the same time I was thinking back to my previous employer, where I maintained a datacenter of approximately 150 servers. And I realized that rsnapshot wouldn't have worked for that use:
 
 > speede created snapshot directories in the format <tt>snapshot-YYYYMMDD-HHMM</tt>, with a symlink from <tt>current</tt> to the latest snapshot. rsnapshot uses a format like <tt>daily.0</tt>, where "daily" is the type of snapshot and "0" is an incrementing integer, with 0 always being the most current. That avoids the need for a "current" symlink, but makes it harder to see what dates correspond to which snapshots.
-> 
+>
 > speede had hardcoded logic for the last N daily backups, plus the first snapshot of the month. It's something I wanted to make more configurable, but it served our backup needs. rsnapshot allows for a configurable number of hourly/daily/weekly/monthly snapshots, which is more configurable, but the runs are not connected to each other. That is, if I choose to do daily and monthly snapshots, the backup is run twice on the day the monthly snapshots are run.
-> 
+>
 > speede had concurrency support, allowing for a maximum number of concurrent rsyncs (6 by default), and hosts could be placed into concurrency groups with separate concurrency limits for them. For example, limit group "vmhost5" to 2 concurrent rsyncs, since if all 6 runs happened to be against guests of VM Host #5, it would impact all guests on the host.
-> 
+>
 > rsnapshot seems to have no concurrency support. That would be a killer for my old employer, where we had three backup servers, each running 6 concurrent rsyncs, backing up about 150 servers, and it would still take about 8 hours each night. This can be partially mitigated in rsnapshot by using multiple configuration files and dividing the servers up into multiple cron runs done concurrently, but speede was smarter and used a queue system so one large backup wouldn't hold up others.
 
 I'm definitely not putting down rsnapshot. It seems very useful, and even has features that would have been nice for speede, except I never got around to coding them into speede myself (such as pre/post per-backup scripts). But again, I'm not lamenting not taking a look at rsnapshot when I was with my old employer, since the lack of concurrency support would have been a deal breaker.

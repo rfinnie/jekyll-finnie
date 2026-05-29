@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2007 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2007-12-05 21:44:00-08:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/185275.html
@@ -8,7 +14,7 @@ wp_id: 705
 ---
 I really like MySQL (yes, that won't win me any brownie points in my circle of friends) for its balance between power and simplicity, but I do miss a few things compared to other databases such as PostgreSQL. Some of them, such as subselects and stored procedures, have been introduced, but what I really miss is the "inet" data type. You can do most of its functionality with regular ints (well, unsigned ints), but it takes a lot more work. This little guide is here mainly for my own reference, but hopefully others will find it useful.
 
-First of all, let's define our reference tables. Again, remember to use unsigned ints, since 
+First of all, let's define our reference tables. Again, remember to use unsigned ints, since
 
 <tt>inet_aton</tt> and <tt>inet_ntoa</tt> work in unsigned 32-bit integers.
 

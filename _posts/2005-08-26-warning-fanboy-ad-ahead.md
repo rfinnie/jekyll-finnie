@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2005 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2005-08-26 23:16:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/121240.html
@@ -9,11 +15,11 @@ wp_id: 467
 I have to admit it: I love eMachines. The name used to synonymous with "utter crap", but a couple years ago, they brought in a new CEO who said "OK, we make shit, let's change that". Since then, they've made decent computers using off-the-shelf components at prices that are much lower than anything you could get from another manufacturer (and sometimes, lower than it would cost to build yourself). Over the years, I have bought these boxes from eMachines (I'm too lazy to look up the model numbers):
 
 * AthlonXP 2000+, 256MB, 80GB, DVD/CDRW - $500 in early 2003 - Currently my media center PC.
-  
+
 * Athlon64 3200+, 512MB, 160GB, DVD/CDRW - $1100 in late 2003 - This was the T6000, the first mass-marketed Athlon64 desktop system, and cost MUCH less than it would have taken to build your own. They probably took a decent loss on each one just for the "we did it first" factor. It also had a kickass video card for that time, a Radeon 9600 pro. My parents have this one now.
-  
+
 * Athlon64 3400+, 1GB, 200GB, DVD+-RW/DL/CDRW - $600 in June 2005 - This one has an onboard Radeon XPress 200, which is quite bland, but at least has an available PCI express slot. What was odd was that it came with WinXP Media Center Edition, even though it didn't come with a TV card or remote.
-  
+
 * Athlon64 3200+, 512MB, 160GB, DVD+-RW/DL/CDRW - $500 this month - Purchased by work, same motherboard, just with slightly lower specs across the board.
 
 My biggest gripe so far is that their web site SUCKS. Their info pages only list the last 2 or 3 models (even though more are available on the store shelves), they don't even mention that they sell laptops (which I've heard are good), and the support site doesn't have drivers available (which is annoying, but at least all the components are standard, so you can find drivers on the manufacturer's web sites).

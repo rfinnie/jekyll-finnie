@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2010 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2010-03-07 15:36:23-08:00
 layout: post
 title: External temperature monitoring with Linux
@@ -280,5 +286,5 @@ If you need to monitor temperatures below 0K, you've got some rather large therm
 But seriously, here's what the documentation says about its temperature range:
 
 > _[The DS18B20] has an operating temperature range of -55&deg;C to +125&deg;C and is accurate to &plusmn;0.5&deg;C over the range of -10&deg;C to +85&deg;C_
-> 
+>
 > _The temperature range of the T-Sense is equal to the range of the DS18B20. The temperature range of the connecting cables will likely be far less. Standard cat5 cable sheathing will begin to melt at temperatures >60&deg;C (140&deg;F). High temp cables are available by special order if needed._

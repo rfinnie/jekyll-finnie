@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2007 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Chef Fo0bar Presents
 date: 2007-04-28 20:31:00-07:00
@@ -18,18 +24,18 @@ wp_id: 661
   My mom used to make these when I was a kid. She sent me the recipe a few months ago and I finally got around to it today. Major sugar rush.
 </p>
 
-Ingredients:  
-2 C. Sugar  
-½ C. Margarine  
-3 Tbs. Cooking Cocoa  
-1/3 C. Milk  
-½ C. Peanut Butter  
-3 C. Uncooked Rolled Oats  
-1 teas. Vanilla  
-Directions:  
-1) Combine sugar, cocoa, margarine and milk in saucepan. Bring to a  
-boil over medium heat.  
-2) Remove from heat and add peanut butter, vanilla and rolled oats.  
-Stir well.  
-3) Drop by teaspoon on waxed paper.  
+Ingredients:
+2 C. Sugar
+½ C. Margarine
+3 Tbs. Cooking Cocoa
+1/3 C. Milk
+½ C. Peanut Butter
+3 C. Uncooked Rolled Oats
+1 teas. Vanilla
+Directions:
+1) Combine sugar, cocoa, margarine and milk in saucepan. Bring to a
+boil over medium heat.
+2) Remove from heat and add peanut butter, vanilla and rolled oats.
+Stir well.
+3) Drop by teaspoon on waxed paper.
 4) Cool

@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2016 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2016-12-16 11:40:14-08:00
 excerpt: Wherein Ryan blogs about blogging, and has been on the blogosphere since
   back when it was called the interblog
@@ -35,4 +41,3 @@ It's a large open source project with a decent track record for security, and it
 (It was one of the first large projects to embrace the open contribution model.
 Fork the repository, make a change, push it to a personal branch, open a merge request, it gets tested against CI, and core developers can then merge it directly.
 Back in the day it was an eye opener to go, "Wait I don't have to be a project developer to make a commit directly?")
-

@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2005 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Finnix
 date: 2005-11-21 21:33:00-08:00
@@ -17,15 +23,15 @@ UML/Xen Support: Finnix 86.1 can be deployed as a guest image on User Mode Linux
 Other Changes: Finnix 86.1 includes Linux kernel 2.6.14.2, unionfs 1.1.1, and updated upstream packages. Many bugs have been fixed; most visibly, the CD will now reliably eject before system shutdown. For a full changelog, see the link below.
 
 Home page: https://www.finnix.org/
-  
+
 SourceForge page: http://www.sourceforge.net/projects/finnix/
-  
+
 Download:
-  
+
 * x86: http://prdownloads.sourceforge.net/finnix/finnix-86.1.iso?download
-  
+
 * PowerPC: http://prdownloads.sourceforge.net/finnix/finnix-ppc-86.1.iso?download
-  
+
 ChangeLog: http://sourceforge.net/project/shownotes.php?group\_id=3892&release\_id=371261
-  
+
 Finnix for UML/Xen: https://www.finnix.org/uml.php

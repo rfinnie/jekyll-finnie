@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2010 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2010-12-27 00:04:55-08:00
 layout: post
 title: Postal system abuse for fun and profit!
@@ -15,24 +21,24 @@ NL is the Netherlands, obviously. 2333 is a postal code, somewhat like a ZIP cod
 The long form would look like this:
 
 > IRC user bz2
-  
+
 > Flanorpad ██
-  
+
 > 2333 AP Leiden
-  
-> The Netherlands 
+
+> The Netherlands
 
 And indeed, this is the exact format I would normally use to send him international mail. But the short form is recognized and is often used as the return address, minus the country for domestic mail (bz2 said he simply uses "2333 AP ██").
 
 A shorthand for US postal addresses simply doesn't exist, however. My full international address is:
 
 > Ryan Finnie
-  
+
 > 4959 Talbot Lane #███
-  
+
 > Reno, NV 89509-6521
-  
-> United States 
+
+> United States
 
 This official format mostly evolved from historical use, but logically it is quite random. The logical ordering doesn't flow in one direction to another (smallest to largest or vice versa). But I'll explain in order of largest to smallest. United States is self-explanatory. NV is the state of Nevada. Reno is the city. 89509 is a ZIP/postal code within Reno. (ZIP codes can span multiple cities, but are geographically contiguous. They flow from east to west, so 0XXXX is on the east coast and 9XXXX is on the west coast.) Talbot Lane is a street in Reno (but streets can also span multiple ZIP codes). 4959 is the house number on Talbot. But in this case, 4959 Talbot Lane specifies a sprawling apartment complex of 300 units, so #███ is the unit number.
 

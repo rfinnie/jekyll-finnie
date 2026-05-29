@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2012 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2012-01-07 00:59:29-08:00
 layout: post
 title: When exactly did I become an adult?
@@ -9,7 +15,7 @@ wp_id: 1942
 An actual conversation with a tax advisor in November:
 
 "Do you have any employees?"
-  
+
 "My company's logo is [a dinosaur riding an atomic bomb, Slim Pickens style](http://www.velociraptors.info/vad/)."
-  
+
 "So, no then."

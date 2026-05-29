@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2005 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Chef Fo0bar Presents
 date: 2005-07-17 17:42:00-07:00
@@ -16,25 +22,25 @@ OK, I love hot sauce, specifically Frank's RedHot Sauce. Despite the name, Frank
 Today, I did such a thing, in one of the rare instance where I take a bunch of raw ingredients and combine them. I think the experts call it "cooking". Included below is an illustrated recipe documenting this achievement.
 
 <font size="+1"><b>fo0bar's RedHot Pizza</b></font>
-  
+
 Ingredients:
 
 
-  
+
 1 Dough or Crust or Something(TM)
-  
+
 1/2 cup Frank's RedHot sauce(TM) (using 1/2 cup of something hotter such as Tabasco is probably a rather bad idea)
-  
+
 1/4 cup butter or margarine
-  
+
 1/4 cup parmesan cheese
-  
+
 2 tbsp flour (for thickening)
-  
+
 mozzarella cheese
-  
+
 pepperoni
-  
+
 other stuff
 
 Instructions:

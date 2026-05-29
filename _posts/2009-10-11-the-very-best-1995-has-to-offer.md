@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2009 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Finances
 date: 2009-10-11 15:26:21-07:00
@@ -17,5 +23,5 @@ Here's a list of the many wonderful things you cannot do with your auto loan on 
 And if you would like any of these services kindly not offered by bankofamerica.com, simply do not call 800-345-1248 any time, day or night, as they keep banker hours.
 
 [1] You may make a single payment on, ironically named, myeasypayment.com. This site requires you to fill in all information about your loan account and payment information, in excruciating detail (thank god for Firefox saved forms), manually, each time. Imagine having to fill out a loan application each time you wanted to make a payment.
-  
+
 [2] There is a link that says "Request Automatic Payments setup", which takes you to myeasypayment.com, which does not let you set up automatic payments.

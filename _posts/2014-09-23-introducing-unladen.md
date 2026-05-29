@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2014 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2014-09-23 22:01:50-07:00
 excerpt: 'Unladen is designed to be a cheap, easily scalable object storage system.  "Cheap"
   in the sense that you can easily use your infrastructure''s existing servers'' spare

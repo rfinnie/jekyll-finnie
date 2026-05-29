@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2007 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2007-07-21 23:30:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/181463.html
@@ -25,23 +31,23 @@ I've lost almost 20 pounds in the last 2 months, even with being much less activ
 According to the insurance company's nifty web portal thingy, here's what I've done so far this year:
 
 Urgent care visit, $25
-  
+
 GP office visit, $15
-  
+
 PT session, $15
-  
+
 PT session, $15
-  
+
 Specialist visit, $15
-  
+
 X-rays, free
-  
+
 MRI, free (this one was actually aborted because I couldn't stay still long enough, since the headrest put pressure directly on the neck area)
-  
+
 MRI under general anaesthesia, free (at hospital, the result of the previous MRI attempt)
-  
+
 Specialist visit, $15
-  
+
 Neurosurgeon visit, $15
 
 Also, 4 prescription fills so far, at $5 each. The surgery itself (inpatient) will probably be $500, if I'm reading the price sheet right.

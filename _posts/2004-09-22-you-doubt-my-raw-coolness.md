@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2004 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2004-09-22 11:07:00-07:00
 layout: post
 lj_import_url: http://fo0bar.livejournal.com/77844.html
@@ -9,14 +15,14 @@ wp_id: 301
 Occasionally, I post answers for the [Internet Oracle](http://cgi.cs.indiana.edu/~oracle/index.cgi), but unfortunately, I have yet to have any of my answers selected for the [digest](http://cgi.cs.indiana.edu/~oracle/digests.cgi). This recent one I was quite proud of:
 
 **Supplication:**
-  
+
 <pre>
 I'm having trouble remembering the answers you've supplied for most of my
 last 58 supplications. Can you give me some hints?
 </pre>
 
 **Response:**
-  
+
 <pre>
 1) Yes.
 2) Chile.

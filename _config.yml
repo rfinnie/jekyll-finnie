@@ -1,32 +1,42 @@
+---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2016 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 # Site settings
-title: Ryan Finnie
-description: Personal blog for Ryan Finnie
-author: Ryan Finnie
+title: "Ryan Finnie"
+description: "Personal blog for Ryan Finnie"
+author: "Ryan Finnie"
 fediverse_creator: "@ryan@m29.us"
 baseurl: ""
 url: "https://www.finnie.org"
-permalink: /:year/:month/:day/:title/
-git_web_base: https://forge.colobox.com/rfinnie/jekyll-finnie/src/HEAD/
+permalink: "/:year/:month/:day/:title/"
+git_web_base: "https://forge.colobox.com/rfinnie/jekyll-finnie/src/HEAD/"
 top_links:
   - title: "Projects"
     sublinks:
-    - {title: "Finnix", url: "https://www.finnix.org/"}
-    - {title: "2ping", url: "https://www.finnie.org/software/2ping/"}
-    - {title: "dsari", url: "https://forge.colobox.com/rfinnie/dsari"}
+      - { title: "Finnix", url: "https://www.finnix.org/" }
+      - { title: "2ping", url: "https://www.finnie.org/software/2ping/" }
+      - { title: "dsari", url: "https://forge.colobox.com/rfinnie/dsari" }
   - title: "About"
     sublinks:
-    - {title: "Mastodon", url: "https://m29.us/@ryan", rel: "me"}
-    - {title: "Self-Hosted Code Forge", url: "https://forge.colobox.com/rfinnie"}
-    - {title: "GitHub", url: "https://github.com/rfinnie"}
-    - {title: "Debian", url: "https://qa.debian.org/developer.php?login=ryan@finnie.org"}
-    - {title: "OpenPGP", url: "https://keyserver.ubuntu.com/pks/lookup?search=0x42e2c8de8c173ab102f52c6e7e60a3a686ae8d98&fingerprint=on&op=index"}
-    - {title: "Launchpad", url: "https://launchpad.net/~fo0bar"}
+      - { title: "Mastodon", url: "https://m29.us/@ryan", rel: "me" }
+      - { title: "Self-Hosted Code Forge", url: "https://forge.colobox.com/rfinnie" }
+      - { title: "GitHub", url: "https://github.com/rfinnie" }
+      - { title: "Debian", url: "https://qa.debian.org/developer.php?login=ryan@finnie.org" }
+      - { title: "OpenPGP", url: "https://keyserver.ubuntu.com/pks/lookup?search=0x42e2c8de8c173ab102f52c6e7e60a3a686ae8d98&fingerprint=on&op=index" }
+      - { title: "Launchpad", url: "https://launchpad.net/~fo0bar" }
 keep_files:
-  - .git
-  - blog-media
+  - ".git"
+  - "blog-media"
 include:
-  - blog-media
+  - "blog-media"
+exclude:
+  - "*.license"
+  - "LICENSES/"
 cse_id: "015291346489371011935:ibw1sgqcayw"
 
 # Build settings
-markdown: kramdown
+markdown: "kramdown"

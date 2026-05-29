@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2017 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2017-08-19 13:51:17-07:00
 excerpt: Wherein Ryan takes three days of security camera burst shot images, averages
   them together into a video and sets it to upbeat music.  You are being watched.
@@ -49,6 +55,3 @@ Repeat a few times until both the light and camera settle on "really, it's dark 
 Also of note is the first day was a rare day (for Northern Nevada) when it rained.
 A remote friend pointed out the craziness of it raining three times during a single afternoon, completely wetting the roads each time, and then completely drying out each time before the next rain.
 Yeah, that happens.
-
-
-

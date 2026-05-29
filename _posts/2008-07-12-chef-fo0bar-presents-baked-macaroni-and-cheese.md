@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2008 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Chef Fo0bar Presents
 date: 2008-07-12 23:01:00-07:00
@@ -23,33 +29,33 @@ The following is a combination of my mom's and Good Eats' versions:
 **Baked Macaroni And Cheese That Can Be Made By A 20-Something Bachelor In His Hot Second-Story Apartment In The Middle Of Summer, Did I Mention It's Hot Because It Is**
 
 Macaroni:
-  
+
 1/2 lb elbow macaroni
-  
+
 pinch salt
 
 Sauce:
-  
+
 3 tbsp butter
-  
+
 3 tbsp flour
-  
+
 1 tbsp powdered mustard
-  
+
 2 1/2 c milk
-  
+
 1/2 tsp paprika
-  
+
 1 large egg
-  
+
 9 oz shredded cheddar
 
 Toppings:
-  
+
 3 oz shredded cheddar
-  
+
 2 tbsp butter
-  
+
 1/2 c bread crumbs
 
 Preheat oven to 350. Boil macaroni in salted water. Drain and rinse enough only to cool, to stop cooking. Set aside.

@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2008 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 categories:
 - Chef Fo0bar Presents
 date: 2008-10-05 00:49:00-07:00
@@ -11,7 +17,7 @@ title: 'Chef fo0bar presents: Chotchkie''s Nachos'
 wp_id: 736
 ---
 [<img src="https://farm4.static.flickr.com/3123/2913704013_4a857ff188.jpg" width="500" height="375" alt="Chotchkie's Nachos" />](https://www.flickr.com/photos/fo0bar/2913704013/ "Chotchkie's Nachos by fo0bar, on Flickr")
-  
+
 Sorry, took this on my cameraphone, since I couldn't find my real camera.
 
 Growing up in Green Bay, every few weeks we'd make the half-hour drive down to Appleton to have dinner at Chili's, listening to A Prairie Home Companion on the way down (and thus, getting addicted to public radio at an early age). I didn't really care for anything at Chili's, with one major exception: I loved their nachos. A side order of nachos (12) was roughly meal sized, so it worked out great, though the waiter would always look puzzled when I ordered a "appetizer", and nothing else. To this date, I don't think I've ever had any "dinner" items at Chili's.
@@ -23,17 +29,17 @@ Today, it hit me: They fry corn tortillas flat, load them with toppings, cook th
 **Chotchkie's Nachos**
 
 > 6" diameter corn tortillas (3 per serving)
-  
+
 > 16 oz refried beans (vegetarian has the best consistency in this case)
-  
+
 > 10.5 oz canned beef chili, no beans
-  
+
 > Cheddar-jack shredded cheese
-  
+
 > Jalapeño slices (fresh or pickled, your choice)
-  
+
 > Chopped lettuce (which I forgot)
-  
+
 > Sour cream
 
 Combine refried beans and chili, and mix well. The mixture should have a very spreadable consistency.

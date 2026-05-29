@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2012 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2012-05-30 01:42:15-07:00
 layout: post
 tags:
@@ -33,8 +39,8 @@ As of Monday, everything is now running off the new precise install. I installed
 * * *
 
 <sup>[1]</sup> Yes, 9GB memory. Triple channel, so it was 3x2GB + 3x1GB modules.
-  
-<sup>[2]</sup> I had two significant problems with the migrations:</p> 
+
+<sup>[2]</sup> I had two significant problems with the migrations:</p>
 
   1. The problem with picking a custom third-party Festival voice for the voice of the Cybersauce Broadcasting Corporation is that it looks like it has not been updated in years, and is specific to only a handful of Festival versions. So now I have a minimal, yet 300MB chroot running (64-bit) Debian lenny for the sole purpose of providing Festival's text2wave utility with the custom voice.
   2. I'm using two packages<sup>[3]</sup> not available in Debian/Ubuntu: a Perl module (AI::MegaHAL) and a PHP module (crack), both of which are published at [my PPA](https://launchpad.net/~fo0bar/+archive/colobox). Both are sufficiently ancient and have not been updated upstream for years. Both compiled fine in 64-bit precise and at first appeared to run fine, but would then crash. Turns out both were not 64-bit safe, and required patching. Thankfully this is easy to roll out with PPAs.

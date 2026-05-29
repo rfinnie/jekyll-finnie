@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2011 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2011-05-23 17:47:57-07:00
 layout: post
 title: Now this is a story all about how my life...
@@ -19,9 +25,9 @@ Monday, during the drive back to Reno, I had some time to think, and decided to 
 So tomorrow will be figuring out how to wrap up my life for a semi-temporary leave of absence, and Wednesday morning I plan on beginning the drive to Joplin, hopefully making it there by the end of Thursday. Friends and family can follow my status or get in touch with me:
 
 * Identica: <http://identi.ca/fo0bar> (probably what I'll be using exclusively for quick updates)
-  
+
 * Facebook: <http://www.facebook.com/rfinnie> (I'll check for updates here)
-  
+
 * Email: ryan @ finnie.org
-  
+
 * Phone: 775-771-4472

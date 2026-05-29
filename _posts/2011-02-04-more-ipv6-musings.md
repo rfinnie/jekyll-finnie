@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2011 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2011-02-04 02:20:24-08:00
 layout: post
 tags:
@@ -18,5 +24,5 @@ A local ISP, Great Basin Internet Services, was allocated a /32, [2607:f1a8::/32
 So that breaks the whole "number of stars in the sky"-type analogies down into meaningful chunks. A carrier-grade ISP with a single allocation could support 65,536 clients, a consumer ISP could support about 4 billion users, and about 500 million ISP allocations could be made today, with billions more possible in the future. I could see 2000::/3 possibly being used up during my lifetime, but there's another 8 or so of those-sized chunks ready for allocation if needed.
 
 [0] These are short scale -- eat it, Queen of England!
-  
+
 [1] There are some other areas of IPv6 that are technically globally routable but not allocatable, but I'll gloss over those in the name of simplicity.

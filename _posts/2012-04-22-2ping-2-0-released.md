@@ -1,4 +1,10 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2012 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2012-04-22 20:14:45-07:00
 layout: post
 tags:
@@ -9,7 +15,7 @@ wp_id: 2072
 ---
 [2ping 2.0](https://www.finnie.org/software/2ping/) has been released today. User-visible changes are minor, but behind the scenes, a major update to the protocol specification has been implemented, justifying the major version bump:
 
-  * Updated to support [2ping protocol 2.0](https://www.finnie.org/software/2ping/2pingprotocol2.0-20120422.pdf) 
+  * Updated to support [2ping protocol 2.0](https://www.finnie.org/software/2ping/2pingprotocol2.0-20120422.pdf)
       * Protocol 1.0 and 2.0 are backwards and forwards compatible with each other
       * Added support for extended segments
       * Added extended segment support for program version and notice text

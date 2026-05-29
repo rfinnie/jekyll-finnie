@@ -1,27 +1,33 @@
 ---
+# SPDX-PackageName: jekyll-finnie
+# SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
+# SPDX-PackageDownloadLocation: https://forge.colobox.com/rfinnie/jekyll-finnie
+# SPDX-FileCopyrightText: © 2012 Ryan Finnie <ryan@finnie.org>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
 date: 2012-12-10 22:26:55-08:00
 layout: post
 title: DayZ will consume you
 wp_id: 2190
 ---
 
-  
+
 DayZ is a zombie apocalypse FPS game, emphasizing realism wherever possible. I started playing it after surgery, since I had a lot of free time. And it requires a lot of free time. It's very time consuming, and very frustrating, but can be entertaining in the right mindset. I could tell you a hundred stories so far, and in fact began this post with the intent of telling one, but understanding it requires a lot of explanation. So I'll begin with an exposition of the typical DayZ experience.
 
 > You awake on an ocean shore; you have no idea where you are. Your possessions are a small backpack, a flashlight, a bandage and some painkillers.
-> 
+>
 > After walking down the shore, you spot a small town in ruins, with zombies shambling around. If you are careful, using cover and/or crawling, they might not see you. But if they do, it becomes a problem. They're stronger than you, just as fast, hard to lose, and you have nothing to defend yourself with.
-> 
+>
 > Hopefully you find an old barn or shed, and maybe it has an axe, which you can use as a crude weapon. You're also on the look out for food and drink, because you risk death from hunger and dehydration.
-> 
+>
 > Next to the train tracks, you hear some flies buzzing. You see the body of another survivor not unlike yourself. What killed him? Not wasting an opportunity, you search his body, possibly finding a canteen and a watch. Score!
-> 
+>
 > Eventually you come across a larger city. The signposts are in Cyrillic; you have no idea what they say. There are more buildings, more opportunities to find supplies. You may even find a pistol and some ammo. Vehicles are everywhere, but most are completely burned out. If you're very lucky, you may find a vehicle which could be salvaged, but it would require a toolbox, parts, fuel cans, etc.
-> 
+>
 > But in this larger city there are larger dangers. Many more zombies are around, it's hard to avoid them. And there's the risk of encountering other survivors. You may be in the remains of a supermarket, looking for food, when you turn a corner and come face to face with another survivor. He says "I'm friendly", but you can't be sure. There are no laws, nothing to prevent him from shooting you if you turn your back. You must decide how to handle the situation.
-> 
+>
 > Other survivors can easily kill you. Maybe they want your can of baked beans or the rifle you just found. Maybe they are afraid you'll kill them. Maybe they've found a sniper rifle in the military barracks a few kilometers away and are sitting in the tree line outside the city, picking off survivors for the thrill of it.
-> 
+>
 > If you stay alive long enough to build up some supplies, your confidence grows. You might ally yourself with some other survivors. Maybe you even get enough equipment together to fix up a vehicle. But your life could end literally at any moment.
 
 So that's DayZ in a nutshell. It looks very realistic; for example, it's hard to pick out people in the distance if you haven't trained yourself to look for small bits of movement. There are no big name tags above people's heads. The servers follow a real-time day/night cycle, and it's very hard to see at night, unless the sky's very clear and the moon's out. The map is very large, many kilometers from one side to the other, and you're walking it in real-time (unless you have a vehicle, which again are very rare). All of the (official) servers are linked together in one "hive", so your position and equipment are saved if you log out one day, then log in the next on a different server.
